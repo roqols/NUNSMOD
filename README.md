@@ -1,2 +1,2 @@
 # NUNSMOD
-Ferramenta de extração de binario para o jogo NARUTO ULTIMATE NINJA STORM. 
+Ferramenta de extração e reconstrução de binario para o jogo NARUTO ULTIMATE NINJA STORM. 
