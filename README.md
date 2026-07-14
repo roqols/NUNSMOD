@@ -1,2 +1,2 @@
 # NUNSMOD
-Mod de legendas em PTBR para o jogo NARUTO ULTIMATE NINJA STORM.
+Ferramenta de extração de binario para o jogo NARUTO ULTIMATE NINJA STORM. 
