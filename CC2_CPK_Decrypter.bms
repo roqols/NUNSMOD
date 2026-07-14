@@ -1,0 +1,108 @@
+# CyberConnect2 CPK archives
+# NARUTO SHIPPUDEN: Ultimate Ninja STORM 1,2,3_HD,4
+comtype cpk
+idstring "CPK "
+
+endian big
+set POS long 0x818
+goto POS
+get ROFF long
+get SOFF long
+goto 0x82C
+get FILES long
+xmath TMP "POS + SOFF"
+math POS + ROFF
+goto POS
+
+if ROFF == 0x3F
+  for i = 0 < FILES
+   get PATHOFF long
+   callfunction CC2_CPK_Encryption
+  next i
+else
+  set PATHOFF long 0x1A
+  for i = 0 < FILES
+   callfunction CC2_CPK_Encryption
+  next i
+endif
+  
+startfunction CC2_CPK_Encryption
+ get NAMEOFF long
+ get SIZE long
+ get ESIZE long
+ get OFFSET longlong
+ get DUMMY long
+ savepos POS
+ math OFFSET + 0x800
+ goto OFFSET
+ log MEMORY_FILE OFFSET SIZE
+  
+ get HDR long
+ if HDR == 0x8FCF3140 || HDR == 0xF0A20061 || HDR == 0x45CD364B || HDR == 0x82C83B4F
+
+ endian little
+  
+ set KEY1 long 0x617E9602
+ set KEY2 long 0x154F048D
+ set KEY3 long 0x154F048D
+ set KEY4 long 0x617E9602
+ set KEY5 long 0x02B3D1CD
+ set KEY6 long 0x43A3D2F9
+  
+ math XSIZE = SIZE
+  
+ for j = 0 < SIZE
+    math KEY1 u>> 0xB
+    math KEY2 u<< 0xB
+    math KEY2 & 0xFFFFFFFF
+    math KEY2 ^ KEY3
+    math KEY3 = KEY5
+    math KEY5 = KEY6
+    math KEY1 ^ KEY2
+    math KEY6 = KEY4
+    math KEY1 u>> 0x8
+    math KEY4 ^ KEY1
+    math KEY4 ^ KEY2
+    
+   if XSIZE > 4
+    math XSIZE - 4
+    getvarchr KEYX MEMORY_FILE j long
+    math KEYX ^ KEY4
+    putvarchr MEMORY_FILE j KEYX long
+   else
+    for k = 0 < XSIZE
+      getvarchr KEYX MEMORY_FILE j byte
+      math TMPK = KEY4
+      math TMPK & 0xFF
+      math KEYX ^ TMPK
+      math KEYX & 0xFF
+      math KEY4 u>> 0x8
+      putvarchr MEMORY_FILE j KEYX byte
+      math j + 1
+    next k
+   endif
+    
+    math KEY1 = KEY4
+    math KEY2 = KEY3
+ next j + 4
+ endif
+
+ math PATHOFF + TMP
+ goto PATHOFF
+ getct DirName string 0
+ math NAMEOFF + TMP
+ goto NAMEOFF
+ getct NAME string 0
+  
+ string DirName += /
+ string DirName += NAME
+
+ if ESIZE > SIZE
+   clog DirName 0 SIZE ESIZE MEMORY_FILE
+ else
+   log DirName 0 SIZE MEMORY_FILE
+ endif
+  
+ endian big
+ goto POS
+endfunction
