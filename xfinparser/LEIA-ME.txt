@@ -1,0 +1,42 @@
+xfbin_parser.py -- extrai/repacka arquivos .xfbin (CyberConnect2 / NUNS)
+==========================================================================
+
+Isso e o codigo fonte da mesma ferramenta que voces ja usam (xfbin_lib,
+de SutandoTsukai181 / mosamadeeb), so que empacotado pra rodar direto com
+Python, garantindo que a opcao de REPACK funcione.
+
+REQUISITO: Python 3.9 ou mais novo instalado (python.org).
+Nao precisa instalar mais nada -- todas as dependencias ja estao dentro
+da pasta "xfbin".
+
+COMO USAR (linha de comando, dentro desta pasta):
+
+  Extrair um .xfbin:
+    python xfbin_parser.py "caminho\para\message.bin.xfbin" "pasta_saida"
+
+  Repackar uma pasta extraida de volta em .xfbin:
+    python xfbin_parser.py "pasta_saida" "caminho\para\message.bin.xfbin"
+
+  (o programa decide sozinho se extrai ou repacka, baseado se o INPUT
+  e um arquivo ou uma pasta)
+
+IMPORTANTE PRO REPACK FUNCIONAR:
+  - Ao extrair, NAO use as flags -s, -j ou -d (elas removem o "_page.json"
+    de cada subpasta, que e o que o repack le pra saber a ordem/estrutura
+    original). Extraia "no modo simples", sem flags extras.
+  - Cada subpasta gerada (tipo "[002] mode_select (nuccChunkBinary)") tem
+    que manter o arquivo "_page.json" dentro dela.
+  - Pra traduzir: so troque o conteudo do arquivo .binary dentro da
+    subpasta certa (mantendo o MESMO NOME do arquivo) e repacka a pasta
+    inteira de novo.
+
+OBSERVACAO SOBRE ORDEM DAS PAGINAS:
+  Ao repackar, a ordem interna das "paginas" dentro do .xfbin pode mudar
+  (os numeros tipo "[000]", "[001]" no nome das pastas na extracao
+  seguinte podem vir diferentes). Isso e cosmetico e nao afeta o jogo --
+  o motor busca cada chunk pelo NOME (ex: "mode_select"), nao pela
+  posicao. Testado e validado: repackar e extrair de novo da 100%
+  identico no conteudo de cada chunk, byte a byte.
+
+Licencas originais (MIT) inclusas: LICENSE_xfbin_lib.txt e
+LICENSE_PyBinaryReader.txt
