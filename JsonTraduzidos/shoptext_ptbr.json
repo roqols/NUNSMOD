@@ -1,0 +1,4482 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 8635,
+    "length": 13,
+    "end": 8648,
+    "text": "shop_basic_01"
+  },
+  {
+    "table_pos": 80,
+    "mode": "A",
+    "start": 8648,
+    "length": 10,
+    "end": 8658,
+    "text": "LISTA DE PEDIDOS"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 8658,
+    "length": 0,
+    "end": 8658,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 8658,
+    "length": 13,
+    "end": 8671,
+    "text": "shop_basic_02"
+  },
+  {
+    "table_pos": 128,
+    "mode": "A",
+    "start": 8671,
+    "length": 5,
+    "end": 8676,
+    "text": "ESTOQUE"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 8676,
+    "length": 0,
+    "end": 8676,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 8676,
+    "length": 13,
+    "end": 8689,
+    "text": "shop_basic_03"
+  },
+  {
+    "table_pos": 176,
+    "mode": "A",
+    "start": 8689,
+    "length": 8,
+    "end": 8697,
+    "text": "QUANTIDADE"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 8697,
+    "length": 0,
+    "end": 8697,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 8697,
+    "length": 13,
+    "end": 8710,
+    "text": "shop_basic_04"
+  },
+  {
+    "table_pos": 224,
+    "mode": "A",
+    "start": 8710,
+    "length": 3,
+    "end": 8713,
+    "text": "USAR"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 8713,
+    "length": 0,
+    "end": 8713,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 8713,
+    "length": 13,
+    "end": 8726,
+    "text": "shop_basic_05"
+  },
+  {
+    "table_pos": 272,
+    "mode": "A",
+    "start": 8726,
+    "length": 8,
+    "end": 8734,
+    "text": "TROCAR"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 8734,
+    "length": 0,
+    "end": 8734,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 8734,
+    "length": 13,
+    "end": 8747,
+    "text": "shop_basic_06"
+  },
+  {
+    "table_pos": 320,
+    "mode": "A",
+    "start": 8747,
+    "length": 15,
+    "end": 8762,
+    "text": "[desnecessário]"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 8762,
+    "length": 0,
+    "end": 8762,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 8762,
+    "length": 13,
+    "end": 8775,
+    "text": "shop_basic_07"
+  },
+  {
+    "table_pos": 368,
+    "mode": "A",
+    "start": 8775,
+    "length": 8,
+    "end": 8783,
+    "text": "ESGOTADO"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 8783,
+    "length": 0,
+    "end": 8783,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 8783,
+    "length": 13,
+    "end": 8796,
+    "text": "shop_text_001"
+  },
+  {
+    "table_pos": 416,
+    "mode": "A",
+    "start": 8796,
+    "length": 56,
+    "end": 8852,
+    "text": "Dê a Teuchi os ingredientes para \nfazer uma nova receita de lámen."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 8852,
+    "length": 0,
+    "end": 8852,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 8852,
+    "length": 13,
+    "end": 8865,
+    "text": "shop_text_002"
+  },
+  {
+    "table_pos": 464,
+    "mode": "A",
+    "start": 8865,
+    "length": 82,
+    "end": 8947,
+    "text": "Comer um novo tipo de lámen aumenta \no limite máximo de VIDA e chakra."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 8947,
+    "length": 0,
+    "end": 8947,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 8947,
+    "length": 13,
+    "end": 8960,
+    "text": "shop_text_003"
+  },
+  {
+    "table_pos": 512,
+    "mode": "A",
+    "start": 8960,
+    "length": 29,
+    "end": 8989,
+    "text": "Selecione um ingrediente para dar."
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 8989,
+    "length": 0,
+    "end": 8989,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 8989,
+    "length": 13,
+    "end": 9002,
+    "text": "shop_text_004"
+  },
+  {
+    "table_pos": 560,
+    "mode": "A",
+    "start": 9002,
+    "length": 37,
+    "end": 9039,
+    "text": "Selecione o segundo ingrediente\npara dar."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 9039,
+    "length": 0,
+    "end": 9039,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 9039,
+    "length": 13,
+    "end": 9052,
+    "text": "shop_text_005"
+  },
+  {
+    "table_pos": 608,
+    "mode": "A",
+    "start": 9052,
+    "length": 36,
+    "end": 9088,
+    "text": "Selecione o último ingrediente\npara dar."
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 9088,
+    "length": 0,
+    "end": 9088,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 9088,
+    "length": 13,
+    "end": 9101,
+    "text": "shop_text_006"
+  },
+  {
+    "table_pos": 656,
+    "mode": "A",
+    "start": 9101,
+    "length": 43,
+    "end": 9144,
+    "text": "O \"<colorfa9200>%s<color000000>\" está pronto!"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 9144,
+    "length": 0,
+    "end": 9144,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 9144,
+    "length": 13,
+    "end": 9157,
+    "text": "shop_text_007"
+  },
+  {
+    "table_pos": 704,
+    "mode": "A",
+    "start": 9157,
+    "length": 21,
+    "end": 9178,
+    "text": "Naruto comeu o lámen."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 9178,
+    "length": 0,
+    "end": 9178,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 9178,
+    "length": 13,
+    "end": 9191,
+    "text": "shop_text_008"
+  },
+  {
+    "table_pos": 752,
+    "mode": "A",
+    "start": 9191,
+    "length": 38,
+    "end": 9229,
+    "text": "Naruto praticamente engoliu o \nlámen!"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 9229,
+    "length": 0,
+    "end": 9229,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 9229,
+    "length": 13,
+    "end": 9242,
+    "text": "shop_text_009"
+  },
+  {
+    "table_pos": 800,
+    "mode": "A",
+    "start": 9242,
+    "length": 38,
+    "end": 9280,
+    "text": "A VIDA aumentou depois de comer\no lámen!"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 9280,
+    "length": 0,
+    "end": 9280,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 9280,
+    "length": 13,
+    "end": 9293,
+    "text": "shop_text_010"
+  },
+  {
+    "table_pos": 848,
+    "mode": "A",
+    "start": 9293,
+    "length": 38,
+    "end": 9331,
+    "text": "O chakra aumentou depois de comer\no lámen!"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 9331,
+    "length": 0,
+    "end": 9331,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 9331,
+    "length": 13,
+    "end": 9344,
+    "text": "shop_text_011"
+  },
+  {
+    "table_pos": 896,
+    "mode": "A",
+    "start": 9344,
+    "length": 44,
+    "end": 9388,
+    "text": "Seu status melhorou depois de \ncomer o lámen!"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 9388,
+    "length": 0,
+    "end": 9388,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 9388,
+    "length": 13,
+    "end": 9401,
+    "text": "shop_text_012"
+  },
+  {
+    "table_pos": 944,
+    "mode": "A",
+    "start": 9401,
+    "length": 59,
+    "end": 9460,
+    "text": "Esse lámen já foi feito antes. \nEscolha outro ingrediente."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 9460,
+    "length": 0,
+    "end": 9460,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 9460,
+    "length": 16,
+    "end": 9476,
+    "text": "shop_text_012_00"
+  },
+  {
+    "table_pos": 992,
+    "mode": "A",
+    "start": 9476,
+    "length": 5,
+    "end": 9481,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 9481,
+    "length": 0,
+    "end": 9481,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 9481,
+    "length": 13,
+    "end": 9494,
+    "text": "shop_text_013"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "A",
+    "start": 9494,
+    "length": 20,
+    "end": 9514,
+    "text": "Colete estes itens."
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 9514,
+    "length": 0,
+    "end": 9514,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 9514,
+    "length": 13,
+    "end": 9527,
+    "text": "shop_text_014"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "A",
+    "start": 9527,
+    "length": 46,
+    "end": 9573,
+    "text": "Colete estes itens e leve-os \npara Teuchi."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 9573,
+    "length": 0,
+    "end": 9573,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 9573,
+    "length": 13,
+    "end": 9586,
+    "text": "shop_text_015"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "A",
+    "start": 9586,
+    "length": 23,
+    "end": 9609,
+    "text": "Selecione as flores para vender."
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 9609,
+    "length": 0,
+    "end": 9609,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 9609,
+    "length": 13,
+    "end": 9622,
+    "text": "shop_text_016"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "A",
+    "start": 9622,
+    "length": 19,
+    "end": 9641,
+    "text": "Vender estas flores?"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 9641,
+    "length": 0,
+    "end": 9641,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 9641,
+    "length": 13,
+    "end": 9654,
+    "text": "shop_text_017"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "A",
+    "start": 9654,
+    "length": 20,
+    "end": 9674,
+    "text": "Selecione os insetos para vender."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 9674,
+    "length": 0,
+    "end": 9674,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 9674,
+    "length": 13,
+    "end": 9687,
+    "text": "shop_text_018"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "A",
+    "start": 9687,
+    "length": 16,
+    "end": 9703,
+    "text": "Vender estes insetos?"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 9703,
+    "length": 0,
+    "end": 9703,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 9703,
+    "length": 13,
+    "end": 9716,
+    "text": "shop_text_019"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "A",
+    "start": 9716,
+    "length": 25,
+    "end": 9741,
+    "text": "Selecione os cogumelos para vender."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 9741,
+    "length": 0,
+    "end": 9741,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 9741,
+    "length": 13,
+    "end": 9754,
+    "text": "shop_text_020"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "A",
+    "start": 9754,
+    "length": 21,
+    "end": 9775,
+    "text": "Vender estes cogumelos?"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 9775,
+    "length": 0,
+    "end": 9775,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 9775,
+    "length": 13,
+    "end": 9788,
+    "text": "shop_text_021"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "A",
+    "start": 9788,
+    "length": 20,
+    "end": 9808,
+    "text": "Selecione as nozes para vender."
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 9808,
+    "length": 0,
+    "end": 9808,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 9808,
+    "length": 13,
+    "end": 9821,
+    "text": "shop_text_022"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "A",
+    "start": 9821,
+    "length": 16,
+    "end": 9837,
+    "text": "Vender estas nozes?"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 9837,
+    "length": 0,
+    "end": 9837,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 9837,
+    "length": 13,
+    "end": 9850,
+    "text": "shop_text_023"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "A",
+    "start": 9850,
+    "length": 27,
+    "end": 9877,
+    "text": "Selecionar ingredientes para vender?"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 9877,
+    "length": 0,
+    "end": 9877,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 9877,
+    "length": 13,
+    "end": 9890,
+    "text": "shop_text_024"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "A",
+    "start": 9890,
+    "length": 23,
+    "end": 9913,
+    "text": "Vender estes ingredientes?"
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 9913,
+    "length": 0,
+    "end": 9913,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 9913,
+    "length": 13,
+    "end": 9926,
+    "text": "shop_text_025"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "A",
+    "start": 9926,
+    "length": 47,
+    "end": 9973,
+    "text": "Veja as listas de pedidos de \nvárias lojas."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 9973,
+    "length": 0,
+    "end": 9973,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 9973,
+    "length": 13,
+    "end": 9986,
+    "text": "shop_text_026"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "A",
+    "start": 9986,
+    "length": 74,
+    "end": 10060,
+    "text": "Levar itens de uma lista de pedidos\na uma loja adiciona novos itens."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 10060,
+    "length": 0,
+    "end": 10060,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 10060,
+    "length": 13,
+    "end": 10073,
+    "text": "shop_text_027"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "A",
+    "start": 10073,
+    "length": 89,
+    "end": 10162,
+    "text": "Leve muitos itens para vender mais\npor lá. Isso vai ajudar na sua \nmissão."
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 10162,
+    "length": 0,
+    "end": 10162,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 10162,
+    "length": 13,
+    "end": 10175,
+    "text": "shop_text_028"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "A",
+    "start": 10175,
+    "length": 22,
+    "end": 10197,
+    "text": "Selecione um item para comprar."
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 10197,
+    "length": 0,
+    "end": 10197,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 10197,
+    "length": 13,
+    "end": 10210,
+    "text": "shop_text_029"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "A",
+    "start": 10210,
+    "length": 22,
+    "end": 10232,
+    "text": "Quantos você vai comprar?"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 10232,
+    "length": 0,
+    "end": 10232,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 10232,
+    "length": 13,
+    "end": 10245,
+    "text": "shop_text_030"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "A",
+    "start": 10245,
+    "length": 16,
+    "end": 10261,
+    "text": "Comprar estes itens?"
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 10261,
+    "length": 0,
+    "end": 10261,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 10261,
+    "length": 13,
+    "end": 10274,
+    "text": "shop_text_031"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "A",
+    "start": 10274,
+    "length": 23,
+    "end": 10297,
+    "text": "Selecione um item para vender."
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 10297,
+    "length": 0,
+    "end": 10297,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 10297,
+    "length": 13,
+    "end": 10310,
+    "text": "shop_text_032"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "A",
+    "start": 10310,
+    "length": 23,
+    "end": 10333,
+    "text": "Quantos você vai vender?"
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 10333,
+    "length": 0,
+    "end": 10333,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 10333,
+    "length": 13,
+    "end": 10346,
+    "text": "shop_text_033"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "A",
+    "start": 10346,
+    "length": 17,
+    "end": 10363,
+    "text": "Vender estes itens?"
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 10363,
+    "length": 0,
+    "end": 10363,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 10363,
+    "length": 13,
+    "end": 10376,
+    "text": "shop_text_034"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "A",
+    "start": 10376,
+    "length": 29,
+    "end": 10405,
+    "text": "Um novo produto foi adicionado!"
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 10405,
+    "length": 0,
+    "end": 10405,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 10405,
+    "length": 13,
+    "end": 10418,
+    "text": "shop_text_035"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "A",
+    "start": 10418,
+    "length": 36,
+    "end": 10454,
+    "text": "Você não pode comprar mais deste item."
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 10454,
+    "length": 0,
+    "end": 10454,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 10454,
+    "length": 13,
+    "end": 10467,
+    "text": "shop_text_036"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "A",
+    "start": 10467,
+    "length": 20,
+    "end": 10487,
+    "text": "Você precisa de mais dinheiro."
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 10487,
+    "length": 0,
+    "end": 10487,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 10487,
+    "length": 13,
+    "end": 10500,
+    "text": "shop_text_037"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "A",
+    "start": 10500,
+    "length": 26,
+    "end": 10526,
+    "text": "Não há itens para comprar."
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 10526,
+    "length": 0,
+    "end": 10526,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 10526,
+    "length": 13,
+    "end": 10539,
+    "text": "shop_text_038"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "A",
+    "start": 10539,
+    "length": 25,
+    "end": 10564,
+    "text": "Todos os itens estão à venda!"
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 10564,
+    "length": 0,
+    "end": 10564,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 10564,
+    "length": 13,
+    "end": 10577,
+    "text": "shop_text_039"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "A",
+    "start": 10577,
+    "length": 40,
+    "end": 10617,
+    "text": "Todos os itens desta loja estão\nà venda!"
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 10617,
+    "length": 0,
+    "end": 10617,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 10617,
+    "length": 13,
+    "end": 10630,
+    "text": "shop_text_040"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "A",
+    "start": 10630,
+    "length": 49,
+    "end": 10679,
+    "text": "Mais itens podem ser registrados \nna Paleta de Itens."
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 10679,
+    "length": 0,
+    "end": 10679,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 10679,
+    "length": 13,
+    "end": 10692,
+    "text": "shop_text_041"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "A",
+    "start": 10692,
+    "length": 48,
+    "end": 10740,
+    "text": "Mais itens podem ser registrados \nna Bolsa de Itens."
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 10740,
+    "length": 0,
+    "end": 10740,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 10740,
+    "length": 13,
+    "end": 10753,
+    "text": "shop_text_042"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "A",
+    "start": 10753,
+    "length": 24,
+    "end": 10777,
+    "text": "Você pode carregar mais itens."
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 10777,
+    "length": 0,
+    "end": 10777,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 10777,
+    "length": 13,
+    "end": 10790,
+    "text": "shop_text_043"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "A",
+    "start": 10790,
+    "length": 50,
+    "end": 10840,
+    "text": "Você pode travar mais alvos no \nModo Shuriken."
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 10840,
+    "length": 0,
+    "end": 10840,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 10840,
+    "length": 13,
+    "end": 10853,
+    "text": "shop_text_044"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "A",
+    "start": 10853,
+    "length": 28,
+    "end": 10881,
+    "text": "Aumentar a Paleta de Itens?"
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 10881,
+    "length": 0,
+    "end": 10881,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 10881,
+    "length": 13,
+    "end": 10894,
+    "text": "shop_text_045"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "A",
+    "start": 10894,
+    "length": 27,
+    "end": 10921,
+    "text": "Aumentar a Bolsa de Itens?"
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 10921,
+    "length": 0,
+    "end": 10921,
+    "text": ""
+  },
+  {
+    "table_pos": 2608,
+    "mode": "A",
+    "start": 10921,
+    "length": 13,
+    "end": 10934,
+    "text": "shop_text_046"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "A",
+    "start": 10934,
+    "length": 33,
+    "end": 10967,
+    "text": "Aumentar o Coldre de Shuriken?"
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 10967,
+    "length": 0,
+    "end": 10967,
+    "text": ""
+  },
+  {
+    "table_pos": 2656,
+    "mode": "A",
+    "start": 10967,
+    "length": 13,
+    "end": 10980,
+    "text": "shop_text_047"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "A",
+    "start": 10980,
+    "length": 33,
+    "end": 11013,
+    "text": "Os espaços da Paleta de Itens\naumentaram!"
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 11013,
+    "length": 0,
+    "end": 11013,
+    "text": ""
+  },
+  {
+    "table_pos": 2704,
+    "mode": "A",
+    "start": 11013,
+    "length": 13,
+    "end": 11026,
+    "text": "shop_text_048"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "A",
+    "start": 11026,
+    "length": 32,
+    "end": 11058,
+    "text": "Os espaços da Bolsa de Itens\naumentaram!"
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 11058,
+    "length": 0,
+    "end": 11058,
+    "text": ""
+  },
+  {
+    "table_pos": 2752,
+    "mode": "A",
+    "start": 11058,
+    "length": 13,
+    "end": 11071,
+    "text": "shop_text_049"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "A",
+    "start": 11071,
+    "length": 54,
+    "end": 11125,
+    "text": "Agora você pode travar mais alvos \nno Modo Shuriken!"
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 11125,
+    "length": 0,
+    "end": 11125,
+    "text": ""
+  },
+  {
+    "table_pos": 2800,
+    "mode": "A",
+    "start": 11125,
+    "length": 13,
+    "end": 11138,
+    "text": "shop_text_050"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "A",
+    "start": 11138,
+    "length": 57,
+    "end": 11195,
+    "text": "Agora você pode travar um alvo \nextra no Modo Shuriken!"
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 11195,
+    "length": 0,
+    "end": 11195,
+    "text": ""
+  },
+  {
+    "table_pos": 2848,
+    "mode": "A",
+    "start": 11195,
+    "length": 13,
+    "end": 11208,
+    "text": "shop_text_051"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "A",
+    "start": 11208,
+    "length": 56,
+    "end": 11264,
+    "text": "Você atingiu o número máximo \nde espaços da Paleta de Itens!"
+  },
+  {
+    "table_pos": 2880,
+    "mode": "A",
+    "start": 11264,
+    "length": 0,
+    "end": 11264,
+    "text": ""
+  },
+  {
+    "table_pos": 2896,
+    "mode": "A",
+    "start": 11264,
+    "length": 13,
+    "end": 11277,
+    "text": "shop_text_052"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "A",
+    "start": 11277,
+    "length": 55,
+    "end": 11332,
+    "text": "Você atingiu o número máximo \nde espaços da Bolsa de Itens!"
+  },
+  {
+    "table_pos": 2928,
+    "mode": "A",
+    "start": 11332,
+    "length": 0,
+    "end": 11332,
+    "text": ""
+  },
+  {
+    "table_pos": 2944,
+    "mode": "A",
+    "start": 11332,
+    "length": 13,
+    "end": 11345,
+    "text": "shop_text_053"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "A",
+    "start": 11345,
+    "length": 72,
+    "end": 11417,
+    "text": "Você atingiu o número máximo de \nalvos travados no Modo Shuriken!"
+  },
+  {
+    "table_pos": 2976,
+    "mode": "A",
+    "start": 11417,
+    "length": 0,
+    "end": 11417,
+    "text": ""
+  },
+  {
+    "table_pos": 2992,
+    "mode": "A",
+    "start": 11417,
+    "length": 13,
+    "end": 11430,
+    "text": "shop_text_054"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "B-implicit",
+    "start": 11430,
+    "length": 5,
+    "end": 11435,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "B-explicit",
+    "start": 11435,
+    "length": 12,
+    "end": 11447,
+    "text": "Olá!"
+  },
+  {
+    "table_pos": 3024,
+    "mode": "A",
+    "start": 11447,
+    "length": 0,
+    "end": 11447,
+    "text": ""
+  },
+  {
+    "table_pos": 3040,
+    "mode": "A",
+    "start": 11447,
+    "length": 13,
+    "end": 11460,
+    "text": "shop_text_055"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "B-implicit",
+    "start": 11460,
+    "length": 5,
+    "end": 11465,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "B-explicit",
+    "start": 11465,
+    "length": 16,
+    "end": 11481,
+    "text": "Bom dia para você."
+  },
+  {
+    "table_pos": 3072,
+    "mode": "A",
+    "start": 11481,
+    "length": 0,
+    "end": 11481,
+    "text": ""
+  },
+  {
+    "table_pos": 3088,
+    "mode": "A",
+    "start": 11481,
+    "length": 13,
+    "end": 11494,
+    "text": "shop_text_056"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "B-implicit",
+    "start": 11494,
+    "length": 5,
+    "end": 11499,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "B-explicit",
+    "start": 11499,
+    "length": 25,
+    "end": 11524,
+    "text": "Dê uma boa olhada nisto!"
+  },
+  {
+    "table_pos": 3120,
+    "mode": "A",
+    "start": 11524,
+    "length": 0,
+    "end": 11524,
+    "text": ""
+  },
+  {
+    "table_pos": 3136,
+    "mode": "A",
+    "start": 11524,
+    "length": 13,
+    "end": 11537,
+    "text": "shop_text_057"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "B-implicit",
+    "start": 11537,
+    "length": 5,
+    "end": 11542,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "B-explicit",
+    "start": 11542,
+    "length": 20,
+    "end": 11562,
+    "text": "O que você gostaria?"
+  },
+  {
+    "table_pos": 3168,
+    "mode": "A",
+    "start": 11562,
+    "length": 0,
+    "end": 11562,
+    "text": ""
+  },
+  {
+    "table_pos": 3184,
+    "mode": "A",
+    "start": 11562,
+    "length": 13,
+    "end": 11575,
+    "text": "shop_text_058"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "B-implicit",
+    "start": 11575,
+    "length": 5,
+    "end": 11580,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "B-explicit",
+    "start": 11580,
+    "length": 10,
+    "end": 11590,
+    "text": "Obrigado!"
+  },
+  {
+    "table_pos": 3216,
+    "mode": "A",
+    "start": 11590,
+    "length": 0,
+    "end": 11590,
+    "text": ""
+  },
+  {
+    "table_pos": 3232,
+    "mode": "A",
+    "start": 11590,
+    "length": 13,
+    "end": 11603,
+    "text": "shop_text_059"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "B-implicit",
+    "start": 11603,
+    "length": 5,
+    "end": 11608,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "B-explicit",
+    "start": 11608,
+    "length": 20,
+    "end": 11628,
+    "text": "Muito obrigado!"
+  },
+  {
+    "table_pos": 3264,
+    "mode": "A",
+    "start": 11628,
+    "length": 0,
+    "end": 11628,
+    "text": ""
+  },
+  {
+    "table_pos": 3280,
+    "mode": "A",
+    "start": 11628,
+    "length": 13,
+    "end": 11641,
+    "text": "shop_text_060"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "A",
+    "start": 11641,
+    "length": 29,
+    "end": 11670,
+    "text": "Você comprou um produto!"
+  },
+  {
+    "table_pos": 3312,
+    "mode": "A",
+    "start": 11670,
+    "length": 0,
+    "end": 11670,
+    "text": ""
+  },
+  {
+    "table_pos": 3328,
+    "mode": "A",
+    "start": 11670,
+    "length": 13,
+    "end": 11683,
+    "text": "shop_text_061"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "A",
+    "start": 11683,
+    "length": 28,
+    "end": 11711,
+    "text": "Você fez uma troca de item!"
+  },
+  {
+    "table_pos": 3360,
+    "mode": "A",
+    "start": 11711,
+    "length": 0,
+    "end": 11711,
+    "text": ""
+  },
+  {
+    "table_pos": 3376,
+    "mode": "A",
+    "start": 11711,
+    "length": 13,
+    "end": 11724,
+    "text": "shop_text_062"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "A",
+    "start": 11724,
+    "length": 27,
+    "end": 11751,
+    "text": "Você entregou um item!"
+  },
+  {
+    "table_pos": 3408,
+    "mode": "A",
+    "start": 11751,
+    "length": 0,
+    "end": 11751,
+    "text": ""
+  },
+  {
+    "table_pos": 3424,
+    "mode": "A",
+    "start": 11751,
+    "length": 13,
+    "end": 11764,
+    "text": "shop_text_063"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "A",
+    "start": 11764,
+    "length": 30,
+    "end": 11794,
+    "text": "Agora você pode comprar um novo\nproduto!"
+  },
+  {
+    "table_pos": 3456,
+    "mode": "A",
+    "start": 11794,
+    "length": 0,
+    "end": 11794,
+    "text": ""
+  },
+  {
+    "table_pos": 3472,
+    "mode": "A",
+    "start": 11794,
+    "length": 13,
+    "end": 11807,
+    "text": "shop_text_064"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "A",
+    "start": 11807,
+    "length": 20,
+    "end": 11827,
+    "text": "Entregar estes itens?"
+  },
+  {
+    "table_pos": 3504,
+    "mode": "A",
+    "start": 11827,
+    "length": 0,
+    "end": 11827,
+    "text": ""
+  },
+  {
+    "table_pos": 3520,
+    "mode": "A",
+    "start": 11827,
+    "length": 13,
+    "end": 11840,
+    "text": "shop_text_065"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "A",
+    "start": 11840,
+    "length": 24,
+    "end": 11864,
+    "text": "Entregar estes materiais?"
+  },
+  {
+    "table_pos": 3552,
+    "mode": "A",
+    "start": 11864,
+    "length": 0,
+    "end": 11864,
+    "text": ""
+  },
+  {
+    "table_pos": 3568,
+    "mode": "A",
+    "start": 11864,
+    "length": 13,
+    "end": 11877,
+    "text": "shop_text_066"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "A",
+    "start": 11877,
+    "length": 17,
+    "end": 11894,
+    "text": "Itens insuficientes."
+  },
+  {
+    "table_pos": 3600,
+    "mode": "A",
+    "start": 11894,
+    "length": 0,
+    "end": 11894,
+    "text": ""
+  },
+  {
+    "table_pos": 3616,
+    "mode": "A",
+    "start": 11894,
+    "length": 13,
+    "end": 11907,
+    "text": "shop_text_067"
+  },
+  {
+    "table_pos": 3632,
+    "mode": "A",
+    "start": 11907,
+    "length": 21,
+    "end": 11928,
+    "text": "Materiais insuficientes."
+  },
+  {
+    "table_pos": 3648,
+    "mode": "A",
+    "start": 11928,
+    "length": 0,
+    "end": 11928,
+    "text": ""
+  },
+  {
+    "table_pos": 3664,
+    "mode": "A",
+    "start": 11928,
+    "length": 13,
+    "end": 11941,
+    "text": "shop_text_068"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "A",
+    "start": 11941,
+    "length": 23,
+    "end": 11964,
+    "text": "Todos os itens estão esgotados."
+  },
+  {
+    "table_pos": 3696,
+    "mode": "A",
+    "start": 11964,
+    "length": 0,
+    "end": 11964,
+    "text": ""
+  },
+  {
+    "table_pos": 3712,
+    "mode": "A",
+    "start": 11964,
+    "length": 13,
+    "end": 11977,
+    "text": "shop_text_069"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "A",
+    "start": 11977,
+    "length": 23,
+    "end": 12000,
+    "text": "Você não pode comprar mais."
+  },
+  {
+    "table_pos": 3744,
+    "mode": "A",
+    "start": 12000,
+    "length": 0,
+    "end": 12000,
+    "text": ""
+  },
+  {
+    "table_pos": 3760,
+    "mode": "A",
+    "start": 12000,
+    "length": 13,
+    "end": 12013,
+    "text": "shop_text_070"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "A",
+    "start": 12013,
+    "length": 27,
+    "end": 12040,
+    "text": "Ver lista de itens pedidos."
+  },
+  {
+    "table_pos": 3792,
+    "mode": "A",
+    "start": 12040,
+    "length": 0,
+    "end": 12040,
+    "text": ""
+  },
+  {
+    "table_pos": 3808,
+    "mode": "A",
+    "start": 12040,
+    "length": 13,
+    "end": 12053,
+    "text": "shop_text_071"
+  },
+  {
+    "table_pos": 3824,
+    "mode": "A",
+    "start": 12053,
+    "length": 83,
+    "end": 12136,
+    "text": "Ao entregar os itens listados,\nnovos produtos ficarão disponíveis\npara venda."
+  },
+  {
+    "table_pos": 3840,
+    "mode": "A",
+    "start": 12136,
+    "length": 0,
+    "end": 12136,
+    "text": ""
+  },
+  {
+    "table_pos": 3856,
+    "mode": "A",
+    "start": 12136,
+    "length": 16,
+    "end": 12152,
+    "text": "hospital_text_01"
+  },
+  {
+    "table_pos": 3872,
+    "mode": "A",
+    "start": 12152,
+    "length": 59,
+    "end": 12211,
+    "text": "Naruto desmaiou e foi levado \npara o hospital..."
+  },
+  {
+    "table_pos": 3888,
+    "mode": "A",
+    "start": 12211,
+    "length": 0,
+    "end": 12211,
+    "text": ""
+  },
+  {
+    "table_pos": 3904,
+    "mode": "A",
+    "start": 12211,
+    "length": 16,
+    "end": 12227,
+    "text": "hospital_text_02"
+  },
+  {
+    "table_pos": 3920,
+    "mode": "A",
+    "start": 12227,
+    "length": 63,
+    "end": 12290,
+    "text": "Naruto foi tratado no hospital e \nrecuperou a consciência."
+  },
+  {
+    "table_pos": 3936,
+    "mode": "A",
+    "start": 12290,
+    "length": 0,
+    "end": 12290,
+    "text": ""
+  },
+  {
+    "table_pos": 3952,
+    "mode": "A",
+    "start": 12290,
+    "length": 16,
+    "end": 12306,
+    "text": "hospital_text_03"
+  },
+  {
+    "table_pos": 3968,
+    "mode": "A",
+    "start": 12306,
+    "length": 45,
+    "end": 12351,
+    "text": "A missão foi cancelada enquanto \nestava em andamento."
+  },
+  {
+    "table_pos": 3984,
+    "mode": "A",
+    "start": 12351,
+    "length": 0,
+    "end": 12351,
+    "text": ""
+  },
+  {
+    "table_pos": 4000,
+    "mode": "A",
+    "start": 12351,
+    "length": 16,
+    "end": 12367,
+    "text": "hospital_text_04"
+  },
+  {
+    "table_pos": 4016,
+    "mode": "A",
+    "start": 12367,
+    "length": 34,
+    "end": 12401,
+    "text": "Você pagou **** Ryo em taxas médicas."
+  },
+  {
+    "table_pos": 4032,
+    "mode": "A",
+    "start": 12401,
+    "length": 0,
+    "end": 12401,
+    "text": ""
+  },
+  {
+    "table_pos": 4048,
+    "mode": "A",
+    "start": 12401,
+    "length": 12,
+    "end": 12413,
+    "text": "mini_menu_01"
+  },
+  {
+    "table_pos": 4064,
+    "mode": "A",
+    "start": 12413,
+    "length": 17,
+    "end": 12430,
+    "text": "Jogar o minigame"
+  },
+  {
+    "table_pos": 4080,
+    "mode": "A",
+    "start": 12430,
+    "length": 0,
+    "end": 12430,
+    "text": ""
+  },
+  {
+    "table_pos": 4096,
+    "mode": "A",
+    "start": 12430,
+    "length": 12,
+    "end": 12442,
+    "text": "mini_menu_02"
+  },
+  {
+    "table_pos": 4112,
+    "mode": "A",
+    "start": 12442,
+    "length": 20,
+    "end": 12462,
+    "text": "Saiba do que se trata"
+  },
+  {
+    "table_pos": 4128,
+    "mode": "A",
+    "start": 12462,
+    "length": 0,
+    "end": 12462,
+    "text": ""
+  },
+  {
+    "table_pos": 4144,
+    "mode": "A",
+    "start": 12462,
+    "length": 12,
+    "end": 12474,
+    "text": "mini_menu_03"
+  },
+  {
+    "table_pos": 4160,
+    "mode": "A",
+    "start": 12474,
+    "length": 19,
+    "end": 12493,
+    "text": "Treino de Escalar Árvores"
+  },
+  {
+    "table_pos": 4176,
+    "mode": "A",
+    "start": 12493,
+    "length": 0,
+    "end": 12493,
+    "text": ""
+  },
+  {
+    "table_pos": 4192,
+    "mode": "A",
+    "start": 12493,
+    "length": 12,
+    "end": 12505,
+    "text": "mini_menu_04"
+  },
+  {
+    "table_pos": 4208,
+    "mode": "A",
+    "start": 12505,
+    "length": 19,
+    "end": 12524,
+    "text": "Capture os Pergaminhos"
+  },
+  {
+    "table_pos": 4224,
+    "mode": "A",
+    "start": 12524,
+    "length": 0,
+    "end": 12524,
+    "text": ""
+  },
+  {
+    "table_pos": 4240,
+    "mode": "A",
+    "start": 12524,
+    "length": 12,
+    "end": 12536,
+    "text": "mini_menu_05"
+  },
+  {
+    "table_pos": 4256,
+    "mode": "A",
+    "start": 12536,
+    "length": 16,
+    "end": 12552,
+    "text": "Treino Especial"
+  },
+  {
+    "table_pos": 4272,
+    "mode": "A",
+    "start": 12552,
+    "length": 0,
+    "end": 12552,
+    "text": ""
+  },
+  {
+    "table_pos": 4288,
+    "mode": "A",
+    "start": 12552,
+    "length": 12,
+    "end": 12564,
+    "text": "mini_menu_06"
+  },
+  {
+    "table_pos": 4304,
+    "mode": "A",
+    "start": 12564,
+    "length": 5,
+    "end": 12569,
+    "text": "Treinar"
+  },
+  {
+    "table_pos": 4320,
+    "mode": "A",
+    "start": 12569,
+    "length": 0,
+    "end": 12569,
+    "text": ""
+  },
+  {
+    "table_pos": 4336,
+    "mode": "A",
+    "start": 12569,
+    "length": 12,
+    "end": 12581,
+    "text": "mini_menu_07"
+  },
+  {
+    "table_pos": 4352,
+    "mode": "A",
+    "start": 12581,
+    "length": 14,
+    "end": 12595,
+    "text": "Iniciar Treino"
+  },
+  {
+    "table_pos": 4368,
+    "mode": "A",
+    "start": 12595,
+    "length": 0,
+    "end": 12595,
+    "text": ""
+  },
+  {
+    "table_pos": 4384,
+    "mode": "A",
+    "start": 12595,
+    "length": 13,
+    "end": 12608,
+    "text": "mini_text_001"
+  },
+  {
+    "table_pos": 4400,
+    "mode": "A",
+    "start": 12608,
+    "length": 49,
+    "end": 12657,
+    "text": "Desafie amigos ou a CPU em um \nminigame aqui."
+  },
+  {
+    "table_pos": 4416,
+    "mode": "A",
+    "start": 12657,
+    "length": 0,
+    "end": 12657,
+    "text": ""
+  },
+  {
+    "table_pos": 4432,
+    "mode": "A",
+    "start": 12657,
+    "length": 13,
+    "end": 12670,
+    "text": "mini_text_002"
+  },
+  {
+    "table_pos": 4448,
+    "mode": "A",
+    "start": 12670,
+    "length": 32,
+    "end": 12702,
+    "text": "Isso vai ensinar como jogar."
+  },
+  {
+    "table_pos": 4464,
+    "mode": "A",
+    "start": 12702,
+    "length": 0,
+    "end": 12702,
+    "text": ""
+  },
+  {
+    "table_pos": 4480,
+    "mode": "A",
+    "start": 12702,
+    "length": 13,
+    "end": 12715,
+    "text": "mini_text_003"
+  },
+  {
+    "table_pos": 4496,
+    "mode": "A",
+    "start": 12715,
+    "length": 38,
+    "end": 12753,
+    "text": "Qual minigame você gostaria de \ntentar?"
+  },
+  {
+    "table_pos": 4512,
+    "mode": "A",
+    "start": 12753,
+    "length": 0,
+    "end": 12753,
+    "text": ""
+  },
+  {
+    "table_pos": 4528,
+    "mode": "A",
+    "start": 12753,
+    "length": 13,
+    "end": 12766,
+    "text": "mini_text_004"
+  },
+  {
+    "table_pos": 4544,
+    "mode": "A",
+    "start": 12766,
+    "length": 35,
+    "end": 12801,
+    "text": "Qual minigame você quer tentar?"
+  },
+  {
+    "table_pos": 4560,
+    "mode": "A",
+    "start": 12801,
+    "length": 0,
+    "end": 12801,
+    "text": ""
+  },
+  {
+    "table_pos": 4576,
+    "mode": "A",
+    "start": 12801,
+    "length": 13,
+    "end": 12814,
+    "text": "mini_text_005"
+  },
+  {
+    "table_pos": 4592,
+    "mode": "A",
+    "start": 12814,
+    "length": 31,
+    "end": 12845,
+    "text": "Tente escalar árvores."
+  },
+  {
+    "table_pos": 4608,
+    "mode": "A",
+    "start": 12845,
+    "length": 0,
+    "end": 12845,
+    "text": ""
+  },
+  {
+    "table_pos": 4624,
+    "mode": "A",
+    "start": 12845,
+    "length": 13,
+    "end": 12858,
+    "text": "mini_text_006"
+  },
+  {
+    "table_pos": 4640,
+    "mode": "A",
+    "start": 12858,
+    "length": 58,
+    "end": 12916,
+    "text": "Corra pela floresta em busca de \npergaminhos para capturar."
+  },
+  {
+    "table_pos": 4656,
+    "mode": "A",
+    "start": 12916,
+    "length": 0,
+    "end": 12916,
+    "text": ""
+  },
+  {
+    "table_pos": 4672,
+    "mode": "A",
+    "start": 12916,
+    "length": 13,
+    "end": 12929,
+    "text": "mini_text_007"
+  },
+  {
+    "table_pos": 4688,
+    "mode": "A",
+    "start": 12929,
+    "length": 26,
+    "end": 12955,
+    "text": "Quantas pessoas vão jogar?"
+  },
+  {
+    "table_pos": 4704,
+    "mode": "A",
+    "start": 12955,
+    "length": 0,
+    "end": 12955,
+    "text": ""
+  },
+  {
+    "table_pos": 4720,
+    "mode": "A",
+    "start": 12955,
+    "length": 13,
+    "end": 12968,
+    "text": "mini_text_008"
+  },
+  {
+    "table_pos": 4736,
+    "mode": "A",
+    "start": 12968,
+    "length": 26,
+    "end": 12994,
+    "text": "Selecione um personagem para usar."
+  },
+  {
+    "table_pos": 4752,
+    "mode": "A",
+    "start": 12994,
+    "length": 0,
+    "end": 12994,
+    "text": ""
+  },
+  {
+    "table_pos": 4768,
+    "mode": "A",
+    "start": 12994,
+    "length": 13,
+    "end": 13007,
+    "text": "mini_text_009"
+  },
+  {
+    "table_pos": 4784,
+    "mode": "A",
+    "start": 13007,
+    "length": 19,
+    "end": 13026,
+    "text": "Selecione um oponente."
+  },
+  {
+    "table_pos": 4800,
+    "mode": "A",
+    "start": 13026,
+    "length": 0,
+    "end": 13026,
+    "text": ""
+  },
+  {
+    "table_pos": 4816,
+    "mode": "A",
+    "start": 13026,
+    "length": 13,
+    "end": 13039,
+    "text": "mini_text_010"
+  },
+  {
+    "table_pos": 4832,
+    "mode": "A",
+    "start": 13039,
+    "length": 32,
+    "end": 13071,
+    "text": "Selecione um método de treino."
+  },
+  {
+    "table_pos": 4848,
+    "mode": "A",
+    "start": 13071,
+    "length": 0,
+    "end": 13071,
+    "text": ""
+  },
+  {
+    "table_pos": 4864,
+    "mode": "A",
+    "start": 13071,
+    "length": 13,
+    "end": 13084,
+    "text": "mini_text_011"
+  },
+  {
+    "table_pos": 4880,
+    "mode": "A",
+    "start": 13084,
+    "length": 23,
+    "end": 13107,
+    "text": "Fazer Treino de Escalar Árvores."
+  },
+  {
+    "table_pos": 4896,
+    "mode": "A",
+    "start": 13107,
+    "length": 0,
+    "end": 13107,
+    "text": ""
+  },
+  {
+    "table_pos": 4912,
+    "mode": "A",
+    "start": 13107,
+    "length": 13,
+    "end": 13120,
+    "text": "mini_text_012"
+  },
+  {
+    "table_pos": 4928,
+    "mode": "A",
+    "start": 13120,
+    "length": 20,
+    "end": 13140,
+    "text": "Fazer Treino Especial."
+  },
+  {
+    "table_pos": 4944,
+    "mode": "A",
+    "start": 13140,
+    "length": 0,
+    "end": 13140,
+    "text": ""
+  },
+  {
+    "table_pos": 4960,
+    "mode": "A",
+    "start": 13140,
+    "length": 13,
+    "end": 13153,
+    "text": "mini_text_013"
+  },
+  {
+    "table_pos": 4976,
+    "mode": "A",
+    "start": 13153,
+    "length": 57,
+    "end": 13210,
+    "text": "Jogue minigames encontrados nas \nmissões a qualquer momento."
+  },
+  {
+    "table_pos": 4992,
+    "mode": "A",
+    "start": 13210,
+    "length": 0,
+    "end": 13210,
+    "text": ""
+  },
+  {
+    "table_pos": 5008,
+    "mode": "A",
+    "start": 13210,
+    "length": 13,
+    "end": 13223,
+    "text": "mini_text_014"
+  },
+  {
+    "table_pos": 5024,
+    "mode": "A",
+    "start": 13223,
+    "length": 76,
+    "end": 13299,
+    "text": "Conecte mais de um controle para \nenfrentar amigos ou a CPU."
+  },
+  {
+    "table_pos": 5040,
+    "mode": "A",
+    "start": 13299,
+    "length": 0,
+    "end": 13299,
+    "text": ""
+  },
+  {
+    "table_pos": 5056,
+    "mode": "A",
+    "start": 13299,
+    "length": 13,
+    "end": 13312,
+    "text": "mini_text_015"
+  },
+  {
+    "table_pos": 5072,
+    "mode": "A",
+    "start": 13312,
+    "length": 70,
+    "end": 13382,
+    "text": "Veja o tutorial antes de cada\nminigame começar para aprender\na jogar."
+  },
+  {
+    "table_pos": 5088,
+    "mode": "A",
+    "start": 13382,
+    "length": 0,
+    "end": 13382,
+    "text": ""
+  },
+  {
+    "table_pos": 5104,
+    "mode": "A",
+    "start": 13382,
+    "length": 13,
+    "end": 13395,
+    "text": "mini_text_016"
+  },
+  {
+    "table_pos": 5120,
+    "mode": "A",
+    "start": 13395,
+    "length": 74,
+    "end": 13469,
+    "text": "Durante o minigame, conecte um \nsegundo controle para jogar \ncontra um amigo."
+  },
+  {
+    "table_pos": 5136,
+    "mode": "A",
+    "start": 13469,
+    "length": 0,
+    "end": 13469,
+    "text": ""
+  },
+  {
+    "table_pos": 5152,
+    "mode": "A",
+    "start": 13469,
+    "length": 13,
+    "end": 13482,
+    "text": "mini_text_017"
+  },
+  {
+    "table_pos": 5168,
+    "mode": "A",
+    "start": 13482,
+    "length": 46,
+    "end": 13528,
+    "text": "Você pode jogar o minigame de \nTreino de Escalar Árvores."
+  },
+  {
+    "table_pos": 5184,
+    "mode": "A",
+    "start": 13528,
+    "length": 0,
+    "end": 13528,
+    "text": ""
+  },
+  {
+    "table_pos": 5200,
+    "mode": "A",
+    "start": 13528,
+    "length": 13,
+    "end": 13541,
+    "text": "mini_text_018"
+  },
+  {
+    "table_pos": 5216,
+    "mode": "A",
+    "start": 13541,
+    "length": 84,
+    "end": 13625,
+    "text": "Veja o tutorial exibido antes\ndo minigame começar para\naprender a jogar."
+  },
+  {
+    "table_pos": 5232,
+    "mode": "A",
+    "start": 13625,
+    "length": 0,
+    "end": 13625,
+    "text": ""
+  },
+  {
+    "table_pos": 5248,
+    "mode": "A",
+    "start": 13625,
+    "length": 19,
+    "end": 13644,
+    "text": "mini_battle_menu_01"
+  },
+  {
+    "table_pos": 5264,
+    "mode": "A",
+    "start": 13644,
+    "length": 15,
+    "end": 13659,
+    "text": "MISSÃO ETERNA"
+  },
+  {
+    "table_pos": 5280,
+    "mode": "A",
+    "start": 13659,
+    "length": 0,
+    "end": 13659,
+    "text": ""
+  },
+  {
+    "table_pos": 5296,
+    "mode": "A",
+    "start": 13659,
+    "length": 19,
+    "end": 13678,
+    "text": "mini_battle_menu_02"
+  },
+  {
+    "table_pos": 5312,
+    "mode": "A",
+    "start": 13678,
+    "length": 24,
+    "end": 13702,
+    "text": "SELECIONE AS CONDIÇÕES DE BATALHA"
+  },
+  {
+    "table_pos": 5328,
+    "mode": "A",
+    "start": 13702,
+    "length": 0,
+    "end": 13702,
+    "text": ""
+  },
+  {
+    "table_pos": 5344,
+    "mode": "A",
+    "start": 13702,
+    "length": 19,
+    "end": 13721,
+    "text": "mini_battle_menu_03"
+  },
+  {
+    "table_pos": 5360,
+    "mode": "A",
+    "start": 13721,
+    "length": 23,
+    "end": 13744,
+    "text": "SELECIONE AS CONDIÇÕES DE VITÓRIA"
+  },
+  {
+    "table_pos": 5376,
+    "mode": "A",
+    "start": 13744,
+    "length": 0,
+    "end": 13744,
+    "text": ""
+  },
+  {
+    "table_pos": 5392,
+    "mode": "A",
+    "start": 13744,
+    "length": 19,
+    "end": 13763,
+    "text": "mini_battle_menu_04"
+  },
+  {
+    "table_pos": 5408,
+    "mode": "A",
+    "start": 13763,
+    "length": 17,
+    "end": 13780,
+    "text": "NÚMERO DE JOGADORES"
+  },
+  {
+    "table_pos": 5424,
+    "mode": "A",
+    "start": 13780,
+    "length": 0,
+    "end": 13780,
+    "text": ""
+  },
+  {
+    "table_pos": 5440,
+    "mode": "A",
+    "start": 13780,
+    "length": 19,
+    "end": 13799,
+    "text": "mini_battle_menu_05"
+  },
+  {
+    "table_pos": 5456,
+    "mode": "A",
+    "start": 13799,
+    "length": 12,
+    "end": 13811,
+    "text": "CONDIÇÕES *"
+  },
+  {
+    "table_pos": 5472,
+    "mode": "A",
+    "start": 13811,
+    "length": 0,
+    "end": 13811,
+    "text": ""
+  },
+  {
+    "table_pos": 5488,
+    "mode": "A",
+    "start": 13811,
+    "length": 19,
+    "end": 13830,
+    "text": "mini_battle_menu_06"
+  },
+  {
+    "table_pos": 5504,
+    "mode": "A",
+    "start": 13830,
+    "length": 6,
+    "end": 13836,
+    "text": "Alvo"
+  },
+  {
+    "table_pos": 5520,
+    "mode": "A",
+    "start": 13836,
+    "length": 0,
+    "end": 13836,
+    "text": ""
+  },
+  {
+    "table_pos": 5536,
+    "mode": "A",
+    "start": 13836,
+    "length": 19,
+    "end": 13855,
+    "text": "mini_battle_menu_07"
+  },
+  {
+    "table_pos": 5552,
+    "mode": "A",
+    "start": 13855,
+    "length": 11,
+    "end": 13866,
+    "text": "Tempo Alvo"
+  },
+  {
+    "table_pos": 5568,
+    "mode": "A",
+    "start": 13866,
+    "length": 0,
+    "end": 13866,
+    "text": ""
+  },
+  {
+    "table_pos": 5584,
+    "mode": "A",
+    "start": 13866,
+    "length": 19,
+    "end": 13885,
+    "text": "mini_battle_menu_08"
+  },
+  {
+    "table_pos": 5600,
+    "mode": "A",
+    "start": 13885,
+    "length": 6,
+    "end": 13891,
+    "text": "Recorde"
+  },
+  {
+    "table_pos": 5616,
+    "mode": "A",
+    "start": 13891,
+    "length": 0,
+    "end": 13891,
+    "text": ""
+  },
+  {
+    "table_pos": 5632,
+    "mode": "A",
+    "start": 13891,
+    "length": 20,
+    "end": 13911,
+    "text": "mini_battle_text_001"
+  },
+  {
+    "table_pos": 5648,
+    "mode": "A",
+    "start": 13911,
+    "length": 37,
+    "end": 13948,
+    "text": "Iniciar batalha com estas condições?"
+  },
+  {
+    "table_pos": 5664,
+    "mode": "A",
+    "start": 13948,
+    "length": 0,
+    "end": 13948,
+    "text": ""
+  },
+  {
+    "table_pos": 5680,
+    "mode": "A",
+    "start": 13948,
+    "length": 20,
+    "end": 13968,
+    "text": "mini_battle_text_002"
+  },
+  {
+    "table_pos": 5696,
+    "mode": "A",
+    "start": 13968,
+    "length": 75,
+    "end": 14043,
+    "text": "Aqui você define as condições de \nbatalha como quiser e joga em \nBatalhas Livres."
+  },
+  {
+    "table_pos": 5712,
+    "mode": "A",
+    "start": 14043,
+    "length": 0,
+    "end": 14043,
+    "text": ""
+  },
+  {
+    "table_pos": 5728,
+    "mode": "A",
+    "start": 14043,
+    "length": 20,
+    "end": 14063,
+    "text": "mini_battle_text_003"
+  },
+  {
+    "table_pos": 5744,
+    "mode": "A",
+    "start": 14063,
+    "length": 64,
+    "end": 14127,
+    "text": "O valor do dinheiro ganho muda \nde acordo com as condições."
+  },
+  {
+    "table_pos": 5760,
+    "mode": "A",
+    "start": 14127,
+    "length": 0,
+    "end": 14127,
+    "text": ""
+  },
+  {
+    "table_pos": 5776,
+    "mode": "A",
+    "start": 14127,
+    "length": 20,
+    "end": 14147,
+    "text": "mini_battle_text_004"
+  },
+  {
+    "table_pos": 5792,
+    "mode": "A",
+    "start": 14147,
+    "length": 26,
+    "end": 14173,
+    "text": "Quantas pessoas vão jogar?"
+  },
+  {
+    "table_pos": 5808,
+    "mode": "A",
+    "start": 14173,
+    "length": 0,
+    "end": 14173,
+    "text": ""
+  },
+  {
+    "table_pos": 5824,
+    "mode": "A",
+    "start": 14173,
+    "length": 20,
+    "end": 14193,
+    "text": "mini_battle_text_005"
+  },
+  {
+    "table_pos": 5840,
+    "mode": "A",
+    "start": 14193,
+    "length": 25,
+    "end": 14218,
+    "text": "Selecione as condições de batalha."
+  },
+  {
+    "table_pos": 5856,
+    "mode": "A",
+    "start": 14218,
+    "length": 0,
+    "end": 14218,
+    "text": ""
+  },
+  {
+    "table_pos": 5872,
+    "mode": "A",
+    "start": 14218,
+    "length": 20,
+    "end": 14238,
+    "text": "mini_battle_text_006"
+  },
+  {
+    "table_pos": 5888,
+    "mode": "A",
+    "start": 14238,
+    "length": 24,
+    "end": 14262,
+    "text": "Selecione as condições de vitória."
+  },
+  {
+    "table_pos": 5904,
+    "mode": "A",
+    "start": 14262,
+    "length": 0,
+    "end": 14262,
+    "text": ""
+  },
+  {
+    "table_pos": 5920,
+    "mode": "A",
+    "start": 14262,
+    "length": 20,
+    "end": 14282,
+    "text": "mini_battle_text_007"
+  },
+  {
+    "table_pos": 5936,
+    "mode": "A",
+    "start": 14282,
+    "length": 52,
+    "end": 14334,
+    "text": "Configure uma batalha livre com \nas condições de sua escolha."
+  },
+  {
+    "table_pos": 5952,
+    "mode": "A",
+    "start": 14334,
+    "length": 0,
+    "end": 14334,
+    "text": ""
+  },
+  {
+    "table_pos": 5968,
+    "mode": "A",
+    "start": 14334,
+    "length": 20,
+    "end": 14354,
+    "text": "mini_battle_text_008"
+  },
+  {
+    "table_pos": 5984,
+    "mode": "A",
+    "start": 14354,
+    "length": 5,
+    "end": 14359,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 6000,
+    "mode": "A",
+    "start": 14359,
+    "length": 0,
+    "end": 14359,
+    "text": ""
+  },
+  {
+    "table_pos": 6016,
+    "mode": "A",
+    "start": 14359,
+    "length": 11,
+    "end": 14370,
+    "text": "sys_text_00"
+  },
+  {
+    "table_pos": 6032,
+    "mode": "A",
+    "start": 14370,
+    "length": 56,
+    "end": 14426,
+    "text": "Entregue ingredientes para fazer \num novo tipo de lámen.\n"
+  },
+  {
+    "table_pos": 6048,
+    "mode": "A",
+    "start": 14426,
+    "length": 0,
+    "end": 14426,
+    "text": ""
+  },
+  {
+    "table_pos": 6064,
+    "mode": "A",
+    "start": 14426,
+    "length": 11,
+    "end": 14437,
+    "text": "sys_text_01"
+  },
+  {
+    "table_pos": 6080,
+    "mode": "A",
+    "start": 14437,
+    "length": 69,
+    "end": 14506,
+    "text": "Comer um novo tipo de lámen \naumenta sua Vida e Chakra máximos."
+  },
+  {
+    "table_pos": 6096,
+    "mode": "A",
+    "start": 14506,
+    "length": 0,
+    "end": 14506,
+    "text": ""
+  },
+  {
+    "table_pos": 6112,
+    "mode": "A",
+    "start": 14506,
+    "length": 11,
+    "end": 14517,
+    "text": "sys_text_02"
+  },
+  {
+    "table_pos": 6128,
+    "mode": "A",
+    "start": 14517,
+    "length": 13,
+    "end": 14530,
+    "text": "Compre um item.\n"
+  },
+  {
+    "table_pos": 6144,
+    "mode": "A",
+    "start": 14530,
+    "length": 0,
+    "end": 14530,
+    "text": ""
+  },
+  {
+    "table_pos": 6160,
+    "mode": "A",
+    "start": 14530,
+    "length": 11,
+    "end": 14541,
+    "text": "sys_text_03"
+  },
+  {
+    "table_pos": 6176,
+    "mode": "A",
+    "start": 14541,
+    "length": 14,
+    "end": 14555,
+    "text": "Venda um item.\n"
+  },
+  {
+    "table_pos": 6192,
+    "mode": "A",
+    "start": 14555,
+    "length": 0,
+    "end": 14555,
+    "text": ""
+  },
+  {
+    "table_pos": 6208,
+    "mode": "A",
+    "start": 14555,
+    "length": 11,
+    "end": 14566,
+    "text": "sys_text_04"
+  },
+  {
+    "table_pos": 6224,
+    "mode": "A",
+    "start": 14566,
+    "length": 37,
+    "end": 14603,
+    "text": "Venda um item que você tem em mãos.\n"
+  },
+  {
+    "table_pos": 6240,
+    "mode": "A",
+    "start": 14603,
+    "length": 0,
+    "end": 14603,
+    "text": ""
+  },
+  {
+    "table_pos": 6256,
+    "mode": "A",
+    "start": 14603,
+    "length": 11,
+    "end": 14614,
+    "text": "sys_text_05"
+  },
+  {
+    "table_pos": 6272,
+    "mode": "A",
+    "start": 14614,
+    "length": 36,
+    "end": 14650,
+    "text": "Venda um item que está na sua cesta.\n"
+  },
+  {
+    "table_pos": 6288,
+    "mode": "A",
+    "start": 14650,
+    "length": 0,
+    "end": 14650,
+    "text": ""
+  },
+  {
+    "table_pos": 6304,
+    "mode": "A",
+    "start": 14650,
+    "length": 11,
+    "end": 14661,
+    "text": "sys_text_06"
+  },
+  {
+    "table_pos": 6320,
+    "mode": "A",
+    "start": 14661,
+    "length": 69,
+    "end": 14730,
+    "text": "Entregue itens à Loja de Itens para\ncompletar o estoque oferecido lá."
+  },
+  {
+    "table_pos": 6336,
+    "mode": "A",
+    "start": 14730,
+    "length": 0,
+    "end": 14730,
+    "text": ""
+  },
+  {
+    "table_pos": 6352,
+    "mode": "A",
+    "start": 14730,
+    "length": 11,
+    "end": 14741,
+    "text": "sys_text_07"
+  },
+  {
+    "table_pos": 6368,
+    "mode": "A",
+    "start": 14741,
+    "length": 14,
+    "end": 14755,
+    "text": "Compre uma miniatura.\n"
+  },
+  {
+    "table_pos": 6384,
+    "mode": "A",
+    "start": 14755,
+    "length": 0,
+    "end": 14755,
+    "text": ""
+  },
+  {
+    "table_pos": 6400,
+    "mode": "A",
+    "start": 14755,
+    "length": 11,
+    "end": 14766,
+    "text": "sys_text_08"
+  },
+  {
+    "table_pos": 6416,
+    "mode": "A",
+    "start": 14766,
+    "length": 11,
+    "end": 14777,
+    "text": "Compre uma música.\n"
+  },
+  {
+    "table_pos": 6432,
+    "mode": "A",
+    "start": 14777,
+    "length": 0,
+    "end": 14777,
+    "text": ""
+  },
+  {
+    "table_pos": 6448,
+    "mode": "A",
+    "start": 14777,
+    "length": 11,
+    "end": 14788,
+    "text": "sys_text_09"
+  },
+  {
+    "table_pos": 6464,
+    "mode": "A",
+    "start": 14788,
+    "length": 28,
+    "end": 14816,
+    "text": "Compre um filme de Jutsu Final."
+  },
+  {
+    "table_pos": 6480,
+    "mode": "A",
+    "start": 14816,
+    "length": 0,
+    "end": 14816,
+    "text": ""
+  },
+  {
+    "table_pos": 6496,
+    "mode": "A",
+    "start": 14816,
+    "length": 11,
+    "end": 14827,
+    "text": "sys_text_10"
+  },
+  {
+    "table_pos": 6512,
+    "mode": "A",
+    "start": 14827,
+    "length": 63,
+    "end": 14890,
+    "text": "Troque os Pergaminhos Secretos \ncoletados por Ninjutsu de Apoio.\n"
+  },
+  {
+    "table_pos": 6528,
+    "mode": "A",
+    "start": 14890,
+    "length": 0,
+    "end": 14890,
+    "text": ""
+  },
+  {
+    "table_pos": 6544,
+    "mode": "A",
+    "start": 14890,
+    "length": 11,
+    "end": 14901,
+    "text": "sys_text_11"
+  },
+  {
+    "table_pos": 6560,
+    "mode": "A",
+    "start": 14901,
+    "length": 56,
+    "end": 14957,
+    "text": "Escolha livremente as condições \npara curtir uma batalha livre.\n"
+  },
+  {
+    "table_pos": 6576,
+    "mode": "A",
+    "start": 14957,
+    "length": 0,
+    "end": 14957,
+    "text": ""
+  },
+  {
+    "table_pos": 6592,
+    "mode": "A",
+    "start": 14957,
+    "length": 11,
+    "end": 14968,
+    "text": "sys_text_12"
+  },
+  {
+    "table_pos": 6608,
+    "mode": "A",
+    "start": 14968,
+    "length": 35,
+    "end": 15003,
+    "text": "Aproveite o minigame de Escalar \nÁrvores.\n"
+  },
+  {
+    "table_pos": 6624,
+    "mode": "A",
+    "start": 15003,
+    "length": 0,
+    "end": 15003,
+    "text": ""
+  },
+  {
+    "table_pos": 6640,
+    "mode": "A",
+    "start": 15003,
+    "length": 11,
+    "end": 15014,
+    "text": "sys_text_13"
+  },
+  {
+    "table_pos": 6656,
+    "mode": "A",
+    "start": 15014,
+    "length": 30,
+    "end": 15044,
+    "text": "Selecione um nível de dificuldade.\n"
+  },
+  {
+    "table_pos": 6672,
+    "mode": "A",
+    "start": 15044,
+    "length": 0,
+    "end": 15044,
+    "text": ""
+  },
+  {
+    "table_pos": 6688,
+    "mode": "A",
+    "start": 15044,
+    "length": 11,
+    "end": 15055,
+    "text": "sys_text_14"
+  },
+  {
+    "table_pos": 6704,
+    "mode": "A",
+    "start": 15055,
+    "length": 30,
+    "end": 15085,
+    "text": "Selecione o número de jogadores.\n"
+  },
+  {
+    "table_pos": 6720,
+    "mode": "A",
+    "start": 15085,
+    "length": 0,
+    "end": 15085,
+    "text": ""
+  },
+  {
+    "table_pos": 6736,
+    "mode": "A",
+    "start": 15085,
+    "length": 11,
+    "end": 15096,
+    "text": "sys_text_15"
+  },
+  {
+    "table_pos": 6752,
+    "mode": "A",
+    "start": 15096,
+    "length": 24,
+    "end": 15120,
+    "text": "Selecione um formato de batalha.\n"
+  },
+  {
+    "table_pos": 6768,
+    "mode": "A",
+    "start": 15120,
+    "length": 0,
+    "end": 15120,
+    "text": ""
+  },
+  {
+    "table_pos": 6784,
+    "mode": "A",
+    "start": 15120,
+    "length": 11,
+    "end": 15131,
+    "text": "sys_text_16"
+  },
+  {
+    "table_pos": 6800,
+    "mode": "A",
+    "start": 15131,
+    "length": 20,
+    "end": 15151,
+    "text": "Selecione um personagem.\n"
+  },
+  {
+    "table_pos": 6816,
+    "mode": "A",
+    "start": 15151,
+    "length": 0,
+    "end": 15151,
+    "text": ""
+  },
+  {
+    "table_pos": 6832,
+    "mode": "A",
+    "start": 15151,
+    "length": 11,
+    "end": 15162,
+    "text": "sys_text_17"
+  },
+  {
+    "table_pos": 6848,
+    "mode": "A",
+    "start": 15162,
+    "length": 71,
+    "end": 15233,
+    "text": "Aprenda Ninjutsu de Apoio em troca \ndos Pergaminhos Secretos coletados."
+  },
+  {
+    "table_pos": 6864,
+    "mode": "A",
+    "start": 15233,
+    "length": 0,
+    "end": 15233,
+    "text": ""
+  },
+  {
+    "table_pos": 6880,
+    "mode": "A",
+    "start": 15233,
+    "length": 11,
+    "end": 15244,
+    "text": "sys_text_18"
+  },
+  {
+    "table_pos": 6896,
+    "mode": "A",
+    "start": 15244,
+    "length": 43,
+    "end": 15287,
+    "text": "Troque todos os seus Pergaminhos \nSecretos por dinheiro."
+  },
+  {
+    "table_pos": 6912,
+    "mode": "A",
+    "start": 15287,
+    "length": 0,
+    "end": 15287,
+    "text": ""
+  },
+  {
+    "table_pos": 6928,
+    "mode": "A",
+    "start": 15287,
+    "length": 11,
+    "end": 15298,
+    "text": "sys_text_19"
+  },
+  {
+    "table_pos": 6944,
+    "mode": "A",
+    "start": 15298,
+    "length": 57,
+    "end": 15355,
+    "text": "Não há item para trocar.\nO Pergaminho Secreto será vendido."
+  },
+  {
+    "table_pos": 6960,
+    "mode": "A",
+    "start": 15355,
+    "length": 0,
+    "end": 15355,
+    "text": ""
+  },
+  {
+    "table_pos": 6976,
+    "mode": "A",
+    "start": 15355,
+    "length": 11,
+    "end": 15366,
+    "text": "sys_text_20"
+  },
+  {
+    "table_pos": 6992,
+    "mode": "A",
+    "start": 15366,
+    "length": 76,
+    "end": 15442,
+    "text": "Nenhum pergaminho para trocar.\n<colorfa9200>Pergaminho Secreto<color000000> será vendido."
+  },
+  {
+    "table_pos": 7008,
+    "mode": "A",
+    "start": 15442,
+    "length": 0,
+    "end": 15442,
+    "text": ""
+  },
+  {
+    "table_pos": 7024,
+    "mode": "A",
+    "start": 15442,
+    "length": 11,
+    "end": 15453,
+    "text": "sys_text_21"
+  },
+  {
+    "table_pos": 7040,
+    "mode": "A",
+    "start": 15453,
+    "length": 52,
+    "end": 15505,
+    "text": "Não há <colorfa9200>Pergaminhos Secretos<color000000> suficientes."
+  },
+  {
+    "table_pos": 7056,
+    "mode": "A",
+    "start": 15505,
+    "length": 0,
+    "end": 15505,
+    "text": ""
+  },
+  {
+    "table_pos": 7072,
+    "mode": "A",
+    "start": 15505,
+    "length": 11,
+    "end": 15516,
+    "text": "sys_text_22"
+  },
+  {
+    "table_pos": 7088,
+    "mode": "A",
+    "start": 15516,
+    "length": 67,
+    "end": 15583,
+    "text": "Trocar este pergaminho por um \n<colorfa9200>Pergaminho Secreto<color000000>?"
+  },
+  {
+    "table_pos": 7104,
+    "mode": "A",
+    "start": 15583,
+    "length": 0,
+    "end": 15583,
+    "text": ""
+  },
+  {
+    "table_pos": 7120,
+    "mode": "A",
+    "start": 15583,
+    "length": 11,
+    "end": 15594,
+    "text": "sys_text_23"
+  },
+  {
+    "table_pos": 7136,
+    "mode": "A",
+    "start": 15594,
+    "length": 38,
+    "end": 15632,
+    "text": "Este pergaminho já foi obtido."
+  },
+  {
+    "table_pos": 7152,
+    "mode": "A",
+    "start": 15632,
+    "length": 0,
+    "end": 15632,
+    "text": ""
+  },
+  {
+    "table_pos": 7168,
+    "mode": "A",
+    "start": 15632,
+    "length": 11,
+    "end": 15643,
+    "text": "sys_text_24"
+  },
+  {
+    "table_pos": 7184,
+    "mode": "A",
+    "start": 15643,
+    "length": 74,
+    "end": 15717,
+    "text": "Não é possível vender.\nVocê não tem nenhum <colorfa9200>Pergaminho Secreto.<color000000>"
+  },
+  {
+    "table_pos": 7200,
+    "mode": "A",
+    "start": 15717,
+    "length": 0,
+    "end": 15717,
+    "text": ""
+  },
+  {
+    "table_pos": 7216,
+    "mode": "A",
+    "start": 15717,
+    "length": 11,
+    "end": 15728,
+    "text": "sys_text_25"
+  },
+  {
+    "table_pos": 7232,
+    "mode": "A",
+    "start": 15728,
+    "length": 53,
+    "end": 15781,
+    "text": "Pergaminho Secreto vendido.\n\n<colorfa9200>%d<color000000> Ryo"
+  },
+  {
+    "table_pos": 7248,
+    "mode": "A",
+    "start": 15781,
+    "length": 0,
+    "end": 15781,
+    "text": ""
+  },
+  {
+    "table_pos": 7264,
+    "mode": "A",
+    "start": 15781,
+    "length": 11,
+    "end": 15792,
+    "text": "sys_text_26"
+  },
+  {
+    "table_pos": 7280,
+    "mode": "A",
+    "start": 15792,
+    "length": 280,
+    "end": 16072,
+    "text": "Sua porcentagem de <colorfa9200>Itens de Coleção<color000000>\naumentou!\n\n<colorfa9200>FIGURAS<color000000> <colorfa9200>%s<color000000>%%\n<colorfa9200>FILMES DE JUTSU FINAL<color000000> <colorfa9200>%s<color000000>%%\n<colorfa9200>MÚSICAS<color000000> <colorfa9200>%s<color000000>%%"
+  },
+  {
+    "table_pos": 7296,
+    "mode": "A",
+    "start": 16072,
+    "length": 0,
+    "end": 16072,
+    "text": ""
+  },
+  {
+    "table_pos": 7312,
+    "mode": "A",
+    "start": 16072,
+    "length": 11,
+    "end": 16083,
+    "text": "sys_text_27"
+  },
+  {
+    "table_pos": 7328,
+    "mode": "A",
+    "start": 16083,
+    "length": 59,
+    "end": 16142,
+    "text": "Você conseguiu todos os \n<colorfa9200>Itens de Coleção<color000000>!"
+  },
+  {
+    "table_pos": 7344,
+    "mode": "A",
+    "start": 16142,
+    "length": 0,
+    "end": 16142,
+    "text": ""
+  },
+  {
+    "table_pos": 7360,
+    "mode": "A",
+    "start": 16142,
+    "length": 11,
+    "end": 16153,
+    "text": "sys_text_28"
+  },
+  {
+    "table_pos": 7376,
+    "mode": "A",
+    "start": 16153,
+    "length": 66,
+    "end": 16219,
+    "text": "Novos produtos chegaram na \n<colorfa9200>Loja de Itens<color000000>!"
+  },
+  {
+    "table_pos": 7392,
+    "mode": "A",
+    "start": 16219,
+    "length": 0,
+    "end": 16219,
+    "text": ""
+  },
+  {
+    "table_pos": 7408,
+    "mode": "A",
+    "start": 16219,
+    "length": 11,
+    "end": 16230,
+    "text": "sys_text_29"
+  },
+  {
+    "table_pos": 7424,
+    "mode": "A",
+    "start": 16230,
+    "length": 66,
+    "end": 16296,
+    "text": "Todos os produtos chegaram na \n<colorfa9200>Loja de Itens<color000000>!"
+  },
+  {
+    "table_pos": 7440,
+    "mode": "A",
+    "start": 16296,
+    "length": 0,
+    "end": 16296,
+    "text": ""
+  },
+  {
+    "table_pos": 7456,
+    "mode": "A",
+    "start": 16296,
+    "length": 11,
+    "end": 16307,
+    "text": "sys_text_30"
+  },
+  {
+    "table_pos": 7472,
+    "mode": "A",
+    "start": 16307,
+    "length": 53,
+    "end": 16360,
+    "text": "Todo o <colorfa9200>lámen<color000000> foi criado!"
+  },
+  {
+    "table_pos": 7488,
+    "mode": "A",
+    "start": 16360,
+    "length": 0,
+    "end": 16360,
+    "text": ""
+  },
+  {
+    "table_pos": 7504,
+    "mode": "A",
+    "start": 16360,
+    "length": 11,
+    "end": 16371,
+    "text": "sys_text_31"
+  },
+  {
+    "table_pos": 7520,
+    "mode": "A",
+    "start": 16371,
+    "length": 81,
+    "end": 16452,
+    "text": "Um novo <colorfa9200>ninjutsu de apoio<color000000> já pode\nser personalizado na batalha!"
+  },
+  {
+    "table_pos": 7536,
+    "mode": "A",
+    "start": 16452,
+    "length": 0,
+    "end": 16452,
+    "text": ""
+  },
+  {
+    "table_pos": 7552,
+    "mode": "A",
+    "start": 16452,
+    "length": 11,
+    "end": 16463,
+    "text": "sys_text_32"
+  },
+  {
+    "table_pos": 7568,
+    "mode": "A",
+    "start": 16463,
+    "length": 79,
+    "end": 16542,
+    "text": "Todo <colorfa9200>ninjutsu de apoio<color000000> já pode\nser personalizado na batalha!"
+  },
+  {
+    "table_pos": 7584,
+    "mode": "A",
+    "start": 16542,
+    "length": 0,
+    "end": 16542,
+    "text": ""
+  },
+  {
+    "table_pos": 7600,
+    "mode": "A",
+    "start": 16542,
+    "length": 11,
+    "end": 16553,
+    "text": "sys_text_33"
+  },
+  {
+    "table_pos": 7616,
+    "mode": "A",
+    "start": 16553,
+    "length": 50,
+    "end": 16603,
+    "text": "Novo(s) <colorfa9200>pergaminho(s)<color000000> disponível(is)!"
+  },
+  {
+    "table_pos": 7632,
+    "mode": "A",
+    "start": 16603,
+    "length": 0,
+    "end": 16603,
+    "text": ""
+  },
+  {
+    "table_pos": 7648,
+    "mode": "A",
+    "start": 16603,
+    "length": 17,
+    "end": 16620,
+    "text": "noodle_feelings_1"
+  },
+  {
+    "table_pos": 7664,
+    "mode": "B-implicit",
+    "start": 16620,
+    "length": 6,
+    "end": 16626,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 7664,
+    "mode": "B-explicit",
+    "start": 16626,
+    "length": 58,
+    "end": 16684,
+    "text": "Ooh! O macarrão está bem\nelástico. Isso está ótimo!"
+  },
+  {
+    "table_pos": 7680,
+    "mode": "A",
+    "start": 16684,
+    "length": 0,
+    "end": 16684,
+    "text": ""
+  },
+  {
+    "table_pos": 7696,
+    "mode": "A",
+    "start": 16684,
+    "length": 17,
+    "end": 16701,
+    "text": "noodle_feelings_2"
+  },
+  {
+    "table_pos": 7712,
+    "mode": "B-implicit",
+    "start": 16701,
+    "length": 6,
+    "end": 16707,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 7712,
+    "mode": "B-explicit",
+    "start": 16707,
+    "length": 41,
+    "end": 16748,
+    "text": "Uau! I-Isso tem um cheiro\nbem forte..."
+  },
+  {
+    "table_pos": 7728,
+    "mode": "A",
+    "start": 16748,
+    "length": 0,
+    "end": 16748,
+    "text": ""
+  },
+  {
+    "table_pos": 7744,
+    "mode": "A",
+    "start": 16748,
+    "length": 17,
+    "end": 16765,
+    "text": "noodle_feelings_3"
+  },
+  {
+    "table_pos": 7760,
+    "mode": "B-implicit",
+    "start": 16765,
+    "length": 6,
+    "end": 16771,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 7760,
+    "mode": "B-explicit",
+    "start": 16771,
+    "length": 31,
+    "end": 16802,
+    "text": "Ooh! Sim, isso está bem bom!"
+  },
+  {
+    "table_pos": 7776,
+    "mode": "A",
+    "start": 16802,
+    "length": 0,
+    "end": 16802,
+    "text": ""
+  },
+  {
+    "table_pos": 7792,
+    "mode": "A",
+    "start": 16802,
+    "length": 17,
+    "end": 16819,
+    "text": "noodle_feelings_4"
+  },
+  {
+    "table_pos": 7808,
+    "mode": "B-implicit",
+    "start": 16819,
+    "length": 6,
+    "end": 16825,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 7808,
+    "mode": "B-explicit",
+    "start": 16825,
+    "length": 32,
+    "end": 16857,
+    "text": "Isso... Isso está duro demais..."
+  },
+  {
+    "table_pos": 7824,
+    "mode": "A",
+    "start": 16857,
+    "length": 0,
+    "end": 16857,
+    "text": ""
+  },
+  {
+    "table_pos": 7840,
+    "mode": "A",
+    "start": 16857,
+    "length": 17,
+    "end": 16874,
+    "text": "noodle_feelings_5"
+  },
+  {
+    "table_pos": 7856,
+    "mode": "B-implicit",
+    "start": 16874,
+    "length": 6,
+    "end": 16880,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 7856,
+    "mode": "B-explicit",
+    "start": 16880,
+    "length": 44,
+    "end": 16924,
+    "text": "Esse sabor é, hmm... É bem...\nHmm... Novo."
+  },
+  {
+    "table_pos": 7872,
+    "mode": "A",
+    "start": 16924,
+    "length": 0,
+    "end": 16924,
+    "text": ""
+  },
+  {
+    "table_pos": 7888,
+    "mode": "A",
+    "start": 16924,
+    "length": 17,
+    "end": 16941,
+    "text": "noodle_feelings_6"
+  },
+  {
+    "table_pos": 7904,
+    "mode": "B-implicit",
+    "start": 16941,
+    "length": 6,
+    "end": 16947,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 7904,
+    "mode": "B-explicit",
+    "start": 16947,
+    "length": 48,
+    "end": 16995,
+    "text": "Ah, sim! Cogumelo com lámen,\na combinação perfeita!"
+  },
+  {
+    "table_pos": 7920,
+    "mode": "A",
+    "start": 16995,
+    "length": 0,
+    "end": 16995,
+    "text": ""
+  },
+  {
+    "table_pos": 7936,
+    "mode": "A",
+    "start": 16995,
+    "length": 17,
+    "end": 17012,
+    "text": "noodle_feelings_7"
+  },
+  {
+    "table_pos": 7952,
+    "mode": "B-implicit",
+    "start": 17012,
+    "length": 6,
+    "end": 17018,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 7952,
+    "mode": "B-explicit",
+    "start": 17018,
+    "length": 59,
+    "end": 17077,
+    "text": "É tipo lámen de miso... mas \ndiferente. Também não é ruim!"
+  },
+  {
+    "table_pos": 7968,
+    "mode": "A",
+    "start": 17077,
+    "length": 0,
+    "end": 17077,
+    "text": ""
+  },
+  {
+    "table_pos": 7984,
+    "mode": "A",
+    "start": 17077,
+    "length": 17,
+    "end": 17094,
+    "text": "noodle_feelings_8"
+  },
+  {
+    "table_pos": 8000,
+    "mode": "B-implicit",
+    "start": 17094,
+    "length": 6,
+    "end": 17100,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 8000,
+    "mode": "B-explicit",
+    "start": 17100,
+    "length": 54,
+    "end": 17154,
+    "text": "A alga absorveu todo o \ncaldo! Eu gostei!"
+  },
+  {
+    "table_pos": 8016,
+    "mode": "A",
+    "start": 17154,
+    "length": 0,
+    "end": 17154,
+    "text": ""
+  },
+  {
+    "table_pos": 8032,
+    "mode": "A",
+    "start": 17154,
+    "length": 17,
+    "end": 17171,
+    "text": "noodle_feelings_9"
+  },
+  {
+    "table_pos": 8048,
+    "mode": "B-implicit",
+    "start": 17171,
+    "length": 6,
+    "end": 17177,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 8048,
+    "mode": "B-explicit",
+    "start": 17177,
+    "length": 53,
+    "end": 17230,
+    "text": "Hehe! Tem carne pra caramba!\nJá me sinto mais forte!"
+  },
+  {
+    "table_pos": 8064,
+    "mode": "A",
+    "start": 17230,
+    "length": 0,
+    "end": 17230,
+    "text": ""
+  },
+  {
+    "table_pos": 8080,
+    "mode": "A",
+    "start": 17230,
+    "length": 18,
+    "end": 17248,
+    "text": "noodle_feelings_10"
+  },
+  {
+    "table_pos": 8096,
+    "mode": "B-implicit",
+    "start": 17248,
+    "length": 6,
+    "end": 17254,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 8096,
+    "mode": "B-explicit",
+    "start": 17254,
+    "length": 45,
+    "end": 17299,
+    "text": "Argh! V... Vegetais...?\nEu odeio vegetais..."
+  },
+  {
+    "table_pos": 8112,
+    "mode": "A",
+    "start": 17299,
+    "length": 0,
+    "end": 17299,
+    "text": ""
+  },
+  {
+    "table_pos": 8128,
+    "mode": "A",
+    "start": 17299,
+    "length": 18,
+    "end": 17317,
+    "text": "noodle_feelings_11"
+  },
+  {
+    "table_pos": 8144,
+    "mode": "B-implicit",
+    "start": 17317,
+    "length": 6,
+    "end": 17323,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 8144,
+    "mode": "B-explicit",
+    "start": 17323,
+    "length": 88,
+    "end": 17411,
+    "text": "Hmm, então se trocar a água,\no lámen fica com gosto mais...\nEheheh... É difícil dizer."
+  },
+  {
+    "table_pos": 8160,
+    "mode": "A",
+    "start": 17411,
+    "length": 0,
+    "end": 17411,
+    "text": ""
+  },
+  {
+    "table_pos": 8176,
+    "mode": "A",
+    "start": 17411,
+    "length": 18,
+    "end": 17429,
+    "text": "noodle_feelings_12"
+  },
+  {
+    "table_pos": 8192,
+    "mode": "B-implicit",
+    "start": 17429,
+    "length": 6,
+    "end": 17435,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 8192,
+    "mode": "B-explicit",
+    "start": 17435,
+    "length": 36,
+    "end": 17471,
+    "text": "Nossa, isso é... uma combinação única."
+  },
+  {
+    "table_pos": 8208,
+    "mode": "A",
+    "start": 17471,
+    "length": 0,
+    "end": 17471,
+    "text": ""
+  },
+  {
+    "table_pos": 8224,
+    "mode": "A",
+    "start": 17471,
+    "length": 18,
+    "end": 17489,
+    "text": "noodle_feelings_13"
+  },
+  {
+    "table_pos": 8240,
+    "mode": "B-implicit",
+    "start": 17489,
+    "length": 6,
+    "end": 17495,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 8240,
+    "mode": "B-explicit",
+    "start": 17495,
+    "length": 63,
+    "end": 17558,
+    "text": "*Blergh!* I-i-isso é... Isso é \num lámen forte pra caramba..."
+  },
+  {
+    "table_pos": 8256,
+    "mode": "A",
+    "start": 17558,
+    "length": 0,
+    "end": 17558,
+    "text": ""
+  },
+  {
+    "table_pos": 8272,
+    "mode": "A",
+    "start": 17558,
+    "length": 18,
+    "end": 17576,
+    "text": "noodle_feelings_14"
+  },
+  {
+    "table_pos": 8288,
+    "mode": "B-implicit",
+    "start": 17576,
+    "length": 6,
+    "end": 17582,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 8288,
+    "mode": "B-explicit",
+    "start": 17582,
+    "length": 65,
+    "end": 17647,
+    "text": "Caldo de lámen com arroz \ncombinam muito bem! Isso é bom!"
+  },
+  {
+    "table_pos": 8304,
+    "mode": "A",
+    "start": 17647,
+    "length": 0,
+    "end": 17647,
+    "text": ""
+  },
+  {
+    "table_pos": 8320,
+    "mode": "A",
+    "start": 17647,
+    "length": 18,
+    "end": 17665,
+    "text": "noodle_feelings_15"
+  },
+  {
+    "table_pos": 8336,
+    "mode": "B-implicit",
+    "start": 17665,
+    "length": 6,
+    "end": 17671,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 8336,
+    "mode": "B-explicit",
+    "start": 17671,
+    "length": 36,
+    "end": 17707,
+    "text": "Tem um cheiro meio de... oceano..."
+  },
+  {
+    "table_pos": 8352,
+    "mode": "A",
+    "start": 17707,
+    "length": 0,
+    "end": 17707,
+    "text": ""
+  },
+  {
+    "table_pos": 8368,
+    "mode": "A",
+    "start": 17707,
+    "length": 18,
+    "end": 17725,
+    "text": "noodle_feelings_16"
+  },
+  {
+    "table_pos": 8384,
+    "mode": "B-implicit",
+    "start": 17725,
+    "length": 6,
+    "end": 17731,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 8384,
+    "mode": "B-explicit",
+    "start": 17731,
+    "length": 44,
+    "end": 17775,
+    "text": "É diferente do lámen de sal \nnormal!"
+  },
+  {
+    "table_pos": 8400,
+    "mode": "A",
+    "start": 17775,
+    "length": 0,
+    "end": 17775,
+    "text": ""
+  },
+  {
+    "table_pos": 8416,
+    "mode": "A",
+    "start": 17775,
+    "length": 18,
+    "end": 17793,
+    "text": "noodle_feelings_17"
+  },
+  {
+    "table_pos": 8432,
+    "mode": "B-implicit",
+    "start": 17793,
+    "length": 6,
+    "end": 17799,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 8432,
+    "mode": "B-explicit",
+    "start": 17799,
+    "length": 92,
+    "end": 17891,
+    "text": "Pó de ouro? Nossa, isso é chique,\nmas não sei se combina com a\ncara do Ichiraku Ramen..."
+  },
+  {
+    "table_pos": 8448,
+    "mode": "A",
+    "start": 17891,
+    "length": 0,
+    "end": 17891,
+    "text": ""
+  },
+  {
+    "table_pos": 8464,
+    "mode": "A",
+    "start": 17891,
+    "length": 18,
+    "end": 17909,
+    "text": "noodle_feelings_18"
+  },
+  {
+    "table_pos": 8480,
+    "mode": "B-implicit",
+    "start": 17909,
+    "length": 6,
+    "end": 17915,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 8480,
+    "mode": "B-explicit",
+    "start": 17915,
+    "length": 36,
+    "end": 17951,
+    "text": "Uau! Isso é melhor do que eu pensava!"
+  },
+  {
+    "table_pos": 8496,
+    "mode": "A",
+    "start": 17951,
+    "length": 0,
+    "end": 17951,
+    "text": ""
+  },
+  {
+    "table_pos": 8512,
+    "mode": "A",
+    "start": 17951,
+    "length": 18,
+    "end": 17969,
+    "text": "noodle_feelings_19"
+  },
+  {
+    "table_pos": 8528,
+    "mode": "B-implicit",
+    "start": 17969,
+    "length": 6,
+    "end": 17975,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 8528,
+    "mode": "B-explicit",
+    "start": 17975,
+    "length": 73,
+    "end": 18048,
+    "text": "Hmm... Eu sei que é chique e tudo,\nmas... não é bem a minha praia."
+  },
+  {
+    "table_pos": 8544,
+    "mode": "A",
+    "start": 18048,
+    "length": 0,
+    "end": 18048,
+    "text": ""
+  },
+  {
+    "table_pos": 8560,
+    "mode": "A",
+    "start": 18048,
+    "length": 18,
+    "end": 18066,
+    "text": "noodle_feelings_20"
+  },
+  {
+    "table_pos": 8576,
+    "mode": "B-implicit",
+    "start": 18066,
+    "length": 6,
+    "end": 18072,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 8576,
+    "mode": "B-explicit",
+    "start": 18072,
+    "length": 38,
+    "end": 18110,
+    "text": "Agora sim!\nIsso está um absurdo de bom!"
+  },
+  {
+    "table_pos": 8592,
+    "mode": "A",
+    "start": 18110,
+    "length": 0,
+    "end": 18110,
+    "text": ""
+  }
+]

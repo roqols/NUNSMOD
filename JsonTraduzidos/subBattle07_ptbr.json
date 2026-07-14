@@ -1,0 +1,1338 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2182,
+    "length": 3,
+    "end": 2185,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 2185,
+    "length": 6,
+    "end": 2191,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 2191,
+    "length": 72,
+    "end": 2263,
+    "text": "Iruka sensei e Kakashi sensei! O que\nvocês dois estão fazendo juntos? "
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2263,
+    "length": 0,
+    "end": 2263,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2263,
+    "length": 3,
+    "end": 2266,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 2266,
+    "length": 5,
+    "end": 2271,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 2271,
+    "length": 66,
+    "end": 2337,
+    "text": "Eu queria saber a opinião dele sobre\no futuro da Academia Ninja. "
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2337,
+    "length": 0,
+    "end": 2337,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2337,
+    "length": 3,
+    "end": 2340,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 2340,
+    "length": 6,
+    "end": 2346,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 2346,
+    "length": 89,
+    "end": 2435,
+    "text": "Hmm. O Kakashi sensei realmente\najuda? Ele sempre parece meio\nmal-humorado e distraído. "
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2435,
+    "length": 0,
+    "end": 2435,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2435,
+    "length": 3,
+    "end": 2438,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2438,
+    "length": 5,
+    "end": 2443,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2443,
+    "length": 108,
+    "end": 2551,
+    "text": "*Suspiro* Você já devia saber... \nNa verdade, o Kakashi é bem popular\nentre os alunos da Academia Ninja. "
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2551,
+    "length": 0,
+    "end": 2551,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2551,
+    "length": 3,
+    "end": 2554,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2554,
+    "length": 6,
+    "end": 2560,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2560,
+    "length": 9,
+    "end": 2569,
+    "text": "Sério!? "
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2569,
+    "length": 0,
+    "end": 2569,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2569,
+    "length": 3,
+    "end": 2572,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 2572,
+    "length": 5,
+    "end": 2577,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 2577,
+    "length": 89,
+    "end": 2666,
+    "text": "É fácil entender por que os alunos\no adoram. Ele é incrivelmente forte,\npara começar."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2666,
+    "length": 0,
+    "end": 2666,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2666,
+    "length": 3,
+    "end": 2669,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2669,
+    "length": 6,
+    "end": 2675,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2675,
+    "length": 18,
+    "end": 2693,
+    "text": "Ah, que exagero..."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2693,
+    "length": 0,
+    "end": 2693,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2693,
+    "length": 3,
+    "end": 2696,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2696,
+    "length": 7,
+    "end": 2703,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2703,
+    "length": 33,
+    "end": 2736,
+    "text": "Para, assim eu fico sem graça..."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2736,
+    "length": 0,
+    "end": 2736,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2736,
+    "length": 3,
+    "end": 2739,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2739,
+    "length": 7,
+    "end": 2746,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 2746,
+    "length": 104,
+    "end": 2850,
+    "text": "Mas existem muitos outros ninjas fortes\nalém de mim. O Terceiro Hokage, o\nMestre Jiraiya, e até o Guy."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 2850,
+    "length": 0,
+    "end": 2850,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 2850,
+    "length": 3,
+    "end": 2853,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 2853,
+    "length": 6,
+    "end": 2859,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 2859,
+    "length": 51,
+    "end": 2910,
+    "text": "Pensando bem, a Vovó Tsunade também\né incrível."
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2910,
+    "length": 0,
+    "end": 2910,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2910,
+    "length": 3,
+    "end": 2913,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 2913,
+    "length": 5,
+    "end": 2918,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 2918,
+    "length": 93,
+    "end": 3011,
+    "text": "A paz que temos hoje se deve a todos\nos ninjas extraordinários que protegem\na Vila da Folha."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 3011,
+    "length": 0,
+    "end": 3011,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 3011,
+    "length": 3,
+    "end": 3014,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 3014,
+    "length": 6,
+    "end": 3020,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 3020,
+    "length": 89,
+    "end": 3109,
+    "text": "Ei, Kakashi sensei! Quão forte são\no Sensei Sobrancelhudo,\no Sábio Tarado e os outros?"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 3109,
+    "length": 0,
+    "end": 3109,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 3109,
+    "length": 3,
+    "end": 3112,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 3112,
+    "length": 6,
+    "end": 3118,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 3118,
+    "length": 83,
+    "end": 3201,
+    "text": "Ei, Kakashi sensei! Quão fortes são\na Vovó Tsunade, o Sábio Tarado\ne os outros?"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 3201,
+    "length": 0,
+    "end": 3201,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 3201,
+    "length": 3,
+    "end": 3204,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 3204,
+    "length": 6,
+    "end": 3210,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 3210,
+    "length": 42,
+    "end": 3252,
+    "text": "Quer dizer, como se mede uma\ncoisa dessas?"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 3252,
+    "length": 0,
+    "end": 3252,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 3252,
+    "length": 3,
+    "end": 3255,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 3255,
+    "length": 7,
+    "end": 3262,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 3262,
+    "length": 62,
+    "end": 3324,
+    "text": "Bem... Deixa eu explicar de um jeito\nque talvez você entenda."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 3324,
+    "length": 0,
+    "end": 3324,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 3324,
+    "length": 3,
+    "end": 3327,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 3327,
+    "length": 7,
+    "end": 3334,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 3334,
+    "length": 21,
+    "end": 3355,
+    "text": "Agora você entendeu?"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 3355,
+    "length": 0,
+    "end": 3355,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 3355,
+    "length": 3,
+    "end": 3358,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 3358,
+    "length": 6,
+    "end": 3364,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 3364,
+    "length": 61,
+    "end": 3425,
+    "text": "Uau... Vieram à minha cabeça imagens\nde ninjas superfortes."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 3425,
+    "length": 0,
+    "end": 3425,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 3425,
+    "length": 3,
+    "end": 3428,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 3428,
+    "length": 5,
+    "end": 3433,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 3433,
+    "length": 46,
+    "end": 3479,
+    "text": "Haha... Está se sentindo intimidado\npor eles?"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 3479,
+    "length": 0,
+    "end": 3479,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 3479,
+    "length": 3,
+    "end": 3482,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 3482,
+    "length": 6,
+    "end": 3488,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 3488,
+    "length": 14,
+    "end": 3502,
+    "text": "N-Não, mas..."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 3502,
+    "length": 0,
+    "end": 3502,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 3502,
+    "length": 3,
+    "end": 3505,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 3505,
+    "length": 5,
+    "end": 3510,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 3510,
+    "length": 69,
+    "end": 3579,
+    "text": "Agora você tem uma ideia de como\neles são incrivelmente poderosos. "
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3579,
+    "length": 0,
+    "end": 3579,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3579,
+    "length": 3,
+    "end": 3582,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 3582,
+    "length": 6,
+    "end": 3588,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 3588,
+    "length": 96,
+    "end": 3684,
+    "text": "(...Desse jeito, nunca vou chegar ao\nnível do Kakashi sensei, nem treinando\npor anos e anos...)"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3684,
+    "length": 0,
+    "end": 3684,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3684,
+    "length": 3,
+    "end": 3687,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 3687,
+    "length": 5,
+    "end": 3692,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 3692,
+    "length": 103,
+    "end": 3795,
+    "text": "Se treinar bastante, pode ficar como\no Kakashi um dia... Mas o caminho até lá\nserá longo e difícil."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 3795,
+    "length": 0,
+    "end": 3795,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 3795,
+    "length": 3,
+    "end": 3798,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 3798,
+    "length": 7,
+    "end": 3805,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 3805,
+    "length": 98,
+    "end": 3903,
+    "text": "Eles se esforçaram muito para ficar\ntão fortes quanto são. Eu gostaria\nde te ver assim também."
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 3903,
+    "length": 0,
+    "end": 3903,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 3903,
+    "length": 3,
+    "end": 3906,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 3906,
+    "length": 7,
+    "end": 3913,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 3913,
+    "length": 22,
+    "end": 3935,
+    "text": "Você entendeu, né..."
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3935,
+    "length": 0,
+    "end": 3935,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3935,
+    "length": 3,
+    "end": 3938,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 3938,
+    "length": 6,
+    "end": 3944,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 3944,
+    "length": 4,
+    "end": 3948,
+    "text": "Ahh."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3948,
+    "length": 0,
+    "end": 3948,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3948,
+    "length": 3,
+    "end": 3951,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 3951,
+    "length": 5,
+    "end": 3956,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 3956,
+    "length": 61,
+    "end": 4017,
+    "text": "Ahh...? Isso quer dizer que você\nduvida que seja possível? "
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 4017,
+    "length": 0,
+    "end": 4017,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 4017,
+    "length": 3,
+    "end": 4020,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 4020,
+    "length": 6,
+    "end": 4026,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 4026,
+    "length": 38,
+    "end": 4064,
+    "text": "Rsrs... De jeito nenhum! Tô animado! "
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 4064,
+    "length": 0,
+    "end": 4064,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 4064,
+    "length": 3,
+    "end": 4067,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 4067,
+    "length": 6,
+    "end": 4073,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 4073,
+    "length": 81,
+    "end": 4154,
+    "text": "Quando penso que se eu treinar duro,\nme dedicar e ganhar bastante\nexperiência..."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 4154,
+    "length": 0,
+    "end": 4154,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 4154,
+    "length": 3,
+    "end": 4157,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 4157,
+    "length": 6,
+    "end": 4163,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 4163,
+    "length": 97,
+    "end": 4260,
+    "text": "Posso ser como o Kakashi sensei,\no Sábio Tarado, ou o Iruka sensei\num dia... Cara, que emoção!"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 4260,
+    "length": 0,
+    "end": 4260,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 4260,
+    "length": 3,
+    "end": 4263,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 4263,
+    "length": 5,
+    "end": 4268,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 4268,
+    "length": 89,
+    "end": 4357,
+    "text": "Hã... Você tem ideia do quanto\no Kakashi e os outros sofreram\npara chegar onde estão? "
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 4357,
+    "length": 0,
+    "end": 4357,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 4357,
+    "length": 3,
+    "end": 4360,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 4360,
+    "length": 7,
+    "end": 4367,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 4367,
+    "length": 50,
+    "end": 4417,
+    "text": "Não precisa se preocupar. Está\nfuncionando bem. "
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 4417,
+    "length": 0,
+    "end": 4417,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 4417,
+    "length": 3,
+    "end": 4420,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 4420,
+    "length": 7,
+    "end": 4427,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 4427,
+    "length": 116,
+    "end": 4543,
+    "text": "Quando ele vê um objetivo, vai direto\natrás, custe o que custar... com uma\nvelocidade e garra que nos envergonham."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 4543,
+    "length": 0,
+    "end": 4543,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 4543,
+    "length": 3,
+    "end": 4546,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 4546,
+    "length": 5,
+    "end": 4551,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 4551,
+    "length": 6,
+    "end": 4557,
+    "text": "......"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 4557,
+    "length": 0,
+    "end": 4557,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 4557,
+    "length": 3,
+    "end": 4560,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 4560,
+    "length": 7,
+    "end": 4567,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 4567,
+    "length": 109,
+    "end": 4676,
+    "text": "Ele vai fazer o que for preciso pra\nficar mais forte e melhor. Esse é o\nNaruto Uzumaki que nós conhecemos. "
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 4676,
+    "length": 0,
+    "end": 4676,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 4676,
+    "length": 3,
+    "end": 4679,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 4679,
+    "length": 5,
+    "end": 4684,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 4684,
+    "length": 9,
+    "end": 4693,
+    "text": "Naruto..."
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 4693,
+    "length": 0,
+    "end": 4693,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 4693,
+    "length": 3,
+    "end": 4696,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 4696,
+    "length": 5,
+    "end": 4701,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 4701,
+    "length": 53,
+    "end": 4754,
+    "text": "Kakashi... Estou contando com você\npra cuidar dele. "
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 4754,
+    "length": 0,
+    "end": 4754,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 4754,
+    "length": 3,
+    "end": 4757,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 4757,
+    "length": 7,
+    "end": 4764,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 4764,
+    "length": 77,
+    "end": 4841,
+    "text": "Na verdade, eu só vou guiá-lo pelo\ncaminho. O resto ele vai fazer\nsozinho. "
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 4841,
+    "length": 0,
+    "end": 4841,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 4841,
+    "length": 3,
+    "end": 4844,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 4844,
+    "length": 7,
+    "end": 4851,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 4851,
+    "length": 62,
+    "end": 4913,
+    "text": "Sinceramente, estou tão animado quanto\nele com essa jornada. "
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 4913,
+    "length": 0,
+    "end": 4913,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 4913,
+    "length": 3,
+    "end": 4916,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 4916,
+    "length": 6,
+    "end": 4922,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 4922,
+    "length": 47,
+    "end": 4969,
+    "text": "Beleza!! Vou treinar como ninguém\njá treinou!"
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 4969,
+    "length": 0,
+    "end": 4969,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 4969,
+    "length": 3,
+    "end": 4972,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 4972,
+    "length": 5,
+    "end": 4977,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 4977,
+    "length": 54,
+    "end": 5031,
+    "text": "É bom treinar, mas não faça nada\nperigoso, Naruto. "
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 5031,
+    "length": 0,
+    "end": 5031,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 5031,
+    "length": 3,
+    "end": 5034,
+    "text": "041"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 5034,
+    "length": 7,
+    "end": 5041,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 5041,
+    "length": 52,
+    "end": 5093,
+    "text": "Que tipo de treino eu deveria\ntentar agora... Hmm..."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 5093,
+    "length": 0,
+    "end": 5093,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 5093,
+    "length": 3,
+    "end": 5096,
+    "text": "042"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "A",
+    "start": 5096,
+    "length": 74,
+    "end": 5170,
+    "text": "Enquanto ouvia o Kakashi sensei,\nimagens deles tomaram a mente de Naruto. "
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 5170,
+    "length": 0,
+    "end": 5170,
+    "text": ""
+  }
+]

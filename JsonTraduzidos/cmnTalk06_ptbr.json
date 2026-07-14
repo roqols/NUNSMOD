@@ -1,0 +1,6946 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 10526,
+    "length": 11,
+    "end": 10537,
+    "text": "talk_ssk_01"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 10537,
+    "length": 6,
+    "end": 10543,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 10543,
+    "length": 0,
+    "end": 10543,
+    "text": ""
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 10543,
+    "length": 0,
+    "end": 10543,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 10543,
+    "length": 11,
+    "end": 10554,
+    "text": "talk_ssk_02"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 10554,
+    "length": 6,
+    "end": 10560,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 10560,
+    "length": 0,
+    "end": 10560,
+    "text": ""
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 10560,
+    "length": 0,
+    "end": 10560,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 10560,
+    "length": 11,
+    "end": 10571,
+    "text": "talk_skr_01"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 10571,
+    "length": 6,
+    "end": 10577,
+    "text": "Sakura"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 10577,
+    "length": 63,
+    "end": 10640,
+    "text": "Vamos trazer o Sasuke de volta, Naruto!\nEu sei que conseguimos!"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 10640,
+    "length": 0,
+    "end": 10640,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 10640,
+    "length": 11,
+    "end": 10651,
+    "text": "talk_skr_02"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 10651,
+    "length": 6,
+    "end": 10657,
+    "text": "Sakura"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 10657,
+    "length": 0,
+    "end": 10657,
+    "text": ""
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 10657,
+    "length": 0,
+    "end": 10657,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 10657,
+    "length": 11,
+    "end": 10668,
+    "text": "talk_kks_01"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 10668,
+    "length": 7,
+    "end": 10675,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 10675,
+    "length": 95,
+    "end": 10770,
+    "text": "Isso deve ter sido bem difícil pra você.\nE desculpa por não ter conseguido chegar\na tempo..."
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 10770,
+    "length": 0,
+    "end": 10770,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 10770,
+    "length": 11,
+    "end": 10781,
+    "text": "talk_kks_02"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 10781,
+    "length": 7,
+    "end": 10788,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 10788,
+    "length": 114,
+    "end": 10902,
+    "text": "Não vou perguntar quais são seus planos\ndaqui pra frente. Só não faça nada de\nque vá se arrepender. Tá bom?"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 10902,
+    "length": 0,
+    "end": 10902,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 10902,
+    "length": 11,
+    "end": 10913,
+    "text": "talk_nej_01"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 10913,
+    "length": 4,
+    "end": 10917,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 10917,
+    "length": 77,
+    "end": 10994,
+    "text": "Eu nunca imaginei que a Vila Oculta do\nSom tivesse um mestre tão poderoso..."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 10994,
+    "length": 0,
+    "end": 10994,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 10994,
+    "length": 11,
+    "end": 11005,
+    "text": "talk_nej_02"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 11005,
+    "length": 4,
+    "end": 11009,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 11009,
+    "length": 75,
+    "end": 11084,
+    "text": "Eu também preciso ficar mais forte...\nAinda tem muita coisa pela frente..."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 11084,
+    "length": 0,
+    "end": 11084,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 11084,
+    "length": 11,
+    "end": 11095,
+    "text": "talk_lee_01"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 11095,
+    "length": 3,
+    "end": 11098,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 11098,
+    "length": 78,
+    "end": 11176,
+    "text": "Na verdade, eu podia ter perdido se o\nGaara da Areia não tivesse aparecido..."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 11176,
+    "length": 0,
+    "end": 11176,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 11176,
+    "length": 11,
+    "end": 11187,
+    "text": "talk_lee_02"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 11187,
+    "length": 3,
+    "end": 11190,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 11190,
+    "length": 67,
+    "end": 11257,
+    "text": "Da próxima vez... Serei eu quem vai\nresgatar, e não o resgatado!!"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 11257,
+    "length": 0,
+    "end": 11257,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 11257,
+    "length": 11,
+    "end": 11268,
+    "text": "talk_ten_01"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 11268,
+    "length": 6,
+    "end": 11274,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 11274,
+    "length": 77,
+    "end": 11351,
+    "text": "O Lee e o Neji participaram daquela\nmissão recente sem me contar, não foi?!"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 11351,
+    "length": 0,
+    "end": 11351,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 11351,
+    "length": 11,
+    "end": 11362,
+    "text": "talk_ten_02"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 11362,
+    "length": 6,
+    "end": 11368,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 11368,
+    "length": 54,
+    "end": 11422,
+    "text": "Que falta de educação! Deviam ter me\nlevado também!"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 11422,
+    "length": 0,
+    "end": 11422,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 11422,
+    "length": 11,
+    "end": 11433,
+    "text": "talk_guy_01"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 11433,
+    "length": 3,
+    "end": 11436,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 11436,
+    "length": 62,
+    "end": 11498,
+    "text": "Hmm... Então você não conseguiu trazer o\nSasuke de volta..."
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 11498,
+    "length": 0,
+    "end": 11498,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 11498,
+    "length": 11,
+    "end": 11509,
+    "text": "talk_guy_02"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 11509,
+    "length": 3,
+    "end": 11512,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 11512,
+    "length": 87,
+    "end": 11599,
+    "text": "Mas você ainda tem um brilho de\nesperança nos olhos. Sei que posso\ncontar com você!!"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 11599,
+    "length": 0,
+    "end": 11599,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 11599,
+    "length": 11,
+    "end": 11610,
+    "text": "talk_sik_01"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 11610,
+    "length": 9,
+    "end": 11619,
+    "text": "Shikamaru"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 11619,
+    "length": 113,
+    "end": 11732,
+    "text": "O resultado daquela última missão\nmostrou que eu ainda tenho muito a\naprender... Desculpa por isso...\nNaruto..."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 11732,
+    "length": 0,
+    "end": 11732,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 11732,
+    "length": 11,
+    "end": 11743,
+    "text": "talk_sik_02"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 11743,
+    "length": 9,
+    "end": 11752,
+    "text": "Shikamaru"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 11752,
+    "length": 62,
+    "end": 11814,
+    "text": "Mas não se preocupe. Da próxima vez eu\nvou resolver direito."
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 11814,
+    "length": 0,
+    "end": 11814,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 11814,
+    "length": 11,
+    "end": 11825,
+    "text": "talk_tyo_01"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 11825,
+    "length": 5,
+    "end": 11830,
+    "text": "Choji"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 11830,
+    "length": 84,
+    "end": 11914,
+    "text": "Foi uma pena o que aconteceu com o\nSasuke, mas fico feliz que todo mundo\nesteja bem."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 11914,
+    "length": 0,
+    "end": 11914,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 11914,
+    "length": 11,
+    "end": 11925,
+    "text": "talk_tyo_02"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 11925,
+    "length": 5,
+    "end": 11930,
+    "text": "Choji"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 11930,
+    "length": 108,
+    "end": 12038,
+    "text": "Ainda podemos tentar de novo enquanto\nestivermos vivos! Então vamos continuar\ndando o nosso melhor, Naruto!"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 12038,
+    "length": 0,
+    "end": 12038,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 12038,
+    "length": 11,
+    "end": 12049,
+    "text": "talk_ino_01"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 12049,
+    "length": 3,
+    "end": 12052,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 12052,
+    "length": 93,
+    "end": 12145,
+    "text": "Para de ser tão negativo, Naruto. Gosto\nmuito mais de você do jeito bobo e feliz\nde sempre!"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 12145,
+    "length": 0,
+    "end": 12145,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 12145,
+    "length": 11,
+    "end": 12156,
+    "text": "talk_ino_02"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 12156,
+    "length": 3,
+    "end": 12159,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 12159,
+    "length": 0,
+    "end": 12159,
+    "text": ""
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 12159,
+    "length": 0,
+    "end": 12159,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 12159,
+    "length": 11,
+    "end": 12170,
+    "text": "talk_asm_01"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 12170,
+    "length": 5,
+    "end": 12175,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 12175,
+    "length": 89,
+    "end": 12264,
+    "text": "O medo de falhar faz você se encolher e\nfugir, ou te motiva a se concentrar em\nmelhorar?"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 12264,
+    "length": 0,
+    "end": 12264,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 12264,
+    "length": 11,
+    "end": 12275,
+    "text": "talk_asm_02"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 12275,
+    "length": 5,
+    "end": 12280,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 12280,
+    "length": 56,
+    "end": 12336,
+    "text": "Eu te vejo como o segundo tipo. E é bom\nque seja assim."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 12336,
+    "length": 0,
+    "end": 12336,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 12336,
+    "length": 11,
+    "end": 12347,
+    "text": "talk_kib_01"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 12347,
+    "length": 4,
+    "end": 12351,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 12351,
+    "length": 86,
+    "end": 12437,
+    "text": "O Akamaru se machucou naquela missão...\nEu não fui bom o suficiente pra\najudá-lo..."
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 12437,
+    "length": 0,
+    "end": 12437,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 12437,
+    "length": 11,
+    "end": 12448,
+    "text": "talk_kib_02"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 12448,
+    "length": 4,
+    "end": 12452,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 12452,
+    "length": 103,
+    "end": 12555,
+    "text": "Não posso decepcionar o Akamaru na\npróxima vez. Vou treinar duro pra ficar\nmais forte e compensá-lo!"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 12555,
+    "length": 0,
+    "end": 12555,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 12555,
+    "length": 11,
+    "end": 12566,
+    "text": "talk_sin_01"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 12566,
+    "length": 5,
+    "end": 12571,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 12571,
+    "length": 66,
+    "end": 12637,
+    "text": "O Kiba me contou que a última missão de\nresgate foi incrível..."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 12637,
+    "length": 0,
+    "end": 12637,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 12637,
+    "length": 11,
+    "end": 12648,
+    "text": "talk_sin_02"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 12648,
+    "length": 5,
+    "end": 12653,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 12653,
+    "length": 51,
+    "end": 12704,
+    "text": "Por que vocês não me levaram...? Deixa\npra lá..."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 12704,
+    "length": 0,
+    "end": 12704,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 12704,
+    "length": 11,
+    "end": 12715,
+    "text": "talk_hnt_01"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 12715,
+    "length": 6,
+    "end": 12721,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 12721,
+    "length": 57,
+    "end": 12778,
+    "text": "Naruto...? Ouvi dizer que você se\nmachucou muito feio..."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 12778,
+    "length": 0,
+    "end": 12778,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 12778,
+    "length": 11,
+    "end": 12789,
+    "text": "talk_hnt_02"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 12789,
+    "length": 6,
+    "end": 12795,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 12795,
+    "length": 50,
+    "end": 12845,
+    "text": "Mas... você parece bem agora, né? Que\nalívio..."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 12845,
+    "length": 0,
+    "end": 12845,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 12845,
+    "length": 11,
+    "end": 12856,
+    "text": "talk_krn_01"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 12856,
+    "length": 7,
+    "end": 12863,
+    "text": "Kurenai"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 12863,
+    "length": 69,
+    "end": 12932,
+    "text": "O Shikamaru se saiu muito bem com um\npelotão formado só por genins."
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 12932,
+    "length": 0,
+    "end": 12932,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 12932,
+    "length": 11,
+    "end": 12943,
+    "text": "talk_krn_02"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 12943,
+    "length": 7,
+    "end": 12950,
+    "text": "Kurenai"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 12950,
+    "length": 86,
+    "end": 13036,
+    "text": "E fico feliz que você também tenha\nvoltado em segurança. Isso é o mais\nimportante."
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 13036,
+    "length": 0,
+    "end": 13036,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 13036,
+    "length": 11,
+    "end": 13047,
+    "text": "talk_ank_01"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 13047,
+    "length": 4,
+    "end": 13051,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 13051,
+    "length": 56,
+    "end": 13107,
+    "text": "Não me importa o que acontece com aquele\ngaroto Uchiha."
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 13107,
+    "length": 0,
+    "end": 13107,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 13107,
+    "length": 11,
+    "end": 13118,
+    "text": "talk_ank_02"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 13118,
+    "length": 4,
+    "end": 13122,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 13122,
+    "length": 122,
+    "end": 13244,
+    "text": "Mas nunca vou perdoar o Orochimaru pelo\nque ele fez... Um dia vou acabar com a\nloucura dele... com minhas próprias\nmãos."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 13244,
+    "length": 0,
+    "end": 13244,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 13244,
+    "length": 11,
+    "end": 13255,
+    "text": "talk_irk_01"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 13255,
+    "length": 5,
+    "end": 13260,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 13260,
+    "length": 68,
+    "end": 13328,
+    "text": "Fiquei sabendo do Sasuke... Que vocês\nnão conseguiram trazê-lo..."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 13328,
+    "length": 0,
+    "end": 13328,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 13328,
+    "length": 11,
+    "end": 13339,
+    "text": "talk_irk_02"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 13339,
+    "length": 5,
+    "end": 13344,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 13344,
+    "length": 73,
+    "end": 13417,
+    "text": "Mas você não é do tipo que desiste! Você\nainda tem meu apoio, Naruto!"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 13417,
+    "length": 0,
+    "end": 13417,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 13417,
+    "length": 11,
+    "end": 13428,
+    "text": "talk_knh_01"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 13428,
+    "length": 10,
+    "end": 13438,
+    "text": "Konohamaru"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 13438,
+    "length": 74,
+    "end": 13512,
+    "text": "É melhor eu treinar duro todo dia se eu\nquiser ficar forte que nem você!"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 13512,
+    "length": 0,
+    "end": 13512,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 13512,
+    "length": 11,
+    "end": 13523,
+    "text": "talk_knh_02"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 13523,
+    "length": 10,
+    "end": 13533,
+    "text": "Konohamaru"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 13533,
+    "length": 0,
+    "end": 13533,
+    "text": ""
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 13533,
+    "length": 0,
+    "end": 13533,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 13533,
+    "length": 11,
+    "end": 13544,
+    "text": "talk_jry_01"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 13544,
+    "length": 7,
+    "end": 13551,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 13551,
+    "length": 55,
+    "end": 13606,
+    "text": "Meu treino é difícil, então aproveite\nenquanto pode."
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 13606,
+    "length": 0,
+    "end": 13606,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 13606,
+    "length": 11,
+    "end": 13617,
+    "text": "talk_jry_02"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 13617,
+    "length": 7,
+    "end": 13624,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 13624,
+    "length": 122,
+    "end": 13746,
+    "text": "Vou grudar em você que nem chiclete\ndurante o treino, então preciso sair e\nfazer um pouco mais de pesquisa que o\nnormal!"
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 13746,
+    "length": 0,
+    "end": 13746,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 13746,
+    "length": 11,
+    "end": 13757,
+    "text": "talk_tnd_01"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 13757,
+    "length": 7,
+    "end": 13764,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 13764,
+    "length": 62,
+    "end": 13826,
+    "text": "A Sakura acabou de se inscrever pra ser\numa das minhas alunas."
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 13826,
+    "length": 0,
+    "end": 13826,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 13826,
+    "length": 11,
+    "end": 13837,
+    "text": "talk_tnd_02"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 13837,
+    "length": 7,
+    "end": 13844,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 13844,
+    "length": 78,
+    "end": 13922,
+    "text": "Hehe, quero ver quem vai melhorar mais.\nParece uma competição, hein, Naruto?"
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 13922,
+    "length": 0,
+    "end": 13922,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 13922,
+    "length": 11,
+    "end": 13933,
+    "text": "talk_szn_01"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 13933,
+    "length": 7,
+    "end": 13940,
+    "text": "Shizune"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 13940,
+    "length": 89,
+    "end": 14029,
+    "text": "Ouvi dizer que você vai treinar com o\nJiraiya. Vamos meio que sentir sua falta\npor aqui."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 14029,
+    "length": 0,
+    "end": 14029,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 14029,
+    "length": 11,
+    "end": 14040,
+    "text": "talk_szn_02"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 14040,
+    "length": 7,
+    "end": 14047,
+    "text": "Shizune"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 14047,
+    "length": 100,
+    "end": 14147,
+    "text": "Por favor, prometa que vai voltar em\nsegurança, Naruto. Todos nós vamos estar\nesperando por você."
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 14147,
+    "length": 0,
+    "end": 14147,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 14147,
+    "length": 11,
+    "end": 14158,
+    "text": "talk_hkg_01"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 14158,
+    "length": 16,
+    "end": 14174,
+    "text": "The Third Hokage"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 14174,
+    "length": 0,
+    "end": 14174,
+    "text": ""
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 14174,
+    "length": 0,
+    "end": 14174,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 14174,
+    "length": 11,
+    "end": 14185,
+    "text": "talk_hkg_02"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 14185,
+    "length": 16,
+    "end": 14201,
+    "text": "The Third Hokage"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 14201,
+    "length": 0,
+    "end": 14201,
+    "text": ""
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 14201,
+    "length": 0,
+    "end": 14201,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 14201,
+    "length": 11,
+    "end": 14212,
+    "text": "talk_gar_01"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 14212,
+    "length": 5,
+    "end": 14217,
+    "text": "Gaara"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 14217,
+    "length": 84,
+    "end": 14301,
+    "text": "Aquele ninja do Som, o Kimimaro... Ele\nnão era tão diferente de você...\nNaruto..."
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 14301,
+    "length": 0,
+    "end": 14301,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 14301,
+    "length": 11,
+    "end": 14312,
+    "text": "talk_gar_02"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 14312,
+    "length": 5,
+    "end": 14317,
+    "text": "Gaara"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 14317,
+    "length": 75,
+    "end": 14392,
+    "text": "Lutar por aqueles que são importantes...\nEssa era a única vontade dele..."
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 14392,
+    "length": 0,
+    "end": 14392,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 14392,
+    "length": 11,
+    "end": 14403,
+    "text": "talk_knk_01"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 14403,
+    "length": 7,
+    "end": 14410,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 14410,
+    "length": 64,
+    "end": 14474,
+    "text": "Eu nunca imaginei que conseguiria voltar\nà Vila da Folha assim."
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 14474,
+    "length": 0,
+    "end": 14474,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 14474,
+    "length": 11,
+    "end": 14485,
+    "text": "talk_knk_02"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-implicit",
+    "start": 14485,
+    "length": 7,
+    "end": 14492,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-explicit",
+    "start": 14492,
+    "length": 121,
+    "end": 14613,
+    "text": "Desculpa por toda aquela história de\natacar a sua vila. Mas pode ficar\ntranquilo agora, não vamos trair vocês\nde novo."
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 14613,
+    "length": 0,
+    "end": 14613,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 14613,
+    "length": 11,
+    "end": 14624,
+    "text": "talk_tmr_01"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-implicit",
+    "start": 14624,
+    "length": 6,
+    "end": 14630,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-explicit",
+    "start": 14630,
+    "length": 77,
+    "end": 14707,
+    "text": "Admito que estávamos errados sobre a\nDestruição da Vila Oculta da Folha..."
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 14707,
+    "length": 0,
+    "end": 14707,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 14707,
+    "length": 11,
+    "end": 14718,
+    "text": "talk_tmr_02"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-implicit",
+    "start": 14718,
+    "length": 6,
+    "end": 14724,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-explicit",
+    "start": 14724,
+    "length": 65,
+    "end": 14789,
+    "text": "Mas estávamos apenas seguindo ordens...\nNão era nada pessoal..."
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 14789,
+    "length": 0,
+    "end": 14789,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 14789,
+    "length": 11,
+    "end": 14800,
+    "text": "talk_tuc_01"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-implicit",
+    "start": 14800,
+    "length": 6,
+    "end": 14806,
+    "text": "Teuchi"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-explicit",
+    "start": 14806,
+    "length": 78,
+    "end": 14884,
+    "text": "Você é um ninja bem melhor do que antes.\nCerto, continue dando o seu melhor!"
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 14884,
+    "length": 0,
+    "end": 14884,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 14884,
+    "length": 11,
+    "end": 14895,
+    "text": "talk_tuc_02"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-implicit",
+    "start": 14895,
+    "length": 6,
+    "end": 14901,
+    "text": "Teuchi"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-explicit",
+    "start": 14901,
+    "length": 0,
+    "end": 14901,
+    "text": ""
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 14901,
+    "length": 0,
+    "end": 14901,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 14901,
+    "length": 13,
+    "end": 14914,
+    "text": "talk_man01_01"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-implicit",
+    "start": 14914,
+    "length": 5,
+    "end": 14919,
+    "text": "Youth"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-explicit",
+    "start": 14919,
+    "length": 68,
+    "end": 14987,
+    "text": "Finalmente consegui ver a Quinta Hokage!\nQue rainha da beleza, hein!"
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 14987,
+    "length": 0,
+    "end": 14987,
+    "text": ""
+  },
+  {
+    "table_pos": 2608,
+    "mode": "A",
+    "start": 14987,
+    "length": 13,
+    "end": 15000,
+    "text": "talk_man01_02"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-implicit",
+    "start": 15000,
+    "length": 5,
+    "end": 15005,
+    "text": "Youth"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-explicit",
+    "start": 15005,
+    "length": 91,
+    "end": 15096,
+    "text": "Eu sempre achei que o Hokage tinha que\nser algum velhote, mas nossa, como eu\nestava errado!"
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 15096,
+    "length": 0,
+    "end": 15096,
+    "text": ""
+  },
+  {
+    "table_pos": 2656,
+    "mode": "A",
+    "start": 15096,
+    "length": 13,
+    "end": 15109,
+    "text": "talk_man02_01"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-implicit",
+    "start": 15109,
+    "length": 5,
+    "end": 15114,
+    "text": "Youth"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-explicit",
+    "start": 15114,
+    "length": 58,
+    "end": 15172,
+    "text": "Que dia relaxante. É bom ter dias assim\nde vez em quando."
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 15172,
+    "length": 0,
+    "end": 15172,
+    "text": ""
+  },
+  {
+    "table_pos": 2704,
+    "mode": "A",
+    "start": 15172,
+    "length": 13,
+    "end": 15185,
+    "text": "talk_man02_02"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-implicit",
+    "start": 15185,
+    "length": 5,
+    "end": 15190,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-explicit",
+    "start": 15190,
+    "length": 0,
+    "end": 15190,
+    "text": ""
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 15190,
+    "length": 0,
+    "end": 15190,
+    "text": ""
+  },
+  {
+    "table_pos": 2752,
+    "mode": "A",
+    "start": 15190,
+    "length": 13,
+    "end": 15203,
+    "text": "talk_man03_01"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-implicit",
+    "start": 15203,
+    "length": 5,
+    "end": 15208,
+    "text": "Youth"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-explicit",
+    "start": 15208,
+    "length": 72,
+    "end": 15280,
+    "text": "Ei, tem algo diferente nos seus olhos...\nEles parecem diferentes hoje..."
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 15280,
+    "length": 0,
+    "end": 15280,
+    "text": ""
+  },
+  {
+    "table_pos": 2800,
+    "mode": "A",
+    "start": 15280,
+    "length": 13,
+    "end": 15293,
+    "text": "talk_man03_02"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-implicit",
+    "start": 15293,
+    "length": 5,
+    "end": 15298,
+    "text": "Youth"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-explicit",
+    "start": 15298,
+    "length": 70,
+    "end": 15368,
+    "text": "Está começando algo novo? Seja lá o que\nfor, você tem o meu apoio."
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 15368,
+    "length": 0,
+    "end": 15368,
+    "text": ""
+  },
+  {
+    "table_pos": 2848,
+    "mode": "A",
+    "start": 15368,
+    "length": 13,
+    "end": 15381,
+    "text": "talk_man04_01"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "B-implicit",
+    "start": 15381,
+    "length": 5,
+    "end": 15386,
+    "text": "Youth"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "B-explicit",
+    "start": 15386,
+    "length": 99,
+    "end": 15485,
+    "text": "Eu fui ao Ichiraku e vi um monte de\nalunos da Academia Ninja curtindo lámen\ncom o professor deles."
+  },
+  {
+    "table_pos": 2880,
+    "mode": "A",
+    "start": 15485,
+    "length": 0,
+    "end": 15485,
+    "text": ""
+  },
+  {
+    "table_pos": 2896,
+    "mode": "A",
+    "start": 15485,
+    "length": 13,
+    "end": 15498,
+    "text": "talk_man04_02"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "B-implicit",
+    "start": 15498,
+    "length": 5,
+    "end": 15503,
+    "text": "Youth"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "B-explicit",
+    "start": 15503,
+    "length": 58,
+    "end": 15561,
+    "text": "Foi bom ver o quanto aqueles alunos\nadmiravam o professor."
+  },
+  {
+    "table_pos": 2928,
+    "mode": "A",
+    "start": 15561,
+    "length": 0,
+    "end": 15561,
+    "text": ""
+  },
+  {
+    "table_pos": 2944,
+    "mode": "A",
+    "start": 15561,
+    "length": 13,
+    "end": 15574,
+    "text": "talk_old01_01"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "B-implicit",
+    "start": 15574,
+    "length": 7,
+    "end": 15581,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "B-explicit",
+    "start": 15581,
+    "length": 28,
+    "end": 15609,
+    "text": "Hmm... Que brisa agradável."
+  },
+  {
+    "table_pos": 2976,
+    "mode": "A",
+    "start": 15609,
+    "length": 0,
+    "end": 15609,
+    "text": ""
+  },
+  {
+    "table_pos": 2992,
+    "mode": "A",
+    "start": 15609,
+    "length": 13,
+    "end": 15622,
+    "text": "talk_old01_02"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "B-implicit",
+    "start": 15622,
+    "length": 7,
+    "end": 15629,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "B-explicit",
+    "start": 15629,
+    "length": 87,
+    "end": 15716,
+    "text": "Uma boa brisa sempre leva embora as\ncoisas ruins... Eu consigo sentir a\ngentileza nela."
+  },
+  {
+    "table_pos": 3024,
+    "mode": "A",
+    "start": 15716,
+    "length": 0,
+    "end": 15716,
+    "text": ""
+  },
+  {
+    "table_pos": 3040,
+    "mode": "A",
+    "start": 15716,
+    "length": 13,
+    "end": 15729,
+    "text": "talk_old02_01"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "B-implicit",
+    "start": 15729,
+    "length": 7,
+    "end": 15736,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "B-explicit",
+    "start": 15736,
+    "length": 97,
+    "end": 15833,
+    "text": "Eu vi um ninja da Areia Oculta há pouco,\ne parece que nossa aliança com eles\nainda está firme."
+  },
+  {
+    "table_pos": 3072,
+    "mode": "A",
+    "start": 15833,
+    "length": 0,
+    "end": 15833,
+    "text": ""
+  },
+  {
+    "table_pos": 3088,
+    "mode": "A",
+    "start": 15833,
+    "length": 13,
+    "end": 15846,
+    "text": "talk_old02_02"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "B-implicit",
+    "start": 15846,
+    "length": 7,
+    "end": 15853,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "B-explicit",
+    "start": 15853,
+    "length": 75,
+    "end": 15928,
+    "text": "Espero que consigamos manter boas\nrelações com eles, sem mais traições."
+  },
+  {
+    "table_pos": 3120,
+    "mode": "A",
+    "start": 15928,
+    "length": 0,
+    "end": 15928,
+    "text": ""
+  },
+  {
+    "table_pos": 3136,
+    "mode": "A",
+    "start": 15928,
+    "length": 13,
+    "end": 15941,
+    "text": "talk_old03_01"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "B-implicit",
+    "start": 15941,
+    "length": 7,
+    "end": 15948,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "B-explicit",
+    "start": 15948,
+    "length": 64,
+    "end": 16012,
+    "text": "Parece que eles não vão realizar uma\nrevanche do Exame Chunin."
+  },
+  {
+    "table_pos": 3168,
+    "mode": "A",
+    "start": 16012,
+    "length": 0,
+    "end": 16012,
+    "text": ""
+  },
+  {
+    "table_pos": 3184,
+    "mode": "A",
+    "start": 16012,
+    "length": 13,
+    "end": 16025,
+    "text": "talk_old03_02"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "B-implicit",
+    "start": 16025,
+    "length": 7,
+    "end": 16032,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "B-explicit",
+    "start": 16032,
+    "length": 77,
+    "end": 16109,
+    "text": "Hmm... Que pena. Eu estava ansioso por\nisso, mas parece que não tem jeito..."
+  },
+  {
+    "table_pos": 3216,
+    "mode": "A",
+    "start": 16109,
+    "length": 0,
+    "end": 16109,
+    "text": ""
+  },
+  {
+    "table_pos": 3232,
+    "mode": "A",
+    "start": 16109,
+    "length": 13,
+    "end": 16122,
+    "text": "talk_old04_01"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "B-implicit",
+    "start": 16122,
+    "length": 7,
+    "end": 16129,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "B-explicit",
+    "start": 16129,
+    "length": 63,
+    "end": 16192,
+    "text": "Aprendi bastante sobre as ruas desta\nvila só de andar por aí."
+  },
+  {
+    "table_pos": 3264,
+    "mode": "A",
+    "start": 16192,
+    "length": 0,
+    "end": 16192,
+    "text": ""
+  },
+  {
+    "table_pos": 3280,
+    "mode": "A",
+    "start": 16192,
+    "length": 13,
+    "end": 16205,
+    "text": "talk_old04_02"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "B-implicit",
+    "start": 16205,
+    "length": 7,
+    "end": 16212,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "B-explicit",
+    "start": 16212,
+    "length": 114,
+    "end": 16326,
+    "text": "Dá pra descobrir coisas novas e\nestranhas em lugares desconhecidos. Isso\nainda é divertido mesmo na minha idade."
+  },
+  {
+    "table_pos": 3312,
+    "mode": "A",
+    "start": 16326,
+    "length": 0,
+    "end": 16326,
+    "text": ""
+  },
+  {
+    "table_pos": 3328,
+    "mode": "A",
+    "start": 16326,
+    "length": 13,
+    "end": 16339,
+    "text": "talk_boy01_01"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "B-implicit",
+    "start": 16339,
+    "length": 3,
+    "end": 16342,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "B-explicit",
+    "start": 16342,
+    "length": 34,
+    "end": 16376,
+    "text": "A Quinta Hokage é super poderosa!"
+  },
+  {
+    "table_pos": 3360,
+    "mode": "A",
+    "start": 16376,
+    "length": 0,
+    "end": 16376,
+    "text": ""
+  },
+  {
+    "table_pos": 3376,
+    "mode": "A",
+    "start": 16376,
+    "length": 13,
+    "end": 16389,
+    "text": "talk_boy01_02"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "B-implicit",
+    "start": 16389,
+    "length": 3,
+    "end": 16392,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "B-explicit",
+    "start": 16392,
+    "length": 87,
+    "end": 16479,
+    "text": "Ela deu um peteleco na testa de um cara\nde cabelo branco outro dia e mandou ele\nvoando!"
+  },
+  {
+    "table_pos": 3408,
+    "mode": "A",
+    "start": 16479,
+    "length": 0,
+    "end": 16479,
+    "text": ""
+  },
+  {
+    "table_pos": 3424,
+    "mode": "A",
+    "start": 16479,
+    "length": 13,
+    "end": 16492,
+    "text": "talk_boy02_01"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "B-implicit",
+    "start": 16492,
+    "length": 3,
+    "end": 16495,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "B-explicit",
+    "start": 16495,
+    "length": 83,
+    "end": 16578,
+    "text": "Logo vou entrar na Academia Ninja. Estou\nbem nervoso com isso, mas também\nanimado."
+  },
+  {
+    "table_pos": 3456,
+    "mode": "A",
+    "start": 16578,
+    "length": 0,
+    "end": 16578,
+    "text": ""
+  },
+  {
+    "table_pos": 3472,
+    "mode": "A",
+    "start": 16578,
+    "length": 13,
+    "end": 16591,
+    "text": "talk_boy02_02"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "B-implicit",
+    "start": 16591,
+    "length": 3,
+    "end": 16594,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "B-explicit",
+    "start": 16594,
+    "length": 72,
+    "end": 16666,
+    "text": "Vou aprender um monte de técnicas e\ntreinar pra ser um ninja incrível!"
+  },
+  {
+    "table_pos": 3504,
+    "mode": "A",
+    "start": 16666,
+    "length": 0,
+    "end": 16666,
+    "text": ""
+  },
+  {
+    "table_pos": 3520,
+    "mode": "A",
+    "start": 16666,
+    "length": 13,
+    "end": 16679,
+    "text": "talk_boy03_01"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "B-implicit",
+    "start": 16679,
+    "length": 3,
+    "end": 16682,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "B-explicit",
+    "start": 16682,
+    "length": 64,
+    "end": 16746,
+    "text": "Minha mãe disse que era uma ninja feroz\nhá muito tempo atrás."
+  },
+  {
+    "table_pos": 3552,
+    "mode": "A",
+    "start": 16746,
+    "length": 0,
+    "end": 16746,
+    "text": ""
+  },
+  {
+    "table_pos": 3568,
+    "mode": "A",
+    "start": 16746,
+    "length": 13,
+    "end": 16759,
+    "text": "talk_boy03_02"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "B-implicit",
+    "start": 16759,
+    "length": 3,
+    "end": 16762,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "B-explicit",
+    "start": 16762,
+    "length": 108,
+    "end": 16870,
+    "text": "Não sei se ela está falando a verdade,\nmas pode ser. Porque ela fica bem\nassustadora quando está brava..."
+  },
+  {
+    "table_pos": 3600,
+    "mode": "A",
+    "start": 16870,
+    "length": 0,
+    "end": 16870,
+    "text": ""
+  },
+  {
+    "table_pos": 3616,
+    "mode": "A",
+    "start": 16870,
+    "length": 13,
+    "end": 16883,
+    "text": "talk_boy04_01"
+  },
+  {
+    "table_pos": 3632,
+    "mode": "B-implicit",
+    "start": 16883,
+    "length": 3,
+    "end": 16886,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 3632,
+    "mode": "B-explicit",
+    "start": 16886,
+    "length": 54,
+    "end": 16940,
+    "text": "Nossa. Não consigo acompanhar os estudos\nna escola..."
+  },
+  {
+    "table_pos": 3648,
+    "mode": "A",
+    "start": 16940,
+    "length": 0,
+    "end": 16940,
+    "text": ""
+  },
+  {
+    "table_pos": 3664,
+    "mode": "A",
+    "start": 16940,
+    "length": 13,
+    "end": 16953,
+    "text": "talk_boy04_02"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "B-implicit",
+    "start": 16953,
+    "length": 3,
+    "end": 16956,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "B-explicit",
+    "start": 16956,
+    "length": 90,
+    "end": 17046,
+    "text": "Desse jeito eu posso perder até pro\nlendário maior otário da escola! Melhor\neu estudar!"
+  },
+  {
+    "table_pos": 3696,
+    "mode": "A",
+    "start": 17046,
+    "length": 0,
+    "end": 17046,
+    "text": ""
+  },
+  {
+    "table_pos": 3712,
+    "mode": "A",
+    "start": 17046,
+    "length": 13,
+    "end": 17059,
+    "text": "talk_fem01_01"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "B-implicit",
+    "start": 17059,
+    "length": 4,
+    "end": 17063,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "B-explicit",
+    "start": 17063,
+    "length": 77,
+    "end": 17140,
+    "text": "Acabei de ver um ninja da Areia ali, mas\nestamos de boas com eles agora, né?"
+  },
+  {
+    "table_pos": 3744,
+    "mode": "A",
+    "start": 17140,
+    "length": 0,
+    "end": 17140,
+    "text": ""
+  },
+  {
+    "table_pos": 3760,
+    "mode": "A",
+    "start": 17140,
+    "length": 13,
+    "end": 17153,
+    "text": "talk_fem01_02"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "B-implicit",
+    "start": 17153,
+    "length": 4,
+    "end": 17157,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "B-explicit",
+    "start": 17157,
+    "length": 106,
+    "end": 17263,
+    "text": "Seja lá o que aconteceu no passado, é\nsempre reconfortante saber que podemos\nperdoar e seguir em frente."
+  },
+  {
+    "table_pos": 3792,
+    "mode": "A",
+    "start": 17263,
+    "length": 0,
+    "end": 17263,
+    "text": ""
+  },
+  {
+    "table_pos": 3808,
+    "mode": "A",
+    "start": 17263,
+    "length": 13,
+    "end": 17276,
+    "text": "talk_fem02_01"
+  },
+  {
+    "table_pos": 3824,
+    "mode": "B-implicit",
+    "start": 17276,
+    "length": 4,
+    "end": 17280,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 3824,
+    "mode": "B-explicit",
+    "start": 17280,
+    "length": 114,
+    "end": 17394,
+    "text": "É verdade que a Quinta Hokage é viciada\nem jogos de azar? Ouvi dizer que a\nchamam de “Lendária Pata Manca”."
+  },
+  {
+    "table_pos": 3840,
+    "mode": "A",
+    "start": 17394,
+    "length": 0,
+    "end": 17394,
+    "text": ""
+  },
+  {
+    "table_pos": 3856,
+    "mode": "A",
+    "start": 17394,
+    "length": 13,
+    "end": 17407,
+    "text": "talk_fem02_02"
+  },
+  {
+    "table_pos": 3872,
+    "mode": "B-implicit",
+    "start": 17407,
+    "length": 4,
+    "end": 17411,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 3872,
+    "mode": "B-explicit",
+    "start": 17411,
+    "length": 69,
+    "end": 17480,
+    "text": "Isso é bobagem, né? Quer dizer, a Quinta\nHokage, uma jogadora ruim?"
+  },
+  {
+    "table_pos": 3888,
+    "mode": "A",
+    "start": 17480,
+    "length": 0,
+    "end": 17480,
+    "text": ""
+  },
+  {
+    "table_pos": 3904,
+    "mode": "A",
+    "start": 17480,
+    "length": 13,
+    "end": 17493,
+    "text": "talk_fem03_01"
+  },
+  {
+    "table_pos": 3920,
+    "mode": "B-implicit",
+    "start": 17493,
+    "length": 4,
+    "end": 17497,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 3920,
+    "mode": "B-explicit",
+    "start": 17497,
+    "length": 98,
+    "end": 17595,
+    "text": "Talvez seja só impressão minha, mas você\nnão acha que o Clã Hyuga ficou um pouco\nmais brando?"
+  },
+  {
+    "table_pos": 3936,
+    "mode": "A",
+    "start": 17595,
+    "length": 0,
+    "end": 17595,
+    "text": ""
+  },
+  {
+    "table_pos": 3952,
+    "mode": "A",
+    "start": 17595,
+    "length": 13,
+    "end": 17608,
+    "text": "talk_fem03_02"
+  },
+  {
+    "table_pos": 3968,
+    "mode": "B-implicit",
+    "start": 17608,
+    "length": 4,
+    "end": 17612,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 3968,
+    "mode": "B-explicit",
+    "start": 17612,
+    "length": 80,
+    "end": 17692,
+    "text": "Eu achava que eles eram tão sérios, mas\nultimamente tenho visto eles sorrindo."
+  },
+  {
+    "table_pos": 3984,
+    "mode": "A",
+    "start": 17692,
+    "length": 0,
+    "end": 17692,
+    "text": ""
+  },
+  {
+    "table_pos": 4000,
+    "mode": "A",
+    "start": 17692,
+    "length": 13,
+    "end": 17705,
+    "text": "talk_fem04_01"
+  },
+  {
+    "table_pos": 4016,
+    "mode": "B-implicit",
+    "start": 17705,
+    "length": 4,
+    "end": 17709,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 4016,
+    "mode": "B-explicit",
+    "start": 17709,
+    "length": 106,
+    "end": 17815,
+    "text": "A floricultura Yamanaka sempre mantém\nflores frescas e lindas na frente da\nloja. Isso realmente me anima."
+  },
+  {
+    "table_pos": 4032,
+    "mode": "A",
+    "start": 17815,
+    "length": 0,
+    "end": 17815,
+    "text": ""
+  },
+  {
+    "table_pos": 4048,
+    "mode": "A",
+    "start": 17815,
+    "length": 13,
+    "end": 17828,
+    "text": "talk_fem04_02"
+  },
+  {
+    "table_pos": 4064,
+    "mode": "B-implicit",
+    "start": 17828,
+    "length": 4,
+    "end": 17832,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 4064,
+    "mode": "B-explicit",
+    "start": 17832,
+    "length": 81,
+    "end": 17913,
+    "text": "Talvez eu compre algumas flores pra\ndecorar meu quarto. Isso ia melhorar o\nclima."
+  },
+  {
+    "table_pos": 4080,
+    "mode": "A",
+    "start": 17913,
+    "length": 0,
+    "end": 17913,
+    "text": ""
+  },
+  {
+    "table_pos": 4096,
+    "mode": "A",
+    "start": 17913,
+    "length": 13,
+    "end": 17926,
+    "text": "talk_gir01_01"
+  },
+  {
+    "table_pos": 4112,
+    "mode": "B-implicit",
+    "start": 17926,
+    "length": 4,
+    "end": 17930,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 4112,
+    "mode": "B-explicit",
+    "start": 17930,
+    "length": 90,
+    "end": 18020,
+    "text": "Sempre vejo um sapinho pulando por aí,\nmas tudo que ele faz é pregar peças nas\npessoas."
+  },
+  {
+    "table_pos": 4128,
+    "mode": "A",
+    "start": 18020,
+    "length": 0,
+    "end": 18020,
+    "text": ""
+  },
+  {
+    "table_pos": 4144,
+    "mode": "A",
+    "start": 18020,
+    "length": 13,
+    "end": 18033,
+    "text": "talk_gir01_02"
+  },
+  {
+    "table_pos": 4160,
+    "mode": "B-implicit",
+    "start": 18033,
+    "length": 4,
+    "end": 18037,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 4160,
+    "mode": "B-explicit",
+    "start": 18037,
+    "length": 85,
+    "end": 18122,
+    "text": "Mas ele sempre fala coisas engraçadas\nquando converso com ele. Eu adoro aquele\nsapo."
+  },
+  {
+    "table_pos": 4176,
+    "mode": "A",
+    "start": 18122,
+    "length": 0,
+    "end": 18122,
+    "text": ""
+  },
+  {
+    "table_pos": 4192,
+    "mode": "A",
+    "start": 18122,
+    "length": 13,
+    "end": 18135,
+    "text": "talk_gir02_01"
+  },
+  {
+    "table_pos": 4208,
+    "mode": "B-implicit",
+    "start": 18135,
+    "length": 4,
+    "end": 18139,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 4208,
+    "mode": "B-explicit",
+    "start": 18139,
+    "length": 61,
+    "end": 18200,
+    "text": "Vou entrar na Academia Ninja pra me\ntornar uma ninja médica!"
+  },
+  {
+    "table_pos": 4224,
+    "mode": "A",
+    "start": 18200,
+    "length": 0,
+    "end": 18200,
+    "text": ""
+  },
+  {
+    "table_pos": 4240,
+    "mode": "A",
+    "start": 18200,
+    "length": 13,
+    "end": 18213,
+    "text": "talk_gir02_02"
+  },
+  {
+    "table_pos": 4256,
+    "mode": "B-implicit",
+    "start": 18213,
+    "length": 4,
+    "end": 18217,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 4256,
+    "mode": "B-explicit",
+    "start": 18217,
+    "length": 54,
+    "end": 18271,
+    "text": "Não vai ser fácil, mas vou me esforçar e\nser útil!"
+  },
+  {
+    "table_pos": 4272,
+    "mode": "A",
+    "start": 18271,
+    "length": 0,
+    "end": 18271,
+    "text": ""
+  },
+  {
+    "table_pos": 4288,
+    "mode": "A",
+    "start": 18271,
+    "length": 13,
+    "end": 18284,
+    "text": "talk_gir03_01"
+  },
+  {
+    "table_pos": 4304,
+    "mode": "B-implicit",
+    "start": 18284,
+    "length": 4,
+    "end": 18288,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 4304,
+    "mode": "B-explicit",
+    "start": 18288,
+    "length": 76,
+    "end": 18364,
+    "text": "Será o que eu devia brincar hoje...\npega-pega ou guerreiros ninja... hmm..."
+  },
+  {
+    "table_pos": 4320,
+    "mode": "A",
+    "start": 18364,
+    "length": 0,
+    "end": 18364,
+    "text": ""
+  },
+  {
+    "table_pos": 4336,
+    "mode": "A",
+    "start": 18364,
+    "length": 13,
+    "end": 18377,
+    "text": "talk_gir03_02"
+  },
+  {
+    "table_pos": 4352,
+    "mode": "B-implicit",
+    "start": 18377,
+    "length": 5,
+    "end": 18382,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 4352,
+    "mode": "B-explicit",
+    "start": 18382,
+    "length": 0,
+    "end": 18382,
+    "text": ""
+  },
+  {
+    "table_pos": 4368,
+    "mode": "A",
+    "start": 18382,
+    "length": 0,
+    "end": 18382,
+    "text": ""
+  },
+  {
+    "table_pos": 4384,
+    "mode": "A",
+    "start": 18382,
+    "length": 13,
+    "end": 18395,
+    "text": "talk_gir04_01"
+  },
+  {
+    "table_pos": 4400,
+    "mode": "B-implicit",
+    "start": 18395,
+    "length": 4,
+    "end": 18399,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 4400,
+    "mode": "B-explicit",
+    "start": 18399,
+    "length": 40,
+    "end": 18439,
+    "text": "Então você vai viajar, hein? A- Ahn..."
+  },
+  {
+    "table_pos": 4416,
+    "mode": "A",
+    "start": 18439,
+    "length": 0,
+    "end": 18439,
+    "text": ""
+  },
+  {
+    "table_pos": 4432,
+    "mode": "A",
+    "start": 18439,
+    "length": 13,
+    "end": 18452,
+    "text": "talk_gir04_02"
+  },
+  {
+    "table_pos": 4448,
+    "mode": "B-implicit",
+    "start": 18452,
+    "length": 4,
+    "end": 18456,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 4448,
+    "mode": "B-explicit",
+    "start": 18456,
+    "length": 105,
+    "end": 18561,
+    "text": "Bom... não é que eu vá sentir sua falta\nnem nada... É só... treine duro e volte\nmais forte, tá bom?"
+  },
+  {
+    "table_pos": 4464,
+    "mode": "A",
+    "start": 18561,
+    "length": 0,
+    "end": 18561,
+    "text": ""
+  },
+  {
+    "table_pos": 4480,
+    "mode": "A",
+    "start": 18561,
+    "length": 13,
+    "end": 18574,
+    "text": "talk_mdm01_01"
+  },
+  {
+    "table_pos": 4496,
+    "mode": "B-implicit",
+    "start": 18574,
+    "length": 11,
+    "end": 18585,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 4496,
+    "mode": "B-explicit",
+    "start": 18585,
+    "length": 93,
+    "end": 18678,
+    "text": "Bom, é melhor eu começar a preparar o\njantar. Vamos ver, primeiro eu passo na\nquitanda e..."
+  },
+  {
+    "table_pos": 4512,
+    "mode": "A",
+    "start": 18678,
+    "length": 0,
+    "end": 18678,
+    "text": ""
+  },
+  {
+    "table_pos": 4528,
+    "mode": "A",
+    "start": 18678,
+    "length": 13,
+    "end": 18691,
+    "text": "talk_mdm01_02"
+  },
+  {
+    "table_pos": 4544,
+    "mode": "B-implicit",
+    "start": 18691,
+    "length": 5,
+    "end": 18696,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 4544,
+    "mode": "B-explicit",
+    "start": 18696,
+    "length": 0,
+    "end": 18696,
+    "text": ""
+  },
+  {
+    "table_pos": 4560,
+    "mode": "A",
+    "start": 18696,
+    "length": 0,
+    "end": 18696,
+    "text": ""
+  },
+  {
+    "table_pos": 4576,
+    "mode": "A",
+    "start": 18696,
+    "length": 13,
+    "end": 18709,
+    "text": "talk_mdm02_01"
+  },
+  {
+    "table_pos": 4592,
+    "mode": "B-implicit",
+    "start": 18709,
+    "length": 11,
+    "end": 18720,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 4592,
+    "mode": "B-explicit",
+    "start": 18720,
+    "length": 113,
+    "end": 18833,
+    "text": "Meu marido tem vindo pra casa bem mais\nultimamente. Parece que finalmente ele\nnão está pegando tantas missões."
+  },
+  {
+    "table_pos": 4608,
+    "mode": "A",
+    "start": 18833,
+    "length": 0,
+    "end": 18833,
+    "text": ""
+  },
+  {
+    "table_pos": 4624,
+    "mode": "A",
+    "start": 18833,
+    "length": 13,
+    "end": 18846,
+    "text": "talk_mdm02_02"
+  },
+  {
+    "table_pos": 4640,
+    "mode": "B-implicit",
+    "start": 18846,
+    "length": 11,
+    "end": 18857,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 4640,
+    "mode": "B-explicit",
+    "start": 18857,
+    "length": 121,
+    "end": 18978,
+    "text": "Temos uma casa modesta, mas é sempre bom\nter todos os membros da família em casa.\nIsso faz o jantar ficar mais gostoso."
+  },
+  {
+    "table_pos": 4656,
+    "mode": "A",
+    "start": 18978,
+    "length": 0,
+    "end": 18978,
+    "text": ""
+  },
+  {
+    "table_pos": 4672,
+    "mode": "A",
+    "start": 18978,
+    "length": 13,
+    "end": 18991,
+    "text": "talk_mdm03_01"
+  },
+  {
+    "table_pos": 4688,
+    "mode": "B-implicit",
+    "start": 18991,
+    "length": 11,
+    "end": 19002,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 4688,
+    "mode": "B-explicit",
+    "start": 19002,
+    "length": 84,
+    "end": 19086,
+    "text": "As coisas finalmente se acalmaram na\nvila, mas quem sabe o que vai acontecer\ndepois."
+  },
+  {
+    "table_pos": 4704,
+    "mode": "A",
+    "start": 19086,
+    "length": 0,
+    "end": 19086,
+    "text": ""
+  },
+  {
+    "table_pos": 4720,
+    "mode": "A",
+    "start": 19086,
+    "length": 13,
+    "end": 19099,
+    "text": "talk_mdm03_02"
+  },
+  {
+    "table_pos": 4736,
+    "mode": "B-implicit",
+    "start": 19099,
+    "length": 11,
+    "end": 19110,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 4736,
+    "mode": "B-explicit",
+    "start": 19110,
+    "length": 84,
+    "end": 19194,
+    "text": "Quer dizer, igual à Destruição da Vila\nOculta da Folha. Precisamos ficar\nalertas."
+  },
+  {
+    "table_pos": 4752,
+    "mode": "A",
+    "start": 19194,
+    "length": 0,
+    "end": 19194,
+    "text": ""
+  },
+  {
+    "table_pos": 4768,
+    "mode": "A",
+    "start": 19194,
+    "length": 13,
+    "end": 19207,
+    "text": "talk_mdm04_01"
+  },
+  {
+    "table_pos": 4784,
+    "mode": "B-implicit",
+    "start": 19207,
+    "length": 11,
+    "end": 19218,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 4784,
+    "mode": "B-explicit",
+    "start": 19218,
+    "length": 76,
+    "end": 19294,
+    "text": "Meu filho sempre volta pra casa coberto\nde lama. É horrível lavar a roupa."
+  },
+  {
+    "table_pos": 4800,
+    "mode": "A",
+    "start": 19294,
+    "length": 0,
+    "end": 19294,
+    "text": ""
+  },
+  {
+    "table_pos": 4816,
+    "mode": "A",
+    "start": 19294,
+    "length": 13,
+    "end": 19307,
+    "text": "talk_mdm04_02"
+  },
+  {
+    "table_pos": 4832,
+    "mode": "B-implicit",
+    "start": 19307,
+    "length": 11,
+    "end": 19318,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 4832,
+    "mode": "B-explicit",
+    "start": 19318,
+    "length": 92,
+    "end": 19410,
+    "text": "Sei que ele se esforça na Academia\nNinja, mas queria que ele fosse um pouco\nmais cuidadoso."
+  },
+  {
+    "table_pos": 4848,
+    "mode": "A",
+    "start": 19410,
+    "length": 0,
+    "end": 19410,
+    "text": ""
+  },
+  {
+    "table_pos": 4864,
+    "mode": "A",
+    "start": 19410,
+    "length": 13,
+    "end": 19423,
+    "text": "talk_low01_01"
+  },
+  {
+    "table_pos": 4880,
+    "mode": "B-implicit",
+    "start": 19423,
+    "length": 10,
+    "end": 19433,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 4880,
+    "mode": "B-explicit",
+    "start": 19433,
+    "length": 54,
+    "end": 19487,
+    "text": "Você não ficou confuso sobre onde\ncolocar a bandana?"
+  },
+  {
+    "table_pos": 4896,
+    "mode": "A",
+    "start": 19487,
+    "length": 0,
+    "end": 19487,
+    "text": ""
+  },
+  {
+    "table_pos": 4912,
+    "mode": "A",
+    "start": 19487,
+    "length": 13,
+    "end": 19500,
+    "text": "talk_low01_02"
+  },
+  {
+    "table_pos": 4928,
+    "mode": "B-implicit",
+    "start": 19500,
+    "length": 10,
+    "end": 19510,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 4928,
+    "mode": "B-explicit",
+    "start": 19510,
+    "length": 100,
+    "end": 19610,
+    "text": "Com certeza fiquei. Eu podia colocar na\ncabeça que nem todo mundo, ou em algum\nlugar mais estiloso."
+  },
+  {
+    "table_pos": 4944,
+    "mode": "A",
+    "start": 19610,
+    "length": 0,
+    "end": 19610,
+    "text": ""
+  },
+  {
+    "table_pos": 4960,
+    "mode": "A",
+    "start": 19610,
+    "length": 13,
+    "end": 19623,
+    "text": "talk_low02_01"
+  },
+  {
+    "table_pos": 4976,
+    "mode": "B-implicit",
+    "start": 19623,
+    "length": 10,
+    "end": 19633,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 4976,
+    "mode": "B-explicit",
+    "start": 19633,
+    "length": 110,
+    "end": 19743,
+    "text": "Ouvi dizer que o Primeiro e o Segundo\nHokage são irmãos. É uma baita façanha\npra dois irmãos conseguirem!"
+  },
+  {
+    "table_pos": 4992,
+    "mode": "A",
+    "start": 19743,
+    "length": 0,
+    "end": 19743,
+    "text": ""
+  },
+  {
+    "table_pos": 5008,
+    "mode": "A",
+    "start": 19743,
+    "length": 13,
+    "end": 19756,
+    "text": "talk_low02_02"
+  },
+  {
+    "table_pos": 5024,
+    "mode": "B-implicit",
+    "start": 19756,
+    "length": 10,
+    "end": 19766,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 5024,
+    "mode": "B-explicit",
+    "start": 19766,
+    "length": 76,
+    "end": 19842,
+    "text": "Meu irmão é jounin, então talvez eu\ntambém possa ser se eu me esforçar!"
+  },
+  {
+    "table_pos": 5040,
+    "mode": "A",
+    "start": 19842,
+    "length": 0,
+    "end": 19842,
+    "text": ""
+  },
+  {
+    "table_pos": 5056,
+    "mode": "A",
+    "start": 19842,
+    "length": 13,
+    "end": 19855,
+    "text": "talk_low03_01"
+  },
+  {
+    "table_pos": 5072,
+    "mode": "B-implicit",
+    "start": 19855,
+    "length": 10,
+    "end": 19865,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 5072,
+    "mode": "B-explicit",
+    "start": 19865,
+    "length": 75,
+    "end": 19940,
+    "text": "Pode ser meio cedo, mas eu já comecei a\ntreinar pro próximo Exame Chunin!"
+  },
+  {
+    "table_pos": 5088,
+    "mode": "A",
+    "start": 19940,
+    "length": 0,
+    "end": 19940,
+    "text": ""
+  },
+  {
+    "table_pos": 5104,
+    "mode": "A",
+    "start": 19940,
+    "length": 13,
+    "end": 19953,
+    "text": "talk_low03_02"
+  },
+  {
+    "table_pos": 5120,
+    "mode": "B-implicit",
+    "start": 19953,
+    "length": 10,
+    "end": 19963,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 5120,
+    "mode": "B-explicit",
+    "start": 19963,
+    "length": 89,
+    "end": 20052,
+    "text": "Vou passar na próxima vez! Só espera pra\nver! Vou dar meu coração e minha alma\nnisso!"
+  },
+  {
+    "table_pos": 5136,
+    "mode": "A",
+    "start": 20052,
+    "length": 0,
+    "end": 20052,
+    "text": ""
+  },
+  {
+    "table_pos": 5152,
+    "mode": "A",
+    "start": 20052,
+    "length": 13,
+    "end": 20065,
+    "text": "talk_low04_01"
+  },
+  {
+    "table_pos": 5168,
+    "mode": "B-implicit",
+    "start": 20065,
+    "length": 10,
+    "end": 20075,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 5168,
+    "mode": "B-explicit",
+    "start": 20075,
+    "length": 68,
+    "end": 20143,
+    "text": "Já faz um mês inteiro que é só missão,\ntreino, missão, treino."
+  },
+  {
+    "table_pos": 5184,
+    "mode": "A",
+    "start": 20143,
+    "length": 0,
+    "end": 20143,
+    "text": ""
+  },
+  {
+    "table_pos": 5200,
+    "mode": "A",
+    "start": 20143,
+    "length": 13,
+    "end": 20156,
+    "text": "talk_low04_02"
+  },
+  {
+    "table_pos": 5216,
+    "mode": "B-implicit",
+    "start": 20156,
+    "length": 10,
+    "end": 20166,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 5216,
+    "mode": "B-explicit",
+    "start": 20166,
+    "length": 64,
+    "end": 20230,
+    "text": "Aaah! Quando é que o mestre vai nos\nensinar uma técnica nova!?"
+  },
+  {
+    "table_pos": 5232,
+    "mode": "A",
+    "start": 20230,
+    "length": 0,
+    "end": 20230,
+    "text": ""
+  },
+  {
+    "table_pos": 5248,
+    "mode": "A",
+    "start": 20230,
+    "length": 13,
+    "end": 20243,
+    "text": "talk_mid01_01"
+  },
+  {
+    "table_pos": 5264,
+    "mode": "B-implicit",
+    "start": 20243,
+    "length": 11,
+    "end": 20254,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 5264,
+    "mode": "B-explicit",
+    "start": 20254,
+    "length": 115,
+    "end": 20369,
+    "text": "A Quinta Hokage me deu uma ordem\npessoalmente outro dia. Fiquei super\nanimado imaginando qual seria minha\ntarefa..."
+  },
+  {
+    "table_pos": 5280,
+    "mode": "A",
+    "start": 20369,
+    "length": 0,
+    "end": 20369,
+    "text": ""
+  },
+  {
+    "table_pos": 5296,
+    "mode": "A",
+    "start": 20369,
+    "length": 13,
+    "end": 20382,
+    "text": "talk_mid01_02"
+  },
+  {
+    "table_pos": 5312,
+    "mode": "B-implicit",
+    "start": 20382,
+    "length": 11,
+    "end": 20393,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 5312,
+    "mode": "B-explicit",
+    "start": 20393,
+    "length": 108,
+    "end": 20501,
+    "text": "E acabei escoltando ela até os cassinos.\nOu melhor, como alguém pra ficar de olho\nna Shizune. Isso dói..."
+  },
+  {
+    "table_pos": 5328,
+    "mode": "A",
+    "start": 20501,
+    "length": 0,
+    "end": 20501,
+    "text": ""
+  },
+  {
+    "table_pos": 5344,
+    "mode": "A",
+    "start": 20501,
+    "length": 13,
+    "end": 20514,
+    "text": "talk_mid02_01"
+  },
+  {
+    "table_pos": 5360,
+    "mode": "B-implicit",
+    "start": 20514,
+    "length": 11,
+    "end": 20525,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 5360,
+    "mode": "B-explicit",
+    "start": 20525,
+    "length": 75,
+    "end": 20600,
+    "text": "Depois de arrastar os pés por 4 missões,\nfinalmente tenho um tempo livre."
+  },
+  {
+    "table_pos": 5376,
+    "mode": "A",
+    "start": 20600,
+    "length": 0,
+    "end": 20600,
+    "text": ""
+  },
+  {
+    "table_pos": 5392,
+    "mode": "A",
+    "start": 20600,
+    "length": 13,
+    "end": 20613,
+    "text": "talk_mid02_02"
+  },
+  {
+    "table_pos": 5408,
+    "mode": "B-implicit",
+    "start": 20613,
+    "length": 11,
+    "end": 20624,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 5408,
+    "mode": "B-explicit",
+    "start": 20624,
+    "length": 74,
+    "end": 20698,
+    "text": "Estou morto de cansaço... Provavelmente\nvou acabar dormindo o tempo todo."
+  },
+  {
+    "table_pos": 5424,
+    "mode": "A",
+    "start": 20698,
+    "length": 0,
+    "end": 20698,
+    "text": ""
+  },
+  {
+    "table_pos": 5440,
+    "mode": "A",
+    "start": 20698,
+    "length": 13,
+    "end": 20711,
+    "text": "talk_mid03_01"
+  },
+  {
+    "table_pos": 5456,
+    "mode": "B-implicit",
+    "start": 20711,
+    "length": 11,
+    "end": 20722,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 5456,
+    "mode": "B-explicit",
+    "start": 20722,
+    "length": 83,
+    "end": 20805,
+    "text": "Ouvi dizer que aquele garoto Uchiha foi\nembora pra algum lugar e nunca mais\nvoltou."
+  },
+  {
+    "table_pos": 5472,
+    "mode": "A",
+    "start": 20805,
+    "length": 0,
+    "end": 20805,
+    "text": ""
+  },
+  {
+    "table_pos": 5488,
+    "mode": "A",
+    "start": 20805,
+    "length": 13,
+    "end": 20818,
+    "text": "talk_mid03_02"
+  },
+  {
+    "table_pos": 5504,
+    "mode": "B-implicit",
+    "start": 20818,
+    "length": 11,
+    "end": 20829,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 5504,
+    "mode": "B-explicit",
+    "start": 20829,
+    "length": 103,
+    "end": 20932,
+    "text": "Isso significa que o Clã Uchiha\ndesapareceu da nossa vila... Eles eram o\nclã mais forte daqui, sabia?"
+  },
+  {
+    "table_pos": 5520,
+    "mode": "A",
+    "start": 20932,
+    "length": 0,
+    "end": 20932,
+    "text": ""
+  },
+  {
+    "table_pos": 5536,
+    "mode": "A",
+    "start": 20932,
+    "length": 13,
+    "end": 20945,
+    "text": "talk_mid04_01"
+  },
+  {
+    "table_pos": 5552,
+    "mode": "B-implicit",
+    "start": 20945,
+    "length": 11,
+    "end": 20956,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 5552,
+    "mode": "B-explicit",
+    "start": 20956,
+    "length": 45,
+    "end": 21001,
+    "text": "Acabei vendo o Kakashi enquanto ele\ntreinava."
+  },
+  {
+    "table_pos": 5568,
+    "mode": "A",
+    "start": 21001,
+    "length": 0,
+    "end": 21001,
+    "text": ""
+  },
+  {
+    "table_pos": 5584,
+    "mode": "A",
+    "start": 21001,
+    "length": 13,
+    "end": 21014,
+    "text": "talk_mid04_02"
+  },
+  {
+    "table_pos": 5600,
+    "mode": "B-implicit",
+    "start": 21014,
+    "length": 11,
+    "end": 21025,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 5600,
+    "mode": "B-explicit",
+    "start": 21025,
+    "length": 98,
+    "end": 21123,
+    "text": "Ele já é forte o bastante mas...\ncontinuar treinando tanto assim... É\nrealmente impressionante."
+  },
+  {
+    "table_pos": 5616,
+    "mode": "A",
+    "start": 21123,
+    "length": 0,
+    "end": 21123,
+    "text": ""
+  },
+  {
+    "table_pos": 5632,
+    "mode": "A",
+    "start": 21123,
+    "length": 19,
+    "end": 21142,
+    "text": "talk_meeting_10_001"
+  },
+  {
+    "table_pos": 5648,
+    "mode": "B-implicit",
+    "start": 21142,
+    "length": 7,
+    "end": 21149,
+    "text": "Teacher"
+  },
+  {
+    "table_pos": 5648,
+    "mode": "B-explicit",
+    "start": 21149,
+    "length": 88,
+    "end": 21237,
+    "text": "Preciso que você escolte um dignitário\naté a Terra das Ondas na sua próxima\nmissão."
+  },
+  {
+    "table_pos": 5664,
+    "mode": "A",
+    "start": 21237,
+    "length": 0,
+    "end": 21237,
+    "text": ""
+  },
+  {
+    "table_pos": 5680,
+    "mode": "A",
+    "start": 21237,
+    "length": 19,
+    "end": 21256,
+    "text": "talk_meeting_10_002"
+  },
+  {
+    "table_pos": 5696,
+    "mode": "B-implicit",
+    "start": 21256,
+    "length": 10,
+    "end": 21266,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 5696,
+    "mode": "B-explicit",
+    "start": 21266,
+    "length": 28,
+    "end": 21294,
+    "text": "Ei! Isso é rank C, não é?"
+  },
+  {
+    "table_pos": 5712,
+    "mode": "A",
+    "start": 21294,
+    "length": 0,
+    "end": 21294,
+    "text": ""
+  },
+  {
+    "table_pos": 5728,
+    "mode": "A",
+    "start": 21294,
+    "length": 19,
+    "end": 21313,
+    "text": "talk_meeting_10_003"
+  },
+  {
+    "table_pos": 5744,
+    "mode": "B-implicit",
+    "start": 21313,
+    "length": 7,
+    "end": 21320,
+    "text": "Teacher"
+  },
+  {
+    "table_pos": 5744,
+    "mode": "B-explicit",
+    "start": 21320,
+    "length": 95,
+    "end": 21415,
+    "text": "Sim, é, e não fique tão animado com\nisso. Foi assim que você foi reprovado\nno exame, sabia?"
+  },
+  {
+    "table_pos": 5760,
+    "mode": "A",
+    "start": 21415,
+    "length": 0,
+    "end": 21415,
+    "text": ""
+  },
+  {
+    "table_pos": 5776,
+    "mode": "A",
+    "start": 21415,
+    "length": 19,
+    "end": 21434,
+    "text": "talk_meeting_10_004"
+  },
+  {
+    "table_pos": 5792,
+    "mode": "B-implicit",
+    "start": 21434,
+    "length": 10,
+    "end": 21444,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 5792,
+    "mode": "B-explicit",
+    "start": 21444,
+    "length": 55,
+    "end": 21499,
+    "text": "Eu sei... eu sei... UHUU! Estou MUITO\nanimado com isso!"
+  },
+  {
+    "table_pos": 5808,
+    "mode": "A",
+    "start": 21499,
+    "length": 0,
+    "end": 21499,
+    "text": ""
+  },
+  {
+    "table_pos": 5824,
+    "mode": "A",
+    "start": 21499,
+    "length": 19,
+    "end": 21518,
+    "text": "talk_meeting_10_005"
+  },
+  {
+    "table_pos": 5840,
+    "mode": "B-implicit",
+    "start": 21518,
+    "length": 7,
+    "end": 21525,
+    "text": "Teacher"
+  },
+  {
+    "table_pos": 5840,
+    "mode": "B-explicit",
+    "start": 21525,
+    "length": 39,
+    "end": 21564,
+    "text": "Você simplesmente não entende, né..."
+  },
+  {
+    "table_pos": 5856,
+    "mode": "A",
+    "start": 21564,
+    "length": 0,
+    "end": 21564,
+    "text": ""
+  },
+  {
+    "table_pos": 5872,
+    "mode": "A",
+    "start": 21564,
+    "length": 19,
+    "end": 21583,
+    "text": "talk_meeting_11_001"
+  },
+  {
+    "table_pos": 5888,
+    "mode": "B-implicit",
+    "start": 21583,
+    "length": 4,
+    "end": 21587,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 5888,
+    "mode": "B-explicit",
+    "start": 21587,
+    "length": 54,
+    "end": 21641,
+    "text": "Meu irmão mais velho vai voltar da\nmissão dele hoje?"
+  },
+  {
+    "table_pos": 5904,
+    "mode": "A",
+    "start": 21641,
+    "length": 0,
+    "end": 21641,
+    "text": ""
+  },
+  {
+    "table_pos": 5920,
+    "mode": "A",
+    "start": 21641,
+    "length": 19,
+    "end": 21660,
+    "text": "talk_meeting_11_002"
+  },
+  {
+    "table_pos": 5936,
+    "mode": "B-implicit",
+    "start": 21660,
+    "length": 6,
+    "end": 21666,
+    "text": "Mother"
+  },
+  {
+    "table_pos": 5936,
+    "mode": "B-explicit",
+    "start": 21666,
+    "length": 75,
+    "end": 21741,
+    "text": "Uhum. E conhecendo ele, tenho certeza\nque vai ser uma ocasião bem animada."
+  },
+  {
+    "table_pos": 5952,
+    "mode": "A",
+    "start": 21741,
+    "length": 0,
+    "end": 21741,
+    "text": ""
+  },
+  {
+    "table_pos": 5968,
+    "mode": "A",
+    "start": 21741,
+    "length": 19,
+    "end": 21760,
+    "text": "talk_meeting_11_003"
+  },
+  {
+    "table_pos": 5984,
+    "mode": "B-implicit",
+    "start": 21760,
+    "length": 4,
+    "end": 21764,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 5984,
+    "mode": "B-explicit",
+    "start": 21764,
+    "length": 63,
+    "end": 21827,
+    "text": "Que ótimo! Será o que ele vai trazer de\nlembrancinha pra mim!"
+  },
+  {
+    "table_pos": 6000,
+    "mode": "A",
+    "start": 21827,
+    "length": 0,
+    "end": 21827,
+    "text": ""
+  },
+  {
+    "table_pos": 6016,
+    "mode": "A",
+    "start": 21827,
+    "length": 19,
+    "end": 21846,
+    "text": "talk_meeting_11_004"
+  },
+  {
+    "table_pos": 6032,
+    "mode": "B-implicit",
+    "start": 21846,
+    "length": 6,
+    "end": 21852,
+    "text": "Mother"
+  },
+  {
+    "table_pos": 6032,
+    "mode": "B-explicit",
+    "start": 21852,
+    "length": 53,
+    "end": 21905,
+    "text": "É melhor eu começar a fazer a comida\nfavorita dele."
+  },
+  {
+    "table_pos": 6048,
+    "mode": "A",
+    "start": 21905,
+    "length": 0,
+    "end": 21905,
+    "text": ""
+  },
+  {
+    "table_pos": 6064,
+    "mode": "A",
+    "start": 21905,
+    "length": 19,
+    "end": 21924,
+    "text": "talk_meeting_12_001"
+  },
+  {
+    "table_pos": 6080,
+    "mode": "B-implicit",
+    "start": 21924,
+    "length": 13,
+    "end": 21937,
+    "text": "Fidgety youth"
+  },
+  {
+    "table_pos": 6080,
+    "mode": "B-explicit",
+    "start": 21937,
+    "length": 36,
+    "end": 21973,
+    "text": "Ei, você viu Violência da Paquera?"
+  },
+  {
+    "table_pos": 6096,
+    "mode": "A",
+    "start": 21973,
+    "length": 0,
+    "end": 21973,
+    "text": ""
+  },
+  {
+    "table_pos": 6112,
+    "mode": "A",
+    "start": 21973,
+    "length": 19,
+    "end": 21992,
+    "text": "talk_meeting_12_002"
+  },
+  {
+    "table_pos": 6128,
+    "mode": "B-implicit",
+    "start": 21992,
+    "length": 12,
+    "end": 22004,
+    "text": "Joyful youth"
+  },
+  {
+    "table_pos": 6128,
+    "mode": "B-explicit",
+    "start": 22004,
+    "length": 27,
+    "end": 22031,
+    "text": "Com certeza! Foi incrível!"
+  },
+  {
+    "table_pos": 6144,
+    "mode": "A",
+    "start": 22031,
+    "length": 0,
+    "end": 22031,
+    "text": ""
+  },
+  {
+    "table_pos": 6160,
+    "mode": "A",
+    "start": 22031,
+    "length": 19,
+    "end": 22050,
+    "text": "talk_meeting_12_003"
+  },
+  {
+    "table_pos": 6176,
+    "mode": "B-implicit",
+    "start": 22050,
+    "length": 13,
+    "end": 22063,
+    "text": "Fidgety youth"
+  },
+  {
+    "table_pos": 6176,
+    "mode": "B-explicit",
+    "start": 22063,
+    "length": 29,
+    "end": 22092,
+    "text": "Nada supera a série Paquera!"
+  },
+  {
+    "table_pos": 6192,
+    "mode": "A",
+    "start": 22092,
+    "length": 0,
+    "end": 22092,
+    "text": ""
+  },
+  {
+    "table_pos": 6208,
+    "mode": "A",
+    "start": 22092,
+    "length": 19,
+    "end": 22111,
+    "text": "talk_meeting_12_004"
+  },
+  {
+    "table_pos": 6224,
+    "mode": "B-implicit",
+    "start": 22111,
+    "length": 12,
+    "end": 22123,
+    "text": "Joyful youth"
+  },
+  {
+    "table_pos": 6224,
+    "mode": "B-explicit",
+    "start": 22123,
+    "length": 47,
+    "end": 22170,
+    "text": "Com certeza. Mal posso esperar o próximo\nsair!"
+  },
+  {
+    "table_pos": 6240,
+    "mode": "A",
+    "start": 22170,
+    "length": 0,
+    "end": 22170,
+    "text": ""
+  },
+  {
+    "table_pos": 6256,
+    "mode": "A",
+    "start": 22170,
+    "length": 11,
+    "end": 22181,
+    "text": "talk_ebs_01"
+  },
+  {
+    "table_pos": 6272,
+    "mode": "B-implicit",
+    "start": 22181,
+    "length": 5,
+    "end": 22186,
+    "text": "Ebisu"
+  },
+  {
+    "table_pos": 6272,
+    "mode": "B-explicit",
+    "start": 22186,
+    "length": 72,
+    "end": 22258,
+    "text": "Ah, Naruto. Ouvi dizer que você vai\npartir numa jornada de treinamento?"
+  },
+  {
+    "table_pos": 6288,
+    "mode": "A",
+    "start": 22258,
+    "length": 0,
+    "end": 22258,
+    "text": ""
+  },
+  {
+    "table_pos": 6304,
+    "mode": "A",
+    "start": 22258,
+    "length": 11,
+    "end": 22269,
+    "text": "talk_ebs_02"
+  },
+  {
+    "table_pos": 6320,
+    "mode": "B-implicit",
+    "start": 22269,
+    "length": 5,
+    "end": 22274,
+    "text": "Ebisu"
+  },
+  {
+    "table_pos": 6320,
+    "mode": "B-explicit",
+    "start": 22274,
+    "length": 68,
+    "end": 22342,
+    "text": "Mal posso esperar pra ver o quanto você\nvai melhorar quando voltar!"
+  },
+  {
+    "table_pos": 6336,
+    "mode": "A",
+    "start": 22342,
+    "length": 0,
+    "end": 22342,
+    "text": ""
+  },
+  {
+    "table_pos": 6352,
+    "mode": "A",
+    "start": 22342,
+    "length": 11,
+    "end": 22353,
+    "text": "talk_udn_01"
+  },
+  {
+    "table_pos": 6368,
+    "mode": "B-implicit",
+    "start": 22353,
+    "length": 4,
+    "end": 22357,
+    "text": "Udon"
+  },
+  {
+    "table_pos": 6368,
+    "mode": "B-explicit",
+    "start": 22357,
+    "length": 62,
+    "end": 22419,
+    "text": "Eu e o Konohamaru vamos treinar juntos\nhoje. Vou treinar duro!"
+  },
+  {
+    "table_pos": 6384,
+    "mode": "A",
+    "start": 22419,
+    "length": 0,
+    "end": 22419,
+    "text": ""
+  },
+  {
+    "table_pos": 6400,
+    "mode": "A",
+    "start": 22419,
+    "length": 11,
+    "end": 22430,
+    "text": "talk_udn_02"
+  },
+  {
+    "table_pos": 6416,
+    "mode": "B-implicit",
+    "start": 22430,
+    "length": 4,
+    "end": 22434,
+    "text": "Udon"
+  },
+  {
+    "table_pos": 6416,
+    "mode": "B-explicit",
+    "start": 22434,
+    "length": 0,
+    "end": 22434,
+    "text": ""
+  },
+  {
+    "table_pos": 6432,
+    "mode": "A",
+    "start": 22434,
+    "length": 0,
+    "end": 22434,
+    "text": ""
+  },
+  {
+    "table_pos": 6448,
+    "mode": "A",
+    "start": 22434,
+    "length": 11,
+    "end": 22445,
+    "text": "talk_meg_01"
+  },
+  {
+    "table_pos": 6464,
+    "mode": "B-implicit",
+    "start": 22445,
+    "length": 5,
+    "end": 22450,
+    "text": "Moegi"
+  },
+  {
+    "table_pos": 6464,
+    "mode": "B-explicit",
+    "start": 22450,
+    "length": 71,
+    "end": 22521,
+    "text": "O professor Iruka me comprou uma tigela\nde lámen! Estava tão gostoso!"
+  },
+  {
+    "table_pos": 6480,
+    "mode": "A",
+    "start": 22521,
+    "length": 0,
+    "end": 22521,
+    "text": ""
+  },
+  {
+    "table_pos": 6496,
+    "mode": "A",
+    "start": 22521,
+    "length": 11,
+    "end": 22532,
+    "text": "talk_meg_02"
+  },
+  {
+    "table_pos": 6512,
+    "mode": "B-implicit",
+    "start": 22532,
+    "length": 5,
+    "end": 22537,
+    "text": "Moegi"
+  },
+  {
+    "table_pos": 6512,
+    "mode": "B-explicit",
+    "start": 22537,
+    "length": 83,
+    "end": 22620,
+    "text": "É melhor eu fazer algo pra agradecer!\nQue tipo de presente eu devia dar pra\nele..."
+  },
+  {
+    "table_pos": 6528,
+    "mode": "A",
+    "start": 22620,
+    "length": 0,
+    "end": 22620,
+    "text": ""
+  },
+  {
+    "table_pos": 6544,
+    "mode": "A",
+    "start": 22620,
+    "length": 11,
+    "end": 22631,
+    "text": "talk_aym_01"
+  },
+  {
+    "table_pos": 6560,
+    "mode": "B-implicit",
+    "start": 22631,
+    "length": 5,
+    "end": 22636,
+    "text": "Ayame"
+  },
+  {
+    "table_pos": 6560,
+    "mode": "B-explicit",
+    "start": 22636,
+    "length": 85,
+    "end": 22721,
+    "text": "É ótimo que o papai seja tão apaixonado\npelo trabalho, mas ele nunca tira\nférias!"
+  },
+  {
+    "table_pos": 6576,
+    "mode": "A",
+    "start": 22721,
+    "length": 0,
+    "end": 22721,
+    "text": ""
+  },
+  {
+    "table_pos": 6592,
+    "mode": "A",
+    "start": 22721,
+    "length": 11,
+    "end": 22732,
+    "text": "talk_aym_02"
+  },
+  {
+    "table_pos": 6608,
+    "mode": "B-implicit",
+    "start": 22732,
+    "length": 5,
+    "end": 22737,
+    "text": "Ayame"
+  },
+  {
+    "table_pos": 6608,
+    "mode": "B-explicit",
+    "start": 22737,
+    "length": 56,
+    "end": 22793,
+    "text": "Queria que ele pensasse mais na saúde\ndele... *suspiro*"
+  },
+  {
+    "table_pos": 6624,
+    "mode": "A",
+    "start": 22793,
+    "length": 0,
+    "end": 22793,
+    "text": ""
+  },
+  {
+    "table_pos": 6640,
+    "mode": "A",
+    "start": 22793,
+    "length": 15,
+    "end": 22808,
+    "text": "talk_akamaru_01"
+  },
+  {
+    "table_pos": 6656,
+    "mode": "B-implicit",
+    "start": 22808,
+    "length": 7,
+    "end": 22815,
+    "text": "Akamaru"
+  },
+  {
+    "table_pos": 6656,
+    "mode": "B-explicit",
+    "start": 22815,
+    "length": 6,
+    "end": 22821,
+    "text": "Au au!"
+  },
+  {
+    "table_pos": 6672,
+    "mode": "A",
+    "start": 22821,
+    "length": 0,
+    "end": 22821,
+    "text": ""
+  },
+  {
+    "table_pos": 6688,
+    "mode": "A",
+    "start": 22821,
+    "length": 15,
+    "end": 22836,
+    "text": "talk_akamaru_02"
+  },
+  {
+    "table_pos": 6704,
+    "mode": "B-implicit",
+    "start": 22836,
+    "length": 7,
+    "end": 22843,
+    "text": "Akamaru"
+  },
+  {
+    "table_pos": 6704,
+    "mode": "B-explicit",
+    "start": 22843,
+    "length": 0,
+    "end": 22843,
+    "text": ""
+  },
+  {
+    "table_pos": 6720,
+    "mode": "A",
+    "start": 22843,
+    "length": 0,
+    "end": 22843,
+    "text": ""
+  },
+  {
+    "table_pos": 6736,
+    "mode": "A",
+    "start": 22843,
+    "length": 14,
+    "end": 22857,
+    "text": "talk_tonton_01"
+  },
+  {
+    "table_pos": 6752,
+    "mode": "B-implicit",
+    "start": 22857,
+    "length": 6,
+    "end": 22863,
+    "text": "Tonton"
+  },
+  {
+    "table_pos": 6752,
+    "mode": "B-explicit",
+    "start": 22863,
+    "length": 10,
+    "end": 22873,
+    "text": "Oinc oinc!"
+  },
+  {
+    "table_pos": 6768,
+    "mode": "A",
+    "start": 22873,
+    "length": 0,
+    "end": 22873,
+    "text": ""
+  },
+  {
+    "table_pos": 6784,
+    "mode": "A",
+    "start": 22873,
+    "length": 14,
+    "end": 22887,
+    "text": "talk_tonton_02"
+  },
+  {
+    "table_pos": 6800,
+    "mode": "B-implicit",
+    "start": 22887,
+    "length": 6,
+    "end": 22893,
+    "text": "Tonton"
+  },
+  {
+    "table_pos": 6800,
+    "mode": "B-explicit",
+    "start": 22893,
+    "length": 0,
+    "end": 22893,
+    "text": ""
+  },
+  {
+    "table_pos": 6816,
+    "mode": "A",
+    "start": 22893,
+    "length": 0,
+    "end": 22893,
+    "text": ""
+  },
+  {
+    "table_pos": 6832,
+    "mode": "A",
+    "start": 22893,
+    "length": 15,
+    "end": 22908,
+    "text": "talk_shopm01_01"
+  },
+  {
+    "table_pos": 6848,
+    "mode": "B-implicit",
+    "start": 22908,
+    "length": 7,
+    "end": 22915,
+    "text": "Peddler"
+  },
+  {
+    "table_pos": 6848,
+    "mode": "B-explicit",
+    "start": 22915,
+    "length": 124,
+    "end": 23039,
+    "text": "Acho que já está na hora de eu deixar\nesta vila e ir pra outra. É tão\nconfortável aqui que acabei ficando\ntempo demais."
+  },
+  {
+    "table_pos": 6864,
+    "mode": "A",
+    "start": 23039,
+    "length": 0,
+    "end": 23039,
+    "text": ""
+  },
+  {
+    "table_pos": 6880,
+    "mode": "A",
+    "start": 23039,
+    "length": 15,
+    "end": 23054,
+    "text": "talk_shopm01_02"
+  },
+  {
+    "table_pos": 6896,
+    "mode": "B-implicit",
+    "start": 23054,
+    "length": 7,
+    "end": 23061,
+    "text": "Peddler"
+  },
+  {
+    "table_pos": 6896,
+    "mode": "B-explicit",
+    "start": 23061,
+    "length": 87,
+    "end": 23148,
+    "text": "É, vocês têm um lugar bem legal aqui.\nCom certeza me vejo passando por aqui de\nnovo."
+  },
+  {
+    "table_pos": 6912,
+    "mode": "A",
+    "start": 23148,
+    "length": 0,
+    "end": 23148,
+    "text": ""
+  },
+  {
+    "table_pos": 6928,
+    "mode": "A",
+    "start": 23148,
+    "length": 15,
+    "end": 23163,
+    "text": "talk_shopm02_01"
+  },
+  {
+    "table_pos": 6944,
+    "mode": "B-implicit",
+    "start": 23163,
+    "length": 7,
+    "end": 23170,
+    "text": "Peddler"
+  },
+  {
+    "table_pos": 6944,
+    "mode": "B-explicit",
+    "start": 23170,
+    "length": 89,
+    "end": 23259,
+    "text": "Um kunai... sem lâmina... Eu fiz meio de\nbrincadeira. Não, isso não vai vender\nnada..."
+  },
+  {
+    "table_pos": 6960,
+    "mode": "A",
+    "start": 23259,
+    "length": 0,
+    "end": 23259,
+    "text": ""
+  },
+  {
+    "table_pos": 6976,
+    "mode": "A",
+    "start": 23259,
+    "length": 15,
+    "end": 23274,
+    "text": "talk_shopm02_02"
+  },
+  {
+    "table_pos": 6992,
+    "mode": "B-implicit",
+    "start": 23274,
+    "length": 7,
+    "end": 23281,
+    "text": "Peddler"
+  },
+  {
+    "table_pos": 6992,
+    "mode": "B-explicit",
+    "start": 23281,
+    "length": 93,
+    "end": 23374,
+    "text": "Ooh, mas seria perfeito pra brincar de\n“ninja”! Haha! Eu realmente levo jeito\npra vendas!"
+  },
+  {
+    "table_pos": 7008,
+    "mode": "A",
+    "start": 23374,
+    "length": 0,
+    "end": 23374,
+    "text": ""
+  },
+  {
+    "table_pos": 7024,
+    "mode": "A",
+    "start": 23374,
+    "length": 13,
+    "end": 23387,
+    "text": "talk_kni01_01"
+  },
+  {
+    "table_pos": 7040,
+    "mode": "B-implicit",
+    "start": 23387,
+    "length": 13,
+    "end": 23400,
+    "text": "Leaf Kunoichi"
+  },
+  {
+    "table_pos": 7040,
+    "mode": "B-explicit",
+    "start": 23400,
+    "length": 107,
+    "end": 23507,
+    "text": "A professora Kurenai é uma mulher tão\ncharmosa, não é? Mas a professora Anko é\ntão selvagem e ousada."
+  },
+  {
+    "table_pos": 7056,
+    "mode": "A",
+    "start": 23507,
+    "length": 0,
+    "end": 23507,
+    "text": ""
+  },
+  {
+    "table_pos": 7072,
+    "mode": "A",
+    "start": 23507,
+    "length": 13,
+    "end": 23520,
+    "text": "talk_kni01_02"
+  },
+  {
+    "table_pos": 7088,
+    "mode": "B-implicit",
+    "start": 23520,
+    "length": 13,
+    "end": 23533,
+    "text": "Leaf Kunoichi"
+  },
+  {
+    "table_pos": 7088,
+    "mode": "B-explicit",
+    "start": 23533,
+    "length": 74,
+    "end": 23607,
+    "text": "Eu admiro muito as duas. Mas também vou\nsuperar as duas! Vocês vão ver!"
+  },
+  {
+    "table_pos": 7104,
+    "mode": "A",
+    "start": 23607,
+    "length": 0,
+    "end": 23607,
+    "text": ""
+  },
+  {
+    "table_pos": 7120,
+    "mode": "A",
+    "start": 23607,
+    "length": 13,
+    "end": 23620,
+    "text": "talk_kni02_01"
+  },
+  {
+    "table_pos": 7136,
+    "mode": "B-implicit",
+    "start": 23620,
+    "length": 13,
+    "end": 23633,
+    "text": "Leaf Kunoichi"
+  },
+  {
+    "table_pos": 7136,
+    "mode": "B-explicit",
+    "start": 23633,
+    "length": 73,
+    "end": 23706,
+    "text": "Olhar pra Senhora Tsunade me ajudou a\ndecidir. Vou ser uma ninja médica!"
+  },
+  {
+    "table_pos": 7152,
+    "mode": "A",
+    "start": 23706,
+    "length": 0,
+    "end": 23706,
+    "text": ""
+  },
+  {
+    "table_pos": 7168,
+    "mode": "A",
+    "start": 23706,
+    "length": 13,
+    "end": 23719,
+    "text": "talk_kni02_02"
+  },
+  {
+    "table_pos": 7184,
+    "mode": "B-implicit",
+    "start": 23719,
+    "length": 13,
+    "end": 23732,
+    "text": "Leaf Kunoichi"
+  },
+  {
+    "table_pos": 7184,
+    "mode": "B-explicit",
+    "start": 23732,
+    "length": 123,
+    "end": 23855,
+    "text": "O caminho pra se tornar uma ninja médica\né longo e difícil. Mas com a Senhora\nTsunade como meu exemplo, sei que\nconsigo!"
+  },
+  {
+    "table_pos": 7200,
+    "mode": "A",
+    "start": 23855,
+    "length": 0,
+    "end": 23855,
+    "text": ""
+  },
+  {
+    "table_pos": 7216,
+    "mode": "A",
+    "start": 23855,
+    "length": 13,
+    "end": 23868,
+    "text": "talk_man05_01"
+  },
+  {
+    "table_pos": 7232,
+    "mode": "B-implicit",
+    "start": 23868,
+    "length": 5,
+    "end": 23873,
+    "text": "Youth"
+  },
+  {
+    "table_pos": 7232,
+    "mode": "B-explicit",
+    "start": 23873,
+    "length": 26,
+    "end": 23899,
+    "text": "Ahh... Que dia agradável."
+  },
+  {
+    "table_pos": 7248,
+    "mode": "A",
+    "start": 23899,
+    "length": 0,
+    "end": 23899,
+    "text": ""
+  },
+  {
+    "table_pos": 7264,
+    "mode": "A",
+    "start": 23899,
+    "length": 13,
+    "end": 23912,
+    "text": "talk_man05_02"
+  },
+  {
+    "table_pos": 7280,
+    "mode": "B-implicit",
+    "start": 23912,
+    "length": 5,
+    "end": 23917,
+    "text": "Youth"
+  },
+  {
+    "table_pos": 7280,
+    "mode": "B-explicit",
+    "start": 23917,
+    "length": 0,
+    "end": 23917,
+    "text": ""
+  },
+  {
+    "table_pos": 7296,
+    "mode": "A",
+    "start": 23917,
+    "length": 0,
+    "end": 23917,
+    "text": ""
+  },
+  {
+    "table_pos": 7312,
+    "mode": "A",
+    "start": 23917,
+    "length": 13,
+    "end": 23930,
+    "text": "talk_man06_01"
+  },
+  {
+    "table_pos": 7328,
+    "mode": "B-implicit",
+    "start": 23930,
+    "length": 10,
+    "end": 23940,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 7328,
+    "mode": "B-explicit",
+    "start": 23940,
+    "length": 22,
+    "end": 23962,
+    "text": "Ufa... Estou com fome."
+  },
+  {
+    "table_pos": 7344,
+    "mode": "A",
+    "start": 23962,
+    "length": 0,
+    "end": 23962,
+    "text": ""
+  },
+  {
+    "table_pos": 7360,
+    "mode": "A",
+    "start": 23962,
+    "length": 13,
+    "end": 23975,
+    "text": "talk_man06_02"
+  },
+  {
+    "table_pos": 7376,
+    "mode": "B-implicit",
+    "start": 23975,
+    "length": 5,
+    "end": 23980,
+    "text": "Youth"
+  },
+  {
+    "table_pos": 7376,
+    "mode": "B-explicit",
+    "start": 23980,
+    "length": 0,
+    "end": 23980,
+    "text": ""
+  },
+  {
+    "table_pos": 7392,
+    "mode": "A",
+    "start": 23980,
+    "length": 0,
+    "end": 23980,
+    "text": ""
+  },
+  {
+    "table_pos": 7408,
+    "mode": "A",
+    "start": 23980,
+    "length": 13,
+    "end": 23993,
+    "text": "talk_man07_01"
+  },
+  {
+    "table_pos": 7424,
+    "mode": "B-implicit",
+    "start": 23993,
+    "length": 5,
+    "end": 23998,
+    "text": "Youth"
+  },
+  {
+    "table_pos": 7424,
+    "mode": "B-explicit",
+    "start": 23998,
+    "length": 37,
+    "end": 24035,
+    "text": "Hmm... Onde era mesmo aquela loja...?"
+  },
+  {
+    "table_pos": 7440,
+    "mode": "A",
+    "start": 24035,
+    "length": 0,
+    "end": 24035,
+    "text": ""
+  },
+  {
+    "table_pos": 7456,
+    "mode": "A",
+    "start": 24035,
+    "length": 13,
+    "end": 24048,
+    "text": "talk_man07_02"
+  },
+  {
+    "table_pos": 7472,
+    "mode": "B-implicit",
+    "start": 24048,
+    "length": 5,
+    "end": 24053,
+    "text": "Youth"
+  },
+  {
+    "table_pos": 7472,
+    "mode": "B-explicit",
+    "start": 24053,
+    "length": 0,
+    "end": 24053,
+    "text": ""
+  },
+  {
+    "table_pos": 7488,
+    "mode": "A",
+    "start": 24053,
+    "length": 0,
+    "end": 24053,
+    "text": ""
+  },
+  {
+    "table_pos": 7504,
+    "mode": "A",
+    "start": 24053,
+    "length": 13,
+    "end": 24066,
+    "text": "talk_man08_01"
+  },
+  {
+    "table_pos": 7520,
+    "mode": "B-implicit",
+    "start": 24066,
+    "length": 5,
+    "end": 24071,
+    "text": "Youth"
+  },
+  {
+    "table_pos": 7520,
+    "mode": "B-explicit",
+    "start": 24071,
+    "length": 30,
+    "end": 24101,
+    "text": "*Bocejo* Estou tão cansado..."
+  },
+  {
+    "table_pos": 7536,
+    "mode": "A",
+    "start": 24101,
+    "length": 0,
+    "end": 24101,
+    "text": ""
+  },
+  {
+    "table_pos": 7552,
+    "mode": "A",
+    "start": 24101,
+    "length": 13,
+    "end": 24114,
+    "text": "talk_man08_02"
+  },
+  {
+    "table_pos": 7568,
+    "mode": "B-implicit",
+    "start": 24114,
+    "length": 5,
+    "end": 24119,
+    "text": "Youth"
+  },
+  {
+    "table_pos": 7568,
+    "mode": "B-explicit",
+    "start": 24119,
+    "length": 0,
+    "end": 24119,
+    "text": ""
+  },
+  {
+    "table_pos": 7584,
+    "mode": "A",
+    "start": 24119,
+    "length": 0,
+    "end": 24119,
+    "text": ""
+  },
+  {
+    "table_pos": 7600,
+    "mode": "A",
+    "start": 24119,
+    "length": 13,
+    "end": 24132,
+    "text": "talk_fem05_01"
+  },
+  {
+    "table_pos": 7616,
+    "mode": "B-implicit",
+    "start": 24132,
+    "length": 4,
+    "end": 24136,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 7616,
+    "mode": "B-explicit",
+    "start": 24136,
+    "length": 29,
+    "end": 24165,
+    "text": "Hã? Precisa de alguma coisa?"
+  },
+  {
+    "table_pos": 7632,
+    "mode": "A",
+    "start": 24165,
+    "length": 0,
+    "end": 24165,
+    "text": ""
+  },
+  {
+    "table_pos": 7648,
+    "mode": "A",
+    "start": 24165,
+    "length": 13,
+    "end": 24178,
+    "text": "talk_fem05_02"
+  },
+  {
+    "table_pos": 7664,
+    "mode": "B-implicit",
+    "start": 24178,
+    "length": 4,
+    "end": 24182,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 7664,
+    "mode": "B-explicit",
+    "start": 24182,
+    "length": 0,
+    "end": 24182,
+    "text": ""
+  },
+  {
+    "table_pos": 7680,
+    "mode": "A",
+    "start": 24182,
+    "length": 0,
+    "end": 24182,
+    "text": ""
+  },
+  {
+    "table_pos": 7696,
+    "mode": "A",
+    "start": 24182,
+    "length": 13,
+    "end": 24195,
+    "text": "talk_fem06_01"
+  },
+  {
+    "table_pos": 7712,
+    "mode": "B-implicit",
+    "start": 24195,
+    "length": 4,
+    "end": 24199,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 7712,
+    "mode": "B-explicit",
+    "start": 24199,
+    "length": 38,
+    "end": 24237,
+    "text": "Ufa... Fazer recados é trabalho duro."
+  },
+  {
+    "table_pos": 7728,
+    "mode": "A",
+    "start": 24237,
+    "length": 0,
+    "end": 24237,
+    "text": ""
+  },
+  {
+    "table_pos": 7744,
+    "mode": "A",
+    "start": 24237,
+    "length": 13,
+    "end": 24250,
+    "text": "talk_fem06_02"
+  },
+  {
+    "table_pos": 7760,
+    "mode": "B-implicit",
+    "start": 24250,
+    "length": 4,
+    "end": 24254,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 7760,
+    "mode": "B-explicit",
+    "start": 24254,
+    "length": 0,
+    "end": 24254,
+    "text": ""
+  },
+  {
+    "table_pos": 7776,
+    "mode": "A",
+    "start": 24254,
+    "length": 0,
+    "end": 24254,
+    "text": ""
+  },
+  {
+    "table_pos": 7792,
+    "mode": "A",
+    "start": 24254,
+    "length": 13,
+    "end": 24267,
+    "text": "talk_fem07_01"
+  },
+  {
+    "table_pos": 7808,
+    "mode": "B-implicit",
+    "start": 24267,
+    "length": 4,
+    "end": 24271,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 7808,
+    "mode": "B-explicit",
+    "start": 24271,
+    "length": 37,
+    "end": 24308,
+    "text": "Hihi! Você é tão cheio de energia."
+  },
+  {
+    "table_pos": 7824,
+    "mode": "A",
+    "start": 24308,
+    "length": 0,
+    "end": 24308,
+    "text": ""
+  },
+  {
+    "table_pos": 7840,
+    "mode": "A",
+    "start": 24308,
+    "length": 13,
+    "end": 24321,
+    "text": "talk_fem07_02"
+  },
+  {
+    "table_pos": 7856,
+    "mode": "B-implicit",
+    "start": 24321,
+    "length": 4,
+    "end": 24325,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 7856,
+    "mode": "B-explicit",
+    "start": 24325,
+    "length": 0,
+    "end": 24325,
+    "text": ""
+  },
+  {
+    "table_pos": 7872,
+    "mode": "A",
+    "start": 24325,
+    "length": 0,
+    "end": 24325,
+    "text": ""
+  },
+  {
+    "table_pos": 7888,
+    "mode": "A",
+    "start": 24325,
+    "length": 13,
+    "end": 24338,
+    "text": "talk_fem08_01"
+  },
+  {
+    "table_pos": 7904,
+    "mode": "B-implicit",
+    "start": 24338,
+    "length": 4,
+    "end": 24342,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 7904,
+    "mode": "B-explicit",
+    "start": 24342,
+    "length": 45,
+    "end": 24387,
+    "text": "A Vila da Folha realmente tem bastante\ngente."
+  },
+  {
+    "table_pos": 7920,
+    "mode": "A",
+    "start": 24387,
+    "length": 0,
+    "end": 24387,
+    "text": ""
+  },
+  {
+    "table_pos": 7936,
+    "mode": "A",
+    "start": 24387,
+    "length": 13,
+    "end": 24400,
+    "text": "talk_fem08_02"
+  },
+  {
+    "table_pos": 7952,
+    "mode": "B-implicit",
+    "start": 24400,
+    "length": 4,
+    "end": 24404,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 7952,
+    "mode": "B-explicit",
+    "start": 24404,
+    "length": 0,
+    "end": 24404,
+    "text": ""
+  },
+  {
+    "table_pos": 7968,
+    "mode": "A",
+    "start": 24404,
+    "length": 0,
+    "end": 24404,
+    "text": ""
+  },
+  {
+    "table_pos": 7984,
+    "mode": "A",
+    "start": 24404,
+    "length": 13,
+    "end": 24417,
+    "text": "talk_boy05_01"
+  },
+  {
+    "table_pos": 8000,
+    "mode": "B-implicit",
+    "start": 24417,
+    "length": 3,
+    "end": 24420,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 8000,
+    "mode": "B-explicit",
+    "start": 24420,
+    "length": 18,
+    "end": 24438,
+    "text": "Hm? Quem é você?"
+  },
+  {
+    "table_pos": 8016,
+    "mode": "A",
+    "start": 24438,
+    "length": 0,
+    "end": 24438,
+    "text": ""
+  },
+  {
+    "table_pos": 8032,
+    "mode": "A",
+    "start": 24438,
+    "length": 13,
+    "end": 24451,
+    "text": "talk_boy05_02"
+  },
+  {
+    "table_pos": 8048,
+    "mode": "B-implicit",
+    "start": 24451,
+    "length": 3,
+    "end": 24454,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 8048,
+    "mode": "B-explicit",
+    "start": 24454,
+    "length": 0,
+    "end": 24454,
+    "text": ""
+  },
+  {
+    "table_pos": 8064,
+    "mode": "A",
+    "start": 24454,
+    "length": 0,
+    "end": 24454,
+    "text": ""
+  },
+  {
+    "table_pos": 8080,
+    "mode": "A",
+    "start": 24454,
+    "length": 13,
+    "end": 24467,
+    "text": "talk_boy06_01"
+  },
+  {
+    "table_pos": 8096,
+    "mode": "B-implicit",
+    "start": 24467,
+    "length": 3,
+    "end": 24470,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 8096,
+    "mode": "B-explicit",
+    "start": 24470,
+    "length": 36,
+    "end": 24506,
+    "text": "Que brincadeira eu devia fazer hoje?"
+  },
+  {
+    "table_pos": 8112,
+    "mode": "A",
+    "start": 24506,
+    "length": 0,
+    "end": 24506,
+    "text": ""
+  },
+  {
+    "table_pos": 8128,
+    "mode": "A",
+    "start": 24506,
+    "length": 13,
+    "end": 24519,
+    "text": "talk_boy06_02"
+  },
+  {
+    "table_pos": 8144,
+    "mode": "B-implicit",
+    "start": 24519,
+    "length": 3,
+    "end": 24522,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 8144,
+    "mode": "B-explicit",
+    "start": 24522,
+    "length": 0,
+    "end": 24522,
+    "text": ""
+  },
+  {
+    "table_pos": 8160,
+    "mode": "A",
+    "start": 24522,
+    "length": 0,
+    "end": 24522,
+    "text": ""
+  },
+  {
+    "table_pos": 8176,
+    "mode": "A",
+    "start": 24522,
+    "length": 13,
+    "end": 24535,
+    "text": "talk_boy07_01"
+  },
+  {
+    "table_pos": 8192,
+    "mode": "B-implicit",
+    "start": 24535,
+    "length": 3,
+    "end": 24538,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 8192,
+    "mode": "B-explicit",
+    "start": 24538,
+    "length": 42,
+    "end": 24580,
+    "text": "Tenho que ir pra casa fazer minha lição."
+  },
+  {
+    "table_pos": 8208,
+    "mode": "A",
+    "start": 24580,
+    "length": 0,
+    "end": 24580,
+    "text": ""
+  },
+  {
+    "table_pos": 8224,
+    "mode": "A",
+    "start": 24580,
+    "length": 13,
+    "end": 24593,
+    "text": "talk_boy07_02"
+  },
+  {
+    "table_pos": 8240,
+    "mode": "B-implicit",
+    "start": 24593,
+    "length": 3,
+    "end": 24596,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 8240,
+    "mode": "B-explicit",
+    "start": 24596,
+    "length": 0,
+    "end": 24596,
+    "text": ""
+  },
+  {
+    "table_pos": 8256,
+    "mode": "A",
+    "start": 24596,
+    "length": 0,
+    "end": 24596,
+    "text": ""
+  },
+  {
+    "table_pos": 8272,
+    "mode": "A",
+    "start": 24596,
+    "length": 13,
+    "end": 24609,
+    "text": "talk_boy08_01"
+  },
+  {
+    "table_pos": 8288,
+    "mode": "B-implicit",
+    "start": 24609,
+    "length": 3,
+    "end": 24612,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 8288,
+    "mode": "B-explicit",
+    "start": 24612,
+    "length": 64,
+    "end": 24676,
+    "text": "Eu quero ser um ninja também, e fazer\nmuitas e muitas missões!"
+  },
+  {
+    "table_pos": 8304,
+    "mode": "A",
+    "start": 24676,
+    "length": 0,
+    "end": 24676,
+    "text": ""
+  },
+  {
+    "table_pos": 8320,
+    "mode": "A",
+    "start": 24676,
+    "length": 13,
+    "end": 24689,
+    "text": "talk_boy08_02"
+  },
+  {
+    "table_pos": 8336,
+    "mode": "B-implicit",
+    "start": 24689,
+    "length": 3,
+    "end": 24692,
+    "text": "Boy"
+  },
+  {
+    "table_pos": 8336,
+    "mode": "B-explicit",
+    "start": 24692,
+    "length": 0,
+    "end": 24692,
+    "text": ""
+  },
+  {
+    "table_pos": 8352,
+    "mode": "A",
+    "start": 24692,
+    "length": 0,
+    "end": 24692,
+    "text": ""
+  },
+  {
+    "table_pos": 8368,
+    "mode": "A",
+    "start": 24692,
+    "length": 13,
+    "end": 24705,
+    "text": "talk_gir05_01"
+  },
+  {
+    "table_pos": 8384,
+    "mode": "B-implicit",
+    "start": 24705,
+    "length": 4,
+    "end": 24709,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 8384,
+    "mode": "B-explicit",
+    "start": 24709,
+    "length": 73,
+    "end": 24782,
+    "text": "Meu pai vai voltar da missão dele bem em\nbreve! Hehe, mal posso esperar!"
+  },
+  {
+    "table_pos": 8400,
+    "mode": "A",
+    "start": 24782,
+    "length": 0,
+    "end": 24782,
+    "text": ""
+  },
+  {
+    "table_pos": 8416,
+    "mode": "A",
+    "start": 24782,
+    "length": 13,
+    "end": 24795,
+    "text": "talk_gir05_02"
+  },
+  {
+    "table_pos": 8432,
+    "mode": "B-implicit",
+    "start": 24795,
+    "length": 4,
+    "end": 24799,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 8432,
+    "mode": "B-explicit",
+    "start": 24799,
+    "length": 0,
+    "end": 24799,
+    "text": ""
+  },
+  {
+    "table_pos": 8448,
+    "mode": "A",
+    "start": 24799,
+    "length": 0,
+    "end": 24799,
+    "text": ""
+  },
+  {
+    "table_pos": 8464,
+    "mode": "A",
+    "start": 24799,
+    "length": 13,
+    "end": 24812,
+    "text": "talk_gir06_01"
+  },
+  {
+    "table_pos": 8480,
+    "mode": "B-implicit",
+    "start": 24812,
+    "length": 4,
+    "end": 24816,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 8480,
+    "mode": "B-explicit",
+    "start": 24816,
+    "length": 10,
+    "end": 24826,
+    "text": "Oi, moço."
+  },
+  {
+    "table_pos": 8496,
+    "mode": "A",
+    "start": 24826,
+    "length": 0,
+    "end": 24826,
+    "text": ""
+  },
+  {
+    "table_pos": 8512,
+    "mode": "A",
+    "start": 24826,
+    "length": 13,
+    "end": 24839,
+    "text": "talk_gir06_02"
+  },
+  {
+    "table_pos": 8528,
+    "mode": "B-implicit",
+    "start": 24839,
+    "length": 4,
+    "end": 24843,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 8528,
+    "mode": "B-explicit",
+    "start": 24843,
+    "length": 0,
+    "end": 24843,
+    "text": ""
+  },
+  {
+    "table_pos": 8544,
+    "mode": "A",
+    "start": 24843,
+    "length": 0,
+    "end": 24843,
+    "text": ""
+  },
+  {
+    "table_pos": 8560,
+    "mode": "A",
+    "start": 24843,
+    "length": 13,
+    "end": 24856,
+    "text": "talk_gir07_01"
+  },
+  {
+    "table_pos": 8576,
+    "mode": "B-implicit",
+    "start": 24856,
+    "length": 4,
+    "end": 24860,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 8576,
+    "mode": "B-explicit",
+    "start": 24860,
+    "length": 76,
+    "end": 24936,
+    "text": "Eu quero ser um ninja também... Assim eu\npoderia proteger minha irmãzinha!"
+  },
+  {
+    "table_pos": 8592,
+    "mode": "A",
+    "start": 24936,
+    "length": 0,
+    "end": 24936,
+    "text": ""
+  },
+  {
+    "table_pos": 8608,
+    "mode": "A",
+    "start": 24936,
+    "length": 13,
+    "end": 24949,
+    "text": "talk_gir07_02"
+  },
+  {
+    "table_pos": 8624,
+    "mode": "B-implicit",
+    "start": 24949,
+    "length": 4,
+    "end": 24953,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 8624,
+    "mode": "B-explicit",
+    "start": 24953,
+    "length": 0,
+    "end": 24953,
+    "text": ""
+  },
+  {
+    "table_pos": 8640,
+    "mode": "A",
+    "start": 24953,
+    "length": 0,
+    "end": 24953,
+    "text": ""
+  },
+  {
+    "table_pos": 8656,
+    "mode": "A",
+    "start": 24953,
+    "length": 13,
+    "end": 24966,
+    "text": "talk_gir08_01"
+  },
+  {
+    "table_pos": 8672,
+    "mode": "B-implicit",
+    "start": 24966,
+    "length": 4,
+    "end": 24970,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 8672,
+    "mode": "B-explicit",
+    "start": 24970,
+    "length": 36,
+    "end": 25006,
+    "text": "Eu vi a casa do Hokage... É ENORME!"
+  },
+  {
+    "table_pos": 8688,
+    "mode": "A",
+    "start": 25006,
+    "length": 0,
+    "end": 25006,
+    "text": ""
+  },
+  {
+    "table_pos": 8704,
+    "mode": "A",
+    "start": 25006,
+    "length": 13,
+    "end": 25019,
+    "text": "talk_gir08_02"
+  },
+  {
+    "table_pos": 8720,
+    "mode": "B-implicit",
+    "start": 25019,
+    "length": 4,
+    "end": 25023,
+    "text": "Girl"
+  },
+  {
+    "table_pos": 8720,
+    "mode": "B-explicit",
+    "start": 25023,
+    "length": 0,
+    "end": 25023,
+    "text": ""
+  },
+  {
+    "table_pos": 8736,
+    "mode": "A",
+    "start": 25023,
+    "length": 0,
+    "end": 25023,
+    "text": ""
+  },
+  {
+    "table_pos": 8752,
+    "mode": "A",
+    "start": 25023,
+    "length": 13,
+    "end": 25036,
+    "text": "talk_old05_01"
+  },
+  {
+    "table_pos": 8768,
+    "mode": "B-implicit",
+    "start": 25036,
+    "length": 7,
+    "end": 25043,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 8768,
+    "mode": "B-explicit",
+    "start": 25043,
+    "length": 46,
+    "end": 25089,
+    "text": "A vila realmente está maior do que era\nantes."
+  },
+  {
+    "table_pos": 8784,
+    "mode": "A",
+    "start": 25089,
+    "length": 0,
+    "end": 25089,
+    "text": ""
+  },
+  {
+    "table_pos": 8800,
+    "mode": "A",
+    "start": 25089,
+    "length": 13,
+    "end": 25102,
+    "text": "talk_old05_02"
+  },
+  {
+    "table_pos": 8816,
+    "mode": "B-implicit",
+    "start": 25102,
+    "length": 7,
+    "end": 25109,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 8816,
+    "mode": "B-explicit",
+    "start": 25109,
+    "length": 0,
+    "end": 25109,
+    "text": ""
+  },
+  {
+    "table_pos": 8832,
+    "mode": "A",
+    "start": 25109,
+    "length": 0,
+    "end": 25109,
+    "text": ""
+  },
+  {
+    "table_pos": 8848,
+    "mode": "A",
+    "start": 25109,
+    "length": 13,
+    "end": 25122,
+    "text": "talk_old06_01"
+  },
+  {
+    "table_pos": 8864,
+    "mode": "B-implicit",
+    "start": 25122,
+    "length": 7,
+    "end": 25129,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 8864,
+    "mode": "B-explicit",
+    "start": 25129,
+    "length": 97,
+    "end": 25226,
+    "text": "Eu respeito muito o Hokage atual, mas o\nPrimeiro e o Segundo Hokage eram\nsimplesmente incríveis."
+  },
+  {
+    "table_pos": 8880,
+    "mode": "A",
+    "start": 25226,
+    "length": 0,
+    "end": 25226,
+    "text": ""
+  },
+  {
+    "table_pos": 8896,
+    "mode": "A",
+    "start": 25226,
+    "length": 13,
+    "end": 25239,
+    "text": "talk_old06_02"
+  },
+  {
+    "table_pos": 8912,
+    "mode": "B-implicit",
+    "start": 25239,
+    "length": 7,
+    "end": 25246,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 8912,
+    "mode": "B-explicit",
+    "start": 25246,
+    "length": 0,
+    "end": 25246,
+    "text": ""
+  },
+  {
+    "table_pos": 8928,
+    "mode": "A",
+    "start": 25246,
+    "length": 0,
+    "end": 25246,
+    "text": ""
+  },
+  {
+    "table_pos": 8944,
+    "mode": "A",
+    "start": 25246,
+    "length": 13,
+    "end": 25259,
+    "text": "talk_old07_01"
+  },
+  {
+    "table_pos": 8960,
+    "mode": "B-implicit",
+    "start": 25259,
+    "length": 7,
+    "end": 25266,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 8960,
+    "mode": "B-explicit",
+    "start": 25266,
+    "length": 54,
+    "end": 25320,
+    "text": "Eu devia ir pra casa. Meu filho deve\nestar preocupado."
+  },
+  {
+    "table_pos": 8976,
+    "mode": "A",
+    "start": 25320,
+    "length": 0,
+    "end": 25320,
+    "text": ""
+  },
+  {
+    "table_pos": 8992,
+    "mode": "A",
+    "start": 25320,
+    "length": 13,
+    "end": 25333,
+    "text": "talk_old07_02"
+  },
+  {
+    "table_pos": 9008,
+    "mode": "B-implicit",
+    "start": 25333,
+    "length": 7,
+    "end": 25340,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 9008,
+    "mode": "B-explicit",
+    "start": 25340,
+    "length": 0,
+    "end": 25340,
+    "text": ""
+  },
+  {
+    "table_pos": 9024,
+    "mode": "A",
+    "start": 25340,
+    "length": 0,
+    "end": 25340,
+    "text": ""
+  },
+  {
+    "table_pos": 9040,
+    "mode": "A",
+    "start": 25340,
+    "length": 13,
+    "end": 25353,
+    "text": "talk_old08_01"
+  },
+  {
+    "table_pos": 9056,
+    "mode": "B-implicit",
+    "start": 25353,
+    "length": 7,
+    "end": 25360,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 9056,
+    "mode": "B-explicit",
+    "start": 25360,
+    "length": 39,
+    "end": 25399,
+    "text": "Hmm...? Onde é que eu estava mesmo...?"
+  },
+  {
+    "table_pos": 9072,
+    "mode": "A",
+    "start": 25399,
+    "length": 0,
+    "end": 25399,
+    "text": ""
+  },
+  {
+    "table_pos": 9088,
+    "mode": "A",
+    "start": 25399,
+    "length": 13,
+    "end": 25412,
+    "text": "talk_old08_02"
+  },
+  {
+    "table_pos": 9104,
+    "mode": "B-implicit",
+    "start": 25412,
+    "length": 7,
+    "end": 25419,
+    "text": "Old Man"
+  },
+  {
+    "table_pos": 9104,
+    "mode": "B-explicit",
+    "start": 25419,
+    "length": 0,
+    "end": 25419,
+    "text": ""
+  },
+  {
+    "table_pos": 9120,
+    "mode": "A",
+    "start": 25419,
+    "length": 0,
+    "end": 25419,
+    "text": ""
+  },
+  {
+    "table_pos": 9136,
+    "mode": "A",
+    "start": 25419,
+    "length": 13,
+    "end": 25432,
+    "text": "talk_mdm05_01"
+  },
+  {
+    "table_pos": 9152,
+    "mode": "B-implicit",
+    "start": 25432,
+    "length": 11,
+    "end": 25443,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 9152,
+    "mode": "B-explicit",
+    "start": 25443,
+    "length": 42,
+    "end": 25485,
+    "text": "Nossa, mas que ninjazinho danado você é."
+  },
+  {
+    "table_pos": 9168,
+    "mode": "A",
+    "start": 25485,
+    "length": 0,
+    "end": 25485,
+    "text": ""
+  },
+  {
+    "table_pos": 9184,
+    "mode": "A",
+    "start": 25485,
+    "length": 13,
+    "end": 25498,
+    "text": "talk_mdm05_02"
+  },
+  {
+    "table_pos": 9200,
+    "mode": "B-implicit",
+    "start": 25498,
+    "length": 11,
+    "end": 25509,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 9200,
+    "mode": "B-explicit",
+    "start": 25509,
+    "length": 0,
+    "end": 25509,
+    "text": ""
+  },
+  {
+    "table_pos": 9216,
+    "mode": "A",
+    "start": 25509,
+    "length": 0,
+    "end": 25509,
+    "text": ""
+  },
+  {
+    "table_pos": 9232,
+    "mode": "A",
+    "start": 25509,
+    "length": 13,
+    "end": 25522,
+    "text": "talk_mdm06_01"
+  },
+  {
+    "table_pos": 9248,
+    "mode": "B-implicit",
+    "start": 25522,
+    "length": 11,
+    "end": 25533,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 9248,
+    "mode": "B-explicit",
+    "start": 25533,
+    "length": 52,
+    "end": 25585,
+    "text": "Hm? Desculpa, pode esperar? Estou bem\nocupado agora."
+  },
+  {
+    "table_pos": 9264,
+    "mode": "A",
+    "start": 25585,
+    "length": 0,
+    "end": 25585,
+    "text": ""
+  },
+  {
+    "table_pos": 9280,
+    "mode": "A",
+    "start": 25585,
+    "length": 13,
+    "end": 25598,
+    "text": "talk_mdm06_02"
+  },
+  {
+    "table_pos": 9296,
+    "mode": "B-implicit",
+    "start": 25598,
+    "length": 11,
+    "end": 25609,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 9296,
+    "mode": "B-explicit",
+    "start": 25609,
+    "length": 0,
+    "end": 25609,
+    "text": ""
+  },
+  {
+    "table_pos": 9312,
+    "mode": "A",
+    "start": 25609,
+    "length": 0,
+    "end": 25609,
+    "text": ""
+  },
+  {
+    "table_pos": 9328,
+    "mode": "A",
+    "start": 25609,
+    "length": 13,
+    "end": 25622,
+    "text": "talk_mdm07_01"
+  },
+  {
+    "table_pos": 9344,
+    "mode": "B-implicit",
+    "start": 25622,
+    "length": 11,
+    "end": 25633,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 9344,
+    "mode": "B-explicit",
+    "start": 25633,
+    "length": 64,
+    "end": 25697,
+    "text": "Quando é que aquele meu marido\npreguiçoso vai chegar em casa!?"
+  },
+  {
+    "table_pos": 9360,
+    "mode": "A",
+    "start": 25697,
+    "length": 0,
+    "end": 25697,
+    "text": ""
+  },
+  {
+    "table_pos": 9376,
+    "mode": "A",
+    "start": 25697,
+    "length": 13,
+    "end": 25710,
+    "text": "talk_mdm07_02"
+  },
+  {
+    "table_pos": 9392,
+    "mode": "B-implicit",
+    "start": 25710,
+    "length": 11,
+    "end": 25721,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 9392,
+    "mode": "B-explicit",
+    "start": 25721,
+    "length": 0,
+    "end": 25721,
+    "text": ""
+  },
+  {
+    "table_pos": 9408,
+    "mode": "A",
+    "start": 25721,
+    "length": 0,
+    "end": 25721,
+    "text": ""
+  },
+  {
+    "table_pos": 9424,
+    "mode": "A",
+    "start": 25721,
+    "length": 13,
+    "end": 25734,
+    "text": "talk_mdm08_01"
+  },
+  {
+    "table_pos": 9440,
+    "mode": "B-implicit",
+    "start": 25734,
+    "length": 11,
+    "end": 25745,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 9440,
+    "mode": "B-explicit",
+    "start": 25745,
+    "length": 32,
+    "end": 25777,
+    "text": "Será o que eu devia comer hoje."
+  },
+  {
+    "table_pos": 9456,
+    "mode": "A",
+    "start": 25777,
+    "length": 0,
+    "end": 25777,
+    "text": ""
+  },
+  {
+    "table_pos": 9472,
+    "mode": "A",
+    "start": 25777,
+    "length": 13,
+    "end": 25790,
+    "text": "talk_mdm08_02"
+  },
+  {
+    "table_pos": 9488,
+    "mode": "B-implicit",
+    "start": 25790,
+    "length": 11,
+    "end": 25801,
+    "text": "Older woman"
+  },
+  {
+    "table_pos": 9488,
+    "mode": "B-explicit",
+    "start": 25801,
+    "length": 0,
+    "end": 25801,
+    "text": ""
+  },
+  {
+    "table_pos": 9504,
+    "mode": "A",
+    "start": 25801,
+    "length": 0,
+    "end": 25801,
+    "text": ""
+  },
+  {
+    "table_pos": 9520,
+    "mode": "A",
+    "start": 25801,
+    "length": 13,
+    "end": 25814,
+    "text": "talk_low05_01"
+  },
+  {
+    "table_pos": 9536,
+    "mode": "B-implicit",
+    "start": 25814,
+    "length": 10,
+    "end": 25824,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 9536,
+    "mode": "B-explicit",
+    "start": 25824,
+    "length": 43,
+    "end": 25867,
+    "text": "Finalmente, uma folga! Hora de me\ndivertir!"
+  },
+  {
+    "table_pos": 9552,
+    "mode": "A",
+    "start": 25867,
+    "length": 0,
+    "end": 25867,
+    "text": ""
+  },
+  {
+    "table_pos": 9568,
+    "mode": "A",
+    "start": 25867,
+    "length": 13,
+    "end": 25880,
+    "text": "talk_low05_02"
+  },
+  {
+    "table_pos": 9584,
+    "mode": "B-implicit",
+    "start": 25880,
+    "length": 10,
+    "end": 25890,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 9584,
+    "mode": "B-explicit",
+    "start": 25890,
+    "length": 0,
+    "end": 25890,
+    "text": ""
+  },
+  {
+    "table_pos": 9600,
+    "mode": "A",
+    "start": 25890,
+    "length": 0,
+    "end": 25890,
+    "text": ""
+  },
+  {
+    "table_pos": 9616,
+    "mode": "A",
+    "start": 25890,
+    "length": 13,
+    "end": 25903,
+    "text": "talk_low06_01"
+  },
+  {
+    "table_pos": 9632,
+    "mode": "B-implicit",
+    "start": 25903,
+    "length": 10,
+    "end": 25913,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 9632,
+    "mode": "B-explicit",
+    "start": 25913,
+    "length": 40,
+    "end": 25953,
+    "text": "Hehe, você é o novato, né? Boa sorte!"
+  },
+  {
+    "table_pos": 9648,
+    "mode": "A",
+    "start": 25953,
+    "length": 0,
+    "end": 25953,
+    "text": ""
+  },
+  {
+    "table_pos": 9664,
+    "mode": "A",
+    "start": 25953,
+    "length": 13,
+    "end": 25966,
+    "text": "talk_low06_02"
+  },
+  {
+    "table_pos": 9680,
+    "mode": "B-implicit",
+    "start": 25966,
+    "length": 10,
+    "end": 25976,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 9680,
+    "mode": "B-explicit",
+    "start": 25976,
+    "length": 0,
+    "end": 25976,
+    "text": ""
+  },
+  {
+    "table_pos": 9696,
+    "mode": "A",
+    "start": 25976,
+    "length": 0,
+    "end": 25976,
+    "text": ""
+  },
+  {
+    "table_pos": 9712,
+    "mode": "A",
+    "start": 25976,
+    "length": 13,
+    "end": 25989,
+    "text": "talk_low07_01"
+  },
+  {
+    "table_pos": 9728,
+    "mode": "B-implicit",
+    "start": 25989,
+    "length": 10,
+    "end": 25999,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 9728,
+    "mode": "B-explicit",
+    "start": 25999,
+    "length": 73,
+    "end": 26072,
+    "text": "Ei! Está mantendo o treino em dia? Um\nninja precisa ser sempre dedicado!"
+  },
+  {
+    "table_pos": 9744,
+    "mode": "A",
+    "start": 26072,
+    "length": 0,
+    "end": 26072,
+    "text": ""
+  },
+  {
+    "table_pos": 9760,
+    "mode": "A",
+    "start": 26072,
+    "length": 13,
+    "end": 26085,
+    "text": "talk_low07_02"
+  },
+  {
+    "table_pos": 9776,
+    "mode": "B-implicit",
+    "start": 26085,
+    "length": 10,
+    "end": 26095,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 9776,
+    "mode": "B-explicit",
+    "start": 26095,
+    "length": 0,
+    "end": 26095,
+    "text": ""
+  },
+  {
+    "table_pos": 9792,
+    "mode": "A",
+    "start": 26095,
+    "length": 0,
+    "end": 26095,
+    "text": ""
+  },
+  {
+    "table_pos": 9808,
+    "mode": "A",
+    "start": 26095,
+    "length": 13,
+    "end": 26108,
+    "text": "talk_low08_01"
+  },
+  {
+    "table_pos": 9824,
+    "mode": "B-implicit",
+    "start": 26108,
+    "length": 10,
+    "end": 26118,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 9824,
+    "mode": "B-explicit",
+    "start": 26118,
+    "length": 90,
+    "end": 26208,
+    "text": "Meus pais vivem gritando comigo pra eu\nvirar chunin logo. Acha que eu não ando\ntentando!?"
+  },
+  {
+    "table_pos": 9840,
+    "mode": "A",
+    "start": 26208,
+    "length": 0,
+    "end": 26208,
+    "text": ""
+  },
+  {
+    "table_pos": 9856,
+    "mode": "A",
+    "start": 26208,
+    "length": 13,
+    "end": 26221,
+    "text": "talk_low08_02"
+  },
+  {
+    "table_pos": 9872,
+    "mode": "B-implicit",
+    "start": 26221,
+    "length": 10,
+    "end": 26231,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 9872,
+    "mode": "B-explicit",
+    "start": 26231,
+    "length": 0,
+    "end": 26231,
+    "text": ""
+  },
+  {
+    "table_pos": 9888,
+    "mode": "A",
+    "start": 26231,
+    "length": 0,
+    "end": 26231,
+    "text": ""
+  },
+  {
+    "table_pos": 9904,
+    "mode": "A",
+    "start": 26231,
+    "length": 13,
+    "end": 26244,
+    "text": "talk_low09_01"
+  },
+  {
+    "table_pos": 9920,
+    "mode": "B-implicit",
+    "start": 26244,
+    "length": 10,
+    "end": 26254,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 9920,
+    "mode": "B-explicit",
+    "start": 26254,
+    "length": 95,
+    "end": 26349,
+    "text": "Meu irmãozinho também quer ser ninja.\nPor causa dele, eu não posso me dar ao\nluxo de perder."
+  },
+  {
+    "table_pos": 9936,
+    "mode": "A",
+    "start": 26349,
+    "length": 0,
+    "end": 26349,
+    "text": ""
+  },
+  {
+    "table_pos": 9952,
+    "mode": "A",
+    "start": 26349,
+    "length": 13,
+    "end": 26362,
+    "text": "talk_low09_02"
+  },
+  {
+    "table_pos": 9968,
+    "mode": "B-implicit",
+    "start": 26362,
+    "length": 10,
+    "end": 26372,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 9968,
+    "mode": "B-explicit",
+    "start": 26372,
+    "length": 0,
+    "end": 26372,
+    "text": ""
+  },
+  {
+    "table_pos": 9984,
+    "mode": "A",
+    "start": 26372,
+    "length": 0,
+    "end": 26372,
+    "text": ""
+  },
+  {
+    "table_pos": 10000,
+    "mode": "A",
+    "start": 26372,
+    "length": 13,
+    "end": 26385,
+    "text": "talk_low10_01"
+  },
+  {
+    "table_pos": 10016,
+    "mode": "B-implicit",
+    "start": 26385,
+    "length": 10,
+    "end": 26395,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 10016,
+    "mode": "B-explicit",
+    "start": 26395,
+    "length": 71,
+    "end": 26466,
+    "text": "Uh... Comi Lámen do Ichiraku demais...\nNão aguento comer mais nada..."
+  },
+  {
+    "table_pos": 10032,
+    "mode": "A",
+    "start": 26466,
+    "length": 0,
+    "end": 26466,
+    "text": ""
+  },
+  {
+    "table_pos": 10048,
+    "mode": "A",
+    "start": 26466,
+    "length": 13,
+    "end": 26479,
+    "text": "talk_low10_02"
+  },
+  {
+    "table_pos": 10064,
+    "mode": "B-implicit",
+    "start": 26479,
+    "length": 10,
+    "end": 26489,
+    "text": "Leaf Genin"
+  },
+  {
+    "table_pos": 10064,
+    "mode": "B-explicit",
+    "start": 26489,
+    "length": 0,
+    "end": 26489,
+    "text": ""
+  },
+  {
+    "table_pos": 10080,
+    "mode": "A",
+    "start": 26489,
+    "length": 0,
+    "end": 26489,
+    "text": ""
+  },
+  {
+    "table_pos": 10096,
+    "mode": "A",
+    "start": 26489,
+    "length": 13,
+    "end": 26502,
+    "text": "talk_mid05_01"
+  },
+  {
+    "table_pos": 10112,
+    "mode": "B-implicit",
+    "start": 26502,
+    "length": 11,
+    "end": 26513,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 10112,
+    "mode": "B-explicit",
+    "start": 26513,
+    "length": 94,
+    "end": 26607,
+    "text": "Vamos ver, pra onde minha próxima missão\nvai me levar...? Um preparo cuidadoso é\nessencial."
+  },
+  {
+    "table_pos": 10128,
+    "mode": "A",
+    "start": 26607,
+    "length": 0,
+    "end": 26607,
+    "text": ""
+  },
+  {
+    "table_pos": 10144,
+    "mode": "A",
+    "start": 26607,
+    "length": 13,
+    "end": 26620,
+    "text": "talk_mid05_02"
+  },
+  {
+    "table_pos": 10160,
+    "mode": "B-implicit",
+    "start": 26620,
+    "length": 11,
+    "end": 26631,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 10160,
+    "mode": "B-explicit",
+    "start": 26631,
+    "length": 0,
+    "end": 26631,
+    "text": ""
+  },
+  {
+    "table_pos": 10176,
+    "mode": "A",
+    "start": 26631,
+    "length": 0,
+    "end": 26631,
+    "text": ""
+  },
+  {
+    "table_pos": 10192,
+    "mode": "A",
+    "start": 26631,
+    "length": 13,
+    "end": 26644,
+    "text": "talk_mid06_01"
+  },
+  {
+    "table_pos": 10208,
+    "mode": "B-implicit",
+    "start": 26644,
+    "length": 11,
+    "end": 26655,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 10208,
+    "mode": "B-explicit",
+    "start": 26655,
+    "length": 54,
+    "end": 26709,
+    "text": "Droga! Não acredito que fracassei na\nminha missão..."
+  },
+  {
+    "table_pos": 10224,
+    "mode": "A",
+    "start": 26709,
+    "length": 0,
+    "end": 26709,
+    "text": ""
+  },
+  {
+    "table_pos": 10240,
+    "mode": "A",
+    "start": 26709,
+    "length": 13,
+    "end": 26722,
+    "text": "talk_mid06_02"
+  },
+  {
+    "table_pos": 10256,
+    "mode": "B-implicit",
+    "start": 26722,
+    "length": 11,
+    "end": 26733,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 10256,
+    "mode": "B-explicit",
+    "start": 26733,
+    "length": 0,
+    "end": 26733,
+    "text": ""
+  },
+  {
+    "table_pos": 10272,
+    "mode": "A",
+    "start": 26733,
+    "length": 0,
+    "end": 26733,
+    "text": ""
+  },
+  {
+    "table_pos": 10288,
+    "mode": "A",
+    "start": 26733,
+    "length": 13,
+    "end": 26746,
+    "text": "talk_mid07_01"
+  },
+  {
+    "table_pos": 10304,
+    "mode": "B-implicit",
+    "start": 26746,
+    "length": 11,
+    "end": 26757,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 10304,
+    "mode": "B-explicit",
+    "start": 26757,
+    "length": 75,
+    "end": 26832,
+    "text": "O clã Uchiha, o clã Hyuga... Uns nomes e\ntanto nessa nova leva de genins."
+  },
+  {
+    "table_pos": 10320,
+    "mode": "A",
+    "start": 26832,
+    "length": 0,
+    "end": 26832,
+    "text": ""
+  },
+  {
+    "table_pos": 10336,
+    "mode": "A",
+    "start": 26832,
+    "length": 13,
+    "end": 26845,
+    "text": "talk_mid07_02"
+  },
+  {
+    "table_pos": 10352,
+    "mode": "B-implicit",
+    "start": 26845,
+    "length": 11,
+    "end": 26856,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 10352,
+    "mode": "B-explicit",
+    "start": 26856,
+    "length": 0,
+    "end": 26856,
+    "text": ""
+  },
+  {
+    "table_pos": 10368,
+    "mode": "A",
+    "start": 26856,
+    "length": 0,
+    "end": 26856,
+    "text": ""
+  },
+  {
+    "table_pos": 10384,
+    "mode": "A",
+    "start": 26856,
+    "length": 13,
+    "end": 26869,
+    "text": "talk_mid08_01"
+  },
+  {
+    "table_pos": 10400,
+    "mode": "B-implicit",
+    "start": 26869,
+    "length": 11,
+    "end": 26880,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 10400,
+    "mode": "B-explicit",
+    "start": 26880,
+    "length": 68,
+    "end": 26948,
+    "text": "Já é raro eu ter uma folga... Acho que\nvou aproveitar pra relaxar."
+  },
+  {
+    "table_pos": 10416,
+    "mode": "A",
+    "start": 26948,
+    "length": 0,
+    "end": 26948,
+    "text": ""
+  },
+  {
+    "table_pos": 10432,
+    "mode": "A",
+    "start": 26948,
+    "length": 13,
+    "end": 26961,
+    "text": "talk_mid08_02"
+  },
+  {
+    "table_pos": 10448,
+    "mode": "B-implicit",
+    "start": 26961,
+    "length": 11,
+    "end": 26972,
+    "text": "Leaf Chunin"
+  },
+  {
+    "table_pos": 10448,
+    "mode": "B-explicit",
+    "start": 26972,
+    "length": 0,
+    "end": 26972,
+    "text": ""
+  },
+  {
+    "table_pos": 10464,
+    "mode": "A",
+    "start": 26972,
+    "length": 0,
+    "end": 26972,
+    "text": ""
+  }
+]

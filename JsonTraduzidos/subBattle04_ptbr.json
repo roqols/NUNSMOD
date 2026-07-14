@@ -1,0 +1,2938 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 4579,
+    "length": 3,
+    "end": 4582,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 4582,
+    "length": 7,
+    "end": 4589,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 4589,
+    "length": 25,
+    "end": 4614,
+    "text": "Devo estar seguro aqui..."
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 4614,
+    "length": 0,
+    "end": 4614,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 4614,
+    "length": 3,
+    "end": 4617,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 4617,
+    "length": 6,
+    "end": 4623,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 4623,
+    "length": 35,
+    "end": 4658,
+    "text": "O que está fazendo, Sábio\nTarado?"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 4658,
+    "length": 0,
+    "end": 4658,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 4658,
+    "length": 3,
+    "end": 4661,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 4661,
+    "length": 7,
+    "end": 4668,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 4668,
+    "length": 18,
+    "end": 4686,
+    "text": "Agk! Na...Naruto!?"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 4686,
+    "length": 0,
+    "end": 4686,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 4686,
+    "length": 3,
+    "end": 4689,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 4689,
+    "length": 6,
+    "end": 4695,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 4695,
+    "length": 81,
+    "end": 4776,
+    "text": "*Suspiro* Você não pode ficar\nespionando as pessoas pra\nsempre e sair impune..."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 4776,
+    "length": 0,
+    "end": 4776,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 4776,
+    "length": 3,
+    "end": 4779,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 4779,
+    "length": 7,
+    "end": 4786,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 4786,
+    "length": 61,
+    "end": 4847,
+    "text": "Ha-ha-ha! Eu não posso, é? Eu\nsou um dos Sannin Lendários!"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 4847,
+    "length": 0,
+    "end": 4847,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 4847,
+    "length": 3,
+    "end": 4850,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 4850,
+    "length": 7,
+    "end": 4857,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 4857,
+    "length": 32,
+    "end": 4889,
+    "text": "Não sou pego assim tão fácil!"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 4889,
+    "length": 0,
+    "end": 4889,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 4889,
+    "length": 3,
+    "end": 4892,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 4892,
+    "length": 6,
+    "end": 4898,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 4898,
+    "length": 46,
+    "end": 4944,
+    "text": "(Como se isso fosse motivo\npra se orgulhar...)"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 4944,
+    "length": 0,
+    "end": 4944,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 4944,
+    "length": 3,
+    "end": 4947,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 4947,
+    "length": 6,
+    "end": 4953,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 4953,
+    "length": 54,
+    "end": 5007,
+    "text": "Temo que seus atos maldosos\nfinalmente te alcançaram."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 5007,
+    "length": 0,
+    "end": 5007,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 5007,
+    "length": 3,
+    "end": 5010,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 5010,
+    "length": 7,
+    "end": 5017,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 5017,
+    "length": 15,
+    "end": 5032,
+    "text": "Ha! Como assim?"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 5032,
+    "length": 0,
+    "end": 5032,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 5032,
+    "length": 3,
+    "end": 5035,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 5035,
+    "length": 6,
+    "end": 5041,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 5041,
+    "length": 96,
+    "end": 5137,
+    "text": "Quero dizer que você, Sábio\nTarado, é um homem\nprocurado! E eu não vou\ndeixar você escapar!"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 5137,
+    "length": 0,
+    "end": 5137,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 5137,
+    "length": 3,
+    "end": 5140,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 5140,
+    "length": 7,
+    "end": 5147,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 5147,
+    "length": 39,
+    "end": 5186,
+    "text": "O quê!? Você não me\ntrairia, Naruto?"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 5186,
+    "length": 0,
+    "end": 5186,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 5186,
+    "length": 3,
+    "end": 5189,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 5189,
+    "length": 6,
+    "end": 5195,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 5195,
+    "length": 38,
+    "end": 5233,
+    "text": "Trair? Como se eu fizesse\nparte disso!"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 5233,
+    "length": 0,
+    "end": 5233,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 5233,
+    "length": 3,
+    "end": 5236,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 5236,
+    "length": 6,
+    "end": 5242,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 5242,
+    "length": 6,
+    "end": 5248,
+    "text": "Ai...!"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 5248,
+    "length": 0,
+    "end": 5248,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 5248,
+    "length": 3,
+    "end": 5251,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 5251,
+    "length": 7,
+    "end": 5258,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 5258,
+    "length": 45,
+    "end": 5303,
+    "text": "Ha-ha-ha! Seu idiota! Acha que\npode me deter?"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 5303,
+    "length": 0,
+    "end": 5303,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 5303,
+    "length": 3,
+    "end": 5306,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 5306,
+    "length": 6,
+    "end": 5312,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 5312,
+    "length": 7,
+    "end": 5319,
+    "text": "Ah! Ei!"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 5319,
+    "length": 0,
+    "end": 5319,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 5319,
+    "length": 3,
+    "end": 5322,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 5322,
+    "length": 6,
+    "end": 5328,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 5328,
+    "length": 3,
+    "end": 5331,
+    "text": "..."
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 5331,
+    "length": 0,
+    "end": 5331,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 5331,
+    "length": 3,
+    "end": 5334,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 5334,
+    "length": 6,
+    "end": 5340,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 5340,
+    "length": 30,
+    "end": 5370,
+    "text": "Ah não. Deixei ele escapar..."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 5370,
+    "length": 0,
+    "end": 5370,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 5370,
+    "length": 3,
+    "end": 5373,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 5373,
+    "length": 6,
+    "end": 5379,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 5379,
+    "length": 34,
+    "end": 5413,
+    "text": "Parece que é isso, Sábio\nTarado!"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 5413,
+    "length": 0,
+    "end": 5413,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 5413,
+    "length": 3,
+    "end": 5416,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 5416,
+    "length": 7,
+    "end": 5423,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 5423,
+    "length": 6,
+    "end": 5429,
+    "text": "Ugk..."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 5429,
+    "length": 0,
+    "end": 5429,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 5429,
+    "length": 3,
+    "end": 5432,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 5432,
+    "length": 6,
+    "end": 5438,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 5438,
+    "length": 42,
+    "end": 5480,
+    "text": "Finalmente a paz será\nrestaurada na vila."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 5480,
+    "length": 0,
+    "end": 5480,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 5480,
+    "length": 3,
+    "end": 5483,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 5483,
+    "length": 7,
+    "end": 5490,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 5490,
+    "length": 12,
+    "end": 5502,
+    "text": "Eu me rendo!"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 5502,
+    "length": 0,
+    "end": 5502,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 5502,
+    "length": 3,
+    "end": 5505,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 5505,
+    "length": 7,
+    "end": 5512,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 5512,
+    "length": 47,
+    "end": 5559,
+    "text": "...Era isso que você esperava\nque eu dissesse?"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 5559,
+    "length": 0,
+    "end": 5559,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 5559,
+    "length": 3,
+    "end": 5562,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 5562,
+    "length": 6,
+    "end": 5568,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 5568,
+    "length": 3,
+    "end": 5571,
+    "text": "Ah!"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 5571,
+    "length": 0,
+    "end": 5571,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 5571,
+    "length": 3,
+    "end": 5574,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 5574,
+    "length": 7,
+    "end": 5581,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 5581,
+    "length": 64,
+    "end": 5645,
+    "text": "Ha-ha-ha! Você realmente\nachou que estava perto de\nme capturar?"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 5645,
+    "length": 0,
+    "end": 5645,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 5645,
+    "length": 3,
+    "end": 5648,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 5648,
+    "length": 6,
+    "end": 5654,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 5654,
+    "length": 15,
+    "end": 5669,
+    "text": "P... Droga...!!"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 5669,
+    "length": 0,
+    "end": 5669,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 5669,
+    "length": 3,
+    "end": 5672,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 5672,
+    "length": 6,
+    "end": 5678,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 5678,
+    "length": 68,
+    "end": 5746,
+    "text": "Não posso deixar ele escapar.\nPreciso pegá-lo custe o que\ncustar!!"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 5746,
+    "length": 0,
+    "end": 5746,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 5746,
+    "length": 3,
+    "end": 5749,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 5749,
+    "length": 6,
+    "end": 5755,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 5755,
+    "length": 34,
+    "end": 5789,
+    "text": "Ah, não! Não consegui achá-lo!!"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 5789,
+    "length": 0,
+    "end": 5789,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 5789,
+    "length": 3,
+    "end": 5792,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 5792,
+    "length": 6,
+    "end": 5798,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 5798,
+    "length": 42,
+    "end": 5840,
+    "text": "É melhor esse Sábio Tarado se\ncuidar...!"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 5840,
+    "length": 0,
+    "end": 5840,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 5840,
+    "length": 3,
+    "end": 5843,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 5843,
+    "length": 6,
+    "end": 5849,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 5849,
+    "length": 13,
+    "end": 5862,
+    "text": "Achei você!!"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 5862,
+    "length": 0,
+    "end": 5862,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 5862,
+    "length": 3,
+    "end": 5865,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 5865,
+    "length": 7,
+    "end": 5872,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 5872,
+    "length": 9,
+    "end": 5881,
+    "text": "O quê!!?"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 5881,
+    "length": 0,
+    "end": 5881,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 5881,
+    "length": 3,
+    "end": 5884,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 5884,
+    "length": 6,
+    "end": 5890,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 5890,
+    "length": 38,
+    "end": 5928,
+    "text": "Não vou deixar você escapar\nde novo!"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 5928,
+    "length": 0,
+    "end": 5928,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 5928,
+    "length": 3,
+    "end": 5931,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 5931,
+    "length": 7,
+    "end": 5938,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 5938,
+    "length": 13,
+    "end": 5951,
+    "text": "Nesse caso..."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 5951,
+    "length": 0,
+    "end": 5951,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 5951,
+    "length": 3,
+    "end": 5954,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 5954,
+    "length": 7,
+    "end": 5961,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 5961,
+    "length": 20,
+    "end": 5981,
+    "text": "Kakashi! É sua vez!"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 5981,
+    "length": 0,
+    "end": 5981,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 5981,
+    "length": 3,
+    "end": 5984,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 5984,
+    "length": 7,
+    "end": 5991,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 5991,
+    "length": 7,
+    "end": 5998,
+    "text": "Chamou?"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 5998,
+    "length": 0,
+    "end": 5998,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 5998,
+    "length": 3,
+    "end": 6001,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 6001,
+    "length": 6,
+    "end": 6007,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 6007,
+    "length": 21,
+    "end": 6028,
+    "text": "Ka... Kakashi sensei?"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 6028,
+    "length": 0,
+    "end": 6028,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 6028,
+    "length": 3,
+    "end": 6031,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 6031,
+    "length": 7,
+    "end": 6038,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 6038,
+    "length": 35,
+    "end": 6073,
+    "text": "Kakashi, cuide do Naruto,\npode ser?"
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 6073,
+    "length": 0,
+    "end": 6073,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 6073,
+    "length": 3,
+    "end": 6076,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 6076,
+    "length": 6,
+    "end": 6082,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 6082,
+    "length": 19,
+    "end": 6101,
+    "text": "Ei! Onde você vai?"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 6101,
+    "length": 0,
+    "end": 6101,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 6101,
+    "length": 3,
+    "end": 6104,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 6104,
+    "length": 7,
+    "end": 6111,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 6111,
+    "length": 58,
+    "end": 6169,
+    "text": "Espera. Não posso deixar você\ncapturar o Mestre Jiraiya."
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 6169,
+    "length": 0,
+    "end": 6169,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 6169,
+    "length": 3,
+    "end": 6172,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 6172,
+    "length": 6,
+    "end": 6178,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 6178,
+    "length": 47,
+    "end": 6225,
+    "text": "Kakashi sensei! Por favor, saia\ndo meu caminho!"
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 6225,
+    "length": 0,
+    "end": 6225,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 6225,
+    "length": 3,
+    "end": 6228,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 6228,
+    "length": 7,
+    "end": 6235,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 6235,
+    "length": 70,
+    "end": 6305,
+    "text": "Desculpa, mas adultos têm\nseus próprios motivos pra\nfazer as coisas."
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 6305,
+    "length": 0,
+    "end": 6305,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 6305,
+    "length": 3,
+    "end": 6308,
+    "text": "041"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 6308,
+    "length": 6,
+    "end": 6314,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 6314,
+    "length": 3,
+    "end": 6317,
+    "text": "..."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 6317,
+    "length": 0,
+    "end": 6317,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 6317,
+    "length": 3,
+    "end": 6320,
+    "text": "042"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 6320,
+    "length": 6,
+    "end": 6326,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 6326,
+    "length": 56,
+    "end": 6382,
+    "text": "Ele prometeu te dar alguma\nmercadoria do Icha Icha, foi?"
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 6382,
+    "length": 0,
+    "end": 6382,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 6382,
+    "length": 3,
+    "end": 6385,
+    "text": "043"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 6385,
+    "length": 7,
+    "end": 6392,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 6392,
+    "length": 38,
+    "end": 6430,
+    "text": "Isso-- Isso não tem nada a\nver com..."
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 6430,
+    "length": 0,
+    "end": 6430,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 6430,
+    "length": 3,
+    "end": 6433,
+    "text": "044"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 6433,
+    "length": 6,
+    "end": 6439,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 6439,
+    "length": 135,
+    "end": 6574,
+    "text": "*Suspiro* Isso faz de você um\ncúmplice, Kakashi sensei!\nDesculpa, mas não posso deixar\nvocê me impedir de capturar\no Sábio Tarado!"
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 6574,
+    "length": 0,
+    "end": 6574,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 6574,
+    "length": 3,
+    "end": 6577,
+    "text": "045"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 6577,
+    "length": 6,
+    "end": 6583,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 6583,
+    "length": 18,
+    "end": 6601,
+    "text": "E-Ele é durão..."
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 6601,
+    "length": 0,
+    "end": 6601,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 6601,
+    "length": 3,
+    "end": 6604,
+    "text": "046"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 6604,
+    "length": 7,
+    "end": 6611,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 6611,
+    "length": 50,
+    "end": 6661,
+    "text": "Hmm? O que foi, Naruto? É só\nisso que você tem?"
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 6661,
+    "length": 0,
+    "end": 6661,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 6661,
+    "length": 3,
+    "end": 6664,
+    "text": "047"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 6664,
+    "length": 6,
+    "end": 6670,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 6670,
+    "length": 7,
+    "end": 6677,
+    "text": "Argh..."
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 6677,
+    "length": 0,
+    "end": 6677,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 6677,
+    "length": 3,
+    "end": 6680,
+    "text": "048"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-implicit",
+    "start": 6680,
+    "length": 7,
+    "end": 6687,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-explicit",
+    "start": 6687,
+    "length": 39,
+    "end": 6726,
+    "text": "Acho que preciso te treinar\nmais forte."
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 6726,
+    "length": 0,
+    "end": 6726,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 6726,
+    "length": 3,
+    "end": 6729,
+    "text": "049"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-implicit",
+    "start": 6729,
+    "length": 6,
+    "end": 6735,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-explicit",
+    "start": 6735,
+    "length": 7,
+    "end": 6742,
+    "text": "Argh..."
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 6742,
+    "length": 0,
+    "end": 6742,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 6742,
+    "length": 3,
+    "end": 6745,
+    "text": "050"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-implicit",
+    "start": 6745,
+    "length": 7,
+    "end": 6752,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-explicit",
+    "start": 6752,
+    "length": 6,
+    "end": 6758,
+    "text": "Opa..."
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 6758,
+    "length": 0,
+    "end": 6758,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 6758,
+    "length": 3,
+    "end": 6761,
+    "text": "051"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-implicit",
+    "start": 6761,
+    "length": 6,
+    "end": 6767,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-explicit",
+    "start": 6767,
+    "length": 15,
+    "end": 6782,
+    "text": "Hihi! Eu venci!"
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 6782,
+    "length": 0,
+    "end": 6782,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 6782,
+    "length": 3,
+    "end": 6785,
+    "text": "052"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-implicit",
+    "start": 6785,
+    "length": 7,
+    "end": 6792,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-explicit",
+    "start": 6792,
+    "length": 29,
+    "end": 6821,
+    "text": "Bom trabalho. Te vejo depois."
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 6821,
+    "length": 0,
+    "end": 6821,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 6821,
+    "length": 3,
+    "end": 6824,
+    "text": "053"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-implicit",
+    "start": 6824,
+    "length": 6,
+    "end": 6830,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-explicit",
+    "start": 6830,
+    "length": 48,
+    "end": 6878,
+    "text": "Parece que ele fez uma\nretirada bem apressada..."
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 6878,
+    "length": 0,
+    "end": 6878,
+    "text": ""
+  },
+  {
+    "table_pos": 2608,
+    "mode": "A",
+    "start": 6878,
+    "length": 3,
+    "end": 6881,
+    "text": "054"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-implicit",
+    "start": 6881,
+    "length": 6,
+    "end": 6887,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-explicit",
+    "start": 6887,
+    "length": 72,
+    "end": 6959,
+    "text": "Sem tempo pra me preocupar com\nisso. Preciso pegar aquele\nSábio Tarado!"
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 6959,
+    "length": 0,
+    "end": 6959,
+    "text": ""
+  },
+  {
+    "table_pos": 2656,
+    "mode": "A",
+    "start": 6959,
+    "length": 3,
+    "end": 6962,
+    "text": "055"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-implicit",
+    "start": 6962,
+    "length": 6,
+    "end": 6968,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-explicit",
+    "start": 6968,
+    "length": 31,
+    "end": 6999,
+    "text": "Droga! Não consegui achá-lo!!"
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 6999,
+    "length": 0,
+    "end": 6999,
+    "text": ""
+  },
+  {
+    "table_pos": 2704,
+    "mode": "A",
+    "start": 6999,
+    "length": 3,
+    "end": 7002,
+    "text": "056"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-implicit",
+    "start": 7002,
+    "length": 6,
+    "end": 7008,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-explicit",
+    "start": 7008,
+    "length": 42,
+    "end": 7050,
+    "text": "É melhor esse Sábio Tarado se\ncuidar...!"
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 7050,
+    "length": 0,
+    "end": 7050,
+    "text": ""
+  },
+  {
+    "table_pos": 2752,
+    "mode": "A",
+    "start": 7050,
+    "length": 3,
+    "end": 7053,
+    "text": "057"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-implicit",
+    "start": 7053,
+    "length": 6,
+    "end": 7059,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-explicit",
+    "start": 7059,
+    "length": 53,
+    "end": 7112,
+    "text": "Sábio Tarado! Não vou deixar\nvocê escapar de novo!"
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 7112,
+    "length": 0,
+    "end": 7112,
+    "text": ""
+  },
+  {
+    "table_pos": 2800,
+    "mode": "A",
+    "start": 7112,
+    "length": 3,
+    "end": 7115,
+    "text": "058"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-implicit",
+    "start": 7115,
+    "length": 7,
+    "end": 7122,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-explicit",
+    "start": 7122,
+    "length": 30,
+    "end": 7152,
+    "text": "Droga! Você me achou de novo!"
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 7152,
+    "length": 0,
+    "end": 7152,
+    "text": ""
+  },
+  {
+    "table_pos": 2848,
+    "mode": "A",
+    "start": 7152,
+    "length": 3,
+    "end": 7155,
+    "text": "059"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "B-implicit",
+    "start": 7155,
+    "length": 6,
+    "end": 7161,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "B-explicit",
+    "start": 7161,
+    "length": 44,
+    "end": 7205,
+    "text": "Vou com tudo! É melhor você\nestar pronto!!"
+  },
+  {
+    "table_pos": 2880,
+    "mode": "A",
+    "start": 7205,
+    "length": 0,
+    "end": 7205,
+    "text": ""
+  },
+  {
+    "table_pos": 2896,
+    "mode": "A",
+    "start": 7205,
+    "length": 3,
+    "end": 7208,
+    "text": "060"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "B-implicit",
+    "start": 7208,
+    "length": 7,
+    "end": 7215,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "B-explicit",
+    "start": 7215,
+    "length": 26,
+    "end": 7241,
+    "text": "É só isso que você tem?"
+  },
+  {
+    "table_pos": 2928,
+    "mode": "A",
+    "start": 7241,
+    "length": 0,
+    "end": 7241,
+    "text": ""
+  },
+  {
+    "table_pos": 2944,
+    "mode": "A",
+    "start": 7241,
+    "length": 3,
+    "end": 7244,
+    "text": "061"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "B-implicit",
+    "start": 7244,
+    "length": 6,
+    "end": 7250,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "B-explicit",
+    "start": 7250,
+    "length": 7,
+    "end": 7257,
+    "text": "Ugk...!"
+  },
+  {
+    "table_pos": 2976,
+    "mode": "A",
+    "start": 7257,
+    "length": 0,
+    "end": 7257,
+    "text": ""
+  },
+  {
+    "table_pos": 2992,
+    "mode": "A",
+    "start": 7257,
+    "length": 3,
+    "end": 7260,
+    "text": "062"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "B-implicit",
+    "start": 7260,
+    "length": 7,
+    "end": 7267,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "B-explicit",
+    "start": 7267,
+    "length": 42,
+    "end": 7309,
+    "text": "É, você vai me pegar... em\nseus sonhos!!"
+  },
+  {
+    "table_pos": 3024,
+    "mode": "A",
+    "start": 7309,
+    "length": 0,
+    "end": 7309,
+    "text": ""
+  },
+  {
+    "table_pos": 3040,
+    "mode": "A",
+    "start": 7309,
+    "length": 3,
+    "end": 7312,
+    "text": "063"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "B-implicit",
+    "start": 7312,
+    "length": 7,
+    "end": 7319,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "B-explicit",
+    "start": 7319,
+    "length": 46,
+    "end": 7365,
+    "text": "É melhor você se dedicar ao\ntreino! HAHAHA!!"
+  },
+  {
+    "table_pos": 3072,
+    "mode": "A",
+    "start": 7365,
+    "length": 0,
+    "end": 7365,
+    "text": ""
+  },
+  {
+    "table_pos": 3088,
+    "mode": "A",
+    "start": 7365,
+    "length": 3,
+    "end": 7368,
+    "text": "064"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "B-implicit",
+    "start": 7368,
+    "length": 6,
+    "end": 7374,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "B-explicit",
+    "start": 7374,
+    "length": 53,
+    "end": 7427,
+    "text": "Nunca subestime os poderes de\num velho Sannin tarado."
+  },
+  {
+    "table_pos": 3120,
+    "mode": "A",
+    "start": 7427,
+    "length": 0,
+    "end": 7427,
+    "text": ""
+  },
+  {
+    "table_pos": 3136,
+    "mode": "A",
+    "start": 7427,
+    "length": 3,
+    "end": 7430,
+    "text": "065"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "B-implicit",
+    "start": 7430,
+    "length": 6,
+    "end": 7436,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "B-explicit",
+    "start": 7436,
+    "length": 14,
+    "end": 7450,
+    "text": "Sim! Eu venci!"
+  },
+  {
+    "table_pos": 3168,
+    "mode": "A",
+    "start": 7450,
+    "length": 0,
+    "end": 7450,
+    "text": ""
+  },
+  {
+    "table_pos": 3184,
+    "mode": "A",
+    "start": 7450,
+    "length": 3,
+    "end": 7453,
+    "text": "066"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "B-implicit",
+    "start": 7453,
+    "length": 7,
+    "end": 7460,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "B-explicit",
+    "start": 7460,
+    "length": 8,
+    "end": 7468,
+    "text": "Droga..."
+  },
+  {
+    "table_pos": 3216,
+    "mode": "A",
+    "start": 7468,
+    "length": 0,
+    "end": 7468,
+    "text": ""
+  },
+  {
+    "table_pos": 3232,
+    "mode": "A",
+    "start": 7468,
+    "length": 3,
+    "end": 7471,
+    "text": "067"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "B-implicit",
+    "start": 7471,
+    "length": 6,
+    "end": 7477,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "B-explicit",
+    "start": 7477,
+    "length": 50,
+    "end": 7527,
+    "text": "Bem... Está na hora de te\nlevar de volta à vila."
+  },
+  {
+    "table_pos": 3264,
+    "mode": "A",
+    "start": 7527,
+    "length": 0,
+    "end": 7527,
+    "text": ""
+  },
+  {
+    "table_pos": 3280,
+    "mode": "A",
+    "start": 7527,
+    "length": 3,
+    "end": 7530,
+    "text": "068"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "B-implicit",
+    "start": 7530,
+    "length": 7,
+    "end": 7537,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "B-explicit",
+    "start": 7537,
+    "length": 14,
+    "end": 7551,
+    "text": "P...perdoe-me!"
+  },
+  {
+    "table_pos": 3312,
+    "mode": "A",
+    "start": 7551,
+    "length": 0,
+    "end": 7551,
+    "text": ""
+  },
+  {
+    "table_pos": 3328,
+    "mode": "A",
+    "start": 7551,
+    "length": 3,
+    "end": 7554,
+    "text": "069"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "B-implicit",
+    "start": 7554,
+    "length": 6,
+    "end": 7560,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "B-explicit",
+    "start": 7560,
+    "length": 5,
+    "end": 7565,
+    "text": "Hã!?"
+  },
+  {
+    "table_pos": 3360,
+    "mode": "A",
+    "start": 7565,
+    "length": 0,
+    "end": 7565,
+    "text": ""
+  },
+  {
+    "table_pos": 3376,
+    "mode": "A",
+    "start": 7565,
+    "length": 3,
+    "end": 7568,
+    "text": "070"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "B-implicit",
+    "start": 7568,
+    "length": 7,
+    "end": 7575,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "B-explicit",
+    "start": 7575,
+    "length": 72,
+    "end": 7647,
+    "text": "Foi um impulso! Prometo que\nnunca mais vou espiar! Por\nfavor, me perdoe!"
+  },
+  {
+    "table_pos": 3408,
+    "mode": "A",
+    "start": 7647,
+    "length": 0,
+    "end": 7647,
+    "text": ""
+  },
+  {
+    "table_pos": 3424,
+    "mode": "A",
+    "start": 7647,
+    "length": 3,
+    "end": 7650,
+    "text": "071"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "B-implicit",
+    "start": 7650,
+    "length": 6,
+    "end": 7656,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "B-explicit",
+    "start": 7656,
+    "length": 54,
+    "end": 7710,
+    "text": "Q...quando você fala assim...\nnão sei o que fazer..."
+  },
+  {
+    "table_pos": 3456,
+    "mode": "A",
+    "start": 7710,
+    "length": 0,
+    "end": 7710,
+    "text": ""
+  },
+  {
+    "table_pos": 3472,
+    "mode": "A",
+    "start": 7710,
+    "length": 3,
+    "end": 7713,
+    "text": "072"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "B-implicit",
+    "start": 7713,
+    "length": 7,
+    "end": 7720,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "B-explicit",
+    "start": 7720,
+    "length": 75,
+    "end": 7795,
+    "text": "De agora em diante, vou ser\nbom e virtuoso! Só me deixe\nescapar dessa vez!"
+  },
+  {
+    "table_pos": 3504,
+    "mode": "A",
+    "start": 7795,
+    "length": 0,
+    "end": 7795,
+    "text": ""
+  },
+  {
+    "table_pos": 3520,
+    "mode": "A",
+    "start": 7795,
+    "length": 3,
+    "end": 7798,
+    "text": "073"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "B-implicit",
+    "start": 7798,
+    "length": 6,
+    "end": 7804,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "B-explicit",
+    "start": 7804,
+    "length": 49,
+    "end": 7853,
+    "text": "Ehem... Tem certeza que vai\nmanter essa promessa?"
+  },
+  {
+    "table_pos": 3552,
+    "mode": "A",
+    "start": 7853,
+    "length": 0,
+    "end": 7853,
+    "text": ""
+  },
+  {
+    "table_pos": 3568,
+    "mode": "A",
+    "start": 7853,
+    "length": 3,
+    "end": 7856,
+    "text": "074"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "B-implicit",
+    "start": 7856,
+    "length": 7,
+    "end": 7863,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "B-explicit",
+    "start": 7863,
+    "length": 16,
+    "end": 7879,
+    "text": "Sim, eu prometo!"
+  },
+  {
+    "table_pos": 3600,
+    "mode": "A",
+    "start": 7879,
+    "length": 0,
+    "end": 7879,
+    "text": ""
+  },
+  {
+    "table_pos": 3616,
+    "mode": "A",
+    "start": 7879,
+    "length": 3,
+    "end": 7882,
+    "text": "075"
+  },
+  {
+    "table_pos": 3632,
+    "mode": "B-implicit",
+    "start": 7882,
+    "length": 6,
+    "end": 7888,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3632,
+    "mode": "B-explicit",
+    "start": 7888,
+    "length": 44,
+    "end": 7932,
+    "text": "Certo então. Vou deixar você\nir dessa vez."
+  },
+  {
+    "table_pos": 3648,
+    "mode": "A",
+    "start": 7932,
+    "length": 0,
+    "end": 7932,
+    "text": ""
+  },
+  {
+    "table_pos": 3664,
+    "mode": "A",
+    "start": 7932,
+    "length": 3,
+    "end": 7935,
+    "text": "076"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "B-implicit",
+    "start": 7935,
+    "length": 7,
+    "end": 7942,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "B-explicit",
+    "start": 7942,
+    "length": 43,
+    "end": 7985,
+    "text": "Ah! Naruto! Você tem um\ncoração de ouro!"
+  },
+  {
+    "table_pos": 3696,
+    "mode": "A",
+    "start": 7985,
+    "length": 0,
+    "end": 7985,
+    "text": ""
+  },
+  {
+    "table_pos": 3712,
+    "mode": "A",
+    "start": 7985,
+    "length": 3,
+    "end": 7988,
+    "text": "077"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "B-implicit",
+    "start": 7988,
+    "length": 6,
+    "end": 7994,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "B-explicit",
+    "start": 7994,
+    "length": 14,
+    "end": 8008,
+    "text": "Hihi... Bem..."
+  },
+  {
+    "table_pos": 3744,
+    "mode": "A",
+    "start": 8008,
+    "length": 0,
+    "end": 8008,
+    "text": ""
+  },
+  {
+    "table_pos": 3760,
+    "mode": "A",
+    "start": 8008,
+    "length": 3,
+    "end": 8011,
+    "text": "078"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "B-implicit",
+    "start": 8011,
+    "length": 7,
+    "end": 8018,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "B-explicit",
+    "start": 8018,
+    "length": 12,
+    "end": 8030,
+    "text": "Falo sério!"
+  },
+  {
+    "table_pos": 3792,
+    "mode": "A",
+    "start": 8030,
+    "length": 0,
+    "end": 8030,
+    "text": ""
+  },
+  {
+    "table_pos": 3808,
+    "mode": "A",
+    "start": 8030,
+    "length": 3,
+    "end": 8033,
+    "text": "079"
+  },
+  {
+    "table_pos": 3824,
+    "mode": "B-implicit",
+    "start": 8033,
+    "length": 6,
+    "end": 8039,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3824,
+    "mode": "B-explicit",
+    "start": 8039,
+    "length": 56,
+    "end": 8095,
+    "text": "Certo, vou indo, mas é melhor\nvocê refletir bastante! "
+  },
+  {
+    "table_pos": 3840,
+    "mode": "A",
+    "start": 8095,
+    "length": 0,
+    "end": 8095,
+    "text": ""
+  },
+  {
+    "table_pos": 3856,
+    "mode": "A",
+    "start": 8095,
+    "length": 3,
+    "end": 8098,
+    "text": "080"
+  },
+  {
+    "table_pos": 3872,
+    "mode": "B-implicit",
+    "start": 8098,
+    "length": 7,
+    "end": 8105,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3872,
+    "mode": "B-explicit",
+    "start": 8105,
+    "length": 3,
+    "end": 8108,
+    "text": "..."
+  },
+  {
+    "table_pos": 3888,
+    "mode": "A",
+    "start": 8108,
+    "length": 0,
+    "end": 8108,
+    "text": ""
+  },
+  {
+    "table_pos": 3904,
+    "mode": "A",
+    "start": 8108,
+    "length": 3,
+    "end": 8111,
+    "text": "081"
+  },
+  {
+    "table_pos": 3920,
+    "mode": "B-implicit",
+    "start": 8111,
+    "length": 7,
+    "end": 8118,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 3920,
+    "mode": "B-explicit",
+    "start": 8118,
+    "length": 29,
+    "end": 8147,
+    "text": "Acho que ele virou a página."
+  },
+  {
+    "table_pos": 3936,
+    "mode": "A",
+    "start": 8147,
+    "length": 0,
+    "end": 8147,
+    "text": ""
+  },
+  {
+    "table_pos": 3952,
+    "mode": "A",
+    "start": 8147,
+    "length": 3,
+    "end": 8150,
+    "text": "082"
+  },
+  {
+    "table_pos": 3968,
+    "mode": "B-implicit",
+    "start": 8150,
+    "length": 7,
+    "end": 8157,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3968,
+    "mode": "B-explicit",
+    "start": 8157,
+    "length": 90,
+    "end": 8247,
+    "text": "Você está certo. Os instintos\nde caça e as técnicas de\ncombate dele estão melhorando."
+  },
+  {
+    "table_pos": 3984,
+    "mode": "A",
+    "start": 8247,
+    "length": 0,
+    "end": 8247,
+    "text": ""
+  },
+  {
+    "table_pos": 4000,
+    "mode": "A",
+    "start": 8247,
+    "length": 3,
+    "end": 8250,
+    "text": "083"
+  },
+  {
+    "table_pos": 4016,
+    "mode": "B-implicit",
+    "start": 8250,
+    "length": 7,
+    "end": 8257,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4016,
+    "mode": "B-explicit",
+    "start": 8257,
+    "length": 72,
+    "end": 8329,
+    "text": "Mas ele está longe de ser um\nninja completo. Precisamos\ntreiná-lo bem."
+  },
+  {
+    "table_pos": 4032,
+    "mode": "A",
+    "start": 8329,
+    "length": 0,
+    "end": 8329,
+    "text": ""
+  },
+  {
+    "table_pos": 4048,
+    "mode": "A",
+    "start": 8329,
+    "length": 3,
+    "end": 8332,
+    "text": "084"
+  },
+  {
+    "table_pos": 4064,
+    "mode": "B-implicit",
+    "start": 8332,
+    "length": 7,
+    "end": 8339,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 4064,
+    "mode": "B-explicit",
+    "start": 8339,
+    "length": 15,
+    "end": 8354,
+    "text": "A propósito..."
+  },
+  {
+    "table_pos": 4080,
+    "mode": "A",
+    "start": 8354,
+    "length": 0,
+    "end": 8354,
+    "text": ""
+  },
+  {
+    "table_pos": 4096,
+    "mode": "A",
+    "start": 8354,
+    "length": 3,
+    "end": 8357,
+    "text": "085"
+  },
+  {
+    "table_pos": 4112,
+    "mode": "B-implicit",
+    "start": 8357,
+    "length": 7,
+    "end": 8364,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 4112,
+    "mode": "B-explicit",
+    "start": 8364,
+    "length": 69,
+    "end": 8433,
+    "text": "Sobre aquela promessa que fez\nao Naruto... Vai mesmo parar\nde espiar?"
+  },
+  {
+    "table_pos": 4128,
+    "mode": "A",
+    "start": 8433,
+    "length": 0,
+    "end": 8433,
+    "text": ""
+  },
+  {
+    "table_pos": 4144,
+    "mode": "A",
+    "start": 8433,
+    "length": 3,
+    "end": 8436,
+    "text": "086"
+  },
+  {
+    "table_pos": 4160,
+    "mode": "B-implicit",
+    "start": 8436,
+    "length": 7,
+    "end": 8443,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4160,
+    "mode": "B-explicit",
+    "start": 8443,
+    "length": 83,
+    "end": 8526,
+    "text": "Hã? Que promessa? É difícil\nlembrar de coisas quando se é\ntão velho quanto eu."
+  },
+  {
+    "table_pos": 4176,
+    "mode": "A",
+    "start": 8526,
+    "length": 0,
+    "end": 8526,
+    "text": ""
+  },
+  {
+    "table_pos": 4192,
+    "mode": "A",
+    "start": 8526,
+    "length": 3,
+    "end": 8529,
+    "text": "087"
+  },
+  {
+    "table_pos": 4208,
+    "mode": "B-implicit",
+    "start": 8529,
+    "length": 7,
+    "end": 8536,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 4208,
+    "mode": "B-explicit",
+    "start": 8536,
+    "length": 22,
+    "end": 8558,
+    "text": "Foi o que eu pensei..."
+  },
+  {
+    "table_pos": 4224,
+    "mode": "A",
+    "start": 8558,
+    "length": 0,
+    "end": 8558,
+    "text": ""
+  },
+  {
+    "table_pos": 4240,
+    "mode": "A",
+    "start": 8558,
+    "length": 3,
+    "end": 8561,
+    "text": "088"
+  },
+  {
+    "table_pos": 4256,
+    "mode": "B-implicit",
+    "start": 8561,
+    "length": 7,
+    "end": 8568,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4256,
+    "mode": "B-explicit",
+    "start": 8568,
+    "length": 11,
+    "end": 8579,
+    "text": "Ha-ha-ha-!!"
+  },
+  {
+    "table_pos": 4272,
+    "mode": "A",
+    "start": 8579,
+    "length": 0,
+    "end": 8579,
+    "text": ""
+  },
+  {
+    "table_pos": 4288,
+    "mode": "A",
+    "start": 8579,
+    "length": 3,
+    "end": 8582,
+    "text": "089"
+  },
+  {
+    "table_pos": 4304,
+    "mode": "B-implicit",
+    "start": 8582,
+    "length": 6,
+    "end": 8588,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 4304,
+    "mode": "B-explicit",
+    "start": 8588,
+    "length": 7,
+    "end": 8595,
+    "text": "Atchim!"
+  },
+  {
+    "table_pos": 4320,
+    "mode": "A",
+    "start": 8595,
+    "length": 0,
+    "end": 8595,
+    "text": ""
+  },
+  {
+    "table_pos": 4336,
+    "mode": "A",
+    "start": 8595,
+    "length": 3,
+    "end": 8598,
+    "text": "090"
+  },
+  {
+    "table_pos": 4352,
+    "mode": "B-implicit",
+    "start": 8598,
+    "length": 6,
+    "end": 8604,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 4352,
+    "mode": "B-explicit",
+    "start": 8604,
+    "length": 73,
+    "end": 8677,
+    "text": "Hã. Dizem que um espirro\nsignifica que alguém está\nfalando de você..."
+  },
+  {
+    "table_pos": 4368,
+    "mode": "A",
+    "start": 8677,
+    "length": 0,
+    "end": 8677,
+    "text": ""
+  },
+  {
+    "table_pos": 4384,
+    "mode": "A",
+    "start": 8677,
+    "length": 3,
+    "end": 8680,
+    "text": "091"
+  },
+  {
+    "table_pos": 4400,
+    "mode": "B-implicit",
+    "start": 8680,
+    "length": 6,
+    "end": 8686,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 4400,
+    "mode": "B-explicit",
+    "start": 8686,
+    "length": 26,
+    "end": 8712,
+    "text": "Ah, bem. Missão cumprida!"
+  },
+  {
+    "table_pos": 4416,
+    "mode": "A",
+    "start": 8712,
+    "length": 0,
+    "end": 8712,
+    "text": ""
+  },
+  {
+    "table_pos": 4432,
+    "mode": "A",
+    "start": 8712,
+    "length": 3,
+    "end": 8715,
+    "text": "092"
+  },
+  {
+    "table_pos": 4448,
+    "mode": "A",
+    "start": 8715,
+    "length": 70,
+    "end": 8785,
+    "text": "O Jiraiya ainda está solto!\nUse o mapa para te ajudar\na encontrá-lo!"
+  },
+  {
+    "table_pos": 4464,
+    "mode": "A",
+    "start": 8785,
+    "length": 0,
+    "end": 8785,
+    "text": ""
+  }
+]

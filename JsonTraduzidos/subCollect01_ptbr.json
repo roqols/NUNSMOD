@@ -1,0 +1,2474 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 3908,
+    "length": 3,
+    "end": 3911,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 3911,
+    "length": 6,
+    "end": 3917,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 3917,
+    "length": 18,
+    "end": 3935,
+    "text": "Oi! Vim te ajudar!"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 3935,
+    "length": 0,
+    "end": 3935,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 3935,
+    "length": 3,
+    "end": 3938,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 3938,
+    "length": 3,
+    "end": 3941,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 3941,
+    "length": 55,
+    "end": 3996,
+    "text": "Ei! Você está atrasado. Por\nque me fez esperar tanto?"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 3996,
+    "length": 0,
+    "end": 3996,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 3996,
+    "length": 3,
+    "end": 3999,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 3999,
+    "length": 6,
+    "end": 4005,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 4005,
+    "length": 34,
+    "end": 4039,
+    "text": "Mas eu só fiquei sabendo agora..."
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 4039,
+    "length": 0,
+    "end": 4039,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 4039,
+    "length": 3,
+    "end": 4042,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 4042,
+    "length": 3,
+    "end": 4045,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 4045,
+    "length": 55,
+    "end": 4100,
+    "text": "Deixa pra lá. Chega de\ndesculpas. Vamos ficar sérios!"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 4100,
+    "length": 0,
+    "end": 4100,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 4100,
+    "length": 3,
+    "end": 4103,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 4103,
+    "length": 6,
+    "end": 4109,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 4109,
+    "length": 7,
+    "end": 4116,
+    "text": "Mmph..."
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 4116,
+    "length": 0,
+    "end": 4116,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 4116,
+    "length": 3,
+    "end": 4119,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 4119,
+    "length": 3,
+    "end": 4122,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 4122,
+    "length": 64,
+    "end": 4186,
+    "text": "Pronto? Você só vai colher as\nflores que eu mandar, entendeu? "
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 4186,
+    "length": 0,
+    "end": 4186,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 4186,
+    "length": 3,
+    "end": 4189,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 4189,
+    "length": 3,
+    "end": 4192,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 4192,
+    "length": 62,
+    "end": 4254,
+    "text": "Lembre-se, se trouxer alguma\nflor estranha, vai se arrepender."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 4254,
+    "length": 0,
+    "end": 4254,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 4254,
+    "length": 3,
+    "end": 4257,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 4257,
+    "length": 6,
+    "end": 4263,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 4263,
+    "length": 26,
+    "end": 4289,
+    "text": "Certo… Entendi, entendi."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 4289,
+    "length": 0,
+    "end": 4289,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 4289,
+    "length": 3,
+    "end": 4292,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 4292,
+    "length": 3,
+    "end": 4295,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 4295,
+    "length": 5,
+    "end": 4300,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 4300,
+    "length": 0,
+    "end": 4300,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 4300,
+    "length": 3,
+    "end": 4303,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 4303,
+    "length": 3,
+    "end": 4306,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 4306,
+    "length": 70,
+    "end": 4376,
+    "text": "Certo, primeiro me traga 3\nflores vermelhas. Acho que tem\nalgumas ali."
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 4376,
+    "length": 0,
+    "end": 4376,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 4376,
+    "length": 3,
+    "end": 4379,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 4379,
+    "length": 6,
+    "end": 4385,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 4385,
+    "length": 66,
+    "end": 4451,
+    "text": "Tsc... Se estão por perto, por\nque ela não vai colher ela\nmesma?"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 4451,
+    "length": 0,
+    "end": 4451,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 4451,
+    "length": 3,
+    "end": 4454,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 4454,
+    "length": 3,
+    "end": 4457,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 4457,
+    "length": 25,
+    "end": 4482,
+    "text": "Você disse alguma coisa?"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 4482,
+    "length": 0,
+    "end": 4482,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 4482,
+    "length": 3,
+    "end": 4485,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 4485,
+    "length": 6,
+    "end": 4491,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 4491,
+    "length": 27,
+    "end": 4518,
+    "text": "Não! Nada! Já estou indo!"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 4518,
+    "length": 0,
+    "end": 4518,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 4518,
+    "length": 3,
+    "end": 4521,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "A",
+    "start": 4521,
+    "length": 32,
+    "end": 4553,
+    "text": "Colete “3 flores vermelhas”!"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 4553,
+    "length": 0,
+    "end": 4553,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 4553,
+    "length": 3,
+    "end": 4556,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 4556,
+    "length": 3,
+    "end": 4559,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 4559,
+    "length": 14,
+    "end": 4573,
+    "text": "Hm? Já pegou?"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 4573,
+    "length": 0,
+    "end": 4573,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 4573,
+    "length": 3,
+    "end": 4576,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 4576,
+    "length": 3,
+    "end": 4579,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 4579,
+    "length": 47,
+    "end": 4626,
+    "text": "Ei, anda logo! Me traga essas\nflores vermelhas!"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 4626,
+    "length": 0,
+    "end": 4626,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 4626,
+    "length": 3,
+    "end": 4629,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 4629,
+    "length": 3,
+    "end": 4632,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 4632,
+    "length": 43,
+    "end": 4675,
+    "text": "Ei, anda logo! Me traga 3\nflores vermelhas!"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 4675,
+    "length": 0,
+    "end": 4675,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 4675,
+    "length": 3,
+    "end": 4678,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 4678,
+    "length": 3,
+    "end": 4681,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 4681,
+    "length": 20,
+    "end": 4701,
+    "text": "Sériooo? Me mostra."
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 4701,
+    "length": 0,
+    "end": 4701,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 4701,
+    "length": 3,
+    "end": 4704,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 4704,
+    "length": 3,
+    "end": 4707,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 4707,
+    "length": 6,
+    "end": 4713,
+    "text": "......"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 4713,
+    "length": 0,
+    "end": 4713,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 4713,
+    "length": 3,
+    "end": 4716,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 4716,
+    "length": 3,
+    "end": 4719,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 4719,
+    "length": 42,
+    "end": 4761,
+    "text": "Você esqueceu o que eu\ndisse, não foi..."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 4761,
+    "length": 0,
+    "end": 4761,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 4761,
+    "length": 3,
+    "end": 4764,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 4764,
+    "length": 6,
+    "end": 4770,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 4770,
+    "length": 16,
+    "end": 4786,
+    "text": "Eh, não! Uh...!"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 4786,
+    "length": 0,
+    "end": 4786,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 4786,
+    "length": 3,
+    "end": 4789,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 4789,
+    "length": 3,
+    "end": 4792,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 4792,
+    "length": 53,
+    "end": 4845,
+    "text": "*Suspiro* Fui idiota em achar\nque VOCÊ podia ajudar."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 4845,
+    "length": 0,
+    "end": 4845,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 4845,
+    "length": 3,
+    "end": 4848,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 4848,
+    "length": 3,
+    "end": 4851,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 4851,
+    "length": 58,
+    "end": 4909,
+    "text": "Chega... Vai ser mais rápido\nse eu mesma achar as flores."
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 4909,
+    "length": 0,
+    "end": 4909,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 4909,
+    "length": 3,
+    "end": 4912,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 4912,
+    "length": 6,
+    "end": 4918,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 4918,
+    "length": 44,
+    "end": 4962,
+    "text": "(E-ela não precisava suspirar\ntão ALTO...)"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 4962,
+    "length": 0,
+    "end": 4962,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 4962,
+    "length": 3,
+    "end": 4965,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 4965,
+    "length": 3,
+    "end": 4968,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 4968,
+    "length": 44,
+    "end": 5012,
+    "text": "Inacreditável...! Você é tão\ninútil...!"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 5012,
+    "length": 0,
+    "end": 5012,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 5012,
+    "length": 3,
+    "end": 5015,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 5015,
+    "length": 3,
+    "end": 5018,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 5018,
+    "length": 75,
+    "end": 5093,
+    "text": "Ótimo! Parece que pegou as\ncertas! Você não é tão burro\nquanto parece."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 5093,
+    "length": 0,
+    "end": 5093,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 5093,
+    "length": 3,
+    "end": 5096,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 5096,
+    "length": 6,
+    "end": 5102,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 5102,
+    "length": 22,
+    "end": 5124,
+    "text": "Ufa. Missão cumprida!"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 5124,
+    "length": 0,
+    "end": 5124,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 5124,
+    "length": 3,
+    "end": 5127,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 5127,
+    "length": 3,
+    "end": 5130,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 5130,
+    "length": 60,
+    "end": 5190,
+    "text": "Hã? Do que você está falando?\nVocê só está começando."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 5190,
+    "length": 0,
+    "end": 5190,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 5190,
+    "length": 3,
+    "end": 5193,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 5193,
+    "length": 6,
+    "end": 5199,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 5199,
+    "length": 5,
+    "end": 5204,
+    "text": "Hã!?"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 5204,
+    "length": 0,
+    "end": 5204,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 5204,
+    "length": 3,
+    "end": 5207,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 5207,
+    "length": 3,
+    "end": 5210,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 5210,
+    "length": 56,
+    "end": 5266,
+    "text": "Agora, preciso de flores azuis\ne flores amarelas... E..."
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 5266,
+    "length": 0,
+    "end": 5266,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 5266,
+    "length": 3,
+    "end": 5269,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 5269,
+    "length": 6,
+    "end": 5275,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 5275,
+    "length": 75,
+    "end": 5350,
+    "text": "P-Peraí. Calma aí!! Está\ndizendo que preciso colher\ntodas essas flores!?"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 5350,
+    "length": 0,
+    "end": 5350,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 5350,
+    "length": 3,
+    "end": 5353,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 5353,
+    "length": 3,
+    "end": 5356,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 5356,
+    "length": 58,
+    "end": 5414,
+    "text": "E rápido. Estamos deixando o\ncliente que pediu esperando."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 5414,
+    "length": 0,
+    "end": 5414,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 5414,
+    "length": 3,
+    "end": 5417,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 5417,
+    "length": 6,
+    "end": 5423,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 5423,
+    "length": 12,
+    "end": 5435,
+    "text": "Ah, sério!?"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 5435,
+    "length": 0,
+    "end": 5435,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 5435,
+    "length": 3,
+    "end": 5438,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 5438,
+    "length": 3,
+    "end": 5441,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 5441,
+    "length": 35,
+    "end": 5476,
+    "text": "Vamos! Anda logo e colha as\nflores!"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 5476,
+    "length": 0,
+    "end": 5476,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 5476,
+    "length": 3,
+    "end": 5479,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 5479,
+    "length": 6,
+    "end": 5485,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 5485,
+    "length": 11,
+    "end": 5496,
+    "text": "C... Certo!"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 5496,
+    "length": 0,
+    "end": 5496,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 5496,
+    "length": 3,
+    "end": 5499,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 5499,
+    "length": 3,
+    "end": 5502,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 5502,
+    "length": 5,
+    "end": 5507,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 5507,
+    "length": 0,
+    "end": 5507,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 5507,
+    "length": 3,
+    "end": 5510,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 5510,
+    "length": 3,
+    "end": 5513,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 5513,
+    "length": 56,
+    "end": 5569,
+    "text": "Preciso que pegue 5 flores\nazuis, 4 amarelas e 6 pretas!"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 5569,
+    "length": 0,
+    "end": 5569,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 5569,
+    "length": 3,
+    "end": 5572,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 5572,
+    "length": 3,
+    "end": 5575,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 5575,
+    "length": 64,
+    "end": 5639,
+    "text": "Não temos muito tempo, então\nvamos nos apressar! Anda,\nNaruto!"
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 5639,
+    "length": 0,
+    "end": 5639,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 5639,
+    "length": 3,
+    "end": 5642,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 5642,
+    "length": 6,
+    "end": 5648,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 5648,
+    "length": 10,
+    "end": 5658,
+    "text": "C...Certo!"
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 5658,
+    "length": 0,
+    "end": 5658,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 5658,
+    "length": 3,
+    "end": 5661,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "A",
+    "start": 5661,
+    "length": 79,
+    "end": 5740,
+    "text": "Colete \"5 flores azuis, 4 flores\namarelas, e 6 flores pretas\"\nno tempo limite! "
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 5740,
+    "length": 0,
+    "end": 5740,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 5740,
+    "length": 3,
+    "end": 5743,
+    "text": "041"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 5743,
+    "length": 3,
+    "end": 5746,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 5746,
+    "length": 26,
+    "end": 5772,
+    "text": "Já colheu aquelas flores?"
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 5772,
+    "length": 0,
+    "end": 5772,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 5772,
+    "length": 3,
+    "end": 5775,
+    "text": "042"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 5775,
+    "length": 3,
+    "end": 5778,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 5778,
+    "length": 58,
+    "end": 5836,
+    "text": "Precisa colher flores azuis,\namarelas e pretas, entendeu!?"
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 5836,
+    "length": 0,
+    "end": 5836,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 5836,
+    "length": 3,
+    "end": 5839,
+    "text": "043"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 5839,
+    "length": 3,
+    "end": 5842,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 5842,
+    "length": 44,
+    "end": 5886,
+    "text": "Colha 5 flores azuis, 4\namarelas e 6 pretas!"
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 5886,
+    "length": 0,
+    "end": 5886,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 5886,
+    "length": 3,
+    "end": 5889,
+    "text": "044"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 5889,
+    "length": 3,
+    "end": 5892,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 5892,
+    "length": 22,
+    "end": 5914,
+    "text": "Certo, posso conferir?"
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 5914,
+    "length": 0,
+    "end": 5914,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 5914,
+    "length": 3,
+    "end": 5917,
+    "text": "045"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 5917,
+    "length": 3,
+    "end": 5920,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 5920,
+    "length": 9,
+    "end": 5929,
+    "text": "........."
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 5929,
+    "length": 0,
+    "end": 5929,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 5929,
+    "length": 3,
+    "end": 5932,
+    "text": "046"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 5932,
+    "length": 3,
+    "end": 5935,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 5935,
+    "length": 17,
+    "end": 5952,
+    "text": "O que é isso...?"
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 5952,
+    "length": 0,
+    "end": 5952,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 5952,
+    "length": 3,
+    "end": 5955,
+    "text": "047"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 5955,
+    "length": 6,
+    "end": 5961,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 5961,
+    "length": 23,
+    "end": 5984,
+    "text": "Hã!? Fiz algo errado!?"
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 5984,
+    "length": 0,
+    "end": 5984,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 5984,
+    "length": 3,
+    "end": 5987,
+    "text": "048"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-implicit",
+    "start": 5987,
+    "length": 3,
+    "end": 5990,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-explicit",
+    "start": 5990,
+    "length": 53,
+    "end": 6043,
+    "text": "Erradas?! Sim, quase todas!\nVocê nem estava ouvindo?"
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 6043,
+    "length": 0,
+    "end": 6043,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 6043,
+    "length": 3,
+    "end": 6046,
+    "text": "049"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-implicit",
+    "start": 6046,
+    "length": 6,
+    "end": 6052,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-explicit",
+    "start": 6052,
+    "length": 33,
+    "end": 6085,
+    "text": "Uh, bem... Posso explicar isso..."
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 6085,
+    "length": 0,
+    "end": 6085,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 6085,
+    "length": 3,
+    "end": 6088,
+    "text": "050"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-implicit",
+    "start": 6088,
+    "length": 3,
+    "end": 6091,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-explicit",
+    "start": 6091,
+    "length": 44,
+    "end": 6135,
+    "text": "Sem desculpas! Ah, não! O que\nvamos fazer!?"
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 6135,
+    "length": 0,
+    "end": 6135,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 6135,
+    "length": 3,
+    "end": 6138,
+    "text": "051"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-implicit",
+    "start": 6138,
+    "length": 3,
+    "end": 6141,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-explicit",
+    "start": 6141,
+    "length": 70,
+    "end": 6211,
+    "text": "Devíamos deixar os clientes\nfelizes, não bravos por\nesperarem tanto!"
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 6211,
+    "length": 0,
+    "end": 6211,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 6211,
+    "length": 3,
+    "end": 6214,
+    "text": "052"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-implicit",
+    "start": 6214,
+    "length": 6,
+    "end": 6220,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-explicit",
+    "start": 6220,
+    "length": 5,
+    "end": 6225,
+    "text": "Uh..."
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 6225,
+    "length": 0,
+    "end": 6225,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 6225,
+    "length": 3,
+    "end": 6228,
+    "text": "053"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-implicit",
+    "start": 6228,
+    "length": 3,
+    "end": 6231,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-explicit",
+    "start": 6231,
+    "length": 86,
+    "end": 6317,
+    "text": "Agora tenho que pedir\ndesculpas a ela! Espera só,\nNaruto. Você vai pagar por isso…"
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 6317,
+    "length": 0,
+    "end": 6317,
+    "text": ""
+  },
+  {
+    "table_pos": 2608,
+    "mode": "A",
+    "start": 6317,
+    "length": 3,
+    "end": 6320,
+    "text": "054"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-implicit",
+    "start": 6320,
+    "length": 6,
+    "end": 6326,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-explicit",
+    "start": 6326,
+    "length": 9,
+    "end": 6335,
+    "text": "........."
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 6335,
+    "length": 0,
+    "end": 6335,
+    "text": ""
+  },
+  {
+    "table_pos": 2656,
+    "mode": "A",
+    "start": 6335,
+    "length": 3,
+    "end": 6338,
+    "text": "055"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-implicit",
+    "start": 6338,
+    "length": 6,
+    "end": 6344,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-explicit",
+    "start": 6344,
+    "length": 66,
+    "end": 6410,
+    "text": "Tenho medo de pensar que tipo\nde vingança ela está\nplanejando..."
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 6410,
+    "length": 0,
+    "end": 6410,
+    "text": ""
+  },
+  {
+    "table_pos": 2704,
+    "mode": "A",
+    "start": 6410,
+    "length": 3,
+    "end": 6413,
+    "text": "056"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-implicit",
+    "start": 6413,
+    "length": 3,
+    "end": 6416,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-explicit",
+    "start": 6416,
+    "length": 42,
+    "end": 6458,
+    "text": "Quem diria! Você acertou\ntodas as flores!"
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 6458,
+    "length": 0,
+    "end": 6458,
+    "text": ""
+  },
+  {
+    "table_pos": 2752,
+    "mode": "A",
+    "start": 6458,
+    "length": 3,
+    "end": 6461,
+    "text": "057"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-implicit",
+    "start": 6461,
+    "length": 6,
+    "end": 6467,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-explicit",
+    "start": 6467,
+    "length": 44,
+    "end": 6511,
+    "text": "Hehe! Claro! Eu disse que\nfaria, não disse?"
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 6511,
+    "length": 0,
+    "end": 6511,
+    "text": ""
+  },
+  {
+    "table_pos": 2800,
+    "mode": "A",
+    "start": 6511,
+    "length": 3,
+    "end": 6514,
+    "text": "058"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-implicit",
+    "start": 6514,
+    "length": 3,
+    "end": 6517,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-explicit",
+    "start": 6517,
+    "length": 55,
+    "end": 6572,
+    "text": "Acho que vamos conseguir a\ntempo! Bom trabalho, Naruto!"
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 6572,
+    "length": 0,
+    "end": 6572,
+    "text": ""
+  },
+  {
+    "table_pos": 2848,
+    "mode": "A",
+    "start": 6572,
+    "length": 3,
+    "end": 6575,
+    "text": "059"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "B-implicit",
+    "start": 6575,
+    "length": 6,
+    "end": 6581,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "B-explicit",
+    "start": 6581,
+    "length": 5,
+    "end": 6586,
+    "text": "Hihi!"
+  },
+  {
+    "table_pos": 2880,
+    "mode": "A",
+    "start": 6586,
+    "length": 0,
+    "end": 6586,
+    "text": ""
+  },
+  {
+    "table_pos": 2896,
+    "mode": "A",
+    "start": 6586,
+    "length": 3,
+    "end": 6589,
+    "text": "060"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "B-implicit",
+    "start": 6589,
+    "length": 3,
+    "end": 6592,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "B-explicit",
+    "start": 6592,
+    "length": 24,
+    "end": 6616,
+    "text": "Ah, e por falar nisso…"
+  },
+  {
+    "table_pos": 2928,
+    "mode": "A",
+    "start": 6616,
+    "length": 0,
+    "end": 6616,
+    "text": ""
+  },
+  {
+    "table_pos": 2944,
+    "mode": "A",
+    "start": 6616,
+    "length": 3,
+    "end": 6619,
+    "text": "061"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "B-implicit",
+    "start": 6619,
+    "length": 3,
+    "end": 6622,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "B-explicit",
+    "start": 6622,
+    "length": 66,
+    "end": 6688,
+    "text": "Se achar flores bonitas, traga\npra nossa loja. Compramos\nde você."
+  },
+  {
+    "table_pos": 2976,
+    "mode": "A",
+    "start": 6688,
+    "length": 0,
+    "end": 6688,
+    "text": ""
+  },
+  {
+    "table_pos": 2992,
+    "mode": "A",
+    "start": 6688,
+    "length": 3,
+    "end": 6691,
+    "text": "062"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "B-implicit",
+    "start": 6691,
+    "length": 3,
+    "end": 6694,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "B-explicit",
+    "start": 6694,
+    "length": 72,
+    "end": 6766,
+    "text": "Mas se trouxer flores\nestranhas, vai se arrepender.\nFique de olho nisso."
+  },
+  {
+    "table_pos": 3024,
+    "mode": "A",
+    "start": 6766,
+    "length": 0,
+    "end": 6766,
+    "text": ""
+  },
+  {
+    "table_pos": 3040,
+    "mode": "A",
+    "start": 6766,
+    "length": 3,
+    "end": 6769,
+    "text": "063"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "B-implicit",
+    "start": 6769,
+    "length": 6,
+    "end": 6775,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "B-explicit",
+    "start": 6775,
+    "length": 27,
+    "end": 6802,
+    "text": "É-é... Vou lembrar disso."
+  },
+  {
+    "table_pos": 3072,
+    "mode": "A",
+    "start": 6802,
+    "length": 0,
+    "end": 6802,
+    "text": ""
+  },
+  {
+    "table_pos": 3088,
+    "mode": "A",
+    "start": 6802,
+    "length": 3,
+    "end": 6805,
+    "text": "064"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "B-implicit",
+    "start": 6805,
+    "length": 3,
+    "end": 6808,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "B-explicit",
+    "start": 6808,
+    "length": 31,
+    "end": 6839,
+    "text": "Até mais. Obrigada pela ajuda."
+  },
+  {
+    "table_pos": 3120,
+    "mode": "A",
+    "start": 6839,
+    "length": 0,
+    "end": 6839,
+    "text": ""
+  },
+  {
+    "table_pos": 3136,
+    "mode": "A",
+    "start": 6839,
+    "length": 3,
+    "end": 6842,
+    "text": "065"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "B-implicit",
+    "start": 6842,
+    "length": 6,
+    "end": 6848,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "B-explicit",
+    "start": 6848,
+    "length": 13,
+    "end": 6861,
+    "text": "...... Ufa..."
+  },
+  {
+    "table_pos": 3168,
+    "mode": "A",
+    "start": 6861,
+    "length": 0,
+    "end": 6861,
+    "text": ""
+  },
+  {
+    "table_pos": 3184,
+    "mode": "A",
+    "start": 6861,
+    "length": 3,
+    "end": 6864,
+    "text": "066"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "B-implicit",
+    "start": 6864,
+    "length": 6,
+    "end": 6870,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "B-explicit",
+    "start": 6870,
+    "length": 70,
+    "end": 6940,
+    "text": "Não sei por quê... Mas sempre\nfico exausto depois de falar\ncom ela. "
+  },
+  {
+    "table_pos": 3216,
+    "mode": "A",
+    "start": 6940,
+    "length": 0,
+    "end": 6940,
+    "text": ""
+  },
+  {
+    "table_pos": 3232,
+    "mode": "A",
+    "start": 6940,
+    "length": 3,
+    "end": 6943,
+    "text": "067"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "B-implicit",
+    "start": 6943,
+    "length": 6,
+    "end": 6949,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "B-explicit",
+    "start": 6949,
+    "length": 38,
+    "end": 6987,
+    "text": "...Isso é o melhor que posso\nfazer..."
+  },
+  {
+    "table_pos": 3264,
+    "mode": "A",
+    "start": 6987,
+    "length": 0,
+    "end": 6987,
+    "text": ""
+  },
+  {
+    "table_pos": 3280,
+    "mode": "A",
+    "start": 6987,
+    "length": 3,
+    "end": 6990,
+    "text": "068"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "B-implicit",
+    "start": 6990,
+    "length": 3,
+    "end": 6993,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "B-explicit",
+    "start": 6993,
+    "length": 15,
+    "end": 7008,
+    "text": "..............."
+  },
+  {
+    "table_pos": 3312,
+    "mode": "A",
+    "start": 7008,
+    "length": 0,
+    "end": 7008,
+    "text": ""
+  },
+  {
+    "table_pos": 3328,
+    "mode": "A",
+    "start": 7008,
+    "length": 3,
+    "end": 7011,
+    "text": "069"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "B-implicit",
+    "start": 7011,
+    "length": 6,
+    "end": 7017,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "B-explicit",
+    "start": 7017,
+    "length": 27,
+    "end": 7044,
+    "text": "Ei, Ino, sobre as flores..."
+  },
+  {
+    "table_pos": 3360,
+    "mode": "A",
+    "start": 7044,
+    "length": 0,
+    "end": 7044,
+    "text": ""
+  },
+  {
+    "table_pos": 3376,
+    "mode": "A",
+    "start": 7044,
+    "length": 3,
+    "end": 7047,
+    "text": "070"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "B-implicit",
+    "start": 7047,
+    "length": 3,
+    "end": 7050,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "B-explicit",
+    "start": 7050,
+    "length": 13,
+    "end": 7063,
+    "text": "Tarde demais!"
+  },
+  {
+    "table_pos": 3408,
+    "mode": "A",
+    "start": 7063,
+    "length": 0,
+    "end": 7063,
+    "text": ""
+  },
+  {
+    "table_pos": 3424,
+    "mode": "A",
+    "start": 7063,
+    "length": 3,
+    "end": 7066,
+    "text": "071"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "B-implicit",
+    "start": 7066,
+    "length": 6,
+    "end": 7072,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "B-explicit",
+    "start": 7072,
+    "length": 5,
+    "end": 7077,
+    "text": "Hã!?"
+  },
+  {
+    "table_pos": 3456,
+    "mode": "A",
+    "start": 7077,
+    "length": 0,
+    "end": 7077,
+    "text": ""
+  },
+  {
+    "table_pos": 3472,
+    "mode": "A",
+    "start": 7077,
+    "length": 3,
+    "end": 7080,
+    "text": "072"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "B-implicit",
+    "start": 7080,
+    "length": 3,
+    "end": 7083,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "B-explicit",
+    "start": 7083,
+    "length": 43,
+    "end": 7126,
+    "text": "Você demorou tanto que o\ncliente cancelou!"
+  },
+  {
+    "table_pos": 3504,
+    "mode": "A",
+    "start": 7126,
+    "length": 0,
+    "end": 7126,
+    "text": ""
+  },
+  {
+    "table_pos": 3520,
+    "mode": "A",
+    "start": 7126,
+    "length": 3,
+    "end": 7129,
+    "text": "073"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "B-implicit",
+    "start": 7129,
+    "length": 6,
+    "end": 7135,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "B-explicit",
+    "start": 7135,
+    "length": 33,
+    "end": 7168,
+    "text": "Ei, desculpa. Fiz o meu\nmelhor..."
+  },
+  {
+    "table_pos": 3552,
+    "mode": "A",
+    "start": 7168,
+    "length": 0,
+    "end": 7168,
+    "text": ""
+  },
+  {
+    "table_pos": 3568,
+    "mode": "A",
+    "start": 7168,
+    "length": 3,
+    "end": 7171,
+    "text": "074"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "B-implicit",
+    "start": 7171,
+    "length": 3,
+    "end": 7174,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "B-explicit",
+    "start": 7174,
+    "length": 17,
+    "end": 7191,
+    "text": "Não me importa!!"
+  },
+  {
+    "table_pos": 3600,
+    "mode": "A",
+    "start": 7191,
+    "length": 0,
+    "end": 7191,
+    "text": ""
+  },
+  {
+    "table_pos": 3616,
+    "mode": "A",
+    "start": 7191,
+    "length": 3,
+    "end": 7194,
+    "text": "075"
+  },
+  {
+    "table_pos": 3632,
+    "mode": "A",
+    "start": 7194,
+    "length": 5,
+    "end": 7199,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 3648,
+    "mode": "A",
+    "start": 7199,
+    "length": 0,
+    "end": 7199,
+    "text": ""
+  },
+  {
+    "table_pos": 3664,
+    "mode": "A",
+    "start": 7199,
+    "length": 3,
+    "end": 7202,
+    "text": "076"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "B-implicit",
+    "start": 7202,
+    "length": 6,
+    "end": 7208,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "B-explicit",
+    "start": 7208,
+    "length": 4,
+    "end": 7212,
+    "text": "Ai!!"
+  },
+  {
+    "table_pos": 3696,
+    "mode": "A",
+    "start": 7212,
+    "length": 0,
+    "end": 7212,
+    "text": ""
+  },
+  {
+    "table_pos": 3712,
+    "mode": "A",
+    "start": 7212,
+    "length": 3,
+    "end": 7215,
+    "text": "077"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "B-implicit",
+    "start": 7215,
+    "length": 3,
+    "end": 7218,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "B-explicit",
+    "start": 7218,
+    "length": 57,
+    "end": 7275,
+    "text": "Você vai pagar por isso,\nNaruto! Um dia você vai pagar!"
+  },
+  {
+    "table_pos": 3744,
+    "mode": "A",
+    "start": 7275,
+    "length": 0,
+    "end": 7275,
+    "text": ""
+  },
+  {
+    "table_pos": 3760,
+    "mode": "A",
+    "start": 7275,
+    "length": 3,
+    "end": 7278,
+    "text": "078"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "B-implicit",
+    "start": 7278,
+    "length": 6,
+    "end": 7284,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "B-explicit",
+    "start": 7284,
+    "length": 26,
+    "end": 7310,
+    "text": "Acho que estraguei tudo..."
+  },
+  {
+    "table_pos": 3792,
+    "mode": "A",
+    "start": 7310,
+    "length": 0,
+    "end": 7310,
+    "text": ""
+  }
+]

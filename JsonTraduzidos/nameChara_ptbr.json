@@ -1,0 +1,1698 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2636,
+    "length": 4,
+    "end": 2640,
+    "text": "1nrt"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 2640,
+    "length": 6,
+    "end": 2646,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 2646,
+    "length": 14,
+    "end": 2660,
+    "text": "Naruto Uzumaki"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2660,
+    "length": 0,
+    "end": 2660,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2660,
+    "length": 4,
+    "end": 2664,
+    "text": "1ssk"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 2664,
+    "length": 6,
+    "end": 2670,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 2670,
+    "length": 13,
+    "end": 2683,
+    "text": "Sasuke Uchiha"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2683,
+    "length": 0,
+    "end": 2683,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2683,
+    "length": 4,
+    "end": 2687,
+    "text": "1skr"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 2687,
+    "length": 6,
+    "end": 2693,
+    "text": "Sakura"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 2693,
+    "length": 13,
+    "end": 2706,
+    "text": "Sakura Haruno"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2706,
+    "length": 0,
+    "end": 2706,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2706,
+    "length": 4,
+    "end": 2710,
+    "text": "1roc"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2710,
+    "length": 3,
+    "end": 2713,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2713,
+    "length": 8,
+    "end": 2721,
+    "text": "Rock Lee"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2721,
+    "length": 0,
+    "end": 2721,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2721,
+    "length": 4,
+    "end": 2725,
+    "text": "1nej"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2725,
+    "length": 4,
+    "end": 2729,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2729,
+    "length": 10,
+    "end": 2739,
+    "text": "Neji Hyuga"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2739,
+    "length": 0,
+    "end": 2739,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2739,
+    "length": 4,
+    "end": 2743,
+    "text": "1ten"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 2743,
+    "length": 6,
+    "end": 2749,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 2749,
+    "length": 6,
+    "end": 2755,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2755,
+    "length": 0,
+    "end": 2755,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2755,
+    "length": 4,
+    "end": 2759,
+    "text": "1sik"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2759,
+    "length": 9,
+    "end": 2768,
+    "text": "Shikamaru"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2768,
+    "length": 14,
+    "end": 2782,
+    "text": "Shikamaru Nara"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2782,
+    "length": 0,
+    "end": 2782,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2782,
+    "length": 4,
+    "end": 2786,
+    "text": "1tyo"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2786,
+    "length": 5,
+    "end": 2791,
+    "text": "Choji"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2791,
+    "length": 14,
+    "end": 2805,
+    "text": "Choji Akimichi"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2805,
+    "length": 0,
+    "end": 2805,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2805,
+    "length": 4,
+    "end": 2809,
+    "text": "1ino"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2809,
+    "length": 3,
+    "end": 2812,
+    "text": "Ino"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 2812,
+    "length": 13,
+    "end": 2825,
+    "text": "Ino Yamanaka "
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 2825,
+    "length": 0,
+    "end": 2825,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 2825,
+    "length": 4,
+    "end": 2829,
+    "text": "1kib"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 2829,
+    "length": 4,
+    "end": 2833,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 2833,
+    "length": 12,
+    "end": 2845,
+    "text": "Kiba Inuzuka"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2845,
+    "length": 0,
+    "end": 2845,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2845,
+    "length": 4,
+    "end": 2849,
+    "text": "1sin"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 2849,
+    "length": 5,
+    "end": 2854,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 2854,
+    "length": 14,
+    "end": 2868,
+    "text": "Shino Aburame "
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 2868,
+    "length": 0,
+    "end": 2868,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 2868,
+    "length": 4,
+    "end": 2872,
+    "text": "1hnt"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 2872,
+    "length": 6,
+    "end": 2878,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 2878,
+    "length": 12,
+    "end": 2890,
+    "text": "Hinata Hyuga"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 2890,
+    "length": 0,
+    "end": 2890,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 2890,
+    "length": 4,
+    "end": 2894,
+    "text": "1gar"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 2894,
+    "length": 5,
+    "end": 2899,
+    "text": "Gaara"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 2899,
+    "length": 14,
+    "end": 2913,
+    "text": "Gaara da Areia"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 2913,
+    "length": 0,
+    "end": 2913,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 2913,
+    "length": 4,
+    "end": 2917,
+    "text": "1knk"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 2917,
+    "length": 7,
+    "end": 2924,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 2924,
+    "length": 7,
+    "end": 2931,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 2931,
+    "length": 0,
+    "end": 2931,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 2931,
+    "length": 4,
+    "end": 2935,
+    "text": "1tmr"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 2935,
+    "length": 6,
+    "end": 2941,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 2941,
+    "length": 6,
+    "end": 2947,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 2947,
+    "length": 0,
+    "end": 2947,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 2947,
+    "length": 4,
+    "end": 2951,
+    "text": "1kks"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 2951,
+    "length": 7,
+    "end": 2958,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 2958,
+    "length": 14,
+    "end": 2972,
+    "text": "Kakashi Hatake"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 2972,
+    "length": 0,
+    "end": 2972,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 2972,
+    "length": 4,
+    "end": 2976,
+    "text": "1guy"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 2976,
+    "length": 3,
+    "end": 2979,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 2979,
+    "length": 9,
+    "end": 2988,
+    "text": "Might Guy"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 2988,
+    "length": 0,
+    "end": 2988,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 2988,
+    "length": 4,
+    "end": 2992,
+    "text": "1jry"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 2992,
+    "length": 7,
+    "end": 2999,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 2999,
+    "length": 7,
+    "end": 3006,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 3006,
+    "length": 0,
+    "end": 3006,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 3006,
+    "length": 4,
+    "end": 3010,
+    "text": "1tnd"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 3010,
+    "length": 7,
+    "end": 3017,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 3017,
+    "length": 7,
+    "end": 3024,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 3024,
+    "length": 0,
+    "end": 3024,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 3024,
+    "length": 4,
+    "end": 3028,
+    "text": "1hkg"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 3028,
+    "length": 17,
+    "end": 3045,
+    "text": "O Terceiro Hokage"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 3045,
+    "length": 17,
+    "end": 3062,
+    "text": "O Terceiro Hokage"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3062,
+    "length": 0,
+    "end": 3062,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3062,
+    "length": 4,
+    "end": 3066,
+    "text": "1orc"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 3066,
+    "length": 10,
+    "end": 3076,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 3076,
+    "length": 10,
+    "end": 3086,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3086,
+    "length": 0,
+    "end": 3086,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3086,
+    "length": 4,
+    "end": 3090,
+    "text": "1kbt"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 3090,
+    "length": 6,
+    "end": 3096,
+    "text": "Kabuto"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 3096,
+    "length": 15,
+    "end": 3111,
+    "text": "Kabuto Yakushi "
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 3111,
+    "length": 0,
+    "end": 3111,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 3111,
+    "length": 4,
+    "end": 3115,
+    "text": "1kmm"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 3115,
+    "length": 8,
+    "end": 3123,
+    "text": "Kimimaro"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 3123,
+    "length": 8,
+    "end": 3131,
+    "text": "Kimimaro"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 3131,
+    "length": 0,
+    "end": 3131,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 3131,
+    "length": 4,
+    "end": 3135,
+    "text": "1itc"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 3135,
+    "length": 6,
+    "end": 3141,
+    "text": "Itachi"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 3141,
+    "length": 13,
+    "end": 3154,
+    "text": "Itachi Uchiha"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3154,
+    "length": 0,
+    "end": 3154,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3154,
+    "length": 4,
+    "end": 3158,
+    "text": "1ksm"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 3158,
+    "length": 6,
+    "end": 3164,
+    "text": "Kisame"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 3164,
+    "length": 16,
+    "end": 3180,
+    "text": "Kisame Hoshigaki"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3180,
+    "length": 0,
+    "end": 3180,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3180,
+    "length": 4,
+    "end": 3184,
+    "text": "1nrv"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 3184,
+    "length": 21,
+    "end": 3205,
+    "text": "Raposa de Nove Caudas"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 3205,
+    "length": 26,
+    "end": 3231,
+    "text": "Modo Raposa de Nove Caudas"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 3231,
+    "length": 0,
+    "end": 3231,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 3231,
+    "length": 4,
+    "end": 3235,
+    "text": "1ssv"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 3235,
+    "length": 38,
+    "end": 3273,
+    "text": "Segundo Estágio da Marca Amaldiçoada"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 3273,
+    "length": 43,
+    "end": 3316,
+    "text": "Modo Segundo Estágio da Marca Amaldiçoada"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 3316,
+    "length": 0,
+    "end": 3316,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 3316,
+    "length": 4,
+    "end": 3320,
+    "text": "1rov"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 3320,
+    "length": 13,
+    "end": 3333,
+    "text": "Oito Portões"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 3333,
+    "length": 18,
+    "end": 3351,
+    "text": "Modo Oito Portões"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 3351,
+    "length": 0,
+    "end": 3351,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 3351,
+    "length": 4,
+    "end": 3355,
+    "text": "1guv"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 3355,
+    "length": 13,
+    "end": 3368,
+    "text": "Oito Portões"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 3368,
+    "length": 18,
+    "end": 3386,
+    "text": "Modo Oito Portões"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 3386,
+    "length": 0,
+    "end": 3386,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 3386,
+    "length": 4,
+    "end": 3390,
+    "text": "1kmv"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 3390,
+    "length": 38,
+    "end": 3428,
+    "text": "Segundo Estágio da Marca Amaldiçoada"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 3428,
+    "length": 43,
+    "end": 3471,
+    "text": "Modo Segundo Estágio da Marca Amaldiçoada"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 3471,
+    "length": 0,
+    "end": 3471,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 3471,
+    "length": 4,
+    "end": 3475,
+    "text": "1fir"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 3475,
+    "length": 17,
+    "end": 3492,
+    "text": "O Primeiro Hokage"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 3492,
+    "length": 17,
+    "end": 3509,
+    "text": "O Primeiro Hokage"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 3509,
+    "length": 0,
+    "end": 3509,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 3509,
+    "length": 4,
+    "end": 3513,
+    "text": "1sec"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 3513,
+    "length": 16,
+    "end": 3529,
+    "text": "O Segundo Hokage"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 3529,
+    "length": 16,
+    "end": 3545,
+    "text": "O Segundo Hokage"
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 3545,
+    "length": 0,
+    "end": 3545,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 3545,
+    "length": 4,
+    "end": 3549,
+    "text": "1for"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 3549,
+    "length": 5,
+    "end": 3554,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 3554,
+    "length": 5,
+    "end": 3559,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 3559,
+    "length": 0,
+    "end": 3559,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 3559,
+    "length": 4,
+    "end": 3563,
+    "text": "1kdm"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 3563,
+    "length": 8,
+    "end": 3571,
+    "text": "Kidomaru"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 3571,
+    "length": 8,
+    "end": 3579,
+    "text": "Kidomaru"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 3579,
+    "length": 0,
+    "end": 3579,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 3579,
+    "length": 4,
+    "end": 3583,
+    "text": "1jrb"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 3583,
+    "length": 6,
+    "end": 3589,
+    "text": "Jirobo"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 3589,
+    "length": 6,
+    "end": 3595,
+    "text": "Jirobo"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 3595,
+    "length": 0,
+    "end": 3595,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 3595,
+    "length": 4,
+    "end": 3599,
+    "text": "1tyy"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 3599,
+    "length": 6,
+    "end": 3605,
+    "text": "Tayuya"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 3605,
+    "length": 6,
+    "end": 3611,
+    "text": "Tayuya"
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 3611,
+    "length": 0,
+    "end": 3611,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 3611,
+    "length": 4,
+    "end": 3615,
+    "text": "1skn"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 3615,
+    "length": 5,
+    "end": 3620,
+    "text": "Sakon"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 3620,
+    "length": 5,
+    "end": 3625,
+    "text": "Sakon"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 3625,
+    "length": 0,
+    "end": 3625,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 3625,
+    "length": 4,
+    "end": 3629,
+    "text": "1asm"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 3629,
+    "length": 5,
+    "end": 3634,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 3634,
+    "length": 15,
+    "end": 3649,
+    "text": "Asuma Sarutobi "
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 3649,
+    "length": 0,
+    "end": 3649,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 3649,
+    "length": 4,
+    "end": 3653,
+    "text": "1krn"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 3653,
+    "length": 7,
+    "end": 3660,
+    "text": "Kurenai"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 3660,
+    "length": 12,
+    "end": 3672,
+    "text": "Kurenai Yuhi"
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 3672,
+    "length": 0,
+    "end": 3672,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 3672,
+    "length": 4,
+    "end": 3676,
+    "text": "1szn"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 3676,
+    "length": 7,
+    "end": 3683,
+    "text": "Shizune"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 3683,
+    "length": 7,
+    "end": 3690,
+    "text": "Shizune"
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 3690,
+    "length": 0,
+    "end": 3690,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 3690,
+    "length": 4,
+    "end": 3694,
+    "text": "1ank"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 3694,
+    "length": 4,
+    "end": 3698,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 3698,
+    "length": 14,
+    "end": 3712,
+    "text": "Anko Mitarashi"
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 3712,
+    "length": 0,
+    "end": 3712,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 3712,
+    "length": 4,
+    "end": 3716,
+    "text": "1akm"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 3716,
+    "length": 7,
+    "end": 3723,
+    "text": "Akamaru"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 3723,
+    "length": 7,
+    "end": 3730,
+    "text": "Akamaru"
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 3730,
+    "length": 0,
+    "end": 3730,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 3730,
+    "length": 4,
+    "end": 3734,
+    "text": "1krs"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 3734,
+    "length": 5,
+    "end": 3739,
+    "text": "Corvo"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 3739,
+    "length": 5,
+    "end": 3744,
+    "text": "Corvo"
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 3744,
+    "length": 0,
+    "end": 3744,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 3744,
+    "length": 4,
+    "end": 3748,
+    "text": "1gbt"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 3748,
+    "length": 9,
+    "end": 3757,
+    "text": "Gamabunta"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 3757,
+    "length": 9,
+    "end": 3766,
+    "text": "Gamabunta"
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 3766,
+    "length": 0,
+    "end": 3766,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 3766,
+    "length": 4,
+    "end": 3770,
+    "text": "1kty"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 3770,
+    "length": 7,
+    "end": 3777,
+    "text": "Katsuyu"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 3777,
+    "length": 7,
+    "end": 3784,
+    "text": "Katsuyu"
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 3784,
+    "length": 0,
+    "end": 3784,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 3784,
+    "length": 4,
+    "end": 3788,
+    "text": "1irk"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 3788,
+    "length": 5,
+    "end": 3793,
+    "text": "Iruka"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 3793,
+    "length": 11,
+    "end": 3804,
+    "text": "Iruka Umino"
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 3804,
+    "length": 0,
+    "end": 3804,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 3804,
+    "length": 4,
+    "end": 3808,
+    "text": "1nrp"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 3808,
+    "length": 5,
+    "end": 3813,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 3813,
+    "length": 5,
+    "end": 3818,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 3818,
+    "length": 0,
+    "end": 3818,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 3818,
+    "length": 4,
+    "end": 3822,
+    "text": "1nrx"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-implicit",
+    "start": 3822,
+    "length": 6,
+    "end": 3828,
+    "text": "PIJAMA"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-explicit",
+    "start": 3828,
+    "length": 6,
+    "end": 3834,
+    "text": "PIJAMA"
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 3834,
+    "length": 0,
+    "end": 3834,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 3834,
+    "length": 4,
+    "end": 3838,
+    "text": "1ssx"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-implicit",
+    "start": 3838,
+    "length": 11,
+    "end": 3849,
+    "text": "TRAJE PRETO"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-explicit",
+    "start": 3849,
+    "length": 11,
+    "end": 3860,
+    "text": "TRAJE PRETO"
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 3860,
+    "length": 0,
+    "end": 3860,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 3860,
+    "length": 4,
+    "end": 3864,
+    "text": "1six"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-implicit",
+    "start": 3864,
+    "length": 12,
+    "end": 3876,
+    "text": "TRAJE CHUNIN"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-explicit",
+    "start": 3876,
+    "length": 12,
+    "end": 3888,
+    "text": "TRAJE CHUNIN"
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 3888,
+    "length": 0,
+    "end": 3888,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 3888,
+    "length": 4,
+    "end": 3892,
+    "text": "1gax"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-implicit",
+    "start": 3892,
+    "length": 15,
+    "end": 3907,
+    "text": "TRAJE POSTERIOR"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-explicit",
+    "start": 3907,
+    "length": 15,
+    "end": 3922,
+    "text": "TRAJE POSTERIOR"
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 3922,
+    "length": 0,
+    "end": 3922,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 3922,
+    "length": 4,
+    "end": 3926,
+    "text": "1knx"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-implicit",
+    "start": 3926,
+    "length": 15,
+    "end": 3941,
+    "text": "TRAJE POSTERIOR"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-explicit",
+    "start": 3941,
+    "length": 15,
+    "end": 3956,
+    "text": "TRAJE POSTERIOR"
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 3956,
+    "length": 0,
+    "end": 3956,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 3956,
+    "length": 4,
+    "end": 3960,
+    "text": "1tmx"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-implicit",
+    "start": 3960,
+    "length": 15,
+    "end": 3975,
+    "text": "TRAJE POSTERIOR"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-explicit",
+    "start": 3975,
+    "length": 15,
+    "end": 3990,
+    "text": "TRAJE POSTERIOR"
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 3990,
+    "length": 0,
+    "end": 3990,
+    "text": ""
+  }
+]

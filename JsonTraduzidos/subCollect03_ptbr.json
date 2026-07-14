@@ -1,0 +1,1538 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2468,
+    "length": 3,
+    "end": 2471,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 2471,
+    "length": 6,
+    "end": 2477,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 2477,
+    "length": 59,
+    "end": 2536,
+    "text": "Uh, você é quem está \nprocurando colhedores de frutas..?"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2536,
+    "length": 0,
+    "end": 2536,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2536,
+    "length": 3,
+    "end": 2539,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 2539,
+    "length": 27,
+    "end": 2566,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 2566,
+    "length": 46,
+    "end": 2612,
+    "text": "Eh? Sim, sou eu. Você é quem\nvai nos ajudar?"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2612,
+    "length": 0,
+    "end": 2612,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2612,
+    "length": 3,
+    "end": 2615,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 2615,
+    "length": 6,
+    "end": 2621,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 2621,
+    "length": 65,
+    "end": 2686,
+    "text": "Pode apostar! Você não podia\nter achado colhedor melhor\nque eu!"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2686,
+    "length": 0,
+    "end": 2686,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2686,
+    "length": 3,
+    "end": 2689,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2689,
+    "length": 27,
+    "end": 2716,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2716,
+    "length": 48,
+    "end": 2764,
+    "text": "Obrigada! Preciso juntar\nmuitas e muitas frutas!"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2764,
+    "length": 0,
+    "end": 2764,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2764,
+    "length": 3,
+    "end": 2767,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2767,
+    "length": 6,
+    "end": 2773,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2773,
+    "length": 8,
+    "end": 2781,
+    "text": "Maçãs?"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2781,
+    "length": 0,
+    "end": 2781,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2781,
+    "length": 3,
+    "end": 2784,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 2784,
+    "length": 27,
+    "end": 2811,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 2811,
+    "length": 42,
+    "end": 2853,
+    "text": "Sim! São sempre nossa fruta\nmais vendida!"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2853,
+    "length": 0,
+    "end": 2853,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2853,
+    "length": 3,
+    "end": 2856,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2856,
+    "length": 27,
+    "end": 2883,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2883,
+    "length": 58,
+    "end": 2941,
+    "text": "Então, quero juntar bastante,\ne deixar minha mãe feliz!\n"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2941,
+    "length": 0,
+    "end": 2941,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2941,
+    "length": 3,
+    "end": 2944,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2944,
+    "length": 6,
+    "end": 2950,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2950,
+    "length": 36,
+    "end": 2986,
+    "text": "Uh-huh. Entendi! Vou cuidar\nde tudo!"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2986,
+    "length": 0,
+    "end": 2986,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2986,
+    "length": 3,
+    "end": 2989,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2989,
+    "length": 27,
+    "end": 3016,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 3016,
+    "length": 33,
+    "end": 3049,
+    "text": "Uau! Você é um sonho\nrealizado!"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 3049,
+    "length": 0,
+    "end": 3049,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 3049,
+    "length": 3,
+    "end": 3052,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 3052,
+    "length": 6,
+    "end": 3058,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 3058,
+    "length": 53,
+    "end": 3111,
+    "text": "(Nunca me chamaram de sonho\nrealizado antes... Hehe!)"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 3111,
+    "length": 0,
+    "end": 3111,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 3111,
+    "length": 3,
+    "end": 3114,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 3114,
+    "length": 27,
+    "end": 3141,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 3141,
+    "length": 74,
+    "end": 3215,
+    "text": "Acho que 20 seriam o\nsuficiente. Acha que consegue\njuntar essa quantidade?"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 3215,
+    "length": 0,
+    "end": 3215,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 3215,
+    "length": 3,
+    "end": 3218,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 3218,
+    "length": 27,
+    "end": 3245,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 3245,
+    "length": 74,
+    "end": 3319,
+    "text": "Acho que ** seriam o\nsuficiente. Acha que consegue\njuntar essa quantidade?"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 3319,
+    "length": 0,
+    "end": 3319,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 3319,
+    "length": 3,
+    "end": 3322,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 3322,
+    "length": 6,
+    "end": 3328,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 3328,
+    "length": 49,
+    "end": 3377,
+    "text": "Deixa comigo! Uma vez que\ncomeço, nada me para!!"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 3377,
+    "length": 0,
+    "end": 3377,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 3377,
+    "length": 3,
+    "end": 3380,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 3380,
+    "length": 27,
+    "end": 3407,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 3407,
+    "length": 86,
+    "end": 3493,
+    "text": "Minha mãe vai ficar brava se\neu ficar fora até tarde, então\nvamos terminar rápido!"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 3493,
+    "length": 0,
+    "end": 3493,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 3493,
+    "length": 3,
+    "end": 3496,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 3496,
+    "length": 27,
+    "end": 3523,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 3523,
+    "length": 27,
+    "end": 3550,
+    "text": "O que foi? Já juntou tudo?"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 3550,
+    "length": 0,
+    "end": 3550,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 3550,
+    "length": 3,
+    "end": 3553,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 3553,
+    "length": 27,
+    "end": 3580,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 3580,
+    "length": 67,
+    "end": 3647,
+    "text": "Uh... pode achar 20 maçãs pra\nmim? Quero deixar minha mãe\nfeliz!"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 3647,
+    "length": 0,
+    "end": 3647,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 3647,
+    "length": 3,
+    "end": 3650,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 3650,
+    "length": 27,
+    "end": 3677,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 3677,
+    "length": 68,
+    "end": 3745,
+    "text": "Uh... pode achar ** maçãs pra\nmim? Quero deixar minha mãe\nfeliz!\n"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 3745,
+    "length": 0,
+    "end": 3745,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 3745,
+    "length": 3,
+    "end": 3748,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 3748,
+    "length": 27,
+    "end": 3775,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 3775,
+    "length": 37,
+    "end": 3812,
+    "text": "Sério!? Deixa eu ver, deixa\neu ver!\n"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 3812,
+    "length": 0,
+    "end": 3812,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 3812,
+    "length": 3,
+    "end": 3815,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 3815,
+    "length": 27,
+    "end": 3842,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 3842,
+    "length": 10,
+    "end": 3852,
+    "text": ".........\n"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 3852,
+    "length": 0,
+    "end": 3852,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 3852,
+    "length": 3,
+    "end": 3855,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 3855,
+    "length": 27,
+    "end": 3882,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 3882,
+    "length": 23,
+    "end": 3905,
+    "text": "Mas... isso não é...\n"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3905,
+    "length": 0,
+    "end": 3905,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3905,
+    "length": 3,
+    "end": 3908,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 3908,
+    "length": 6,
+    "end": 3914,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 3914,
+    "length": 42,
+    "end": 3956,
+    "text": "Bem... uh... ahaha... Não foi\nsuficiente?"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3956,
+    "length": 0,
+    "end": 3956,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3956,
+    "length": 3,
+    "end": 3959,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 3959,
+    "length": 27,
+    "end": 3986,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 3986,
+    "length": 52,
+    "end": 4038,
+    "text": "Esquece isso... Eu não devia\nter confiado em você."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 4038,
+    "length": 0,
+    "end": 4038,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 4038,
+    "length": 3,
+    "end": 4041,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 4041,
+    "length": 6,
+    "end": 4047,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 4047,
+    "length": 9,
+    "end": 4056,
+    "text": "Argh...!!"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 4056,
+    "length": 0,
+    "end": 4056,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 4056,
+    "length": 3,
+    "end": 4059,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 4059,
+    "length": 6,
+    "end": 4065,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 4065,
+    "length": 39,
+    "end": 4104,
+    "text": "(Nunca me senti tão idiota\nna VIDA...)"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 4104,
+    "length": 0,
+    "end": 4104,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 4104,
+    "length": 3,
+    "end": 4107,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 4107,
+    "length": 27,
+    "end": 4134,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 4134,
+    "length": 36,
+    "end": 4170,
+    "text": "Eu queria deixar minha mãe\nfeliz..."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 4170,
+    "length": 0,
+    "end": 4170,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 4170,
+    "length": 3,
+    "end": 4173,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 4173,
+    "length": 6,
+    "end": 4179,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 4179,
+    "length": 15,
+    "end": 4194,
+    "text": "E que tal isso?"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 4194,
+    "length": 0,
+    "end": 4194,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 4194,
+    "length": 3,
+    "end": 4197,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 4197,
+    "length": 27,
+    "end": 4224,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 4224,
+    "length": 67,
+    "end": 4291,
+    "text": "Uau! Isso é mais que\nsuficiente! Minha mãe vai\nficar muito feliz!"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 4291,
+    "length": 0,
+    "end": 4291,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 4291,
+    "length": 3,
+    "end": 4294,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 4294,
+    "length": 6,
+    "end": 4300,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 4300,
+    "length": 36,
+    "end": 4336,
+    "text": "Ufa... Então eu também fico\nfeliz."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 4336,
+    "length": 0,
+    "end": 4336,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 4336,
+    "length": 3,
+    "end": 4339,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 4339,
+    "length": 6,
+    "end": 4345,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 4345,
+    "length": 68,
+    "end": 4413,
+    "text": "Bem, preciso ir agora, e você\ntambém devia ir pra casa logo,\nokay?"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 4413,
+    "length": 0,
+    "end": 4413,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 4413,
+    "length": 3,
+    "end": 4416,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 4416,
+    "length": 27,
+    "end": 4443,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 4443,
+    "length": 11,
+    "end": 4454,
+    "text": "Ah, espera!"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 4454,
+    "length": 0,
+    "end": 4454,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 4454,
+    "length": 3,
+    "end": 4457,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 4457,
+    "length": 27,
+    "end": 4484,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 4484,
+    "length": 75,
+    "end": 4559,
+    "text": "Se você colher mais frutas,\npode sempre trazer pra loja\nde frutas da vila."
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 4559,
+    "length": 0,
+    "end": 4559,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 4559,
+    "length": 3,
+    "end": 4562,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 4562,
+    "length": 27,
+    "end": 4589,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 4589,
+    "length": 41,
+    "end": 4630,
+    "text": "Tenho certeza que minha mãe\nvai comprar."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 4630,
+    "length": 0,
+    "end": 4630,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 4630,
+    "length": 3,
+    "end": 4633,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 4633,
+    "length": 6,
+    "end": 4639,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 4639,
+    "length": 49,
+    "end": 4688,
+    "text": "Bom saber disso! Vou trazer\nmais da próxima vez!"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 4688,
+    "length": 0,
+    "end": 4688,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 4688,
+    "length": 3,
+    "end": 4691,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 4691,
+    "length": 27,
+    "end": 4718,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 4718,
+    "length": 50,
+    "end": 4768,
+    "text": "Vamos estar te esperando!\nMuito obrigada por hoje!"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 4768,
+    "length": 0,
+    "end": 4768,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 4768,
+    "length": 3,
+    "end": 4771,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 4771,
+    "length": 27,
+    "end": 4798,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 4798,
+    "length": 42,
+    "end": 4840,
+    "text": "Preciso levar isso de volta\npra loja logo."
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 4840,
+    "length": 0,
+    "end": 4840,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 4840,
+    "length": 3,
+    "end": 4843,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 4843,
+    "length": 6,
+    "end": 4849,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 4849,
+    "length": 39,
+    "end": 4888,
+    "text": "Ufa... Bem, isso deve bastar\npor agora."
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 4888,
+    "length": 0,
+    "end": 4888,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 4888,
+    "length": 3,
+    "end": 4891,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 4891,
+    "length": 6,
+    "end": 4897,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 4897,
+    "length": 18,
+    "end": 4915,
+    "text": "Desculpa o atraso."
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 4915,
+    "length": 0,
+    "end": 4915,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 4915,
+    "length": 3,
+    "end": 4918,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 4918,
+    "length": 27,
+    "end": 4945,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 4945,
+    "length": 9,
+    "end": 4954,
+    "text": "Heehee..."
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 4954,
+    "length": 0,
+    "end": 4954,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 4954,
+    "length": 3,
+    "end": 4957,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 4957,
+    "length": 6,
+    "end": 4963,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 4963,
+    "length": 42,
+    "end": 5005,
+    "text": "Ei, você está de bom humor!\nO que houve?"
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 5005,
+    "length": 0,
+    "end": 5005,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 5005,
+    "length": 3,
+    "end": 5008,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 5008,
+    "length": 27,
+    "end": 5035,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 5035,
+    "length": 62,
+    "end": 5097,
+    "text": "Um ninja muito legal juntou\ntodas essas maçãs pra mim!\nOlha!"
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 5097,
+    "length": 0,
+    "end": 5097,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 5097,
+    "length": 3,
+    "end": 5100,
+    "text": "041"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 5100,
+    "length": 6,
+    "end": 5106,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 5106,
+    "length": 6,
+    "end": 5112,
+    "text": "Hã!!?"
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 5112,
+    "length": 0,
+    "end": 5112,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 5112,
+    "length": 3,
+    "end": 5115,
+    "text": "042"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 5115,
+    "length": 27,
+    "end": 5142,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 5142,
+    "length": 58,
+    "end": 5200,
+    "text": "Ele juntou tudo num piscar\nde olhos! Disse que foi fácil!"
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 5200,
+    "length": 0,
+    "end": 5200,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 5200,
+    "length": 3,
+    "end": 5203,
+    "text": "043"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 5203,
+    "length": 6,
+    "end": 5209,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 5209,
+    "length": 9,
+    "end": 5218,
+    "text": "........."
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 5218,
+    "length": 0,
+    "end": 5218,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 5218,
+    "length": 3,
+    "end": 5221,
+    "text": "044"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 5221,
+    "length": 6,
+    "end": 5227,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 5227,
+    "length": 39,
+    "end": 5266,
+    "text": "B... bem... Que gentil da\nparte dele..."
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 5266,
+    "length": 0,
+    "end": 5266,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 5266,
+    "length": 3,
+    "end": 5269,
+    "text": "045"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 5269,
+    "length": 27,
+    "end": 5296,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 5296,
+    "length": 16,
+    "end": 5312,
+    "text": "Com certeza foi!"
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 5312,
+    "length": 0,
+    "end": 5312,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 5312,
+    "length": 3,
+    "end": 5315,
+    "text": "046"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 5315,
+    "length": 6,
+    "end": 5321,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 5321,
+    "length": 47,
+    "end": 5368,
+    "text": "Hahaha... Isso me faz parecer\nbem sem graça..."
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 5368,
+    "length": 0,
+    "end": 5368,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 5368,
+    "length": 3,
+    "end": 5371,
+    "text": "047"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 5371,
+    "length": 6,
+    "end": 5377,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 5377,
+    "length": 5,
+    "end": 5382,
+    "text": "Ai..."
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 5382,
+    "length": 0,
+    "end": 5382,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 5382,
+    "length": 3,
+    "end": 5385,
+    "text": "048"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-implicit",
+    "start": 5385,
+    "length": 27,
+    "end": 5412,
+    "text": "Garota da barraca de frutas"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-explicit",
+    "start": 5412,
+    "length": 38,
+    "end": 5450,
+    "text": "Espero encontrar esse ninja\nde novo..."
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 5450,
+    "length": 0,
+    "end": 5450,
+    "text": ""
+  }
+]

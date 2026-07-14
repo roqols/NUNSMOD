@@ -1,0 +1,1730 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 3542,
+    "length": 8,
+    "end": 3550,
+    "text": "NRT_SHOT"
+  },
+  {
+    "table_pos": 80,
+    "mode": "A",
+    "start": 3550,
+    "length": 25,
+    "end": 3575,
+    "text": "BOMBA DO VENTO DEMONÍACO"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 3575,
+    "length": 0,
+    "end": 3575,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 3575,
+    "length": 8,
+    "end": 3583,
+    "text": "RASENGAN"
+  },
+  {
+    "table_pos": 128,
+    "mode": "A",
+    "start": 3583,
+    "length": 8,
+    "end": 3591,
+    "text": "RASENGAN"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 3591,
+    "length": 0,
+    "end": 3591,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 3591,
+    "length": 8,
+    "end": 3599,
+    "text": "HOUSENKA"
+  },
+  {
+    "table_pos": 176,
+    "mode": "A",
+    "start": 3599,
+    "length": 39,
+    "end": 3638,
+    "text": "ESTILO DE FOGO: JUTSU DA FLOR DE FÊNIX"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 3638,
+    "length": 0,
+    "end": 3638,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 3638,
+    "length": 9,
+    "end": 3647,
+    "text": "GOUKAKYUU"
+  },
+  {
+    "table_pos": 224,
+    "mode": "A",
+    "start": 3647,
+    "length": 37,
+    "end": 3684,
+    "text": "ESTILO DE FOGO: JUTSU DA BOLA DE FOGO"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 3684,
+    "length": 0,
+    "end": 3684,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 3684,
+    "length": 7,
+    "end": 3691,
+    "text": "CHIDORI"
+  },
+  {
+    "table_pos": 272,
+    "mode": "A",
+    "start": 3691,
+    "length": 7,
+    "end": 3698,
+    "text": "CHIDORI"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 3698,
+    "length": 0,
+    "end": 3698,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 3698,
+    "length": 8,
+    "end": 3706,
+    "text": "SKR_SHOT"
+  },
+  {
+    "table_pos": 320,
+    "mode": "A",
+    "start": 3706,
+    "length": 9,
+    "end": 3715,
+    "text": "ARMADILHA"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 3715,
+    "length": 0,
+    "end": 3715,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 3715,
+    "length": 7,
+    "end": 3722,
+    "text": "MERCHEN"
+  },
+  {
+    "table_pos": 368,
+    "mode": "A",
+    "start": 3722,
+    "length": 29,
+    "end": 3751,
+    "text": "ESSE CONTO DE FADAS É REAL!!"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 3751,
+    "length": 0,
+    "end": 3751,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 3751,
+    "length": 8,
+    "end": 3759,
+    "text": "ROC_SHOT"
+  },
+  {
+    "table_pos": 416,
+    "mode": "A",
+    "start": 3759,
+    "length": 17,
+    "end": 3776,
+    "text": "FURACÃO DA FOLHA"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 3776,
+    "length": 0,
+    "end": 3776,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 3776,
+    "length": 9,
+    "end": 3785,
+    "text": "ROC_DIREC"
+  },
+  {
+    "table_pos": 464,
+    "mode": "A",
+    "start": 3785,
+    "length": 16,
+    "end": 3801,
+    "text": "LÓTUS PRIMÁRIO"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 3801,
+    "length": 0,
+    "end": 3801,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 3801,
+    "length": 6,
+    "end": 3807,
+    "text": "KAITEN"
+  },
+  {
+    "table_pos": 512,
+    "mode": "A",
+    "start": 3807,
+    "length": 32,
+    "end": 3839,
+    "text": "8 TRIGRAMAS: ROTAÇÃO DE PALMAS"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 3839,
+    "length": 0,
+    "end": 3839,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 3839,
+    "length": 9,
+    "end": 3848,
+    "text": "NEJ_DIREC"
+  },
+  {
+    "table_pos": 560,
+    "mode": "A",
+    "start": 3848,
+    "length": 40,
+    "end": 3888,
+    "text": "8 TRIGRAMAS: DANÇA TEMPESTADE DE PALMAS"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 3888,
+    "length": 0,
+    "end": 3888,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 3888,
+    "length": 8,
+    "end": 3896,
+    "text": "TEN_SHOT"
+  },
+  {
+    "table_pos": 608,
+    "mode": "A",
+    "start": 3896,
+    "length": 41,
+    "end": 3937,
+    "text": "FERRAMENTA NINJA: LÂMINA DE 1.000 GOLPES"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 3937,
+    "length": 0,
+    "end": 3937,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 3937,
+    "length": 9,
+    "end": 3946,
+    "text": "TEN_DIREC"
+  },
+  {
+    "table_pos": 656,
+    "mode": "A",
+    "start": 3946,
+    "length": 46,
+    "end": 3992,
+    "text": "FERRAMENTA NINJA: EXPLOSÃO DE AGULHAS EM FLOR"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 3992,
+    "length": 0,
+    "end": 3992,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 3992,
+    "length": 8,
+    "end": 4000,
+    "text": "SIK_SHOT"
+  },
+  {
+    "table_pos": 704,
+    "mode": "A",
+    "start": 4000,
+    "length": 33,
+    "end": 4033,
+    "text": "ESTILO EXPLOSIVO: LÂMINA VOADORA"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 4033,
+    "length": 0,
+    "end": 4033,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 4033,
+    "length": 9,
+    "end": 4042,
+    "text": "SIK_DIREC"
+  },
+  {
+    "table_pos": 752,
+    "mode": "A",
+    "start": 4042,
+    "length": 31,
+    "end": 4073,
+    "text": "JUTSU DA POSSESSÃO DAS SOMBRAS"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 4073,
+    "length": 0,
+    "end": 4073,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 4073,
+    "length": 8,
+    "end": 4081,
+    "text": "TYO_SHOT"
+  },
+  {
+    "table_pos": 800,
+    "mode": "A",
+    "start": 4081,
+    "length": 12,
+    "end": 4093,
+    "text": "ROCHA HUMANA"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 4093,
+    "length": 0,
+    "end": 4093,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 4093,
+    "length": 9,
+    "end": 4102,
+    "text": "TYO_DIREC"
+  },
+  {
+    "table_pos": 848,
+    "mode": "A",
+    "start": 4102,
+    "length": 18,
+    "end": 4120,
+    "text": "JUTSU DE EXPANSÃO"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 4120,
+    "length": 0,
+    "end": 4120,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 4120,
+    "length": 8,
+    "end": 4128,
+    "text": "INO_SHOT"
+  },
+  {
+    "table_pos": 896,
+    "mode": "A",
+    "start": 4128,
+    "length": 25,
+    "end": 4153,
+    "text": "ENVIO DE FLORES MEMORIAIS"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 4153,
+    "length": 0,
+    "end": 4153,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 4153,
+    "length": 9,
+    "end": 4162,
+    "text": "INO_DIREC"
+  },
+  {
+    "table_pos": 944,
+    "mode": "A",
+    "start": 4162,
+    "length": 18,
+    "end": 4180,
+    "text": "COMBO DE 16 GOLPES"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 4180,
+    "length": 0,
+    "end": 4180,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 4180,
+    "length": 8,
+    "end": 4188,
+    "text": "KIB_SHOT"
+  },
+  {
+    "table_pos": 992,
+    "mode": "A",
+    "start": 4188,
+    "length": 20,
+    "end": 4208,
+    "text": "MARCAÇÃO DINÂMICA"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 4208,
+    "length": 0,
+    "end": 4208,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 4208,
+    "length": 9,
+    "end": 4217,
+    "text": "KIB_DIREC"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "A",
+    "start": 4217,
+    "length": 17,
+    "end": 4234,
+    "text": "PRESA SOBRE PRESA"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 4234,
+    "length": 0,
+    "end": 4234,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 4234,
+    "length": 8,
+    "end": 4242,
+    "text": "SIN_SHOT"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "A",
+    "start": 4242,
+    "length": 19,
+    "end": 4261,
+    "text": "INSETOS RASTEJANTES"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 4261,
+    "length": 0,
+    "end": 4261,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 4261,
+    "length": 9,
+    "end": 4270,
+    "text": "SIN_DIREC"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "A",
+    "start": 4270,
+    "length": 25,
+    "end": 4295,
+    "text": "REDE DE INSETOS NA NÉVOA"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 4295,
+    "length": 0,
+    "end": 4295,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 4295,
+    "length": 8,
+    "end": 4303,
+    "text": "HNT_SHOT"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "A",
+    "start": 4303,
+    "length": 17,
+    "end": 4320,
+    "text": "PALMA DUPLA VELOZ"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 4320,
+    "length": 0,
+    "end": 4320,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 4320,
+    "length": 9,
+    "end": 4329,
+    "text": "HNT_DIREC"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "A",
+    "start": 4329,
+    "length": 35,
+    "end": 4364,
+    "text": "DANÇA CELESTIAL DO BRANCO NEBULOSO"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 4364,
+    "length": 0,
+    "end": 4364,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 4364,
+    "length": 8,
+    "end": 4372,
+    "text": "GAR_SHOT"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "A",
+    "start": 4372,
+    "length": 14,
+    "end": 4386,
+    "text": "CHUVA DE AREIA"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 4386,
+    "length": 0,
+    "end": 4386,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 4386,
+    "length": 9,
+    "end": 4395,
+    "text": "GAR_DIREC"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "A",
+    "start": 4395,
+    "length": 21,
+    "end": 4416,
+    "text": "SEPULTAMENTO DE AREIA"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 4416,
+    "length": 0,
+    "end": 4416,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 4416,
+    "length": 8,
+    "end": 4424,
+    "text": "KNK_SHOT"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "A",
+    "start": 4424,
+    "length": 23,
+    "end": 4447,
+    "text": "FANTOCHE: CHUVA DE MAIO"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 4447,
+    "length": 0,
+    "end": 4447,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 4447,
+    "length": 9,
+    "end": 4456,
+    "text": "KNK_DIREC"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "A",
+    "start": 4456,
+    "length": 25,
+    "end": 4481,
+    "text": "FANTOCHE: CAIXÃO ÁSPERO"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 4481,
+    "length": 0,
+    "end": 4481,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 4481,
+    "length": 8,
+    "end": 4489,
+    "text": "TMR_SHOT"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "A",
+    "start": 4489,
+    "length": 33,
+    "end": 4522,
+    "text": "MURO DE VENTO DO LEQUE RETUMBANTE"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 4522,
+    "length": 0,
+    "end": 4522,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 4522,
+    "length": 9,
+    "end": 4531,
+    "text": "TMR_DIREC"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "A",
+    "start": 4531,
+    "length": 34,
+    "end": 4565,
+    "text": "JUTSU VERDADEIRO DA FOICE DE VENTO"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 4565,
+    "length": 0,
+    "end": 4565,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 4565,
+    "length": 8,
+    "end": 4573,
+    "text": "KKS_SHOT"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "A",
+    "start": 4573,
+    "length": 37,
+    "end": 4610,
+    "text": "ESTILO DE FOGO: JUTSU DA BOLA DE FOGO"
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 4610,
+    "length": 0,
+    "end": 4610,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 4610,
+    "length": 9,
+    "end": 4619,
+    "text": "SUIKOUDAN"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "A",
+    "start": 4619,
+    "length": 48,
+    "end": 4667,
+    "text": "ESTILO DE ÁGUA: JUTSU DA BOMBA TUBARÃO D'ÁGUA"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 4667,
+    "length": 0,
+    "end": 4667,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 4667,
+    "length": 9,
+    "end": 4676,
+    "text": "KKS_DIREC"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "A",
+    "start": 4676,
+    "length": 45,
+    "end": 4721,
+    "text": "ESTILO DE TERRA: JUTSU DA PERSEGUIÇÃO PRESA"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 4721,
+    "length": 0,
+    "end": 4721,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 4721,
+    "length": 7,
+    "end": 4728,
+    "text": "RAIKIRI"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "A",
+    "start": 4728,
+    "length": 21,
+    "end": 4749,
+    "text": "LÂMINA DO RELÂMPAGO"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 4749,
+    "length": 0,
+    "end": 4749,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 4749,
+    "length": 8,
+    "end": 4757,
+    "text": "GUY_SHOT"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "A",
+    "start": 4757,
+    "length": 26,
+    "end": 4783,
+    "text": "FURACÕES SEVEROS DA FOLHA"
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 4783,
+    "length": 0,
+    "end": 4783,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 4783,
+    "length": 9,
+    "end": 4792,
+    "text": "GUY_DIREC"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "A",
+    "start": 4792,
+    "length": 17,
+    "end": 4809,
+    "text": "ENTRADA DINÂMICA"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 4809,
+    "length": 0,
+    "end": 4809,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 4809,
+    "length": 8,
+    "end": 4817,
+    "text": "JRY_SHOT"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "A",
+    "start": 4817,
+    "length": 37,
+    "end": 4854,
+    "text": "INVOCAÇÃO: JUTSU DE DERRUBAR A CASA"
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 4854,
+    "length": 0,
+    "end": 4854,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 4854,
+    "length": 9,
+    "end": 4863,
+    "text": "JRY_DIREC"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "A",
+    "start": 4863,
+    "length": 8,
+    "end": 4871,
+    "text": "RASENGAN"
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 4871,
+    "length": 0,
+    "end": 4871,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 4871,
+    "length": 8,
+    "end": 4879,
+    "text": "TND_SHOT"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "A",
+    "start": 4879,
+    "length": 22,
+    "end": 4901,
+    "text": "CHUTE CELESTIAL DA DOR"
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 4901,
+    "length": 0,
+    "end": 4901,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 4901,
+    "length": 13,
+    "end": 4914,
+    "text": "TND_SHOT_HUGE"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "A",
+    "start": 4914,
+    "length": 22,
+    "end": 4936,
+    "text": "CHUTE CELESTIAL DA DOR"
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 4936,
+    "length": 0,
+    "end": 4936,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 4936,
+    "length": 9,
+    "end": 4945,
+    "text": "TND_DIREC"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "A",
+    "start": 4945,
+    "length": 20,
+    "end": 4965,
+    "text": "GOLPE MORTAL EXTREMO"
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 4965,
+    "length": 0,
+    "end": 4965,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 4965,
+    "length": 8,
+    "end": 4973,
+    "text": "HKG_SHOT"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "A",
+    "start": 4973,
+    "length": 42,
+    "end": 5015,
+    "text": "ESTILO DE FOGO: BOMBAS DE CHAMA DO DRAGÃO"
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 5015,
+    "length": 0,
+    "end": 5015,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 5015,
+    "length": 9,
+    "end": 5024,
+    "text": "HKG_DIREC"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "A",
+    "start": 5024,
+    "length": 38,
+    "end": 5062,
+    "text": "JUTSU DO CLONE DAS SOMBRAS DE SHURIKEN"
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 5062,
+    "length": 0,
+    "end": 5062,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 5062,
+    "length": 8,
+    "end": 5070,
+    "text": "ORC_SHOT"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "A",
+    "start": 5070,
+    "length": 29,
+    "end": 5099,
+    "text": "SERPENTE DAS SOMBRAS ATACANTE"
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 5099,
+    "length": 0,
+    "end": 5099,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 5099,
+    "length": 9,
+    "end": 5108,
+    "text": "ORC_DIREC"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "A",
+    "start": 5108,
+    "length": 19,
+    "end": 5127,
+    "text": "DANÇA DAS LÂMINAS"
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 5127,
+    "length": 0,
+    "end": 5127,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 5127,
+    "length": 8,
+    "end": 5135,
+    "text": "KBT_SHOT"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "A",
+    "start": 5135,
+    "length": 25,
+    "end": 5160,
+    "text": "JUTSU DA ILUSÃO DE PENAS"
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 5160,
+    "length": 0,
+    "end": 5160,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 5160,
+    "length": 9,
+    "end": 5169,
+    "text": "KBT_DIREC"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "A",
+    "start": 5169,
+    "length": 33,
+    "end": 5202,
+    "text": "LÂMINA DE DISSECAÇÃO DE CHAKRA"
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 5202,
+    "length": 0,
+    "end": 5202,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 5202,
+    "length": 8,
+    "end": 5210,
+    "text": "KMR_SHOT"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "A",
+    "start": 5210,
+    "length": 18,
+    "end": 5228,
+    "text": "DANÇA DA CAMÉLIA"
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 5228,
+    "length": 0,
+    "end": 5228,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 5228,
+    "length": 9,
+    "end": 5237,
+    "text": "KMR_DIREC"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "A",
+    "start": 5237,
+    "length": 18,
+    "end": 5255,
+    "text": "DANÇA DO LARÍCIO"
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 5255,
+    "length": 0,
+    "end": 5255,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 5255,
+    "length": 8,
+    "end": 5263,
+    "text": "ITC_SHOT"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "A",
+    "start": 5263,
+    "length": 37,
+    "end": 5300,
+    "text": "ESTILO DE FOGO: JUTSU DA BOLA DE FOGO"
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 5300,
+    "length": 0,
+    "end": 5300,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 5300,
+    "length": 9,
+    "end": 5309,
+    "text": "ITC_DIREC"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "A",
+    "start": 5309,
+    "length": 31,
+    "end": 5340,
+    "text": "JUTSU DO CLONE: SUPER EXPLOSÃO"
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 5340,
+    "length": 0,
+    "end": 5340,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 5340,
+    "length": 8,
+    "end": 5348,
+    "text": "KSM_SHOT"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "A",
+    "start": 5348,
+    "length": 48,
+    "end": 5396,
+    "text": "ESTILO DE ÁGUA: JUTSU DA BOMBA TUBARÃO D'ÁGUA"
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 5396,
+    "length": 0,
+    "end": 5396,
+    "text": ""
+  },
+  {
+    "table_pos": 2608,
+    "mode": "A",
+    "start": 5396,
+    "length": 9,
+    "end": 5405,
+    "text": "KSM_DIREC"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "A",
+    "start": 5405,
+    "length": 53,
+    "end": 5458,
+    "text": "ESTILO DE ÁGUA: JUTSU DA ESPINGARDA TUBARÃO D'ÁGUA"
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 5458,
+    "length": 0,
+    "end": 5458,
+    "text": ""
+  },
+  {
+    "table_pos": 2656,
+    "mode": "A",
+    "start": 5458,
+    "length": 9,
+    "end": 5467,
+    "text": "NRV_DIREC"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "A",
+    "start": 5467,
+    "length": 17,
+    "end": 5484,
+    "text": "RASENGAN VERMELHO"
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 5484,
+    "length": 0,
+    "end": 5484,
+    "text": ""
+  },
+  {
+    "table_pos": 2704,
+    "mode": "A",
+    "start": 5484,
+    "length": 9,
+    "end": 5493,
+    "text": "SSV_DIREC"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "A",
+    "start": 5493,
+    "length": 18,
+    "end": 5511,
+    "text": "LAMENTO DE CHIDORI"
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 5511,
+    "length": 0,
+    "end": 5511,
+    "text": ""
+  },
+  {
+    "table_pos": 2752,
+    "mode": "A",
+    "start": 5511,
+    "length": 9,
+    "end": 5520,
+    "text": "ROV_DIREC"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "A",
+    "start": 5520,
+    "length": 25,
+    "end": 5545,
+    "text": "DANÇA INSANA DO INFINITO"
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 5545,
+    "length": 0,
+    "end": 5545,
+    "text": ""
+  },
+  {
+    "table_pos": 2800,
+    "mode": "A",
+    "start": 5545,
+    "length": 9,
+    "end": 5554,
+    "text": "GUV_DIREC"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "A",
+    "start": 5554,
+    "length": 21,
+    "end": 5575,
+    "text": "DANÇA INSANA SUPREMA"
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 5575,
+    "length": 0,
+    "end": 5575,
+    "text": ""
+  },
+  {
+    "table_pos": 2848,
+    "mode": "A",
+    "start": 5575,
+    "length": 9,
+    "end": 5584,
+    "text": "KMV_DIREC"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "A",
+    "start": 5584,
+    "length": 36,
+    "end": 5620,
+    "text": "DANÇA DA CLEMÁTIDE, VIDEIRA E FLOR"
+  },
+  {
+    "table_pos": 2880,
+    "mode": "A",
+    "start": 5620,
+    "length": 0,
+    "end": 5620,
+    "text": ""
+  },
+  {
+    "table_pos": 2896,
+    "mode": "A",
+    "start": 5620,
+    "length": 8,
+    "end": 5628,
+    "text": "HK1_SHOT"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "A",
+    "start": 5628,
+    "length": 58,
+    "end": 5686,
+    "text": "ESTILO SECRETO DA MADEIRA: SURGIMENTO DA FLORESTA PROFUNDA"
+  },
+  {
+    "table_pos": 2928,
+    "mode": "A",
+    "start": 5686,
+    "length": 0,
+    "end": 5686,
+    "text": ""
+  },
+  {
+    "table_pos": 2944,
+    "mode": "A",
+    "start": 5686,
+    "length": 8,
+    "end": 5694,
+    "text": "HK2_SHOT"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "A",
+    "start": 5694,
+    "length": 29,
+    "end": 5723,
+    "text": "ESTILO DE ÁGUA: MURO D'ÁGUA"
+  },
+  {
+    "table_pos": 2976,
+    "mode": "A",
+    "start": 5723,
+    "length": 0,
+    "end": 5723,
+    "text": ""
+  },
+  {
+    "table_pos": 2992,
+    "mode": "A",
+    "start": 5723,
+    "length": 8,
+    "end": 5731,
+    "text": "HK4_SHOT"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "A",
+    "start": 5731,
+    "length": 23,
+    "end": 5754,
+    "text": "JUTSU DO TROVÃO VOADOR"
+  },
+  {
+    "table_pos": 3024,
+    "mode": "A",
+    "start": 5754,
+    "length": 0,
+    "end": 5754,
+    "text": ""
+  },
+  {
+    "table_pos": 3040,
+    "mode": "A",
+    "start": 5754,
+    "length": 8,
+    "end": 5762,
+    "text": "KDM_SHOT"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "A",
+    "start": 5762,
+    "length": 22,
+    "end": 5784,
+    "text": "TEIA DE ARANHA ESPIRAL"
+  },
+  {
+    "table_pos": 3072,
+    "mode": "A",
+    "start": 5784,
+    "length": 0,
+    "end": 5784,
+    "text": ""
+  },
+  {
+    "table_pos": 3088,
+    "mode": "A",
+    "start": 5784,
+    "length": 8,
+    "end": 5792,
+    "text": "JRB_SHOT"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "A",
+    "start": 5792,
+    "length": 36,
+    "end": 5828,
+    "text": "ESTILO DE TERRA: ESFERA DOS TÚMULOS"
+  },
+  {
+    "table_pos": 3120,
+    "mode": "A",
+    "start": 5828,
+    "length": 0,
+    "end": 5828,
+    "text": ""
+  },
+  {
+    "table_pos": 3136,
+    "mode": "A",
+    "start": 5828,
+    "length": 8,
+    "end": 5836,
+    "text": "TYY_SHOT"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "A",
+    "start": 5836,
+    "length": 32,
+    "end": 5868,
+    "text": "FLAUTA DEMONÍACA: ONDA FANTASMA"
+  },
+  {
+    "table_pos": 3168,
+    "mode": "A",
+    "start": 5868,
+    "length": 0,
+    "end": 5868,
+    "text": ""
+  },
+  {
+    "table_pos": 3184,
+    "mode": "A",
+    "start": 5868,
+    "length": 8,
+    "end": 5876,
+    "text": "SKN_SHOT"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "A",
+    "start": 5876,
+    "length": 30,
+    "end": 5906,
+    "text": "JUTSU DE INVOCAÇÃO: RASHOMON"
+  },
+  {
+    "table_pos": 3216,
+    "mode": "A",
+    "start": 5906,
+    "length": 0,
+    "end": 5906,
+    "text": ""
+  },
+  {
+    "table_pos": 3232,
+    "mode": "A",
+    "start": 5906,
+    "length": 8,
+    "end": 5914,
+    "text": "ASM_SHOT"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "A",
+    "start": 5914,
+    "length": 25,
+    "end": 5939,
+    "text": "ESTOCADA DO PARDAL VOADOR"
+  },
+  {
+    "table_pos": 3264,
+    "mode": "A",
+    "start": 5939,
+    "length": 0,
+    "end": 5939,
+    "text": ""
+  },
+  {
+    "table_pos": 3280,
+    "mode": "A",
+    "start": 5939,
+    "length": 8,
+    "end": 5947,
+    "text": "KRN_SHOT"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "A",
+    "start": 5947,
+    "length": 16,
+    "end": 5963,
+    "text": "GENJUTSU: NÉVOA"
+  },
+  {
+    "table_pos": 3312,
+    "mode": "A",
+    "start": 5963,
+    "length": 0,
+    "end": 5963,
+    "text": ""
+  },
+  {
+    "table_pos": 3328,
+    "mode": "A",
+    "start": 5963,
+    "length": 8,
+    "end": 5971,
+    "text": "SZN_SHOT"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "A",
+    "start": 5971,
+    "length": 28,
+    "end": 5999,
+    "text": "ARTE NINJA: NEBLINA VENENOSA"
+  },
+  {
+    "table_pos": 3360,
+    "mode": "A",
+    "start": 5999,
+    "length": 0,
+    "end": 5999,
+    "text": ""
+  },
+  {
+    "table_pos": 3376,
+    "mode": "A",
+    "start": 5999,
+    "length": 8,
+    "end": 6007,
+    "text": "ANK_SHOT"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "A",
+    "start": 6007,
+    "length": 29,
+    "end": 6036,
+    "text": "SERPENTE DAS SOMBRAS ATACANTE"
+  },
+  {
+    "table_pos": 3408,
+    "mode": "A",
+    "start": 6036,
+    "length": 0,
+    "end": 6036,
+    "text": ""
+  },
+  {
+    "table_pos": 3424,
+    "mode": "A",
+    "start": 6036,
+    "length": 8,
+    "end": 6044,
+    "text": "KTY_SPRT"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "A",
+    "start": 6044,
+    "length": 12,
+    "end": 6056,
+    "text": "LESMA ÁCIDA"
+  },
+  {
+    "table_pos": 3456,
+    "mode": "A",
+    "start": 6056,
+    "length": 0,
+    "end": 6056,
+    "text": ""
+  },
+  {
+    "table_pos": 3472,
+    "mode": "A",
+    "start": 6056,
+    "length": 8,
+    "end": 6064,
+    "text": "GBT_SPRT"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "A",
+    "start": 6064,
+    "length": 24,
+    "end": 6088,
+    "text": "CORTE DE LÂMINA DO SAPO"
+  },
+  {
+    "table_pos": 3504,
+    "mode": "A",
+    "start": 6088,
+    "length": 0,
+    "end": 6088,
+    "text": ""
+  }
+]

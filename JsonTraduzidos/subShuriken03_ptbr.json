@@ -1,0 +1,1890 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 3051,
+    "length": 3,
+    "end": 3054,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 3054,
+    "length": 6,
+    "end": 3060,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 3060,
+    "length": 66,
+    "end": 3126,
+    "text": "Vovó Tsunade! É verdade que documentos\nsecretos foram roubados? "
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 3126,
+    "length": 0,
+    "end": 3126,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 3126,
+    "length": 3,
+    "end": 3129,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 3129,
+    "length": 7,
+    "end": 3136,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 3136,
+    "length": 22,
+    "end": 3158,
+    "text": "Ah! Você está aqui! "
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 3158,
+    "length": 0,
+    "end": 3158,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 3158,
+    "length": 3,
+    "end": 3161,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 3161,
+    "length": 6,
+    "end": 3167,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 3167,
+    "length": 45,
+    "end": 3212,
+    "text": "Então o que aconteceu? Você recuperou\neles?"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 3212,
+    "length": 0,
+    "end": 3212,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 3212,
+    "length": 3,
+    "end": 3215,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 3215,
+    "length": 7,
+    "end": 3222,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 3222,
+    "length": 81,
+    "end": 3303,
+    "text": "Não. Nossos inimigos usaram\npássaros pra roubá-los.\nPrecisamos recuperá-los. "
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 3303,
+    "length": 0,
+    "end": 3303,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 3303,
+    "length": 3,
+    "end": 3306,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 3306,
+    "length": 6,
+    "end": 3312,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 3312,
+    "length": 96,
+    "end": 3408,
+    "text": "Pode deixar comigo! Vou achar aquele\npássaro e recuperar os documentos,\ncustando o que custar! "
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 3408,
+    "length": 0,
+    "end": 3408,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 3408,
+    "length": 3,
+    "end": 3411,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 3411,
+    "length": 7,
+    "end": 3418,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 3418,
+    "length": 28,
+    "end": 3446,
+    "text": "Hã. Gostei da sua atitude! "
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 3446,
+    "length": 0,
+    "end": 3446,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 3446,
+    "length": 3,
+    "end": 3449,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 3449,
+    "length": 7,
+    "end": 3456,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 3456,
+    "length": 70,
+    "end": 3526,
+    "text": "Precisamos nos apressar antes que os\npássaros voem para outro lugar! "
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 3526,
+    "length": 0,
+    "end": 3526,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 3526,
+    "length": 3,
+    "end": 3529,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 3529,
+    "length": 6,
+    "end": 3535,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 3535,
+    "length": 11,
+    "end": 3546,
+    "text": "Entendido! "
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 3546,
+    "length": 0,
+    "end": 3546,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 3546,
+    "length": 3,
+    "end": 3549,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 3549,
+    "length": 7,
+    "end": 3556,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 3556,
+    "length": 84,
+    "end": 3640,
+    "text": "Estou contando com você... Se nossos\ninimigos puserem as mãos nesses\ndocumentos..."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 3640,
+    "length": 0,
+    "end": 3640,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 3640,
+    "length": 3,
+    "end": 3643,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 3643,
+    "length": 6,
+    "end": 3649,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 3649,
+    "length": 41,
+    "end": 3690,
+    "text": "Ah, não... Isso é tudo que posso fazer?"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 3690,
+    "length": 0,
+    "end": 3690,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 3690,
+    "length": 3,
+    "end": 3693,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 3693,
+    "length": 7,
+    "end": 3700,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 3700,
+    "length": 37,
+    "end": 3737,
+    "text": "O quê? Você deixou eles escaparem!?"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 3737,
+    "length": 0,
+    "end": 3737,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 3737,
+    "length": 3,
+    "end": 3740,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 3740,
+    "length": 6,
+    "end": 3746,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 3746,
+    "length": 27,
+    "end": 3773,
+    "text": "Eles eram muito rápidos…"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 3773,
+    "length": 0,
+    "end": 3773,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 3773,
+    "length": 3,
+    "end": 3776,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 3776,
+    "length": 7,
+    "end": 3783,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 3783,
+    "length": 71,
+    "end": 3854,
+    "text": "Quem se importa com a velocidade!\nAh... Se realmente sumiram, então…"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 3854,
+    "length": 0,
+    "end": 3854,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 3854,
+    "length": 3,
+    "end": 3857,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 3857,
+    "length": 7,
+    "end": 3864,
+    "text": "Shizune"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 3864,
+    "length": 34,
+    "end": 3898,
+    "text": "Senhora Tsunade! Você encontrou? "
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 3898,
+    "length": 0,
+    "end": 3898,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 3898,
+    "length": 3,
+    "end": 3901,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 3901,
+    "length": 7,
+    "end": 3908,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 3908,
+    "length": 7,
+    "end": 3915,
+    "text": "Não..."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 3915,
+    "length": 0,
+    "end": 3915,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 3915,
+    "length": 3,
+    "end": 3918,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 3918,
+    "length": 7,
+    "end": 3925,
+    "text": "Shizune"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 3925,
+    "length": 73,
+    "end": 3998,
+    "text": "O que fazemos? Se mais alguém colocar\na mão na sua lista de dívidas..."
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 3998,
+    "length": 0,
+    "end": 3998,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 3998,
+    "length": 3,
+    "end": 4001,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 4001,
+    "length": 6,
+    "end": 4007,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 4007,
+    "length": 73,
+    "end": 4080,
+    "text": "Lista de dívidas...? Achei que você\ndisse que eram documentos secretos?"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 4080,
+    "length": 0,
+    "end": 4080,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 4080,
+    "length": 3,
+    "end": 4083,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 4083,
+    "length": 7,
+    "end": 4090,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 4090,
+    "length": 6,
+    "end": 4096,
+    "text": "Éh..."
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 4096,
+    "length": 0,
+    "end": 4096,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 4096,
+    "length": 3,
+    "end": 4099,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 4099,
+    "length": 7,
+    "end": 4106,
+    "text": "Shizune"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 4106,
+    "length": 79,
+    "end": 4185,
+    "text": "Senhora Tsunade... O que é isso? Você\nmentiu pro Naruto pra ele te ajudar?..."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 4185,
+    "length": 0,
+    "end": 4185,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 4185,
+    "length": 3,
+    "end": 4188,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 4188,
+    "length": 7,
+    "end": 4195,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 4195,
+    "length": 74,
+    "end": 4269,
+    "text": "Não foi mentira total! Minhas dívidas\nSÃO documentos secretos pra MIM! "
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 4269,
+    "length": 0,
+    "end": 4269,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 4269,
+    "length": 3,
+    "end": 4272,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 4272,
+    "length": 6,
+    "end": 4278,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 4278,
+    "length": 8,
+    "end": 4286,
+    "text": "Vovó..."
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 4286,
+    "length": 0,
+    "end": 4286,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 4286,
+    "length": 3,
+    "end": 4289,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 4289,
+    "length": 7,
+    "end": 4296,
+    "text": "Shizune"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 4296,
+    "length": 49,
+    "end": 4345,
+    "text": "Naruto, você não precisa aguentar\nessa bobagem."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 4345,
+    "length": 0,
+    "end": 4345,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 4345,
+    "length": 3,
+    "end": 4348,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 4348,
+    "length": 6,
+    "end": 4354,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 4354,
+    "length": 71,
+    "end": 4425,
+    "text": "Você tem razão. As dívidas de jogo dela\nnão têm nada a ver comigo."
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 4425,
+    "length": 0,
+    "end": 4425,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 4425,
+    "length": 3,
+    "end": 4428,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 4428,
+    "length": 7,
+    "end": 4435,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 4435,
+    "length": 27,
+    "end": 4462,
+    "text": "Ei! Você já vai desistir?"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 4462,
+    "length": 0,
+    "end": 4462,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 4462,
+    "length": 3,
+    "end": 4465,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 4465,
+    "length": 6,
+    "end": 4471,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 4471,
+    "length": 82,
+    "end": 4553,
+    "text": "Isso mesmo! Por que eu deveria me\nimportar com suas dívidas? Perdi\na motivação."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 4553,
+    "length": 0,
+    "end": 4553,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 4553,
+    "length": 3,
+    "end": 4556,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 4556,
+    "length": 7,
+    "end": 4563,
+    "text": "Shizune"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 4563,
+    "length": 33,
+    "end": 4596,
+    "text": "Eu entendo você se sentir assim."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 4596,
+    "length": 0,
+    "end": 4596,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 4596,
+    "length": 3,
+    "end": 4599,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 4599,
+    "length": 7,
+    "end": 4606,
+    "text": "Shizune"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 4606,
+    "length": 98,
+    "end": 4704,
+    "text": "Mas senhora Tsunade. Se alguém vir essa\nlista, isso seria muito constrangedor\npra Vila da Folha. "
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 4704,
+    "length": 0,
+    "end": 4704,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 4704,
+    "length": 3,
+    "end": 4707,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 4707,
+    "length": 7,
+    "end": 4714,
+    "text": "Shizune"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 4714,
+    "length": 60,
+    "end": 4774,
+    "text": "Você precisa achar isso, mesmo que\ntenha que fazer sozinho."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 4774,
+    "length": 0,
+    "end": 4774,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 4774,
+    "length": 3,
+    "end": 4777,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 4777,
+    "length": 7,
+    "end": 4784,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 4784,
+    "length": 36,
+    "end": 4820,
+    "text": "Mas... Mas... Hoje é minha folga..."
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 4820,
+    "length": 0,
+    "end": 4820,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 4820,
+    "length": 3,
+    "end": 4823,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 4823,
+    "length": 6,
+    "end": 4829,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 4829,
+    "length": 34,
+    "end": 4863,
+    "text": "Hehehe! Bem, boa sorte pra você. "
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 4863,
+    "length": 0,
+    "end": 4863,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 4863,
+    "length": 3,
+    "end": 4866,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 4866,
+    "length": 7,
+    "end": 4873,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 4873,
+    "length": 39,
+    "end": 4912,
+    "text": "Eu não devia esperar muito de você..."
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 4912,
+    "length": 0,
+    "end": 4912,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 4912,
+    "length": 3,
+    "end": 4915,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 4915,
+    "length": 7,
+    "end": 4922,
+    "text": "Shizune"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 4922,
+    "length": 23,
+    "end": 4945,
+    "text": "Vamos, senhora Tsunade!"
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 4945,
+    "length": 0,
+    "end": 4945,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 4945,
+    "length": 3,
+    "end": 4948,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 4948,
+    "length": 6,
+    "end": 4954,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 4954,
+    "length": 33,
+    "end": 4987,
+    "text": "Ah, aqui está, como eu imaginei!"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 4987,
+    "length": 0,
+    "end": 4987,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 4987,
+    "length": 3,
+    "end": 4990,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 4990,
+    "length": 6,
+    "end": 4996,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 4996,
+    "length": 22,
+    "end": 5018,
+    "text": "Esse é UM encontrado!"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 5018,
+    "length": 0,
+    "end": 5018,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 5018,
+    "length": 3,
+    "end": 5021,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 5021,
+    "length": 6,
+    "end": 5027,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 5027,
+    "length": 18,
+    "end": 5045,
+    "text": "Beleza! Próximo! "
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 5045,
+    "length": 0,
+    "end": 5045,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 5045,
+    "length": 3,
+    "end": 5048,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 5048,
+    "length": 6,
+    "end": 5054,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 5054,
+    "length": 27,
+    "end": 5081,
+    "text": "Tem mais um!  E mais outro!"
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 5081,
+    "length": 0,
+    "end": 5081,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 5081,
+    "length": 3,
+    "end": 5084,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 5084,
+    "length": 6,
+    "end": 5090,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 5090,
+    "length": 25,
+    "end": 5115,
+    "text": "Ufa... Acho que é tudo. "
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 5115,
+    "length": 0,
+    "end": 5115,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 5115,
+    "length": 3,
+    "end": 5118,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "A",
+    "start": 5118,
+    "length": 53,
+    "end": 5171,
+    "text": "Naruto folheou casualmente o que\nele tinha recolhido."
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 5171,
+    "length": 0,
+    "end": 5171,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 5171,
+    "length": 3,
+    "end": 5174,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "A",
+    "start": 5174,
+    "length": 18,
+    "end": 5192,
+    "text": "Devido: 10000 Ryo."
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 5192,
+    "length": 0,
+    "end": 5192,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 5192,
+    "length": 3,
+    "end": 5195,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "A",
+    "start": 5195,
+    "length": 18,
+    "end": 5213,
+    "text": "Devido: 32000 Ryo."
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 5213,
+    "length": 0,
+    "end": 5213,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 5213,
+    "length": 3,
+    "end": 5216,
+    "text": "041"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "A",
+    "start": 5216,
+    "length": 18,
+    "end": 5234,
+    "text": "Devido: 4800 Ryo. "
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 5234,
+    "length": 0,
+    "end": 5234,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 5234,
+    "length": 3,
+    "end": 5237,
+    "text": "042"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 5237,
+    "length": 6,
+    "end": 5243,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 5243,
+    "length": 29,
+    "end": 5272,
+    "text": "Hmmm? Que diabos é isso...? "
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 5272,
+    "length": 0,
+    "end": 5272,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 5272,
+    "length": 3,
+    "end": 5275,
+    "text": "043"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 5275,
+    "length": 6,
+    "end": 5281,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 5281,
+    "length": 57,
+    "end": 5338,
+    "text": "Ah, bem. É melhor levar isso de volta\npra Vovó Tsunade."
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 5338,
+    "length": 0,
+    "end": 5338,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 5338,
+    "length": 3,
+    "end": 5341,
+    "text": "044"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 5341,
+    "length": 7,
+    "end": 5348,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 5348,
+    "length": 14,
+    "end": 5362,
+    "text": "Bom trabalho!!"
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 5362,
+    "length": 0,
+    "end": 5362,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 5362,
+    "length": 3,
+    "end": 5365,
+    "text": "045"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 5365,
+    "length": 6,
+    "end": 5371,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 5371,
+    "length": 54,
+    "end": 5425,
+    "text": "Uau! Eu...eu não achei que você ficaria\ntão feliz. "
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 5425,
+    "length": 0,
+    "end": 5425,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 5425,
+    "length": 3,
+    "end": 5428,
+    "text": "046"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 5428,
+    "length": 7,
+    "end": 5435,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 5435,
+    "length": 75,
+    "end": 5510,
+    "text": "Bem, eu não queria que o mundo inteiro\nsoubesse quantas dívidas eu tenho."
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 5510,
+    "length": 0,
+    "end": 5510,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 5510,
+    "length": 3,
+    "end": 5513,
+    "text": "047"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 5513,
+    "length": 6,
+    "end": 5519,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 5519,
+    "length": 16,
+    "end": 5535,
+    "text": "Hã?  Dívidas? "
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 5535,
+    "length": 0,
+    "end": 5535,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 5535,
+    "length": 3,
+    "end": 5538,
+    "text": "048"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-implicit",
+    "start": 5538,
+    "length": 6,
+    "end": 5544,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-explicit",
+    "start": 5544,
+    "length": 88,
+    "end": 5632,
+    "text": "Quer dizer... Aqueles números escritos\nali… é uma lista das suas dívidas\nde jogo..?"
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 5632,
+    "length": 0,
+    "end": 5632,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 5632,
+    "length": 3,
+    "end": 5635,
+    "text": "049"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-implicit",
+    "start": 5635,
+    "length": 7,
+    "end": 5642,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-explicit",
+    "start": 5642,
+    "length": 10,
+    "end": 5652,
+    "text": "N- Não!! "
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 5652,
+    "length": 0,
+    "end": 5652,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 5652,
+    "length": 3,
+    "end": 5655,
+    "text": "050"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-implicit",
+    "start": 5655,
+    "length": 7,
+    "end": 5662,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-explicit",
+    "start": 5662,
+    "length": 34,
+    "end": 5696,
+    "text": "Quer dizer… bem... Você sabe..."
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 5696,
+    "length": 0,
+    "end": 5696,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 5696,
+    "length": 3,
+    "end": 5699,
+    "text": "051"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-implicit",
+    "start": 5699,
+    "length": 7,
+    "end": 5706,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-explicit",
+    "start": 5706,
+    "length": 65,
+    "end": 5771,
+    "text": "Isso são... Investimentos que eu fiz\npelo bem da Vila da Folha! "
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 5771,
+    "length": 0,
+    "end": 5771,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 5771,
+    "length": 3,
+    "end": 5774,
+    "text": "052"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-implicit",
+    "start": 5774,
+    "length": 6,
+    "end": 5780,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-explicit",
+    "start": 5780,
+    "length": 26,
+    "end": 5806,
+    "text": "(...Parece meio suspeito.)"
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 5806,
+    "length": 0,
+    "end": 5806,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 5806,
+    "length": 3,
+    "end": 5809,
+    "text": "053"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-implicit",
+    "start": 5809,
+    "length": 7,
+    "end": 5816,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-explicit",
+    "start": 5816,
+    "length": 35,
+    "end": 5851,
+    "text": "O quê...? Não olhe pra mim assim!"
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 5851,
+    "length": 0,
+    "end": 5851,
+    "text": ""
+  },
+  {
+    "table_pos": 2608,
+    "mode": "A",
+    "start": 5851,
+    "length": 3,
+    "end": 5854,
+    "text": "054"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-implicit",
+    "start": 5854,
+    "length": 6,
+    "end": 5860,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-explicit",
+    "start": 5860,
+    "length": 47,
+    "end": 5907,
+    "text": "Deixa pra lá. Só sei que eu\ncumpri a missão."
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 5907,
+    "length": 0,
+    "end": 5907,
+    "text": ""
+  },
+  {
+    "table_pos": 2656,
+    "mode": "A",
+    "start": 5907,
+    "length": 3,
+    "end": 5910,
+    "text": "055"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-implicit",
+    "start": 5910,
+    "length": 6,
+    "end": 5916,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-explicit",
+    "start": 5916,
+    "length": 29,
+    "end": 5945,
+    "text": "Mas pague suas dívidas, tá?"
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 5945,
+    "length": 0,
+    "end": 5945,
+    "text": ""
+  },
+  {
+    "table_pos": 2704,
+    "mode": "A",
+    "start": 5945,
+    "length": 3,
+    "end": 5948,
+    "text": "056"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-implicit",
+    "start": 5948,
+    "length": 7,
+    "end": 5955,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-explicit",
+    "start": 5955,
+    "length": 18,
+    "end": 5973,
+    "text": "Certo. Vou pagar. "
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 5973,
+    "length": 0,
+    "end": 5973,
+    "text": ""
+  },
+  {
+    "table_pos": 2752,
+    "mode": "A",
+    "start": 5973,
+    "length": 3,
+    "end": 5976,
+    "text": "057"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-implicit",
+    "start": 5976,
+    "length": 7,
+    "end": 5983,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-explicit",
+    "start": 5983,
+    "length": 36,
+    "end": 6019,
+    "text": "Quer dizer, dívidas? Que dívidas??"
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 6019,
+    "length": 0,
+    "end": 6019,
+    "text": ""
+  },
+  {
+    "table_pos": 2800,
+    "mode": "A",
+    "start": 6019,
+    "length": 3,
+    "end": 6022,
+    "text": "058"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-implicit",
+    "start": 6022,
+    "length": 6,
+    "end": 6028,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-explicit",
+    "start": 6028,
+    "length": 7,
+    "end": 6035,
+    "text": "Rihihi!"
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 6035,
+    "length": 0,
+    "end": 6035,
+    "text": ""
+  },
+  {
+    "table_pos": 2848,
+    "mode": "A",
+    "start": 6035,
+    "length": 3,
+    "end": 6038,
+    "text": "059"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "B-implicit",
+    "start": 6038,
+    "length": 7,
+    "end": 6045,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "B-explicit",
+    "start": 6045,
+    "length": 40,
+    "end": 6085,
+    "text": "Tsc... Você devia ter mais fé em mim. "
+  },
+  {
+    "table_pos": 2880,
+    "mode": "A",
+    "start": 6085,
+    "length": 0,
+    "end": 6085,
+    "text": ""
+  },
+  {
+    "table_pos": 2896,
+    "mode": "A",
+    "start": 6085,
+    "length": 3,
+    "end": 6088,
+    "text": "060"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "B-implicit",
+    "start": 6088,
+    "length": 6,
+    "end": 6094,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "B-explicit",
+    "start": 6094,
+    "length": 14,
+    "end": 6108,
+    "text": "(Sei. Certo.) "
+  },
+  {
+    "table_pos": 2928,
+    "mode": "A",
+    "start": 6108,
+    "length": 0,
+    "end": 6108,
+    "text": ""
+  }
+]

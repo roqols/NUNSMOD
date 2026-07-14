@@ -1,0 +1,1154 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 1890,
+    "length": 3,
+    "end": 1893,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 1893,
+    "length": 6,
+    "end": 1899,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 1899,
+    "length": 33,
+    "end": 1932,
+    "text": "Então vamos começar a procurar!"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 1932,
+    "length": 0,
+    "end": 1932,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 1932,
+    "length": 3,
+    "end": 1935,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 1935,
+    "length": 6,
+    "end": 1941,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 1941,
+    "length": 28,
+    "end": 1969,
+    "text": "Quê, começar agora? Já!? "
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 1969,
+    "length": 0,
+    "end": 1969,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 1969,
+    "length": 3,
+    "end": 1972,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 1972,
+    "length": 6,
+    "end": 1978,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 1978,
+    "length": 95,
+    "end": 2073,
+    "text": "Olha, você está aqui falando comigo.\nIsso significa que você sabe o que\nestá havendo, né!?"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2073,
+    "length": 0,
+    "end": 2073,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2073,
+    "length": 3,
+    "end": 2076,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2076,
+    "length": 6,
+    "end": 2082,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2082,
+    "length": 55,
+    "end": 2137,
+    "text": "Você perdeu seu pergaminho e quer\nencontrá-lo. Certo?"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2137,
+    "length": 0,
+    "end": 2137,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2137,
+    "length": 3,
+    "end": 2140,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2140,
+    "length": 6,
+    "end": 2146,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2146,
+    "length": 16,
+    "end": 2162,
+    "text": "Sim! Isso mesmo!"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2162,
+    "length": 0,
+    "end": 2162,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2162,
+    "length": 3,
+    "end": 2165,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 2165,
+    "length": 6,
+    "end": 2171,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 2171,
+    "length": 102,
+    "end": 2273,
+    "text": "E eu pedi pro Lee e pro Neji ajudarem\na procurar. Até agora, só descobrimos\nque um pássaro o levou."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2273,
+    "length": 0,
+    "end": 2273,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2273,
+    "length": 3,
+    "end": 2276,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2276,
+    "length": 6,
+    "end": 2282,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2282,
+    "length": 34,
+    "end": 2316,
+    "text": "Um pássaro? Tipo, voando no céu?"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2316,
+    "length": 0,
+    "end": 2316,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2316,
+    "length": 3,
+    "end": 2319,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2319,
+    "length": 6,
+    "end": 2325,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2325,
+    "length": 59,
+    "end": 2384,
+    "text": "Exatamente... Quem diria que meu\npergaminho ia sair voando?"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2384,
+    "length": 0,
+    "end": 2384,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2384,
+    "length": 3,
+    "end": 2387,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2387,
+    "length": 6,
+    "end": 2393,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 2393,
+    "length": 75,
+    "end": 2468,
+    "text": "Mas se um pássaro pegou, estamos sem\nsorte. Nem eu consigo recuperar isso."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 2468,
+    "length": 0,
+    "end": 2468,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 2468,
+    "length": 3,
+    "end": 2471,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 2471,
+    "length": 5,
+    "end": 2476,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 2476,
+    "length": 5,
+    "end": 2481,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2481,
+    "length": 0,
+    "end": 2481,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2481,
+    "length": 3,
+    "end": 2484,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 2484,
+    "length": 5,
+    "end": 2489,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 2489,
+    "length": 5,
+    "end": 2494,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 2494,
+    "length": 0,
+    "end": 2494,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 2494,
+    "length": 3,
+    "end": 2497,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 2497,
+    "length": 6,
+    "end": 2503,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 2503,
+    "length": 49,
+    "end": 2552,
+    "text": "Ah! Podemos usar essas pra derrubar\no pergaminho!"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 2552,
+    "length": 0,
+    "end": 2552,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 2552,
+    "length": 3,
+    "end": 2555,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 2555,
+    "length": 5,
+    "end": 2560,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 2560,
+    "length": 5,
+    "end": 2565,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 2565,
+    "length": 0,
+    "end": 2565,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 2565,
+    "length": 3,
+    "end": 2568,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 2568,
+    "length": 5,
+    "end": 2573,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 2573,
+    "length": 5,
+    "end": 2578,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 2578,
+    "length": 0,
+    "end": 2578,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 2578,
+    "length": 3,
+    "end": 2581,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 2581,
+    "length": 6,
+    "end": 2587,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 2587,
+    "length": 94,
+    "end": 2681,
+    "text": "Aquele pássaro ladrão deve estar\npor aqui ainda! Recupere meu\npergaminho custe o que custar!"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 2681,
+    "length": 0,
+    "end": 2681,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 2681,
+    "length": 3,
+    "end": 2684,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 2684,
+    "length": 6,
+    "end": 2690,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 2690,
+    "length": 19,
+    "end": 2709,
+    "text": "Argh... É isso...?"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 2709,
+    "length": 0,
+    "end": 2709,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 2709,
+    "length": 3,
+    "end": 2712,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 2712,
+    "length": 6,
+    "end": 2718,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 2718,
+    "length": 31,
+    "end": 2749,
+    "text": "Você não conseguiu recuperar?"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 2749,
+    "length": 0,
+    "end": 2749,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 2749,
+    "length": 3,
+    "end": 2752,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 2752,
+    "length": 6,
+    "end": 2758,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 2758,
+    "length": 32,
+    "end": 2790,
+    "text": "Há quanto tempo você é ninja?"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 2790,
+    "length": 0,
+    "end": 2790,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 2790,
+    "length": 3,
+    "end": 2793,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 2793,
+    "length": 6,
+    "end": 2799,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 2799,
+    "length": 34,
+    "end": 2833,
+    "text": "Bem, não faz tanto tempo assim…"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 2833,
+    "length": 0,
+    "end": 2833,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 2833,
+    "length": 3,
+    "end": 2836,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 2836,
+    "length": 6,
+    "end": 2842,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 2842,
+    "length": 15,
+    "end": 2857,
+    "text": "Sem desculpas!!"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 2857,
+    "length": 0,
+    "end": 2857,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 2857,
+    "length": 3,
+    "end": 2860,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 2860,
+    "length": 6,
+    "end": 2866,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 2866,
+    "length": 18,
+    "end": 2884,
+    "text": "(Que rabugenta...)"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 2884,
+    "length": 0,
+    "end": 2884,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 2884,
+    "length": 3,
+    "end": 2887,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 2887,
+    "length": 6,
+    "end": 2893,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 2893,
+    "length": 34,
+    "end": 2927,
+    "text": "*Suspiro* Esse era meu favorito..."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 2927,
+    "length": 0,
+    "end": 2927,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 2927,
+    "length": 3,
+    "end": 2930,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 2930,
+    "length": 6,
+    "end": 2936,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 2936,
+    "length": 56,
+    "end": 2992,
+    "text": "Naruto... Você tem que me comprar\num substituto, ouviu?"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 2992,
+    "length": 0,
+    "end": 2992,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 2992,
+    "length": 3,
+    "end": 2995,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 2995,
+    "length": 6,
+    "end": 3001,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 3001,
+    "length": 19,
+    "end": 3020,
+    "text": "Cara… Que saco…"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3020,
+    "length": 0,
+    "end": 3020,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3020,
+    "length": 3,
+    "end": 3023,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 3023,
+    "length": 6,
+    "end": 3029,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 3029,
+    "length": 32,
+    "end": 3061,
+    "text": "Beleza! Recuperei o pergaminho!!"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3061,
+    "length": 0,
+    "end": 3061,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3061,
+    "length": 3,
+    "end": 3064,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 3064,
+    "length": 6,
+    "end": 3070,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 3070,
+    "length": 27,
+    "end": 3097,
+    "text": "Uau! Bom trabalho, Naruto!!"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 3097,
+    "length": 0,
+    "end": 3097,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 3097,
+    "length": 3,
+    "end": 3100,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 3100,
+    "length": 6,
+    "end": 3106,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 3106,
+    "length": 55,
+    "end": 3161,
+    "text": "Hehehehe! Sou um cara que faz o que\nse propõe a fazer."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 3161,
+    "length": 0,
+    "end": 3161,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 3161,
+    "length": 3,
+    "end": 3164,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 3164,
+    "length": 6,
+    "end": 3170,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 3170,
+    "length": 84,
+    "end": 3254,
+    "text": "Que alívio. Se você não tivesse\nconseguido, eu ia fazer você me\ncomprar um novo."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 3254,
+    "length": 0,
+    "end": 3254,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 3254,
+    "length": 3,
+    "end": 3257,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 3257,
+    "length": 6,
+    "end": 3263,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 3263,
+    "length": 40,
+    "end": 3303,
+    "text": "Ufa… Então ficamos os DOIS felizes…"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 3303,
+    "length": 0,
+    "end": 3303,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 3303,
+    "length": 3,
+    "end": 3306,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 3306,
+    "length": 6,
+    "end": 3312,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 3312,
+    "length": 58,
+    "end": 3370,
+    "text": "Claro, você ainda podia me comprar\num, sabe, de presente."
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 3370,
+    "length": 0,
+    "end": 3370,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 3370,
+    "length": 3,
+    "end": 3373,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 3373,
+    "length": 6,
+    "end": 3379,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 3379,
+    "length": 17,
+    "end": 3396,
+    "text": "Valeu, mas passo."
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 3396,
+    "length": 0,
+    "end": 3396,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 3396,
+    "length": 3,
+    "end": 3399,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 3399,
+    "length": 6,
+    "end": 3405,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 3405,
+    "length": 19,
+    "end": 3424,
+    "text": "Ihihi. Brincadeira."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 3424,
+    "length": 0,
+    "end": 3424,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 3424,
+    "length": 3,
+    "end": 3427,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 3427,
+    "length": 6,
+    "end": 3433,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 3433,
+    "length": 63,
+    "end": 3496,
+    "text": "Você me ajudou muito. Você ganhou\nvários pontos comigo hoje."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 3496,
+    "length": 0,
+    "end": 3496,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 3496,
+    "length": 3,
+    "end": 3499,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 3499,
+    "length": 6,
+    "end": 3505,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 3505,
+    "length": 5,
+    "end": 3510,
+    "text": "Fala?"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 3510,
+    "length": 0,
+    "end": 3510,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 3510,
+    "length": 3,
+    "end": 3513,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 3513,
+    "length": 6,
+    "end": 3519,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 3519,
+    "length": 59,
+    "end": 3578,
+    "text": "Enfim, desculpa a correria, mas eu\ntenho treino. Até mais!"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 3578,
+    "length": 0,
+    "end": 3578,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 3578,
+    "length": 3,
+    "end": 3581,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 3581,
+    "length": 6,
+    "end": 3587,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 3587,
+    "length": 35,
+    "end": 3622,
+    "text": "Bem, pelo menos um problema a menos"
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 3622,
+    "length": 0,
+    "end": 3622,
+    "text": ""
+  }
+]

@@ -1,0 +1,7994 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 16061,
+    "length": 12,
+    "end": 16073,
+    "text": "start_top_01"
+  },
+  {
+    "table_pos": 80,
+    "mode": "A",
+    "start": 16073,
+    "length": 12,
+    "end": 16085,
+    "text": "MENU INICIAL"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 16085,
+    "length": 0,
+    "end": 16085,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 16085,
+    "length": 12,
+    "end": 16097,
+    "text": "start_top_02"
+  },
+  {
+    "table_pos": 128,
+    "mode": "A",
+    "start": 16097,
+    "length": 8,
+    "end": 16105,
+    "text": "DINHEIRO"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 16105,
+    "length": 0,
+    "end": 16105,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 16105,
+    "length": 12,
+    "end": 16117,
+    "text": "start_top_03"
+  },
+  {
+    "table_pos": 176,
+    "mode": "A",
+    "start": 16117,
+    "length": 3,
+    "end": 16120,
+    "text": "RYO"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 16120,
+    "length": 0,
+    "end": 16120,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 16120,
+    "length": 12,
+    "end": 16132,
+    "text": "start_top_04"
+  },
+  {
+    "table_pos": 224,
+    "mode": "A",
+    "start": 16132,
+    "length": 18,
+    "end": 16150,
+    "text": "PERGAMINHO SECRETO"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 16150,
+    "length": 0,
+    "end": 16150,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 16150,
+    "length": 12,
+    "end": 16162,
+    "text": "start_top_05"
+  },
+  {
+    "table_pos": 272,
+    "mode": "A",
+    "start": 16162,
+    "length": 17,
+    "end": 16179,
+    "text": "LISTA DE MISSÕES"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 16179,
+    "length": 0,
+    "end": 16179,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 16179,
+    "length": 12,
+    "end": 16191,
+    "text": "start_top_06"
+  },
+  {
+    "table_pos": 320,
+    "mode": "A",
+    "start": 16191,
+    "length": 6,
+    "end": 16197,
+    "text": "STATUS"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 16197,
+    "length": 0,
+    "end": 16197,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 16197,
+    "length": 12,
+    "end": 16209,
+    "text": "start_top_07"
+  },
+  {
+    "table_pos": 368,
+    "mode": "A",
+    "start": 16209,
+    "length": 5,
+    "end": 16214,
+    "text": "ITENS"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 16214,
+    "length": 0,
+    "end": 16214,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 16214,
+    "length": 12,
+    "end": 16226,
+    "text": "start_top_08"
+  },
+  {
+    "table_pos": 416,
+    "mode": "A",
+    "start": 16226,
+    "length": 9,
+    "end": 16235,
+    "text": "COLEÇÃO"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 16235,
+    "length": 0,
+    "end": 16235,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 16235,
+    "length": 12,
+    "end": 16247,
+    "text": "start_top_09"
+  },
+  {
+    "table_pos": 464,
+    "mode": "A",
+    "start": 16247,
+    "length": 18,
+    "end": 16265,
+    "text": "TABELA DE COMANDOS"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 16265,
+    "length": 0,
+    "end": 16265,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 16265,
+    "length": 12,
+    "end": 16277,
+    "text": "start_top_10"
+  },
+  {
+    "table_pos": 512,
+    "mode": "A",
+    "start": 16277,
+    "length": 27,
+    "end": 16304,
+    "text": "CONFIGURAÇÕES DE CONTROLE"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 16304,
+    "length": 0,
+    "end": 16304,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 16304,
+    "length": 12,
+    "end": 16316,
+    "text": "start_top_11"
+  },
+  {
+    "table_pos": 560,
+    "mode": "A",
+    "start": 16316,
+    "length": 19,
+    "end": 16335,
+    "text": "DETALHES DA MISSÃO"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 16335,
+    "length": 0,
+    "end": 16335,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 16335,
+    "length": 12,
+    "end": 16347,
+    "text": "start_top_12"
+  },
+  {
+    "table_pos": 608,
+    "mode": "A",
+    "start": 16347,
+    "length": 16,
+    "end": 16363,
+    "text": "CANCELAR MISSÃO"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 16363,
+    "length": 0,
+    "end": 16363,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 16363,
+    "length": 12,
+    "end": 16375,
+    "text": "start_top_13"
+  },
+  {
+    "table_pos": 656,
+    "mode": "A",
+    "start": 16375,
+    "length": 8,
+    "end": 16383,
+    "text": "CANCELAR"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 16383,
+    "length": 0,
+    "end": 16383,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 16383,
+    "length": 12,
+    "end": 16395,
+    "text": "start_top_14"
+  },
+  {
+    "table_pos": 704,
+    "mode": "A",
+    "start": 16395,
+    "length": 16,
+    "end": 16411,
+    "text": "TENTAR NOVAMENTE"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 16411,
+    "length": 0,
+    "end": 16411,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 16411,
+    "length": 12,
+    "end": 16423,
+    "text": "start_top_15"
+  },
+  {
+    "table_pos": 752,
+    "mode": "A",
+    "start": 16423,
+    "length": 26,
+    "end": 16449,
+    "text": "CONFIGURAÇÕES DE CÂMERA"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 16449,
+    "length": 0,
+    "end": 16449,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 16449,
+    "length": 12,
+    "end": 16461,
+    "text": "start_top_16"
+  },
+  {
+    "table_pos": 800,
+    "mode": "A",
+    "start": 16461,
+    "length": 21,
+    "end": 16482,
+    "text": "TABELA DE COMANDOS 1P"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 16482,
+    "length": 0,
+    "end": 16482,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 16482,
+    "length": 12,
+    "end": 16494,
+    "text": "start_top_17"
+  },
+  {
+    "table_pos": 848,
+    "mode": "A",
+    "start": 16494,
+    "length": 21,
+    "end": 16515,
+    "text": "TABELA DE COMANDOS 2P"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 16515,
+    "length": 0,
+    "end": 16515,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 16515,
+    "length": 12,
+    "end": 16527,
+    "text": "start_top_18"
+  },
+  {
+    "table_pos": 896,
+    "mode": "A",
+    "start": 16527,
+    "length": 30,
+    "end": 16557,
+    "text": "TABELA DE COMANDOS BÁSICOS 1P"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 16557,
+    "length": 0,
+    "end": 16557,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 16557,
+    "length": 12,
+    "end": 16569,
+    "text": "start_top_19"
+  },
+  {
+    "table_pos": 944,
+    "mode": "A",
+    "start": 16569,
+    "length": 30,
+    "end": 16599,
+    "text": "TABELA DE COMANDOS BÁSICOS 2P"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 16599,
+    "length": 0,
+    "end": 16599,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 16599,
+    "length": 12,
+    "end": 16611,
+    "text": "start_top_20"
+  },
+  {
+    "table_pos": 992,
+    "mode": "A",
+    "start": 16611,
+    "length": 16,
+    "end": 16627,
+    "text": "ESTOQUE DE ITENS"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 16627,
+    "length": 0,
+    "end": 16627,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 16627,
+    "length": 12,
+    "end": 16639,
+    "text": "start_top_21"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "A",
+    "start": 16639,
+    "length": 22,
+    "end": 16661,
+    "text": "CONDIÇÕES DE BATALHA"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 16661,
+    "length": 0,
+    "end": 16661,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 16661,
+    "length": 12,
+    "end": 16673,
+    "text": "start_top_22"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "A",
+    "start": 16673,
+    "length": 41,
+    "end": 16714,
+    "text": "VOLTAR À TELA DE SELEÇÃO DE PERSONAGEM"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 16714,
+    "length": 0,
+    "end": 16714,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 16714,
+    "length": 12,
+    "end": 16726,
+    "text": "start_top_23"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "A",
+    "start": 16726,
+    "length": 35,
+    "end": 16761,
+    "text": "VOLTAR À TELA DE SELEÇÃO DE MODO"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 16761,
+    "length": 0,
+    "end": 16761,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 16761,
+    "length": 12,
+    "end": 16773,
+    "text": "start_top_25"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "A",
+    "start": 16773,
+    "length": 6,
+    "end": 16779,
+    "text": "SALVAR"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 16779,
+    "length": 0,
+    "end": 16779,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 16779,
+    "length": 12,
+    "end": 16791,
+    "text": "start_top_26"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "A",
+    "start": 16791,
+    "length": 8,
+    "end": 16799,
+    "text": "REVANCHE"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 16799,
+    "length": 0,
+    "end": 16799,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 16799,
+    "length": 11,
+    "end": 16810,
+    "text": "top_help_01"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "A",
+    "start": 16810,
+    "length": 53,
+    "end": 16863,
+    "text": "Aceite missões ou consulte a Lista de Missões aqui."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 16863,
+    "length": 0,
+    "end": 16863,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 16863,
+    "length": 11,
+    "end": 16874,
+    "text": "top_help_02"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "A",
+    "start": 16874,
+    "length": 63,
+    "end": 16937,
+    "text": "Confira o status atual do Naruto ou personalize os jutsus aqui."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 16937,
+    "length": 0,
+    "end": 16937,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 16937,
+    "length": 11,
+    "end": 16948,
+    "text": "top_help_03"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "A",
+    "start": 16948,
+    "length": 132,
+    "end": 17080,
+    "text": "Confira os itens que você possui. Os itens podem ser vistos em três categorias: Itens de Batalha, Itens de Troca e Itens Valiosos."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 17080,
+    "length": 0,
+    "end": 17080,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 17080,
+    "length": 11,
+    "end": 17091,
+    "text": "top_help_04"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "A",
+    "start": 17091,
+    "length": 91,
+    "end": 17182,
+    "text": "Veja os Itens de Coleção aqui. A Coleção só pode ser acessada em Pontos de Salvamento."
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 17182,
+    "length": 0,
+    "end": 17182,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 17182,
+    "length": 11,
+    "end": 17193,
+    "text": "top_help_05"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "A",
+    "start": 17193,
+    "length": 64,
+    "end": 17257,
+    "text": "Confira os Comandos de Ação usados no Modo Missão Definitiva."
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 17257,
+    "length": 0,
+    "end": 17257,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 17257,
+    "length": 11,
+    "end": 17268,
+    "text": "top_help_06"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "A",
+    "start": 17268,
+    "length": 41,
+    "end": 17309,
+    "text": "Confira os detalhes da sua missão atual."
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 17309,
+    "length": 0,
+    "end": 17309,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 17309,
+    "length": 11,
+    "end": 17320,
+    "text": "top_help_07"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "A",
+    "start": 17320,
+    "length": 48,
+    "end": 17368,
+    "text": "Cancele a missão em que você está atualmente."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 17368,
+    "length": 0,
+    "end": 17368,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 17368,
+    "length": 11,
+    "end": 17379,
+    "text": "top_help_08"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "A",
+    "start": 17379,
+    "length": 69,
+    "end": 17448,
+    "text": "Saia do Modo Missão Definitiva e volte à Tela de Seleção de Modo."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 17448,
+    "length": 0,
+    "end": 17448,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 17448,
+    "length": 11,
+    "end": 17459,
+    "text": "top_help_09"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "A",
+    "start": 17459,
+    "length": 26,
+    "end": 17485,
+    "text": "Tente a missão novamente."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 17485,
+    "length": 0,
+    "end": 17485,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 17485,
+    "length": 11,
+    "end": 17496,
+    "text": "top_help_10"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "A",
+    "start": 17496,
+    "length": 37,
+    "end": 17533,
+    "text": "Altere as configurações de câmera."
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 17533,
+    "length": 0,
+    "end": 17533,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 17533,
+    "length": 11,
+    "end": 17544,
+    "text": "top_help_11"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "A",
+    "start": 17544,
+    "length": 58,
+    "end": 17602,
+    "text": "Revise os controles do 1P para combos e outros movimentos."
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 17602,
+    "length": 0,
+    "end": 17602,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 17602,
+    "length": 11,
+    "end": 17613,
+    "text": "top_help_12"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "A",
+    "start": 17613,
+    "length": 58,
+    "end": 17671,
+    "text": "Revise os controles do 2P para combos e outros movimentos."
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 17671,
+    "length": 0,
+    "end": 17671,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 17671,
+    "length": 11,
+    "end": 17682,
+    "text": "top_help_13"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "A",
+    "start": 17682,
+    "length": 35,
+    "end": 17717,
+    "text": "Revise os controles básicos do 1P."
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 17717,
+    "length": 0,
+    "end": 17717,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 17717,
+    "length": 11,
+    "end": 17728,
+    "text": "top_help_14"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "A",
+    "start": 17728,
+    "length": 35,
+    "end": 17763,
+    "text": "Revise os controles básicos do 2P."
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 17763,
+    "length": 0,
+    "end": 17763,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 17763,
+    "length": 11,
+    "end": 17774,
+    "text": "top_help_15"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "A",
+    "start": 17774,
+    "length": 46,
+    "end": 17820,
+    "text": "Você pode colocar um item na paleta de itens."
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 17820,
+    "length": 0,
+    "end": 17820,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 17820,
+    "length": 11,
+    "end": 17831,
+    "text": "top_help_16"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "A",
+    "start": 17831,
+    "length": 56,
+    "end": 17887,
+    "text": "Pause o jogo e volte à tela de Seleção de Personagem."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 17887,
+    "length": 0,
+    "end": 17887,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 17887,
+    "length": 11,
+    "end": 17898,
+    "text": "top_help_17"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "A",
+    "start": 17898,
+    "length": 50,
+    "end": 17948,
+    "text": "Pause o jogo e volte à tela de Seleção de Modo."
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 17948,
+    "length": 0,
+    "end": 17948,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 17948,
+    "length": 11,
+    "end": 17959,
+    "text": "top_help_19"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "A",
+    "start": 17959,
+    "length": 83,
+    "end": 18042,
+    "text": "Salve o progresso atual do jogo. Só é possível salvar em um ponto de salvamento."
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 18042,
+    "length": 0,
+    "end": 18042,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 18042,
+    "length": 11,
+    "end": 18053,
+    "text": "top_help_20"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "A",
+    "start": 18053,
+    "length": 24,
+    "end": 18077,
+    "text": "Selecione uma categoria."
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 18077,
+    "length": 0,
+    "end": 18077,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 18077,
+    "length": 11,
+    "end": 18088,
+    "text": "top_help_21"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "A",
+    "start": 18088,
+    "length": 69,
+    "end": 18157,
+    "text": "Não é possível salvar o progresso longe de um ponto de salvamento."
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 18157,
+    "length": 0,
+    "end": 18157,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 18157,
+    "length": 11,
+    "end": 18168,
+    "text": "top_help_22"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "A",
+    "start": 18168,
+    "length": 67,
+    "end": 18235,
+    "text": "Sua Coleção não pode ser aberta longe de um ponto de salvamento."
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 18235,
+    "length": 0,
+    "end": 18235,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 18235,
+    "length": 11,
+    "end": 18246,
+    "text": "top_help_23"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "A",
+    "start": 18246,
+    "length": 49,
+    "end": 18295,
+    "text": "Lute outra partida com as mesmas configurações."
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 18295,
+    "length": 0,
+    "end": 18295,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 18295,
+    "length": 11,
+    "end": 18306,
+    "text": "top_help_24"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "A",
+    "start": 18306,
+    "length": 34,
+    "end": 18340,
+    "text": "Confira as condições de batalha."
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 18340,
+    "length": 0,
+    "end": 18340,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 18340,
+    "length": 11,
+    "end": 18351,
+    "text": "top_help_25"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "A",
+    "start": 18351,
+    "length": 48,
+    "end": 18399,
+    "text": "Você pode alterar os controles de batalha aqui."
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 18399,
+    "length": 0,
+    "end": 18399,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 18399,
+    "length": 11,
+    "end": 18410,
+    "text": "top_help_26"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "A",
+    "start": 18410,
+    "length": 57,
+    "end": 18467,
+    "text": "Não é possível salvar o progresso durante uma missão."
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 18467,
+    "length": 0,
+    "end": 18467,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 18467,
+    "length": 11,
+    "end": 18478,
+    "text": "top_help_27"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "A",
+    "start": 18478,
+    "length": 55,
+    "end": 18533,
+    "text": "Sua Coleção não pode ser aberta durante uma missão."
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 18533,
+    "length": 0,
+    "end": 18533,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 18533,
+    "length": 13,
+    "end": 18546,
+    "text": "item_listnone"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "A",
+    "start": 18546,
+    "length": 12,
+    "end": 18558,
+    "text": "Nenhum item."
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 18558,
+    "length": 0,
+    "end": 18558,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 18558,
+    "length": 7,
+    "end": 18565,
+    "text": "item_01"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "A",
+    "start": 18565,
+    "length": 4,
+    "end": 18569,
+    "text": "ITEM"
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 18569,
+    "length": 0,
+    "end": 18569,
+    "text": ""
+  },
+  {
+    "table_pos": 2608,
+    "mode": "A",
+    "start": 18569,
+    "length": 7,
+    "end": 18576,
+    "text": "item_02"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "A",
+    "start": 18576,
+    "length": 14,
+    "end": 18590,
+    "text": "BOLSA DE ITENS"
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 18590,
+    "length": 0,
+    "end": 18590,
+    "text": ""
+  },
+  {
+    "table_pos": 2656,
+    "mode": "A",
+    "start": 18590,
+    "length": 7,
+    "end": 18597,
+    "text": "item_03"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "A",
+    "start": 18597,
+    "length": 16,
+    "end": 18613,
+    "text": "ITENS DE BATALHA"
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 18613,
+    "length": 0,
+    "end": 18613,
+    "text": ""
+  },
+  {
+    "table_pos": 2704,
+    "mode": "A",
+    "start": 18613,
+    "length": 7,
+    "end": 18620,
+    "text": "item_04"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "A",
+    "start": 18620,
+    "length": 14,
+    "end": 18634,
+    "text": "ITENS VALIOSOS"
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 18634,
+    "length": 0,
+    "end": 18634,
+    "text": ""
+  },
+  {
+    "table_pos": 2752,
+    "mode": "A",
+    "start": 18634,
+    "length": 7,
+    "end": 18641,
+    "text": "item_05"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "A",
+    "start": 18641,
+    "length": 4,
+    "end": 18645,
+    "text": "USAR"
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 18645,
+    "length": 0,
+    "end": 18645,
+    "text": ""
+  },
+  {
+    "table_pos": 2800,
+    "mode": "A",
+    "start": 18645,
+    "length": 7,
+    "end": 18652,
+    "text": "item_06"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "A",
+    "start": 18652,
+    "length": 9,
+    "end": 18661,
+    "text": "DESCARTAR"
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 18661,
+    "length": 0,
+    "end": 18661,
+    "text": ""
+  },
+  {
+    "table_pos": 2848,
+    "mode": "A",
+    "start": 18661,
+    "length": 7,
+    "end": 18668,
+    "text": "item_07"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "A",
+    "start": 18668,
+    "length": 15,
+    "end": 18683,
+    "text": "Usar este item?"
+  },
+  {
+    "table_pos": 2880,
+    "mode": "A",
+    "start": 18683,
+    "length": 0,
+    "end": 18683,
+    "text": ""
+  },
+  {
+    "table_pos": 2896,
+    "mode": "A",
+    "start": 18683,
+    "length": 7,
+    "end": 18690,
+    "text": "item_08"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "A",
+    "start": 18690,
+    "length": 30,
+    "end": 18720,
+    "text": "Qual item você vai descartar?"
+  },
+  {
+    "table_pos": 2928,
+    "mode": "A",
+    "start": 18720,
+    "length": 0,
+    "end": 18720,
+    "text": ""
+  },
+  {
+    "table_pos": 2944,
+    "mode": "A",
+    "start": 18720,
+    "length": 7,
+    "end": 18727,
+    "text": "item_09"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "A",
+    "start": 18727,
+    "length": 28,
+    "end": 18755,
+    "text": "Quantos você vai descartar?"
+  },
+  {
+    "table_pos": 2976,
+    "mode": "A",
+    "start": 18755,
+    "length": 0,
+    "end": 18755,
+    "text": ""
+  },
+  {
+    "table_pos": 2992,
+    "mode": "A",
+    "start": 18755,
+    "length": 7,
+    "end": 18762,
+    "text": "item_10"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "A",
+    "start": 18762,
+    "length": 20,
+    "end": 18782,
+    "text": "Descartar este item?"
+  },
+  {
+    "table_pos": 3024,
+    "mode": "A",
+    "start": 18782,
+    "length": 0,
+    "end": 18782,
+    "text": ""
+  },
+  {
+    "table_pos": 3040,
+    "mode": "A",
+    "start": 18782,
+    "length": 7,
+    "end": 18789,
+    "text": "item_11"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "A",
+    "start": 18789,
+    "length": 22,
+    "end": 18811,
+    "text": "Descartar estes itens?"
+  },
+  {
+    "table_pos": 3072,
+    "mode": "A",
+    "start": 18811,
+    "length": 0,
+    "end": 18811,
+    "text": ""
+  },
+  {
+    "table_pos": 3088,
+    "mode": "A",
+    "start": 18811,
+    "length": 7,
+    "end": 18818,
+    "text": "item_12"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "A",
+    "start": 18818,
+    "length": 23,
+    "end": 18841,
+    "text": "Item(ns) descartado(s)."
+  },
+  {
+    "table_pos": 3120,
+    "mode": "A",
+    "start": 18841,
+    "length": 0,
+    "end": 18841,
+    "text": ""
+  },
+  {
+    "table_pos": 3136,
+    "mode": "A",
+    "start": 18841,
+    "length": 7,
+    "end": 18848,
+    "text": "item_13"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "A",
+    "start": 18848,
+    "length": 18,
+    "end": 18866,
+    "text": "Itens descartados."
+  },
+  {
+    "table_pos": 3168,
+    "mode": "A",
+    "start": 18866,
+    "length": 0,
+    "end": 18866,
+    "text": ""
+  },
+  {
+    "table_pos": 3184,
+    "mode": "A",
+    "start": 18866,
+    "length": 7,
+    "end": 18873,
+    "text": "item_14"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "A",
+    "start": 18873,
+    "length": 56,
+    "end": 18929,
+    "text": "Estes itens podem ser usados no Modo Missão Definitiva."
+  },
+  {
+    "table_pos": 3216,
+    "mode": "A",
+    "start": 18929,
+    "length": 0,
+    "end": 18929,
+    "text": ""
+  },
+  {
+    "table_pos": 3232,
+    "mode": "A",
+    "start": 18929,
+    "length": 7,
+    "end": 18936,
+    "text": "item_15"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "A",
+    "start": 18936,
+    "length": 68,
+    "end": 19004,
+    "text": "Você só pode guardar itens nos espaços vazios da Paleta de Itens."
+  },
+  {
+    "table_pos": 3264,
+    "mode": "A",
+    "start": 19004,
+    "length": 0,
+    "end": 19004,
+    "text": ""
+  },
+  {
+    "table_pos": 3280,
+    "mode": "A",
+    "start": 19004,
+    "length": 7,
+    "end": 19011,
+    "text": "item_16"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "A",
+    "start": 19011,
+    "length": 58,
+    "end": 19069,
+    "text": "Você só pode guardar itens nos espaços vazios da Bolsa."
+  },
+  {
+    "table_pos": 3312,
+    "mode": "A",
+    "start": 19069,
+    "length": 0,
+    "end": 19069,
+    "text": ""
+  },
+  {
+    "table_pos": 3328,
+    "mode": "A",
+    "start": 19069,
+    "length": 7,
+    "end": 19076,
+    "text": "item_17"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "A",
+    "start": 19076,
+    "length": 67,
+    "end": 19143,
+    "text": "Você só pode guardar itens nos espaços vazios da Bolsa de Itens."
+  },
+  {
+    "table_pos": 3360,
+    "mode": "A",
+    "start": 19143,
+    "length": 0,
+    "end": 19143,
+    "text": ""
+  },
+  {
+    "table_pos": 3376,
+    "mode": "A",
+    "start": 19143,
+    "length": 7,
+    "end": 19150,
+    "text": "item_18"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "A",
+    "start": 19150,
+    "length": 50,
+    "end": 19200,
+    "text": "Estes itens só podem ser usados na Batalha Livre."
+  },
+  {
+    "table_pos": 3408,
+    "mode": "A",
+    "start": 19200,
+    "length": 0,
+    "end": 19200,
+    "text": ""
+  },
+  {
+    "table_pos": 3424,
+    "mode": "A",
+    "start": 19200,
+    "length": 7,
+    "end": 19207,
+    "text": "item_19"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "A",
+    "start": 19207,
+    "length": 44,
+    "end": 19251,
+    "text": "Estes Itens Valiosos são usados em eventos."
+  },
+  {
+    "table_pos": 3456,
+    "mode": "A",
+    "start": 19251,
+    "length": 0,
+    "end": 19251,
+    "text": ""
+  },
+  {
+    "table_pos": 3472,
+    "mode": "A",
+    "start": 19251,
+    "length": 7,
+    "end": 19258,
+    "text": "item_20"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "A",
+    "start": 19258,
+    "length": 44,
+    "end": 19302,
+    "text": "Você pode guardar uma quantidade ilimitada."
+  },
+  {
+    "table_pos": 3504,
+    "mode": "A",
+    "start": 19302,
+    "length": 0,
+    "end": 19302,
+    "text": ""
+  },
+  {
+    "table_pos": 3520,
+    "mode": "A",
+    "start": 19302,
+    "length": 7,
+    "end": 19309,
+    "text": "item_21"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "A",
+    "start": 19309,
+    "length": 4,
+    "end": 19313,
+    "text": "RECP"
+  },
+  {
+    "table_pos": 3552,
+    "mode": "A",
+    "start": 19313,
+    "length": 0,
+    "end": 19313,
+    "text": ""
+  },
+  {
+    "table_pos": 3568,
+    "mode": "A",
+    "start": 19313,
+    "length": 7,
+    "end": 19320,
+    "text": "item_22"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "A",
+    "start": 19320,
+    "length": 4,
+    "end": 19324,
+    "text": "FERR"
+  },
+  {
+    "table_pos": 3600,
+    "mode": "A",
+    "start": 19324,
+    "length": 0,
+    "end": 19324,
+    "text": ""
+  },
+  {
+    "table_pos": 3616,
+    "mode": "A",
+    "start": 19324,
+    "length": 7,
+    "end": 19331,
+    "text": "item_23"
+  },
+  {
+    "table_pos": 3632,
+    "mode": "A",
+    "start": 19331,
+    "length": 4,
+    "end": 19335,
+    "text": "VALI"
+  },
+  {
+    "table_pos": 3648,
+    "mode": "A",
+    "start": 19335,
+    "length": 0,
+    "end": 19335,
+    "text": ""
+  },
+  {
+    "table_pos": 3664,
+    "mode": "A",
+    "start": 19335,
+    "length": 7,
+    "end": 19342,
+    "text": "item_24"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "A",
+    "start": 19342,
+    "length": 4,
+    "end": 19346,
+    "text": "BTLA"
+  },
+  {
+    "table_pos": 3696,
+    "mode": "A",
+    "start": 19346,
+    "length": 0,
+    "end": 19346,
+    "text": ""
+  },
+  {
+    "table_pos": 3712,
+    "mode": "A",
+    "start": 19346,
+    "length": 7,
+    "end": 19353,
+    "text": "item_25"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "A",
+    "start": 19353,
+    "length": 47,
+    "end": 19400,
+    "text": "Pressione × para descartar o item selecionado."
+  },
+  {
+    "table_pos": 3744,
+    "mode": "A",
+    "start": 19400,
+    "length": 0,
+    "end": 19400,
+    "text": ""
+  },
+  {
+    "table_pos": 3760,
+    "mode": "A",
+    "start": 19400,
+    "length": 7,
+    "end": 19407,
+    "text": "item_26"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "A",
+    "start": 19407,
+    "length": 44,
+    "end": 19451,
+    "text": "Selecione a quantidade de itens a descartar."
+  },
+  {
+    "table_pos": 3792,
+    "mode": "A",
+    "start": 19451,
+    "length": 0,
+    "end": 19451,
+    "text": ""
+  },
+  {
+    "table_pos": 3808,
+    "mode": "A",
+    "start": 19451,
+    "length": 7,
+    "end": 19458,
+    "text": "item_27"
+  },
+  {
+    "table_pos": 3824,
+    "mode": "A",
+    "start": 19458,
+    "length": 34,
+    "end": 19492,
+    "text": "Guarde o item selecionado no baú."
+  },
+  {
+    "table_pos": 3840,
+    "mode": "A",
+    "start": 19492,
+    "length": 0,
+    "end": 19492,
+    "text": ""
+  },
+  {
+    "table_pos": 3856,
+    "mode": "A",
+    "start": 19492,
+    "length": 7,
+    "end": 19499,
+    "text": "item_28"
+  },
+  {
+    "table_pos": 3872,
+    "mode": "A",
+    "start": 19499,
+    "length": 35,
+    "end": 19534,
+    "text": "Você não pode guardar mais\nitens."
+  },
+  {
+    "table_pos": 3888,
+    "mode": "A",
+    "start": 19534,
+    "length": 0,
+    "end": 19534,
+    "text": ""
+  },
+  {
+    "table_pos": 3904,
+    "mode": "A",
+    "start": 19534,
+    "length": 7,
+    "end": 19541,
+    "text": "item_29"
+  },
+  {
+    "table_pos": 3920,
+    "mode": "A",
+    "start": 19541,
+    "length": 53,
+    "end": 19594,
+    "text": "Selecione a quantidade de itens para colocar no baú."
+  },
+  {
+    "table_pos": 3936,
+    "mode": "A",
+    "start": 19594,
+    "length": 0,
+    "end": 19594,
+    "text": ""
+  },
+  {
+    "table_pos": 3952,
+    "mode": "A",
+    "start": 19594,
+    "length": 7,
+    "end": 19601,
+    "text": "item_30"
+  },
+  {
+    "table_pos": 3968,
+    "mode": "A",
+    "start": 19601,
+    "length": 35,
+    "end": 19636,
+    "text": "Guarde o item selecionado na bolsa."
+  },
+  {
+    "table_pos": 3984,
+    "mode": "A",
+    "start": 19636,
+    "length": 0,
+    "end": 19636,
+    "text": ""
+  },
+  {
+    "table_pos": 4000,
+    "mode": "A",
+    "start": 19636,
+    "length": 7,
+    "end": 19643,
+    "text": "item_31"
+  },
+  {
+    "table_pos": 4016,
+    "mode": "A",
+    "start": 19643,
+    "length": 35,
+    "end": 19678,
+    "text": "Você não pode retirar mais itens."
+  },
+  {
+    "table_pos": 4032,
+    "mode": "A",
+    "start": 19678,
+    "length": 0,
+    "end": 19678,
+    "text": ""
+  },
+  {
+    "table_pos": 4048,
+    "mode": "A",
+    "start": 19678,
+    "length": 7,
+    "end": 19685,
+    "text": "item_32"
+  },
+  {
+    "table_pos": 4064,
+    "mode": "A",
+    "start": 19685,
+    "length": 54,
+    "end": 19739,
+    "text": "Selecione a quantidade de itens para colocar na bolsa."
+  },
+  {
+    "table_pos": 4080,
+    "mode": "A",
+    "start": 19739,
+    "length": 0,
+    "end": 19739,
+    "text": ""
+  },
+  {
+    "table_pos": 4096,
+    "mode": "A",
+    "start": 19739,
+    "length": 7,
+    "end": 19746,
+    "text": "item_33"
+  },
+  {
+    "table_pos": 4112,
+    "mode": "A",
+    "start": 19746,
+    "length": 26,
+    "end": 19772,
+    "text": "Quantos você vai guardar?"
+  },
+  {
+    "table_pos": 4128,
+    "mode": "A",
+    "start": 19772,
+    "length": 0,
+    "end": 19772,
+    "text": ""
+  },
+  {
+    "table_pos": 4144,
+    "mode": "A",
+    "start": 19772,
+    "length": 7,
+    "end": 19779,
+    "text": "item_34"
+  },
+  {
+    "table_pos": 4160,
+    "mode": "A",
+    "start": 19779,
+    "length": 13,
+    "end": 19792,
+    "text": "Guardar item."
+  },
+  {
+    "table_pos": 4176,
+    "mode": "A",
+    "start": 19792,
+    "length": 0,
+    "end": 19792,
+    "text": ""
+  },
+  {
+    "table_pos": 4192,
+    "mode": "A",
+    "start": 19792,
+    "length": 7,
+    "end": 19799,
+    "text": "item_35"
+  },
+  {
+    "table_pos": 4208,
+    "mode": "A",
+    "start": 19799,
+    "length": 13,
+    "end": 19812,
+    "text": "Guardar item."
+  },
+  {
+    "table_pos": 4224,
+    "mode": "A",
+    "start": 19812,
+    "length": 0,
+    "end": 19812,
+    "text": ""
+  },
+  {
+    "table_pos": 4240,
+    "mode": "A",
+    "start": 19812,
+    "length": 7,
+    "end": 19819,
+    "text": "item_36"
+  },
+  {
+    "table_pos": 4256,
+    "mode": "A",
+    "start": 19819,
+    "length": 16,
+    "end": 19835,
+    "text": "Quantos retirar?"
+  },
+  {
+    "table_pos": 4272,
+    "mode": "A",
+    "start": 19835,
+    "length": 0,
+    "end": 19835,
+    "text": ""
+  },
+  {
+    "table_pos": 4288,
+    "mode": "A",
+    "start": 19835,
+    "length": 7,
+    "end": 19842,
+    "text": "item_37"
+  },
+  {
+    "table_pos": 4304,
+    "mode": "A",
+    "start": 19842,
+    "length": 14,
+    "end": 19856,
+    "text": "Item retirado."
+  },
+  {
+    "table_pos": 4320,
+    "mode": "A",
+    "start": 19856,
+    "length": 0,
+    "end": 19856,
+    "text": ""
+  },
+  {
+    "table_pos": 4336,
+    "mode": "A",
+    "start": 19856,
+    "length": 7,
+    "end": 19863,
+    "text": "item_38"
+  },
+  {
+    "table_pos": 4352,
+    "mode": "A",
+    "start": 19863,
+    "length": 14,
+    "end": 19877,
+    "text": "Item retirado."
+  },
+  {
+    "table_pos": 4368,
+    "mode": "A",
+    "start": 19877,
+    "length": 0,
+    "end": 19877,
+    "text": ""
+  },
+  {
+    "table_pos": 4384,
+    "mode": "A",
+    "start": 19877,
+    "length": 7,
+    "end": 19884,
+    "text": "item_39"
+  },
+  {
+    "table_pos": 4400,
+    "mode": "A",
+    "start": 19884,
+    "length": 51,
+    "end": 19935,
+    "text": "Estes itens só podem ser usados durante a batalha."
+  },
+  {
+    "table_pos": 4416,
+    "mode": "A",
+    "start": 19935,
+    "length": 0,
+    "end": 19935,
+    "text": ""
+  },
+  {
+    "table_pos": 4432,
+    "mode": "A",
+    "start": 19935,
+    "length": 7,
+    "end": 19942,
+    "text": "item_40"
+  },
+  {
+    "table_pos": 4448,
+    "mode": "A",
+    "start": 19942,
+    "length": 141,
+    "end": 20083,
+    "text": "Estes itens podem ser usados em lugares como a Loja de Itens ou o Ichiraku Ramen. Você também pode trocá-los por dinheiro em certas lojas."
+  },
+  {
+    "table_pos": 4464,
+    "mode": "A",
+    "start": 20083,
+    "length": 0,
+    "end": 20083,
+    "text": ""
+  },
+  {
+    "table_pos": 4480,
+    "mode": "A",
+    "start": 20083,
+    "length": 7,
+    "end": 20090,
+    "text": "stock01"
+  },
+  {
+    "table_pos": 4496,
+    "mode": "A",
+    "start": 20090,
+    "length": 106,
+    "end": 20196,
+    "text": "Selecione o item para registrar. Itens registrados não podem ser retirados de novo, então tenha cuidado."
+  },
+  {
+    "table_pos": 4512,
+    "mode": "A",
+    "start": 20196,
+    "length": 0,
+    "end": 20196,
+    "text": ""
+  },
+  {
+    "table_pos": 4528,
+    "mode": "A",
+    "start": 20196,
+    "length": 7,
+    "end": 20203,
+    "text": "stock02"
+  },
+  {
+    "table_pos": 4544,
+    "mode": "A",
+    "start": 20203,
+    "length": 26,
+    "end": 20229,
+    "text": "Estes itens estão certos?"
+  },
+  {
+    "table_pos": 4560,
+    "mode": "A",
+    "start": 20229,
+    "length": 0,
+    "end": 20229,
+    "text": ""
+  },
+  {
+    "table_pos": 4576,
+    "mode": "A",
+    "start": 20229,
+    "length": 7,
+    "end": 20236,
+    "text": "stock03"
+  },
+  {
+    "table_pos": 4592,
+    "mode": "A",
+    "start": 20236,
+    "length": 33,
+    "end": 20269,
+    "text": "Voltar sem registrar nenhum item?"
+  },
+  {
+    "table_pos": 4608,
+    "mode": "A",
+    "start": 20269,
+    "length": 0,
+    "end": 20269,
+    "text": ""
+  },
+  {
+    "table_pos": 4624,
+    "mode": "A",
+    "start": 20269,
+    "length": 5,
+    "end": 20274,
+    "text": "cam01"
+  },
+  {
+    "table_pos": 4640,
+    "mode": "A",
+    "start": 20274,
+    "length": 14,
+    "end": 20288,
+    "text": "CONTROLE LIVRE"
+  },
+  {
+    "table_pos": 4656,
+    "mode": "A",
+    "start": 20288,
+    "length": 0,
+    "end": 20288,
+    "text": ""
+  },
+  {
+    "table_pos": 4672,
+    "mode": "A",
+    "start": 20288,
+    "length": 5,
+    "end": 20293,
+    "text": "cam02"
+  },
+  {
+    "table_pos": 4688,
+    "mode": "A",
+    "start": 20293,
+    "length": 13,
+    "end": 20306,
+    "text": "MODO SHURIKEN"
+  },
+  {
+    "table_pos": 4704,
+    "mode": "A",
+    "start": 20306,
+    "length": 0,
+    "end": 20306,
+    "text": ""
+  },
+  {
+    "table_pos": 4720,
+    "mode": "A",
+    "start": 20306,
+    "length": 5,
+    "end": 20311,
+    "text": "cam03"
+  },
+  {
+    "table_pos": 4736,
+    "mode": "A",
+    "start": 20311,
+    "length": 6,
+    "end": 20317,
+    "text": "NORMAL"
+  },
+  {
+    "table_pos": 4752,
+    "mode": "A",
+    "start": 20317,
+    "length": 0,
+    "end": 20317,
+    "text": ""
+  },
+  {
+    "table_pos": 4768,
+    "mode": "A",
+    "start": 20317,
+    "length": 5,
+    "end": 20322,
+    "text": "cam04"
+  },
+  {
+    "table_pos": 4784,
+    "mode": "A",
+    "start": 20322,
+    "length": 9,
+    "end": 20331,
+    "text": "INVERTIDA"
+  },
+  {
+    "table_pos": 4800,
+    "mode": "A",
+    "start": 20331,
+    "length": 0,
+    "end": 20331,
+    "text": ""
+  },
+  {
+    "table_pos": 4816,
+    "mode": "A",
+    "start": 20331,
+    "length": 16,
+    "end": 20347,
+    "text": "start_mission_01"
+  },
+  {
+    "table_pos": 4832,
+    "mode": "A",
+    "start": 20347,
+    "length": 17,
+    "end": 20364,
+    "text": "TOTAL DE MISSÕES"
+  },
+  {
+    "table_pos": 4848,
+    "mode": "A",
+    "start": 20364,
+    "length": 0,
+    "end": 20364,
+    "text": ""
+  },
+  {
+    "table_pos": 4864,
+    "mode": "A",
+    "start": 20364,
+    "length": 16,
+    "end": 20380,
+    "text": "start_mission_02"
+  },
+  {
+    "table_pos": 4880,
+    "mode": "A",
+    "start": 20380,
+    "length": 13,
+    "end": 20393,
+    "text": "XP DE MISSÃO"
+  },
+  {
+    "table_pos": 4896,
+    "mode": "A",
+    "start": 20393,
+    "length": 0,
+    "end": 20393,
+    "text": ""
+  },
+  {
+    "table_pos": 4912,
+    "mode": "A",
+    "start": 20393,
+    "length": 16,
+    "end": 20409,
+    "text": "start_mission_03"
+  },
+  {
+    "table_pos": 4928,
+    "mode": "A",
+    "start": 20409,
+    "length": 2,
+    "end": 20411,
+    "text": "XP"
+  },
+  {
+    "table_pos": 4944,
+    "mode": "A",
+    "start": 20411,
+    "length": 0,
+    "end": 20411,
+    "text": ""
+  },
+  {
+    "table_pos": 4960,
+    "mode": "A",
+    "start": 20411,
+    "length": 16,
+    "end": 20427,
+    "text": "start_mission_04"
+  },
+  {
+    "table_pos": 4976,
+    "mode": "A",
+    "start": 20427,
+    "length": 26,
+    "end": 20453,
+    "text": "TOTAL DE MISSÕES SECRETAS"
+  },
+  {
+    "table_pos": 4992,
+    "mode": "A",
+    "start": 20453,
+    "length": 0,
+    "end": 20453,
+    "text": ""
+  },
+  {
+    "table_pos": 5008,
+    "mode": "A",
+    "start": 20453,
+    "length": 16,
+    "end": 20469,
+    "text": "start_mission_05"
+  },
+  {
+    "table_pos": 5024,
+    "mode": "A",
+    "start": 20469,
+    "length": 25,
+    "end": 20494,
+    "text": "XP DE MISSÃO NECESSÁRIO"
+  },
+  {
+    "table_pos": 5040,
+    "mode": "A",
+    "start": 20494,
+    "length": 0,
+    "end": 20494,
+    "text": ""
+  },
+  {
+    "table_pos": 5056,
+    "mode": "A",
+    "start": 20494,
+    "length": 16,
+    "end": 20510,
+    "text": "start_mission_06"
+  },
+  {
+    "table_pos": 5072,
+    "mode": "A",
+    "start": 20510,
+    "length": 14,
+    "end": 20524,
+    "text": "XP NECESSÁRIO"
+  },
+  {
+    "table_pos": 5088,
+    "mode": "A",
+    "start": 20524,
+    "length": 0,
+    "end": 20524,
+    "text": ""
+  },
+  {
+    "table_pos": 5104,
+    "mode": "A",
+    "start": 20524,
+    "length": 16,
+    "end": 20540,
+    "text": "start_mission_07"
+  },
+  {
+    "table_pos": 5120,
+    "mode": "A",
+    "start": 20540,
+    "length": 15,
+    "end": 20555,
+    "text": "TAXA DE SUCESSO"
+  },
+  {
+    "table_pos": 5136,
+    "mode": "A",
+    "start": 20555,
+    "length": 0,
+    "end": 20555,
+    "text": ""
+  },
+  {
+    "table_pos": 5152,
+    "mode": "A",
+    "start": 20555,
+    "length": 16,
+    "end": 20571,
+    "text": "start_mission_08"
+  },
+  {
+    "table_pos": 5168,
+    "mode": "A",
+    "start": 20571,
+    "length": 17,
+    "end": 20588,
+    "text": "MISSÃO FLASHBACK"
+  },
+  {
+    "table_pos": 5184,
+    "mode": "A",
+    "start": 20588,
+    "length": 0,
+    "end": 20588,
+    "text": ""
+  },
+  {
+    "table_pos": 5200,
+    "mode": "A",
+    "start": 20588,
+    "length": 16,
+    "end": 20604,
+    "text": "start_mission_09"
+  },
+  {
+    "table_pos": 5216,
+    "mode": "A",
+    "start": 20604,
+    "length": 9,
+    "end": 20613,
+    "text": "FLASHBACK"
+  },
+  {
+    "table_pos": 5232,
+    "mode": "A",
+    "start": 20613,
+    "length": 0,
+    "end": 20613,
+    "text": ""
+  },
+  {
+    "table_pos": 5248,
+    "mode": "A",
+    "start": 20613,
+    "length": 16,
+    "end": 20629,
+    "text": "start_mission_10"
+  },
+  {
+    "table_pos": 5264,
+    "mode": "A",
+    "start": 20629,
+    "length": 13,
+    "end": 20642,
+    "text": "MISSÃO LIVRE"
+  },
+  {
+    "table_pos": 5280,
+    "mode": "A",
+    "start": 20642,
+    "length": 0,
+    "end": 20642,
+    "text": ""
+  },
+  {
+    "table_pos": 5296,
+    "mode": "A",
+    "start": 20642,
+    "length": 16,
+    "end": 20658,
+    "text": "start_mission_11"
+  },
+  {
+    "table_pos": 5312,
+    "mode": "A",
+    "start": 20658,
+    "length": 5,
+    "end": 20663,
+    "text": "LIVRE"
+  },
+  {
+    "table_pos": 5328,
+    "mode": "A",
+    "start": 20663,
+    "length": 0,
+    "end": 20663,
+    "text": ""
+  },
+  {
+    "table_pos": 5344,
+    "mode": "A",
+    "start": 20663,
+    "length": 16,
+    "end": 20679,
+    "text": "start_mission_12"
+  },
+  {
+    "table_pos": 5360,
+    "mode": "A",
+    "start": 20679,
+    "length": 14,
+    "end": 20693,
+    "text": "MISSÃO RANK S"
+  },
+  {
+    "table_pos": 5376,
+    "mode": "A",
+    "start": 20693,
+    "length": 0,
+    "end": 20693,
+    "text": ""
+  },
+  {
+    "table_pos": 5392,
+    "mode": "A",
+    "start": 20693,
+    "length": 16,
+    "end": 20709,
+    "text": "start_mission_13"
+  },
+  {
+    "table_pos": 5408,
+    "mode": "A",
+    "start": 20709,
+    "length": 14,
+    "end": 20723,
+    "text": "MISSÃO RANK A"
+  },
+  {
+    "table_pos": 5424,
+    "mode": "A",
+    "start": 20723,
+    "length": 0,
+    "end": 20723,
+    "text": ""
+  },
+  {
+    "table_pos": 5440,
+    "mode": "A",
+    "start": 20723,
+    "length": 16,
+    "end": 20739,
+    "text": "start_mission_14"
+  },
+  {
+    "table_pos": 5456,
+    "mode": "A",
+    "start": 20739,
+    "length": 14,
+    "end": 20753,
+    "text": "MISSÃO RANK B"
+  },
+  {
+    "table_pos": 5472,
+    "mode": "A",
+    "start": 20753,
+    "length": 0,
+    "end": 20753,
+    "text": ""
+  },
+  {
+    "table_pos": 5488,
+    "mode": "A",
+    "start": 20753,
+    "length": 16,
+    "end": 20769,
+    "text": "start_mission_15"
+  },
+  {
+    "table_pos": 5504,
+    "mode": "A",
+    "start": 20769,
+    "length": 14,
+    "end": 20783,
+    "text": "MISSÃO RANK C"
+  },
+  {
+    "table_pos": 5520,
+    "mode": "A",
+    "start": 20783,
+    "length": 0,
+    "end": 20783,
+    "text": ""
+  },
+  {
+    "table_pos": 5536,
+    "mode": "A",
+    "start": 20783,
+    "length": 16,
+    "end": 20799,
+    "text": "start_mission_16"
+  },
+  {
+    "table_pos": 5552,
+    "mode": "A",
+    "start": 20799,
+    "length": 14,
+    "end": 20813,
+    "text": "MISSÃO RANK D"
+  },
+  {
+    "table_pos": 5568,
+    "mode": "A",
+    "start": 20813,
+    "length": 0,
+    "end": 20813,
+    "text": ""
+  },
+  {
+    "table_pos": 5584,
+    "mode": "A",
+    "start": 20813,
+    "length": 16,
+    "end": 20829,
+    "text": "start_mission_17"
+  },
+  {
+    "table_pos": 5600,
+    "mode": "A",
+    "start": 20829,
+    "length": 15,
+    "end": 20844,
+    "text": "MISSÃO SECRETA"
+  },
+  {
+    "table_pos": 5616,
+    "mode": "A",
+    "start": 20844,
+    "length": 0,
+    "end": 20844,
+    "text": ""
+  },
+  {
+    "table_pos": 5632,
+    "mode": "A",
+    "start": 20844,
+    "length": 16,
+    "end": 20860,
+    "text": "start_mission_18"
+  },
+  {
+    "table_pos": 5648,
+    "mode": "A",
+    "start": 20860,
+    "length": 20,
+    "end": 20880,
+    "text": "ARCO DO TREINO GENIN"
+  },
+  {
+    "table_pos": 5664,
+    "mode": "A",
+    "start": 20880,
+    "length": 0,
+    "end": 20880,
+    "text": ""
+  },
+  {
+    "table_pos": 5680,
+    "mode": "A",
+    "start": 20880,
+    "length": 16,
+    "end": 20896,
+    "text": "start_mission_19"
+  },
+  {
+    "table_pos": 5696,
+    "mode": "A",
+    "start": 20896,
+    "length": 30,
+    "end": 20926,
+    "text": "ARCO DAS ELIMINATÓRIAS CHUNIN"
+  },
+  {
+    "table_pos": 5712,
+    "mode": "A",
+    "start": 20926,
+    "length": 0,
+    "end": 20926,
+    "text": ""
+  },
+  {
+    "table_pos": 5728,
+    "mode": "A",
+    "start": 20926,
+    "length": 16,
+    "end": 20942,
+    "text": "start_mission_20"
+  },
+  {
+    "table_pos": 5744,
+    "mode": "A",
+    "start": 20942,
+    "length": 20,
+    "end": 20962,
+    "text": "ARCO DO EXAME CHUNIN"
+  },
+  {
+    "table_pos": 5760,
+    "mode": "A",
+    "start": 20962,
+    "length": 0,
+    "end": 20962,
+    "text": ""
+  },
+  {
+    "table_pos": 5776,
+    "mode": "A",
+    "start": 20962,
+    "length": 16,
+    "end": 20978,
+    "text": "start_mission_21"
+  },
+  {
+    "table_pos": 5792,
+    "mode": "A",
+    "start": 20978,
+    "length": 29,
+    "end": 21007,
+    "text": "ARCO DA DESTRUIÇÃO DA FOLHA"
+  },
+  {
+    "table_pos": 5808,
+    "mode": "A",
+    "start": 21007,
+    "length": 0,
+    "end": 21007,
+    "text": ""
+  },
+  {
+    "table_pos": 5824,
+    "mode": "A",
+    "start": 21007,
+    "length": 16,
+    "end": 21023,
+    "text": "start_mission_22"
+  },
+  {
+    "table_pos": 5840,
+    "mode": "A",
+    "start": 21023,
+    "length": 25,
+    "end": 21048,
+    "text": "ARCO DA BUSCA POR TSUNADE"
+  },
+  {
+    "table_pos": 5856,
+    "mode": "A",
+    "start": 21048,
+    "length": 0,
+    "end": 21048,
+    "text": ""
+  },
+  {
+    "table_pos": 5872,
+    "mode": "A",
+    "start": 21048,
+    "length": 16,
+    "end": 21064,
+    "text": "start_mission_23"
+  },
+  {
+    "table_pos": 5888,
+    "mode": "A",
+    "start": 21064,
+    "length": 30,
+    "end": 21094,
+    "text": "ARCO DA PERSEGUIÇÃO A SASUKE"
+  },
+  {
+    "table_pos": 5904,
+    "mode": "A",
+    "start": 21094,
+    "length": 0,
+    "end": 21094,
+    "text": ""
+  },
+  {
+    "table_pos": 5920,
+    "mode": "A",
+    "start": 21094,
+    "length": 21,
+    "end": 21115,
+    "text": "start_mission_clear01"
+  },
+  {
+    "table_pos": 5936,
+    "mode": "A",
+    "start": 21115,
+    "length": 35,
+    "end": 21150,
+    "text": "PERSEGUIÇÃO A SASUKE - CONCLUÍDA"
+  },
+  {
+    "table_pos": 5952,
+    "mode": "A",
+    "start": 21150,
+    "length": 0,
+    "end": 21150,
+    "text": ""
+  },
+  {
+    "table_pos": 5968,
+    "mode": "A",
+    "start": 21150,
+    "length": 21,
+    "end": 21171,
+    "text": "start_mission_clear02"
+  },
+  {
+    "table_pos": 5984,
+    "mode": "A",
+    "start": 21171,
+    "length": 29,
+    "end": 21200,
+    "text": "TODAS AS MISSÕES CONCLUÍDAS"
+  },
+  {
+    "table_pos": 6000,
+    "mode": "A",
+    "start": 21200,
+    "length": 0,
+    "end": 21200,
+    "text": ""
+  },
+  {
+    "table_pos": 6016,
+    "mode": "A",
+    "start": 21200,
+    "length": 16,
+    "end": 21216,
+    "text": "start_mission_24"
+  },
+  {
+    "table_pos": 6032,
+    "mode": "A",
+    "start": 21216,
+    "length": 6,
+    "end": 21222,
+    "text": "RESUMO"
+  },
+  {
+    "table_pos": 6048,
+    "mode": "A",
+    "start": 21222,
+    "length": 0,
+    "end": 21222,
+    "text": ""
+  },
+  {
+    "table_pos": 6064,
+    "mode": "A",
+    "start": 21222,
+    "length": 16,
+    "end": 21238,
+    "text": "start_mission_25"
+  },
+  {
+    "table_pos": 6080,
+    "mode": "A",
+    "start": 21238,
+    "length": 19,
+    "end": 21257,
+    "text": "DETALHES DA MISSÃO"
+  },
+  {
+    "table_pos": 6096,
+    "mode": "A",
+    "start": 21257,
+    "length": 0,
+    "end": 21257,
+    "text": ""
+  },
+  {
+    "table_pos": 6112,
+    "mode": "A",
+    "start": 21257,
+    "length": 16,
+    "end": 21273,
+    "text": "start_mission_26"
+  },
+  {
+    "table_pos": 6128,
+    "mode": "A",
+    "start": 21273,
+    "length": 11,
+    "end": 21284,
+    "text": "CONDIÇÕES"
+  },
+  {
+    "table_pos": 6144,
+    "mode": "A",
+    "start": 21284,
+    "length": 0,
+    "end": 21284,
+    "text": ""
+  },
+  {
+    "table_pos": 6160,
+    "mode": "A",
+    "start": 21284,
+    "length": 16,
+    "end": 21300,
+    "text": "start_mission_27"
+  },
+  {
+    "table_pos": 6176,
+    "mode": "A",
+    "start": 21300,
+    "length": 19,
+    "end": 21319,
+    "text": "OPONENTE DE BATALHA"
+  },
+  {
+    "table_pos": 6192,
+    "mode": "A",
+    "start": 21319,
+    "length": 0,
+    "end": 21319,
+    "text": ""
+  },
+  {
+    "table_pos": 6208,
+    "mode": "A",
+    "start": 21319,
+    "length": 16,
+    "end": 21335,
+    "text": "start_mission_28"
+  },
+  {
+    "table_pos": 6224,
+    "mode": "A",
+    "start": 21335,
+    "length": 10,
+    "end": 21345,
+    "text": "RECOMPENSA"
+  },
+  {
+    "table_pos": 6240,
+    "mode": "A",
+    "start": 21345,
+    "length": 0,
+    "end": 21345,
+    "text": ""
+  },
+  {
+    "table_pos": 6256,
+    "mode": "A",
+    "start": 21345,
+    "length": 16,
+    "end": 21361,
+    "text": "start_mission_29"
+  },
+  {
+    "table_pos": 6272,
+    "mode": "A",
+    "start": 21361,
+    "length": 8,
+    "end": 21369,
+    "text": "APROVADA"
+  },
+  {
+    "table_pos": 6288,
+    "mode": "A",
+    "start": 21369,
+    "length": 0,
+    "end": 21369,
+    "text": ""
+  },
+  {
+    "table_pos": 6304,
+    "mode": "A",
+    "start": 21369,
+    "length": 16,
+    "end": 21385,
+    "text": "start_mission_30"
+  },
+  {
+    "table_pos": 6320,
+    "mode": "A",
+    "start": 21385,
+    "length": 10,
+    "end": 21395,
+    "text": "CONCLUÍDA"
+  },
+  {
+    "table_pos": 6336,
+    "mode": "A",
+    "start": 21395,
+    "length": 0,
+    "end": 21395,
+    "text": ""
+  },
+  {
+    "table_pos": 6352,
+    "mode": "A",
+    "start": 21395,
+    "length": 16,
+    "end": 21411,
+    "text": "start_mission_31"
+  },
+  {
+    "table_pos": 6368,
+    "mode": "A",
+    "start": 21411,
+    "length": 6,
+    "end": 21417,
+    "text": "FALHOU"
+  },
+  {
+    "table_pos": 6384,
+    "mode": "A",
+    "start": 21417,
+    "length": 0,
+    "end": 21417,
+    "text": ""
+  },
+  {
+    "table_pos": 6400,
+    "mode": "A",
+    "start": 21417,
+    "length": 16,
+    "end": 21433,
+    "text": "start_mission_32"
+  },
+  {
+    "table_pos": 6416,
+    "mode": "A",
+    "start": 21433,
+    "length": 18,
+    "end": 21451,
+    "text": "MISSÃO CONCLUÍDA"
+  },
+  {
+    "table_pos": 6432,
+    "mode": "A",
+    "start": 21451,
+    "length": 0,
+    "end": 21451,
+    "text": ""
+  },
+  {
+    "table_pos": 6448,
+    "mode": "A",
+    "start": 21451,
+    "length": 16,
+    "end": 21467,
+    "text": "start_mission_33"
+  },
+  {
+    "table_pos": 6464,
+    "mode": "A",
+    "start": 21467,
+    "length": 14,
+    "end": 21481,
+    "text": "MISSÃO FALHOU"
+  },
+  {
+    "table_pos": 6480,
+    "mode": "A",
+    "start": 21481,
+    "length": 0,
+    "end": 21481,
+    "text": ""
+  },
+  {
+    "table_pos": 6496,
+    "mode": "A",
+    "start": 21481,
+    "length": 16,
+    "end": 21497,
+    "text": "start_mission_34"
+  },
+  {
+    "table_pos": 6512,
+    "mode": "A",
+    "start": 21497,
+    "length": 18,
+    "end": 21515,
+    "text": "MISSÃO FINALIZADA"
+  },
+  {
+    "table_pos": 6528,
+    "mode": "A",
+    "start": 21515,
+    "length": 0,
+    "end": 21515,
+    "text": ""
+  },
+  {
+    "table_pos": 6544,
+    "mode": "A",
+    "start": 21515,
+    "length": 16,
+    "end": 21531,
+    "text": "start_mission_35"
+  },
+  {
+    "table_pos": 6560,
+    "mode": "A",
+    "start": 21531,
+    "length": 17,
+    "end": 21548,
+    "text": "MISSÃO DE TAREFA"
+  },
+  {
+    "table_pos": 6576,
+    "mode": "A",
+    "start": 21548,
+    "length": 0,
+    "end": 21548,
+    "text": ""
+  },
+  {
+    "table_pos": 6592,
+    "mode": "A",
+    "start": 21548,
+    "length": 16,
+    "end": 21564,
+    "text": "start_mission_36"
+  },
+  {
+    "table_pos": 6608,
+    "mode": "A",
+    "start": 21564,
+    "length": 18,
+    "end": 21582,
+    "text": "MISSÃO DE BATALHA"
+  },
+  {
+    "table_pos": 6624,
+    "mode": "A",
+    "start": 21582,
+    "length": 0,
+    "end": 21582,
+    "text": ""
+  },
+  {
+    "table_pos": 6640,
+    "mode": "A",
+    "start": 21582,
+    "length": 16,
+    "end": 21598,
+    "text": "start_mission_37"
+  },
+  {
+    "table_pos": 6656,
+    "mode": "A",
+    "start": 21598,
+    "length": 19,
+    "end": 21617,
+    "text": "MISSÃO DE MINIJOGO"
+  },
+  {
+    "table_pos": 6672,
+    "mode": "A",
+    "start": 21617,
+    "length": 0,
+    "end": 21617,
+    "text": ""
+  },
+  {
+    "table_pos": 6688,
+    "mode": "A",
+    "start": 21617,
+    "length": 16,
+    "end": 21633,
+    "text": "start_mission_38"
+  },
+  {
+    "table_pos": 6704,
+    "mode": "A",
+    "start": 21633,
+    "length": 13,
+    "end": 21646,
+    "text": "OUTRA MISSÃO"
+  },
+  {
+    "table_pos": 6720,
+    "mode": "A",
+    "start": 21646,
+    "length": 0,
+    "end": 21646,
+    "text": ""
+  },
+  {
+    "table_pos": 6736,
+    "mode": "A",
+    "start": 21646,
+    "length": 16,
+    "end": 21662,
+    "text": "start_mission_39"
+  },
+  {
+    "table_pos": 6752,
+    "mode": "A",
+    "start": 21662,
+    "length": 17,
+    "end": 21679,
+    "text": "MISSÃO DE COLETA"
+  },
+  {
+    "table_pos": 6768,
+    "mode": "A",
+    "start": 21679,
+    "length": 0,
+    "end": 21679,
+    "text": ""
+  },
+  {
+    "table_pos": 6784,
+    "mode": "A",
+    "start": 21679,
+    "length": 16,
+    "end": 21695,
+    "text": "start_mission_40"
+  },
+  {
+    "table_pos": 6800,
+    "mode": "A",
+    "start": 21695,
+    "length": 16,
+    "end": 21711,
+    "text": "MISSÃO DE BUSCA"
+  },
+  {
+    "table_pos": 6816,
+    "mode": "A",
+    "start": 21711,
+    "length": 0,
+    "end": 21711,
+    "text": ""
+  },
+  {
+    "table_pos": 6832,
+    "mode": "A",
+    "start": 21711,
+    "length": 16,
+    "end": 21727,
+    "text": "start_mission_41"
+  },
+  {
+    "table_pos": 6848,
+    "mode": "A",
+    "start": 21727,
+    "length": 18,
+    "end": 21745,
+    "text": "MISSÃO DE ENTREGA"
+  },
+  {
+    "table_pos": 6864,
+    "mode": "A",
+    "start": 21745,
+    "length": 0,
+    "end": 21745,
+    "text": ""
+  },
+  {
+    "table_pos": 6880,
+    "mode": "A",
+    "start": 21745,
+    "length": 16,
+    "end": 21761,
+    "text": "start_mission_42"
+  },
+  {
+    "table_pos": 6896,
+    "mode": "A",
+    "start": 21761,
+    "length": 27,
+    "end": 21788,
+    "text": "MISSÃO DE ENTREGA DE RAMEN"
+  },
+  {
+    "table_pos": 6912,
+    "mode": "A",
+    "start": 21788,
+    "length": 0,
+    "end": 21788,
+    "text": ""
+  },
+  {
+    "table_pos": 6928,
+    "mode": "A",
+    "start": 21788,
+    "length": 16,
+    "end": 21804,
+    "text": "start_mission_43"
+  },
+  {
+    "table_pos": 6944,
+    "mode": "A",
+    "start": 21804,
+    "length": 19,
+    "end": 21823,
+    "text": "MISSÃO DE SHURIKEN"
+  },
+  {
+    "table_pos": 6960,
+    "mode": "A",
+    "start": 21823,
+    "length": 0,
+    "end": 21823,
+    "text": ""
+  },
+  {
+    "table_pos": 6976,
+    "mode": "A",
+    "start": 21823,
+    "length": 16,
+    "end": 21839,
+    "text": "start_mission_44"
+  },
+  {
+    "table_pos": 6992,
+    "mode": "A",
+    "start": 21839,
+    "length": 41,
+    "end": 21880,
+    "text": "MISSÃO DE RECUPERAÇÃO DE CARTA SECRETA"
+  },
+  {
+    "table_pos": 7008,
+    "mode": "A",
+    "start": 21880,
+    "length": 0,
+    "end": 21880,
+    "text": ""
+  },
+  {
+    "table_pos": 7024,
+    "mode": "A",
+    "start": 21880,
+    "length": 16,
+    "end": 21896,
+    "text": "start_mission_45"
+  },
+  {
+    "table_pos": 7040,
+    "mode": "A",
+    "start": 21896,
+    "length": 21,
+    "end": 21917,
+    "text": "MISSÃO DE CARREGADOR"
+  },
+  {
+    "table_pos": 7056,
+    "mode": "A",
+    "start": 21917,
+    "length": 0,
+    "end": 21917,
+    "text": ""
+  },
+  {
+    "table_pos": 7072,
+    "mode": "A",
+    "start": 21917,
+    "length": 16,
+    "end": 21933,
+    "text": "start_mission_46"
+  },
+  {
+    "table_pos": 7088,
+    "mode": "A",
+    "start": 21933,
+    "length": 29,
+    "end": 21962,
+    "text": "MISSÃO DE TREINO DE SHURIKEN"
+  },
+  {
+    "table_pos": 7104,
+    "mode": "A",
+    "start": 21962,
+    "length": 0,
+    "end": 21962,
+    "text": ""
+  },
+  {
+    "table_pos": 7120,
+    "mode": "A",
+    "start": 21962,
+    "length": 16,
+    "end": 21978,
+    "text": "start_mission_47"
+  },
+  {
+    "table_pos": 7136,
+    "mode": "A",
+    "start": 21978,
+    "length": 22,
+    "end": 22000,
+    "text": "MISSÃO CONTRA O TEMPO"
+  },
+  {
+    "table_pos": 7152,
+    "mode": "A",
+    "start": 22000,
+    "length": 0,
+    "end": 22000,
+    "text": ""
+  },
+  {
+    "table_pos": 7168,
+    "mode": "A",
+    "start": 22000,
+    "length": 16,
+    "end": 22016,
+    "text": "start_mission_48"
+  },
+  {
+    "table_pos": 7184,
+    "mode": "A",
+    "start": 22016,
+    "length": 36,
+    "end": 22052,
+    "text": "MISSÃO DE SALTO COM CLONE DE SOMBRA"
+  },
+  {
+    "table_pos": 7200,
+    "mode": "A",
+    "start": 22052,
+    "length": 0,
+    "end": 22052,
+    "text": ""
+  },
+  {
+    "table_pos": 7216,
+    "mode": "A",
+    "start": 22052,
+    "length": 16,
+    "end": 22068,
+    "text": "start_mission_49"
+  },
+  {
+    "table_pos": 7232,
+    "mode": "A",
+    "start": 22068,
+    "length": 25,
+    "end": 22093,
+    "text": "MISSÃO FOGUETE DO NARUTO"
+  },
+  {
+    "table_pos": 7248,
+    "mode": "A",
+    "start": 22093,
+    "length": 0,
+    "end": 22093,
+    "text": ""
+  },
+  {
+    "table_pos": 7264,
+    "mode": "A",
+    "start": 22093,
+    "length": 16,
+    "end": 22109,
+    "text": "start_mission_50"
+  },
+  {
+    "table_pos": 7280,
+    "mode": "A",
+    "start": 22109,
+    "length": 18,
+    "end": 22127,
+    "text": "MISSÃO DE CAPTURA"
+  },
+  {
+    "table_pos": 7296,
+    "mode": "A",
+    "start": 22127,
+    "length": 0,
+    "end": 22127,
+    "text": ""
+  },
+  {
+    "table_pos": 7312,
+    "mode": "A",
+    "start": 22127,
+    "length": 16,
+    "end": 22143,
+    "text": "start_mission_51"
+  },
+  {
+    "table_pos": 7328,
+    "mode": "A",
+    "start": 22143,
+    "length": 32,
+    "end": 22175,
+    "text": "MISSÃO DE CAPTURA DE PERGAMINHO"
+  },
+  {
+    "table_pos": 7344,
+    "mode": "A",
+    "start": 22175,
+    "length": 0,
+    "end": 22175,
+    "text": ""
+  },
+  {
+    "table_pos": 7360,
+    "mode": "A",
+    "start": 22175,
+    "length": 16,
+    "end": 22191,
+    "text": "start_mission_52"
+  },
+  {
+    "table_pos": 7376,
+    "mode": "A",
+    "start": 22191,
+    "length": 30,
+    "end": 22221,
+    "text": "MISSÃO DE ESCALADA DE ÁRVORE"
+  },
+  {
+    "table_pos": 7392,
+    "mode": "A",
+    "start": 22221,
+    "length": 0,
+    "end": 22221,
+    "text": ""
+  },
+  {
+    "table_pos": 7408,
+    "mode": "A",
+    "start": 22221,
+    "length": 16,
+    "end": 22237,
+    "text": "start_mission_53"
+  },
+  {
+    "table_pos": 7424,
+    "mode": "A",
+    "start": 22237,
+    "length": 24,
+    "end": 22261,
+    "text": "MISSÃO DE BATALHA LIVRE"
+  },
+  {
+    "table_pos": 7440,
+    "mode": "A",
+    "start": 22261,
+    "length": 0,
+    "end": 22261,
+    "text": ""
+  },
+  {
+    "table_pos": 7456,
+    "mode": "A",
+    "start": 22261,
+    "length": 16,
+    "end": 22277,
+    "text": "start_mission_54"
+  },
+  {
+    "table_pos": 7472,
+    "mode": "A",
+    "start": 22277,
+    "length": 40,
+    "end": 22317,
+    "text": "MISSÃO DE BATALHA DE PERSONAGEM GIGANTE"
+  },
+  {
+    "table_pos": 7488,
+    "mode": "A",
+    "start": 22317,
+    "length": 0,
+    "end": 22317,
+    "text": ""
+  },
+  {
+    "table_pos": 7504,
+    "mode": "A",
+    "start": 22317,
+    "length": 16,
+    "end": 22333,
+    "text": "start_mission_55"
+  },
+  {
+    "table_pos": 7520,
+    "mode": "A",
+    "start": 22333,
+    "length": 31,
+    "end": 22364,
+    "text": "MISSÃO DE GRAVAÇÃO DE EVENTO"
+  },
+  {
+    "table_pos": 7536,
+    "mode": "A",
+    "start": 22364,
+    "length": 0,
+    "end": 22364,
+    "text": ""
+  },
+  {
+    "table_pos": 7552,
+    "mode": "A",
+    "start": 22364,
+    "length": 16,
+    "end": 22380,
+    "text": "start_mission_56"
+  },
+  {
+    "table_pos": 7568,
+    "mode": "A",
+    "start": 22380,
+    "length": 14,
+    "end": 22394,
+    "text": "MISSÃO EXPERT"
+  },
+  {
+    "table_pos": 7584,
+    "mode": "A",
+    "start": 22394,
+    "length": 0,
+    "end": 22394,
+    "text": ""
+  },
+  {
+    "table_pos": 7600,
+    "mode": "A",
+    "start": 22394,
+    "length": 16,
+    "end": 22410,
+    "text": "start_mission_57"
+  },
+  {
+    "table_pos": 7616,
+    "mode": "A",
+    "start": 22410,
+    "length": 13,
+    "end": 22423,
+    "text": "** XP obtido!"
+  },
+  {
+    "table_pos": 7632,
+    "mode": "A",
+    "start": 22423,
+    "length": 0,
+    "end": 22423,
+    "text": ""
+  },
+  {
+    "table_pos": 7648,
+    "mode": "A",
+    "start": 22423,
+    "length": 16,
+    "end": 22439,
+    "text": "start_mission_58"
+  },
+  {
+    "table_pos": 7664,
+    "mode": "A",
+    "start": 22439,
+    "length": 24,
+    "end": 22463,
+    "text": "** XP de Missão obtido!"
+  },
+  {
+    "table_pos": 7680,
+    "mode": "A",
+    "start": 22463,
+    "length": 0,
+    "end": 22463,
+    "text": ""
+  },
+  {
+    "table_pos": 7696,
+    "mode": "A",
+    "start": 22463,
+    "length": 16,
+    "end": 22479,
+    "text": "start_mission_59"
+  },
+  {
+    "table_pos": 7712,
+    "mode": "A",
+    "start": 22479,
+    "length": 48,
+    "end": 22527,
+    "text": "** novas missões de rank ＃ foram adicionadas!"
+  },
+  {
+    "table_pos": 7728,
+    "mode": "A",
+    "start": 22527,
+    "length": 0,
+    "end": 22527,
+    "text": ""
+  },
+  {
+    "table_pos": 7744,
+    "mode": "A",
+    "start": 22527,
+    "length": 16,
+    "end": 22543,
+    "text": "start_mission_60"
+  },
+  {
+    "table_pos": 7760,
+    "mode": "A",
+    "start": 22543,
+    "length": 15,
+    "end": 22558,
+    "text": "＋＊＊Pontos"
+  },
+  {
+    "table_pos": 7776,
+    "mode": "A",
+    "start": 22558,
+    "length": 0,
+    "end": 22558,
+    "text": ""
+  },
+  {
+    "table_pos": 7792,
+    "mode": "A",
+    "start": 22558,
+    "length": 16,
+    "end": 22574,
+    "text": "start_mission_61"
+  },
+  {
+    "table_pos": 7808,
+    "mode": "A",
+    "start": 22574,
+    "length": 31,
+    "end": 22605,
+    "text": "Selecione um rank para aceitar."
+  },
+  {
+    "table_pos": 7824,
+    "mode": "A",
+    "start": 22605,
+    "length": 0,
+    "end": 22605,
+    "text": ""
+  },
+  {
+    "table_pos": 7840,
+    "mode": "A",
+    "start": 22605,
+    "length": 16,
+    "end": 22621,
+    "text": "start_mission_62"
+  },
+  {
+    "table_pos": 7856,
+    "mode": "A",
+    "start": 22621,
+    "length": 35,
+    "end": 22656,
+    "text": "Selecione uma missão para aceitar."
+  },
+  {
+    "table_pos": 7872,
+    "mode": "A",
+    "start": 22656,
+    "length": 0,
+    "end": 22656,
+    "text": ""
+  },
+  {
+    "table_pos": 7888,
+    "mode": "A",
+    "start": 22656,
+    "length": 16,
+    "end": 22672,
+    "text": "start_mission_63"
+  },
+  {
+    "table_pos": 7904,
+    "mode": "A",
+    "start": 22672,
+    "length": 21,
+    "end": 22693,
+    "text": "Aceitar esta missão?"
+  },
+  {
+    "table_pos": 7920,
+    "mode": "A",
+    "start": 22693,
+    "length": 0,
+    "end": 22693,
+    "text": ""
+  },
+  {
+    "table_pos": 7936,
+    "mode": "A",
+    "start": 22693,
+    "length": 16,
+    "end": 22709,
+    "text": "start_mission_64"
+  },
+  {
+    "table_pos": 7952,
+    "mode": "A",
+    "start": 22709,
+    "length": 25,
+    "end": 22734,
+    "text": "Você precisa de mais XP."
+  },
+  {
+    "table_pos": 7968,
+    "mode": "A",
+    "start": 22734,
+    "length": 0,
+    "end": 22734,
+    "text": ""
+  },
+  {
+    "table_pos": 7984,
+    "mode": "A",
+    "start": 22734,
+    "length": 16,
+    "end": 22750,
+    "text": "start_mission_65"
+  },
+  {
+    "table_pos": 8000,
+    "mode": "A",
+    "start": 22750,
+    "length": 36,
+    "end": 22786,
+    "text": "Você precisa de mais XP de Missão."
+  },
+  {
+    "table_pos": 8016,
+    "mode": "A",
+    "start": 22786,
+    "length": 0,
+    "end": 22786,
+    "text": ""
+  },
+  {
+    "table_pos": 8032,
+    "mode": "A",
+    "start": 22786,
+    "length": 16,
+    "end": 22802,
+    "text": "start_mission_66"
+  },
+  {
+    "table_pos": 8048,
+    "mode": "A",
+    "start": 22802,
+    "length": 18,
+    "end": 22820,
+    "text": "Iniciar a missão."
+  },
+  {
+    "table_pos": 8064,
+    "mode": "A",
+    "start": 22820,
+    "length": 0,
+    "end": 22820,
+    "text": ""
+  },
+  {
+    "table_pos": 8080,
+    "mode": "A",
+    "start": 22820,
+    "length": 16,
+    "end": 22836,
+    "text": "start_mission_67"
+  },
+  {
+    "table_pos": 8096,
+    "mode": "A",
+    "start": 22836,
+    "length": 26,
+    "end": 22862,
+    "text": "Você aceitou uma missão."
+  },
+  {
+    "table_pos": 8112,
+    "mode": "A",
+    "start": 22862,
+    "length": 0,
+    "end": 22862,
+    "text": ""
+  },
+  {
+    "table_pos": 8128,
+    "mode": "A",
+    "start": 22862,
+    "length": 16,
+    "end": 22878,
+    "text": "start_mission_68"
+  },
+  {
+    "table_pos": 8144,
+    "mode": "A",
+    "start": 22878,
+    "length": 44,
+    "end": 22922,
+    "text": "Encontre clientes para realizar uma missão."
+  },
+  {
+    "table_pos": 8160,
+    "mode": "A",
+    "start": 22922,
+    "length": 0,
+    "end": 22922,
+    "text": ""
+  },
+  {
+    "table_pos": 8176,
+    "mode": "A",
+    "start": 22922,
+    "length": 16,
+    "end": 22938,
+    "text": "start_mission_69"
+  },
+  {
+    "table_pos": 8192,
+    "mode": "A",
+    "start": 22938,
+    "length": 32,
+    "end": 22970,
+    "text": "Uma nova missão foi adicionada!"
+  },
+  {
+    "table_pos": 8208,
+    "mode": "A",
+    "start": 22970,
+    "length": 0,
+    "end": 22970,
+    "text": ""
+  },
+  {
+    "table_pos": 8224,
+    "mode": "A",
+    "start": 22970,
+    "length": 16,
+    "end": 22986,
+    "text": "start_mission_70"
+  },
+  {
+    "table_pos": 8240,
+    "mode": "A",
+    "start": 22986,
+    "length": 42,
+    "end": 23028,
+    "text": "Agora você pode aceitar uma nova missão!"
+  },
+  {
+    "table_pos": 8256,
+    "mode": "A",
+    "start": 23028,
+    "length": 0,
+    "end": 23028,
+    "text": ""
+  },
+  {
+    "table_pos": 8272,
+    "mode": "A",
+    "start": 23028,
+    "length": 16,
+    "end": 23044,
+    "text": "start_mission_71"
+  },
+  {
+    "table_pos": 8288,
+    "mode": "A",
+    "start": 23044,
+    "length": 65,
+    "end": 23109,
+    "text": "Seu XP aumentou o suficiente para você aceitar uma nova missão!"
+  },
+  {
+    "table_pos": 8304,
+    "mode": "A",
+    "start": 23109,
+    "length": 0,
+    "end": 23109,
+    "text": ""
+  },
+  {
+    "table_pos": 8320,
+    "mode": "A",
+    "start": 23109,
+    "length": 16,
+    "end": 23125,
+    "text": "start_mission_72"
+  },
+  {
+    "table_pos": 8336,
+    "mode": "A",
+    "start": 23125,
+    "length": 76,
+    "end": 23201,
+    "text": "Seu XP de Missão aumentou o suficiente para você aceitar uma nova missão!"
+  },
+  {
+    "table_pos": 8352,
+    "mode": "A",
+    "start": 23201,
+    "length": 0,
+    "end": 23201,
+    "text": ""
+  },
+  {
+    "table_pos": 8368,
+    "mode": "A",
+    "start": 23201,
+    "length": 16,
+    "end": 23217,
+    "text": "start_mission_73"
+  },
+  {
+    "table_pos": 8384,
+    "mode": "A",
+    "start": 23217,
+    "length": 43,
+    "end": 23260,
+    "text": "Agora você pode aceitar todas as missões!"
+  },
+  {
+    "table_pos": 8400,
+    "mode": "A",
+    "start": 23260,
+    "length": 0,
+    "end": 23260,
+    "text": ""
+  },
+  {
+    "table_pos": 8416,
+    "mode": "A",
+    "start": 23260,
+    "length": 16,
+    "end": 23276,
+    "text": "start_mission_74"
+  },
+  {
+    "table_pos": 8432,
+    "mode": "A",
+    "start": 23276,
+    "length": 12,
+    "end": 23288,
+    "text": "EM ANDAMENTO"
+  },
+  {
+    "table_pos": 8448,
+    "mode": "A",
+    "start": 23288,
+    "length": 0,
+    "end": 23288,
+    "text": ""
+  },
+  {
+    "table_pos": 8464,
+    "mode": "A",
+    "start": 23288,
+    "length": 16,
+    "end": 23304,
+    "text": "start_mission_75"
+  },
+  {
+    "table_pos": 8480,
+    "mode": "A",
+    "start": 23304,
+    "length": 20,
+    "end": 23324,
+    "text": "MISSÃO EM ANDAMENTO"
+  },
+  {
+    "table_pos": 8496,
+    "mode": "A",
+    "start": 23324,
+    "length": 0,
+    "end": 23324,
+    "text": ""
+  },
+  {
+    "table_pos": 8512,
+    "mode": "A",
+    "start": 23324,
+    "length": 16,
+    "end": 23340,
+    "text": "start_mission_76"
+  },
+  {
+    "table_pos": 8528,
+    "mode": "A",
+    "start": 23340,
+    "length": 27,
+    "end": 23367,
+    "text": "CONDIÇÃO(ÕES) DA MISSÃO"
+  },
+  {
+    "table_pos": 8544,
+    "mode": "A",
+    "start": 23367,
+    "length": 0,
+    "end": 23367,
+    "text": ""
+  },
+  {
+    "table_pos": 8560,
+    "mode": "A",
+    "start": 23367,
+    "length": 16,
+    "end": 23383,
+    "text": "start_mission_77"
+  },
+  {
+    "table_pos": 8576,
+    "mode": "A",
+    "start": 23383,
+    "length": 20,
+    "end": 23403,
+    "text": "PAGAMENTO DO CLIENTE"
+  },
+  {
+    "table_pos": 8592,
+    "mode": "A",
+    "start": 23403,
+    "length": 0,
+    "end": 23403,
+    "text": ""
+  },
+  {
+    "table_pos": 8608,
+    "mode": "A",
+    "start": 23403,
+    "length": 16,
+    "end": 23419,
+    "text": "start_mission_78"
+  },
+  {
+    "table_pos": 8624,
+    "mode": "A",
+    "start": 23419,
+    "length": 17,
+    "end": 23436,
+    "text": "ITEM DE PAGAMENTO"
+  },
+  {
+    "table_pos": 8640,
+    "mode": "A",
+    "start": 23436,
+    "length": 0,
+    "end": 23436,
+    "text": ""
+  },
+  {
+    "table_pos": 8656,
+    "mode": "A",
+    "start": 23436,
+    "length": 16,
+    "end": 23452,
+    "text": "start_mission_79"
+  },
+  {
+    "table_pos": 8672,
+    "mode": "A",
+    "start": 23452,
+    "length": 18,
+    "end": 23470,
+    "text": "VALOR DO PAGAMENTO"
+  },
+  {
+    "table_pos": 8688,
+    "mode": "A",
+    "start": 23470,
+    "length": 0,
+    "end": 23470,
+    "text": ""
+  },
+  {
+    "table_pos": 8704,
+    "mode": "A",
+    "start": 23470,
+    "length": 16,
+    "end": 23486,
+    "text": "start_mission_80"
+  },
+  {
+    "table_pos": 8720,
+    "mode": "A",
+    "start": 23486,
+    "length": 8,
+    "end": 23494,
+    "text": "DINHEIRO"
+  },
+  {
+    "table_pos": 8736,
+    "mode": "A",
+    "start": 23494,
+    "length": 0,
+    "end": 23494,
+    "text": ""
+  },
+  {
+    "table_pos": 8752,
+    "mode": "A",
+    "start": 23494,
+    "length": 16,
+    "end": 23510,
+    "text": "start_mission_81"
+  },
+  {
+    "table_pos": 8768,
+    "mode": "A",
+    "start": 23510,
+    "length": 24,
+    "end": 23534,
+    "text": "XP DE MISSÃO DE CAPTURA"
+  },
+  {
+    "table_pos": 8784,
+    "mode": "A",
+    "start": 23534,
+    "length": 0,
+    "end": 23534,
+    "text": ""
+  },
+  {
+    "table_pos": 8800,
+    "mode": "A",
+    "start": 23534,
+    "length": 16,
+    "end": 23550,
+    "text": "start_mission_82"
+  },
+  {
+    "table_pos": 8816,
+    "mode": "A",
+    "start": 23550,
+    "length": 16,
+    "end": 23566,
+    "text": "PERSONAGEM USADO"
+  },
+  {
+    "table_pos": 8832,
+    "mode": "A",
+    "start": 23566,
+    "length": 0,
+    "end": 23566,
+    "text": ""
+  },
+  {
+    "table_pos": 8848,
+    "mode": "A",
+    "start": 23566,
+    "length": 16,
+    "end": 23582,
+    "text": "start_mission_83"
+  },
+  {
+    "table_pos": 8864,
+    "mode": "A",
+    "start": 23582,
+    "length": 19,
+    "end": 23601,
+    "text": "OPONENTE DE BATALHA"
+  },
+  {
+    "table_pos": 8880,
+    "mode": "A",
+    "start": 23601,
+    "length": 0,
+    "end": 23601,
+    "text": ""
+  },
+  {
+    "table_pos": 8896,
+    "mode": "A",
+    "start": 23601,
+    "length": 16,
+    "end": 23617,
+    "text": "start_mission_84"
+  },
+  {
+    "table_pos": 8912,
+    "mode": "A",
+    "start": 23617,
+    "length": 22,
+    "end": 23639,
+    "text": "DETALHES DA CONDIÇÃO"
+  },
+  {
+    "table_pos": 8928,
+    "mode": "A",
+    "start": 23639,
+    "length": 0,
+    "end": 23639,
+    "text": ""
+  },
+  {
+    "table_pos": 8944,
+    "mode": "A",
+    "start": 23639,
+    "length": 16,
+    "end": 23655,
+    "text": "start_mission_85"
+  },
+  {
+    "table_pos": 8960,
+    "mode": "A",
+    "start": 23655,
+    "length": 36,
+    "end": 23691,
+    "text": "EXIBIÇÃO DE DETALHES DA CONDIÇÃO"
+  },
+  {
+    "table_pos": 8976,
+    "mode": "A",
+    "start": 23691,
+    "length": 0,
+    "end": 23691,
+    "text": ""
+  },
+  {
+    "table_pos": 8992,
+    "mode": "A",
+    "start": 23691,
+    "length": 16,
+    "end": 23707,
+    "text": "start_mission_87"
+  },
+  {
+    "table_pos": 9008,
+    "mode": "A",
+    "start": 23707,
+    "length": 23,
+    "end": 23730,
+    "text": "CONDIÇÃO(ÕES) BÔNUS"
+  },
+  {
+    "table_pos": 9024,
+    "mode": "A",
+    "start": 23730,
+    "length": 0,
+    "end": 23730,
+    "text": ""
+  },
+  {
+    "table_pos": 9040,
+    "mode": "A",
+    "start": 23730,
+    "length": 16,
+    "end": 23746,
+    "text": "start_mission_88"
+  },
+  {
+    "table_pos": 9056,
+    "mode": "A",
+    "start": 23746,
+    "length": 16,
+    "end": 23762,
+    "text": "PAGAMENTO BÔNUS"
+  },
+  {
+    "table_pos": 9072,
+    "mode": "A",
+    "start": 23762,
+    "length": 0,
+    "end": 23762,
+    "text": ""
+  },
+  {
+    "table_pos": 9088,
+    "mode": "A",
+    "start": 23762,
+    "length": 16,
+    "end": 23778,
+    "text": "start_mission_89"
+  },
+  {
+    "table_pos": 9104,
+    "mode": "A",
+    "start": 23778,
+    "length": 5,
+    "end": 23783,
+    "text": "TOTAL"
+  },
+  {
+    "table_pos": 9120,
+    "mode": "A",
+    "start": 23783,
+    "length": 0,
+    "end": 23783,
+    "text": ""
+  },
+  {
+    "table_pos": 9136,
+    "mode": "A",
+    "start": 23783,
+    "length": 16,
+    "end": 23799,
+    "text": "start_mission_90"
+  },
+  {
+    "table_pos": 9152,
+    "mode": "A",
+    "start": 23799,
+    "length": 11,
+    "end": 23810,
+    "text": "VALOR TOTAL"
+  },
+  {
+    "table_pos": 9168,
+    "mode": "A",
+    "start": 23810,
+    "length": 0,
+    "end": 23810,
+    "text": ""
+  },
+  {
+    "table_pos": 9184,
+    "mode": "A",
+    "start": 23810,
+    "length": 16,
+    "end": 23826,
+    "text": "start_mission_91"
+  },
+  {
+    "table_pos": 9200,
+    "mode": "A",
+    "start": 23826,
+    "length": 15,
+    "end": 23841,
+    "text": "PAGAMENTO TOTAL"
+  },
+  {
+    "table_pos": 9216,
+    "mode": "A",
+    "start": 23841,
+    "length": 0,
+    "end": 23841,
+    "text": ""
+  },
+  {
+    "table_pos": 9232,
+    "mode": "A",
+    "start": 23841,
+    "length": 16,
+    "end": 23857,
+    "text": "start_mission_92"
+  },
+  {
+    "table_pos": 9248,
+    "mode": "A",
+    "start": 23857,
+    "length": 27,
+    "end": 23884,
+    "text": "CONDIÇÃO(ÕES) DE BATALHA"
+  },
+  {
+    "table_pos": 9264,
+    "mode": "A",
+    "start": 23884,
+    "length": 0,
+    "end": 23884,
+    "text": ""
+  },
+  {
+    "table_pos": 9280,
+    "mode": "A",
+    "start": 23884,
+    "length": 16,
+    "end": 23900,
+    "text": "start_mission_93"
+  },
+  {
+    "table_pos": 9296,
+    "mode": "A",
+    "start": 23900,
+    "length": 7,
+    "end": 23907,
+    "text": "CLIENTE"
+  },
+  {
+    "table_pos": 9312,
+    "mode": "A",
+    "start": 23907,
+    "length": 0,
+    "end": 23907,
+    "text": ""
+  },
+  {
+    "table_pos": 9328,
+    "mode": "A",
+    "start": 23907,
+    "length": 16,
+    "end": 23923,
+    "text": "start_mission_94"
+  },
+  {
+    "table_pos": 9344,
+    "mode": "A",
+    "start": 23923,
+    "length": 24,
+    "end": 23947,
+    "text": "LOCALIZAÇÃO DO CLIENTE"
+  },
+  {
+    "table_pos": 9360,
+    "mode": "A",
+    "start": 23947,
+    "length": 0,
+    "end": 23947,
+    "text": ""
+  },
+  {
+    "table_pos": 9376,
+    "mode": "A",
+    "start": 23947,
+    "length": 16,
+    "end": 23963,
+    "text": "start_mission_95"
+  },
+  {
+    "table_pos": 9392,
+    "mode": "A",
+    "start": 23963,
+    "length": 29,
+    "end": 23992,
+    "text": "CONDIÇÃO(ÕES) ESPECIAL(IS)"
+  },
+  {
+    "table_pos": 9408,
+    "mode": "A",
+    "start": 23992,
+    "length": 0,
+    "end": 23992,
+    "text": ""
+  },
+  {
+    "table_pos": 9424,
+    "mode": "A",
+    "start": 23992,
+    "length": 16,
+    "end": 24008,
+    "text": "start_mission_96"
+  },
+  {
+    "table_pos": 9440,
+    "mode": "A",
+    "start": 24008,
+    "length": 6,
+    "end": 24014,
+    "text": "Pontos"
+  },
+  {
+    "table_pos": 9456,
+    "mode": "A",
+    "start": 24014,
+    "length": 0,
+    "end": 24014,
+    "text": ""
+  },
+  {
+    "table_pos": 9472,
+    "mode": "A",
+    "start": 24014,
+    "length": 16,
+    "end": 24030,
+    "text": "start_mission_97"
+  },
+  {
+    "table_pos": 9488,
+    "mode": "A",
+    "start": 24030,
+    "length": 42,
+    "end": 24072,
+    "text": "Esta missão não tem oponente de batalha."
+  },
+  {
+    "table_pos": 9504,
+    "mode": "A",
+    "start": 24072,
+    "length": 0,
+    "end": 24072,
+    "text": ""
+  },
+  {
+    "table_pos": 9520,
+    "mode": "A",
+    "start": 24072,
+    "length": 16,
+    "end": 24088,
+    "text": "start_mission_98"
+  },
+  {
+    "table_pos": 9536,
+    "mode": "A",
+    "start": 24088,
+    "length": 41,
+    "end": 24129,
+    "text": "Esta missão não tem condições bônus."
+  },
+  {
+    "table_pos": 9552,
+    "mode": "A",
+    "start": 24129,
+    "length": 0,
+    "end": 24129,
+    "text": ""
+  },
+  {
+    "table_pos": 9568,
+    "mode": "A",
+    "start": 24129,
+    "length": 16,
+    "end": 24145,
+    "text": "start_mission_99"
+  },
+  {
+    "table_pos": 9584,
+    "mode": "A",
+    "start": 24145,
+    "length": 41,
+    "end": 24186,
+    "text": "Esta missão não tem item de recompensa."
+  },
+  {
+    "table_pos": 9600,
+    "mode": "A",
+    "start": 24186,
+    "length": 0,
+    "end": 24186,
+    "text": ""
+  },
+  {
+    "table_pos": 9616,
+    "mode": "A",
+    "start": 24186,
+    "length": 17,
+    "end": 24203,
+    "text": "start_mission_100"
+  },
+  {
+    "table_pos": 9632,
+    "mode": "A",
+    "start": 24203,
+    "length": 8,
+    "end": 24211,
+    "text": "ESGOTADO"
+  },
+  {
+    "table_pos": 9648,
+    "mode": "A",
+    "start": 24211,
+    "length": 0,
+    "end": 24211,
+    "text": ""
+  },
+  {
+    "table_pos": 9664,
+    "mode": "A",
+    "start": 24211,
+    "length": 26,
+    "end": 24237,
+    "text": "start_mission_condition_01"
+  },
+  {
+    "table_pos": 9680,
+    "mode": "A",
+    "start": 24237,
+    "length": 26,
+    "end": 24263,
+    "text": "Cumpra todos os objetivos."
+  },
+  {
+    "table_pos": 9696,
+    "mode": "A",
+    "start": 24263,
+    "length": 0,
+    "end": 24263,
+    "text": ""
+  },
+  {
+    "table_pos": 9712,
+    "mode": "A",
+    "start": 24263,
+    "length": 26,
+    "end": 24289,
+    "text": "start_mission_condition_02"
+  },
+  {
+    "table_pos": 9728,
+    "mode": "A",
+    "start": 24289,
+    "length": 41,
+    "end": 24330,
+    "text": "Entregue o ramen antes que o tempo acabe."
+  },
+  {
+    "table_pos": 9744,
+    "mode": "A",
+    "start": 24330,
+    "length": 0,
+    "end": 24330,
+    "text": ""
+  },
+  {
+    "table_pos": 9760,
+    "mode": "A",
+    "start": 24330,
+    "length": 26,
+    "end": 24356,
+    "text": "start_mission_condition_03"
+  },
+  {
+    "table_pos": 9776,
+    "mode": "A",
+    "start": 24356,
+    "length": 25,
+    "end": 24381,
+    "text": "Não faça nada perigoso."
+  },
+  {
+    "table_pos": 9792,
+    "mode": "A",
+    "start": 24381,
+    "length": 0,
+    "end": 24381,
+    "text": ""
+  },
+  {
+    "table_pos": 9808,
+    "mode": "A",
+    "start": 24381,
+    "length": 26,
+    "end": 24407,
+    "text": "start_mission_condition_04"
+  },
+  {
+    "table_pos": 9824,
+    "mode": "A",
+    "start": 24407,
+    "length": 46,
+    "end": 24453,
+    "text": "Encontre o Konohamaru antes que o tempo acabe."
+  },
+  {
+    "table_pos": 9840,
+    "mode": "A",
+    "start": 24453,
+    "length": 0,
+    "end": 24453,
+    "text": ""
+  },
+  {
+    "table_pos": 9856,
+    "mode": "A",
+    "start": 24453,
+    "length": 26,
+    "end": 24479,
+    "text": "start_mission_condition_05"
+  },
+  {
+    "table_pos": 9872,
+    "mode": "A",
+    "start": 24479,
+    "length": 41,
+    "end": 24520,
+    "text": "Suba até o topo antes que o tempo acabe."
+  },
+  {
+    "table_pos": 9888,
+    "mode": "A",
+    "start": 24520,
+    "length": 0,
+    "end": 24520,
+    "text": ""
+  },
+  {
+    "table_pos": 9904,
+    "mode": "A",
+    "start": 24520,
+    "length": 26,
+    "end": 24546,
+    "text": "start_mission_condition_06"
+  },
+  {
+    "table_pos": 9920,
+    "mode": "A",
+    "start": 24546,
+    "length": 42,
+    "end": 24588,
+    "text": "Vença a Batalha de Captura de Pergaminho."
+  },
+  {
+    "table_pos": 9936,
+    "mode": "A",
+    "start": 24588,
+    "length": 0,
+    "end": 24588,
+    "text": ""
+  },
+  {
+    "table_pos": 9952,
+    "mode": "A",
+    "start": 24588,
+    "length": 26,
+    "end": 24614,
+    "text": "start_mission_condition_07"
+  },
+  {
+    "table_pos": 9968,
+    "mode": "A",
+    "start": 24614,
+    "length": 45,
+    "end": 24659,
+    "text": "Colete os itens-alvo antes que o tempo acabe."
+  },
+  {
+    "table_pos": 9984,
+    "mode": "A",
+    "start": 24659,
+    "length": 0,
+    "end": 24659,
+    "text": ""
+  },
+  {
+    "table_pos": 10000,
+    "mode": "A",
+    "start": 24659,
+    "length": 26,
+    "end": 24685,
+    "text": "start_mission_condition_08"
+  },
+  {
+    "table_pos": 10016,
+    "mode": "A",
+    "start": 24685,
+    "length": 40,
+    "end": 24725,
+    "text": "Vença a Corrida de Escalada de Árvore."
+  },
+  {
+    "table_pos": 10032,
+    "mode": "A",
+    "start": 24725,
+    "length": 0,
+    "end": 24725,
+    "text": ""
+  },
+  {
+    "table_pos": 10048,
+    "mode": "A",
+    "start": 24725,
+    "length": 26,
+    "end": 24751,
+    "text": "start_mission_condition_09"
+  },
+  {
+    "table_pos": 10064,
+    "mode": "A",
+    "start": 24751,
+    "length": 17,
+    "end": 24768,
+    "text": "Vença a batalha!"
+  },
+  {
+    "table_pos": 10080,
+    "mode": "A",
+    "start": 24768,
+    "length": 0,
+    "end": 24768,
+    "text": ""
+  },
+  {
+    "table_pos": 10096,
+    "mode": "A",
+    "start": 24768,
+    "length": 26,
+    "end": 24794,
+    "text": "start_mission_condition_10"
+  },
+  {
+    "table_pos": 10112,
+    "mode": "A",
+    "start": 24794,
+    "length": 39,
+    "end": 24833,
+    "text": "Cumpra todas as condições de batalha."
+  },
+  {
+    "table_pos": 10128,
+    "mode": "A",
+    "start": 24833,
+    "length": 0,
+    "end": 24833,
+    "text": ""
+  },
+  {
+    "table_pos": 10144,
+    "mode": "A",
+    "start": 24833,
+    "length": 26,
+    "end": 24859,
+    "text": "start_mission_condition_11"
+  },
+  {
+    "table_pos": 10160,
+    "mode": "A",
+    "start": 24859,
+    "length": 25,
+    "end": 24884,
+    "text": "Vença todas as batalhas."
+  },
+  {
+    "table_pos": 10176,
+    "mode": "A",
+    "start": 24884,
+    "length": 0,
+    "end": 24884,
+    "text": ""
+  },
+  {
+    "table_pos": 10192,
+    "mode": "A",
+    "start": 24884,
+    "length": 26,
+    "end": 24910,
+    "text": "start_mission_condition_12"
+  },
+  {
+    "table_pos": 10208,
+    "mode": "A",
+    "start": 24910,
+    "length": 36,
+    "end": 24946,
+    "text": "Use shurikens para acertar os alvos."
+  },
+  {
+    "table_pos": 10224,
+    "mode": "A",
+    "start": 24946,
+    "length": 0,
+    "end": 24946,
+    "text": ""
+  },
+  {
+    "table_pos": 10240,
+    "mode": "A",
+    "start": 24946,
+    "length": 26,
+    "end": 24972,
+    "text": "start_mission_condition_13"
+  },
+  {
+    "table_pos": 10256,
+    "mode": "A",
+    "start": 24972,
+    "length": 39,
+    "end": 25011,
+    "text": "Capture o alvo antes que o tempo acabe."
+  },
+  {
+    "table_pos": 10272,
+    "mode": "A",
+    "start": 25011,
+    "length": 0,
+    "end": 25011,
+    "text": ""
+  },
+  {
+    "table_pos": 10288,
+    "mode": "A",
+    "start": 25011,
+    "length": 26,
+    "end": 25037,
+    "text": "start_mission_condition_14"
+  },
+  {
+    "table_pos": 10304,
+    "mode": "A",
+    "start": 25037,
+    "length": 62,
+    "end": 25099,
+    "text": "Passe por todos os pontos de checagem antes que o tempo acabe."
+  },
+  {
+    "table_pos": 10320,
+    "mode": "A",
+    "start": 25099,
+    "length": 0,
+    "end": 25099,
+    "text": ""
+  },
+  {
+    "table_pos": 10336,
+    "mode": "A",
+    "start": 25099,
+    "length": 26,
+    "end": 25125,
+    "text": "start_mission_condition_15"
+  },
+  {
+    "table_pos": 10352,
+    "mode": "A",
+    "start": 25125,
+    "length": 52,
+    "end": 25177,
+    "text": "Entregue no ponto designado antes que o tempo acabe."
+  },
+  {
+    "table_pos": 10368,
+    "mode": "A",
+    "start": 25177,
+    "length": 0,
+    "end": 25177,
+    "text": ""
+  },
+  {
+    "table_pos": 10384,
+    "mode": "A",
+    "start": 25177,
+    "length": 26,
+    "end": 25203,
+    "text": "start_mission_condition_16"
+  },
+  {
+    "table_pos": 10400,
+    "mode": "A",
+    "start": 25203,
+    "length": 55,
+    "end": 25258,
+    "text": "Entregue nos pontos designados antes que o tempo acabe."
+  },
+  {
+    "table_pos": 10416,
+    "mode": "A",
+    "start": 25258,
+    "length": 0,
+    "end": 25258,
+    "text": ""
+  },
+  {
+    "table_pos": 10432,
+    "mode": "A",
+    "start": 25258,
+    "length": 26,
+    "end": 25284,
+    "text": "start_mission_condition_17"
+  },
+  {
+    "table_pos": 10448,
+    "mode": "A",
+    "start": 25284,
+    "length": 29,
+    "end": 25313,
+    "text": "Conclua o treino de shuriken."
+  },
+  {
+    "table_pos": 10464,
+    "mode": "A",
+    "start": 25313,
+    "length": 0,
+    "end": 25313,
+    "text": ""
+  },
+  {
+    "table_pos": 10480,
+    "mode": "A",
+    "start": 25313,
+    "length": 26,
+    "end": 25339,
+    "text": "start_mission_condition_18"
+  },
+  {
+    "table_pos": 10496,
+    "mode": "A",
+    "start": 25339,
+    "length": 68,
+    "end": 25407,
+    "text": "Passe por todos os pontos de checagem no ar antes que o tempo acabe."
+  },
+  {
+    "table_pos": 10512,
+    "mode": "A",
+    "start": 25407,
+    "length": 0,
+    "end": 25407,
+    "text": ""
+  },
+  {
+    "table_pos": 10528,
+    "mode": "A",
+    "start": 25407,
+    "length": 26,
+    "end": 25433,
+    "text": "start_mission_condition_19"
+  },
+  {
+    "table_pos": 10544,
+    "mode": "A",
+    "start": 25433,
+    "length": 25,
+    "end": 25458,
+    "text": "Vença a Batalha Gigante."
+  },
+  {
+    "table_pos": 10560,
+    "mode": "A",
+    "start": 25458,
+    "length": 0,
+    "end": 25458,
+    "text": ""
+  },
+  {
+    "table_pos": 10576,
+    "mode": "A",
+    "start": 25458,
+    "length": 31,
+    "end": 25489,
+    "text": "start_mission_condition_19_hard"
+  },
+  {
+    "table_pos": 10592,
+    "mode": "A",
+    "start": 25489,
+    "length": 44,
+    "end": 25533,
+    "text": "Vença a Batalha Gigante. (Nível: Difícil)"
+  },
+  {
+    "table_pos": 10608,
+    "mode": "A",
+    "start": 25533,
+    "length": 0,
+    "end": 25533,
+    "text": ""
+  },
+  {
+    "table_pos": 10624,
+    "mode": "A",
+    "start": 25533,
+    "length": 34,
+    "end": 25567,
+    "text": "start_mission_condition_19_hardest"
+  },
+  {
+    "table_pos": 10640,
+    "mode": "A",
+    "start": 25567,
+    "length": 59,
+    "end": 25626,
+    "text": "Vença todas as Batalhas Gigantes. (Nível: Muito Difícil)"
+  },
+  {
+    "table_pos": 10656,
+    "mode": "A",
+    "start": 25626,
+    "length": 0,
+    "end": 25626,
+    "text": ""
+  },
+  {
+    "table_pos": 10672,
+    "mode": "A",
+    "start": 25626,
+    "length": 26,
+    "end": 25652,
+    "text": "start_mission_condition_20"
+  },
+  {
+    "table_pos": 10688,
+    "mode": "A",
+    "start": 25652,
+    "length": 34,
+    "end": 25686,
+    "text": "Vença todas as Batalhas Gigantes."
+  },
+  {
+    "table_pos": 10704,
+    "mode": "A",
+    "start": 25686,
+    "length": 0,
+    "end": 25686,
+    "text": ""
+  },
+  {
+    "table_pos": 10720,
+    "mode": "A",
+    "start": 25686,
+    "length": 26,
+    "end": 25712,
+    "text": "start_mission_condition_21"
+  },
+  {
+    "table_pos": 10736,
+    "mode": "A",
+    "start": 25712,
+    "length": 40,
+    "end": 25752,
+    "text": "Comece o Manual Ninja do Naruto Uzumaki!"
+  },
+  {
+    "table_pos": 10752,
+    "mode": "A",
+    "start": 25752,
+    "length": 0,
+    "end": 25752,
+    "text": ""
+  },
+  {
+    "table_pos": 10768,
+    "mode": "A",
+    "start": 25752,
+    "length": 26,
+    "end": 25778,
+    "text": "start_mission_condition_22"
+  },
+  {
+    "table_pos": 10784,
+    "mode": "A",
+    "start": 25778,
+    "length": 29,
+    "end": 25807,
+    "text": "Aprenda o básico da batalha."
+  },
+  {
+    "table_pos": 10800,
+    "mode": "A",
+    "start": 25807,
+    "length": 0,
+    "end": 25807,
+    "text": ""
+  },
+  {
+    "table_pos": 10816,
+    "mode": "A",
+    "start": 25807,
+    "length": 26,
+    "end": 25833,
+    "text": "start_mission_condition_23"
+  },
+  {
+    "table_pos": 10832,
+    "mode": "A",
+    "start": 25833,
+    "length": 33,
+    "end": 25866,
+    "text": "Aprenda sobre trabalho em equipe."
+  },
+  {
+    "table_pos": 10848,
+    "mode": "A",
+    "start": 25866,
+    "length": 0,
+    "end": 25866,
+    "text": ""
+  },
+  {
+    "table_pos": 10864,
+    "mode": "A",
+    "start": 25866,
+    "length": 26,
+    "end": 25892,
+    "text": "start_mission_condition_24"
+  },
+  {
+    "table_pos": 10880,
+    "mode": "A",
+    "start": 25892,
+    "length": 30,
+    "end": 25922,
+    "text": "Domine as formas de movimento."
+  },
+  {
+    "table_pos": 10896,
+    "mode": "A",
+    "start": 25922,
+    "length": 0,
+    "end": 25922,
+    "text": ""
+  },
+  {
+    "table_pos": 10912,
+    "mode": "A",
+    "start": 25922,
+    "length": 26,
+    "end": 25948,
+    "text": "start_mission_condition_25"
+  },
+  {
+    "table_pos": 10928,
+    "mode": "A",
+    "start": 25948,
+    "length": 46,
+    "end": 25994,
+    "text": "Chegue ao seu destino antes que o tempo acabe."
+  },
+  {
+    "table_pos": 10944,
+    "mode": "A",
+    "start": 25994,
+    "length": 0,
+    "end": 25994,
+    "text": ""
+  },
+  {
+    "table_pos": 10960,
+    "mode": "A",
+    "start": 25994,
+    "length": 26,
+    "end": 26020,
+    "text": "start_mission_condition_26"
+  },
+  {
+    "table_pos": 10976,
+    "mode": "A",
+    "start": 26020,
+    "length": 44,
+    "end": 26064,
+    "text": "Aproxime-se do alvo antes que o tempo acabe."
+  },
+  {
+    "table_pos": 10992,
+    "mode": "A",
+    "start": 26064,
+    "length": 0,
+    "end": 26064,
+    "text": ""
+  },
+  {
+    "table_pos": 11008,
+    "mode": "A",
+    "start": 26064,
+    "length": 26,
+    "end": 26090,
+    "text": "start_mission_condition_27"
+  },
+  {
+    "table_pos": 11024,
+    "mode": "A",
+    "start": 26090,
+    "length": 39,
+    "end": 26129,
+    "text": "Alcance o alvo antes que o tempo acabe."
+  },
+  {
+    "table_pos": 11040,
+    "mode": "A",
+    "start": 26129,
+    "length": 0,
+    "end": 26129,
+    "text": ""
+  },
+  {
+    "table_pos": 11056,
+    "mode": "A",
+    "start": 26129,
+    "length": 26,
+    "end": 26155,
+    "text": "start_mission_condition_28"
+  },
+  {
+    "table_pos": 11072,
+    "mode": "A",
+    "start": 26155,
+    "length": 48,
+    "end": 26203,
+    "text": "Siga rumo ao futuro com o vento de uma nova era."
+  },
+  {
+    "table_pos": 11088,
+    "mode": "A",
+    "start": 26203,
+    "length": 0,
+    "end": 26203,
+    "text": ""
+  },
+  {
+    "table_pos": 11104,
+    "mode": "A",
+    "start": 26203,
+    "length": 19,
+    "end": 26222,
+    "text": "start_mission_ex_01"
+  },
+  {
+    "table_pos": 11120,
+    "mode": "A",
+    "start": 26222,
+    "length": 101,
+    "end": 26323,
+    "text": "Missões Secretas não entram na\ncontagem total de missões, e você\nnão recebe XP ao completá-las."
+  },
+  {
+    "table_pos": 11136,
+    "mode": "A",
+    "start": 26323,
+    "length": 0,
+    "end": 26323,
+    "text": ""
+  },
+  {
+    "table_pos": 11152,
+    "mode": "A",
+    "start": 26323,
+    "length": 19,
+    "end": 26342,
+    "text": "start_mission_ex_02"
+  },
+  {
+    "table_pos": 11168,
+    "mode": "A",
+    "start": 26342,
+    "length": 128,
+    "end": 26470,
+    "text": "Para aceitar esta Missão Flashback, você\nprecisa de uma certa quantidade de XP DE MISSÃO\ne deve completar 99 outras missões."
+  },
+  {
+    "table_pos": 11184,
+    "mode": "A",
+    "start": 26470,
+    "length": 0,
+    "end": 26470,
+    "text": ""
+  },
+  {
+    "table_pos": 11200,
+    "mode": "A",
+    "start": 26470,
+    "length": 19,
+    "end": 26489,
+    "text": "start_mission_ex_03"
+  },
+  {
+    "table_pos": 11216,
+    "mode": "A",
+    "start": 26489,
+    "length": 134,
+    "end": 26623,
+    "text": "Para aceitar esta Missão Flashback, você\nprecisa de uma certa quantidade de XP DE MISSÃO\ne deve completar todas as outras missões."
+  },
+  {
+    "table_pos": 11232,
+    "mode": "A",
+    "start": 26623,
+    "length": 0,
+    "end": 26623,
+    "text": ""
+  },
+  {
+    "table_pos": 11248,
+    "mode": "A",
+    "start": 26623,
+    "length": 19,
+    "end": 26642,
+    "text": "start_mission_ex_04"
+  },
+  {
+    "table_pos": 11264,
+    "mode": "A",
+    "start": 26642,
+    "length": 88,
+    "end": 26730,
+    "text": "Você não pode aceitar esta Missão\nFlashback antes de completar as\noutras 99 missões."
+  },
+  {
+    "table_pos": 11280,
+    "mode": "A",
+    "start": 26730,
+    "length": 0,
+    "end": 26730,
+    "text": ""
+  },
+  {
+    "table_pos": 11296,
+    "mode": "A",
+    "start": 26730,
+    "length": 19,
+    "end": 26749,
+    "text": "start_mission_ex_05"
+  },
+  {
+    "table_pos": 11312,
+    "mode": "A",
+    "start": 26749,
+    "length": 86,
+    "end": 26835,
+    "text": "Para aceitar esta Missão Flashback,\nvocê precisa completar todas as\noutras missões."
+  },
+  {
+    "table_pos": 11328,
+    "mode": "A",
+    "start": 26835,
+    "length": 0,
+    "end": 26835,
+    "text": ""
+  },
+  {
+    "table_pos": 11344,
+    "mode": "A",
+    "start": 26835,
+    "length": 4,
+    "end": 26839,
+    "text": "co01"
+  },
+  {
+    "table_pos": 11360,
+    "mode": "A",
+    "start": 26839,
+    "length": 7,
+    "end": 26846,
+    "text": "FIGURAS"
+  },
+  {
+    "table_pos": 11376,
+    "mode": "A",
+    "start": 26846,
+    "length": 0,
+    "end": 26846,
+    "text": ""
+  },
+  {
+    "table_pos": 11392,
+    "mode": "A",
+    "start": 26846,
+    "length": 4,
+    "end": 26850,
+    "text": "co02"
+  },
+  {
+    "table_pos": 11408,
+    "mode": "A",
+    "start": 26850,
+    "length": 5,
+    "end": 26855,
+    "text": "VOZES"
+  },
+  {
+    "table_pos": 11424,
+    "mode": "A",
+    "start": 26855,
+    "length": 0,
+    "end": 26855,
+    "text": ""
+  },
+  {
+    "table_pos": 11440,
+    "mode": "A",
+    "start": 26855,
+    "length": 4,
+    "end": 26859,
+    "text": "co03"
+  },
+  {
+    "table_pos": 11456,
+    "mode": "A",
+    "start": 26859,
+    "length": 7,
+    "end": 26866,
+    "text": "MÚSICA"
+  },
+  {
+    "table_pos": 11472,
+    "mode": "A",
+    "start": 26866,
+    "length": 0,
+    "end": 26866,
+    "text": ""
+  },
+  {
+    "table_pos": 11488,
+    "mode": "A",
+    "start": 26866,
+    "length": 4,
+    "end": 26870,
+    "text": "co04"
+  },
+  {
+    "table_pos": 11504,
+    "mode": "A",
+    "start": 26870,
+    "length": 27,
+    "end": 26897,
+    "text": "VÍDEOS DE JUTSU DEFINITIVO"
+  },
+  {
+    "table_pos": 11520,
+    "mode": "A",
+    "start": 26897,
+    "length": 0,
+    "end": 26897,
+    "text": ""
+  },
+  {
+    "table_pos": 11536,
+    "mode": "A",
+    "start": 26897,
+    "length": 4,
+    "end": 26901,
+    "text": "co05"
+  },
+  {
+    "table_pos": 11552,
+    "mode": "A",
+    "start": 26901,
+    "length": 10,
+    "end": 26911,
+    "text": "MUDAR POSE"
+  },
+  {
+    "table_pos": 11568,
+    "mode": "A",
+    "start": 26911,
+    "length": 0,
+    "end": 26911,
+    "text": ""
+  },
+  {
+    "table_pos": 11584,
+    "mode": "A",
+    "start": 26911,
+    "length": 4,
+    "end": 26915,
+    "text": "co06"
+  },
+  {
+    "table_pos": 11600,
+    "mode": "A",
+    "start": 26915,
+    "length": 5,
+    "end": 26920,
+    "text": "MOVER"
+  },
+  {
+    "table_pos": 11616,
+    "mode": "A",
+    "start": 26920,
+    "length": 0,
+    "end": 26920,
+    "text": ""
+  },
+  {
+    "table_pos": 11632,
+    "mode": "A",
+    "start": 26920,
+    "length": 4,
+    "end": 26924,
+    "text": "co07"
+  },
+  {
+    "table_pos": 11648,
+    "mode": "A",
+    "start": 26924,
+    "length": 5,
+    "end": 26929,
+    "text": "GIRAR"
+  },
+  {
+    "table_pos": 11664,
+    "mode": "A",
+    "start": 26929,
+    "length": 0,
+    "end": 26929,
+    "text": ""
+  },
+  {
+    "table_pos": 11680,
+    "mode": "A",
+    "start": 26929,
+    "length": 4,
+    "end": 26933,
+    "text": "co08"
+  },
+  {
+    "table_pos": 11696,
+    "mode": "A",
+    "start": 26933,
+    "length": 9,
+    "end": 26942,
+    "text": "APROXIMAR"
+  },
+  {
+    "table_pos": 11712,
+    "mode": "A",
+    "start": 26942,
+    "length": 0,
+    "end": 26942,
+    "text": ""
+  },
+  {
+    "table_pos": 11728,
+    "mode": "A",
+    "start": 26942,
+    "length": 4,
+    "end": 26946,
+    "text": "co09"
+  },
+  {
+    "table_pos": 11744,
+    "mode": "A",
+    "start": 26946,
+    "length": 7,
+    "end": 26953,
+    "text": "AFASTAR"
+  },
+  {
+    "table_pos": 11760,
+    "mode": "A",
+    "start": 26953,
+    "length": 0,
+    "end": 26953,
+    "text": ""
+  },
+  {
+    "table_pos": 11776,
+    "mode": "A",
+    "start": 26953,
+    "length": 4,
+    "end": 26957,
+    "text": "co10"
+  },
+  {
+    "table_pos": 11792,
+    "mode": "A",
+    "start": 26957,
+    "length": 10,
+    "end": 26967,
+    "text": "REPRODUZIR"
+  },
+  {
+    "table_pos": 11808,
+    "mode": "A",
+    "start": 26967,
+    "length": 0,
+    "end": 26967,
+    "text": ""
+  },
+  {
+    "table_pos": 11824,
+    "mode": "A",
+    "start": 26967,
+    "length": 4,
+    "end": 26971,
+    "text": "co11"
+  },
+  {
+    "table_pos": 11840,
+    "mode": "A",
+    "start": 26971,
+    "length": 14,
+    "end": 26985,
+    "text": "CARTA DE JUTSU"
+  },
+  {
+    "table_pos": 11856,
+    "mode": "A",
+    "start": 26985,
+    "length": 0,
+    "end": 26985,
+    "text": ""
+  },
+  {
+    "table_pos": 11872,
+    "mode": "A",
+    "start": 26985,
+    "length": 4,
+    "end": 26989,
+    "text": "co12"
+  },
+  {
+    "table_pos": 11888,
+    "mode": "A",
+    "start": 26989,
+    "length": 14,
+    "end": 27003,
+    "text": "FIGURA DIORAMA"
+  },
+  {
+    "table_pos": 11904,
+    "mode": "A",
+    "start": 27003,
+    "length": 0,
+    "end": 27003,
+    "text": ""
+  },
+  {
+    "table_pos": 11920,
+    "mode": "A",
+    "start": 27003,
+    "length": 4,
+    "end": 27007,
+    "text": "co13"
+  },
+  {
+    "table_pos": 11936,
+    "mode": "A",
+    "start": 27007,
+    "length": 69,
+    "end": 27076,
+    "text": "Você pode ver aqui qualquer Item de Colecionador que tenha comprado."
+  },
+  {
+    "table_pos": 11952,
+    "mode": "A",
+    "start": 27076,
+    "length": 0,
+    "end": 27076,
+    "text": ""
+  },
+  {
+    "table_pos": 11968,
+    "mode": "A",
+    "start": 27076,
+    "length": 4,
+    "end": 27080,
+    "text": "co14"
+  },
+  {
+    "table_pos": 11984,
+    "mode": "A",
+    "start": 27080,
+    "length": 47,
+    "end": 27127,
+    "text": "Selecione um personagem ou item que deseja ver."
+  },
+  {
+    "table_pos": 12000,
+    "mode": "A",
+    "start": 27127,
+    "length": 0,
+    "end": 27127,
+    "text": ""
+  },
+  {
+    "table_pos": 12016,
+    "mode": "A",
+    "start": 27127,
+    "length": 4,
+    "end": 27131,
+    "text": "co15"
+  },
+  {
+    "table_pos": 12032,
+    "mode": "A",
+    "start": 27131,
+    "length": 24,
+    "end": 27155,
+    "text": "Selecione uma categoria."
+  },
+  {
+    "table_pos": 12048,
+    "mode": "A",
+    "start": 27155,
+    "length": 0,
+    "end": 27155,
+    "text": ""
+  },
+  {
+    "table_pos": 12064,
+    "mode": "A",
+    "start": 27155,
+    "length": 4,
+    "end": 27159,
+    "text": "co16"
+  },
+  {
+    "table_pos": 12080,
+    "mode": "A",
+    "start": 27159,
+    "length": 42,
+    "end": 27201,
+    "text": "Veja a versão em figura de um personagem."
+  },
+  {
+    "table_pos": 12096,
+    "mode": "A",
+    "start": 27201,
+    "length": 0,
+    "end": 27201,
+    "text": ""
+  },
+  {
+    "table_pos": 12112,
+    "mode": "A",
+    "start": 27201,
+    "length": 4,
+    "end": 27205,
+    "text": "co17"
+  },
+  {
+    "table_pos": 12128,
+    "mode": "A",
+    "start": 27205,
+    "length": 33,
+    "end": 27238,
+    "text": "Ouça a música de um personagem."
+  },
+  {
+    "table_pos": 12144,
+    "mode": "A",
+    "start": 27238,
+    "length": 0,
+    "end": 27238,
+    "text": ""
+  },
+  {
+    "table_pos": 12160,
+    "mode": "A",
+    "start": 27238,
+    "length": 4,
+    "end": 27242,
+    "text": "co18"
+  },
+  {
+    "table_pos": 12176,
+    "mode": "A",
+    "start": 27242,
+    "length": 24,
+    "end": 27266,
+    "text": "Ouça a música do jogo."
+  },
+  {
+    "table_pos": 12192,
+    "mode": "A",
+    "start": 27266,
+    "length": 0,
+    "end": 27266,
+    "text": ""
+  },
+  {
+    "table_pos": 12208,
+    "mode": "A",
+    "start": 27266,
+    "length": 4,
+    "end": 27270,
+    "text": "co19"
+  },
+  {
+    "table_pos": 12224,
+    "mode": "A",
+    "start": 27270,
+    "length": 41,
+    "end": 27311,
+    "text": "Assista ao vídeo de um Jutsu Definitivo."
+  },
+  {
+    "table_pos": 12240,
+    "mode": "A",
+    "start": 27311,
+    "length": 0,
+    "end": 27311,
+    "text": ""
+  },
+  {
+    "table_pos": 12256,
+    "mode": "A",
+    "start": 27311,
+    "length": 4,
+    "end": 27315,
+    "text": "co20"
+  },
+  {
+    "table_pos": 12272,
+    "mode": "A",
+    "start": 27315,
+    "length": 33,
+    "end": 27348,
+    "text": "Selecione um item que deseja ver."
+  },
+  {
+    "table_pos": 12288,
+    "mode": "A",
+    "start": 27348,
+    "length": 0,
+    "end": 27348,
+    "text": ""
+  },
+  {
+    "table_pos": 12304,
+    "mode": "A",
+    "start": 27348,
+    "length": 4,
+    "end": 27352,
+    "text": "co21"
+  },
+  {
+    "table_pos": 12320,
+    "mode": "A",
+    "start": 27352,
+    "length": 25,
+    "end": 27377,
+    "text": "Você não pode ver isso."
+  },
+  {
+    "table_pos": 12336,
+    "mode": "A",
+    "start": 27377,
+    "length": 0,
+    "end": 27377,
+    "text": ""
+  },
+  {
+    "table_pos": 12352,
+    "mode": "A",
+    "start": 27377,
+    "length": 4,
+    "end": 27381,
+    "text": "co22"
+  },
+  {
+    "table_pos": 12368,
+    "mode": "A",
+    "start": 27381,
+    "length": 32,
+    "end": 27413,
+    "text": "Ouça trechos de voz e músicas."
+  },
+  {
+    "table_pos": 12384,
+    "mode": "A",
+    "start": 27413,
+    "length": 0,
+    "end": 27413,
+    "text": ""
+  },
+  {
+    "table_pos": 12400,
+    "mode": "A",
+    "start": 27413,
+    "length": 4,
+    "end": 27417,
+    "text": "co23"
+  },
+  {
+    "table_pos": 12416,
+    "mode": "A",
+    "start": 27417,
+    "length": 24,
+    "end": 27441,
+    "text": "Selecione um personagem."
+  },
+  {
+    "table_pos": 12432,
+    "mode": "A",
+    "start": 27441,
+    "length": 0,
+    "end": 27441,
+    "text": ""
+  },
+  {
+    "table_pos": 12448,
+    "mode": "A",
+    "start": 27441,
+    "length": 4,
+    "end": 27445,
+    "text": "co24"
+  },
+  {
+    "table_pos": 12464,
+    "mode": "A",
+    "start": 27445,
+    "length": 44,
+    "end": 27489,
+    "text": "Selecione uma faixa de voz que deseja ouvir."
+  },
+  {
+    "table_pos": 12480,
+    "mode": "A",
+    "start": 27489,
+    "length": 0,
+    "end": 27489,
+    "text": ""
+  },
+  {
+    "table_pos": 12496,
+    "mode": "A",
+    "start": 27489,
+    "length": 4,
+    "end": 27493,
+    "text": "co25"
+  },
+  {
+    "table_pos": 12512,
+    "mode": "A",
+    "start": 27493,
+    "length": 48,
+    "end": 27541,
+    "text": "Selecione uma faixa de música que deseja ouvir."
+  },
+  {
+    "table_pos": 12528,
+    "mode": "A",
+    "start": 27541,
+    "length": 0,
+    "end": 27541,
+    "text": ""
+  },
+  {
+    "table_pos": 12544,
+    "mode": "A",
+    "start": 27541,
+    "length": 4,
+    "end": 27545,
+    "text": "co26"
+  },
+  {
+    "table_pos": 12560,
+    "mode": "A",
+    "start": 27545,
+    "length": 50,
+    "end": 27595,
+    "text": "Selecione um Jutsu Definitivo que deseja assistir."
+  },
+  {
+    "table_pos": 12576,
+    "mode": "A",
+    "start": 27595,
+    "length": 0,
+    "end": 27595,
+    "text": ""
+  },
+  {
+    "table_pos": 12592,
+    "mode": "A",
+    "start": 27595,
+    "length": 4,
+    "end": 27599,
+    "text": "co27"
+  },
+  {
+    "table_pos": 12608,
+    "mode": "A",
+    "start": 27599,
+    "length": 22,
+    "end": 27621,
+    "text": "Selecione um oponente."
+  },
+  {
+    "table_pos": 12624,
+    "mode": "A",
+    "start": 27621,
+    "length": 0,
+    "end": 27621,
+    "text": ""
+  },
+  {
+    "table_pos": 12640,
+    "mode": "A",
+    "start": 27621,
+    "length": 4,
+    "end": 27625,
+    "text": "co28"
+  },
+  {
+    "table_pos": 12656,
+    "mode": "A",
+    "start": 27625,
+    "length": 22,
+    "end": 27647,
+    "text": "Selecione um cenário."
+  },
+  {
+    "table_pos": 12672,
+    "mode": "A",
+    "start": 27647,
+    "length": 0,
+    "end": 27647,
+    "text": ""
+  },
+  {
+    "table_pos": 12688,
+    "mode": "A",
+    "start": 27647,
+    "length": 4,
+    "end": 27651,
+    "text": "co29"
+  },
+  {
+    "table_pos": 12704,
+    "mode": "A",
+    "start": 27651,
+    "length": 44,
+    "end": 27695,
+    "text": "Veja uma carta com o jutsu de um personagem."
+  },
+  {
+    "table_pos": 12720,
+    "mode": "A",
+    "start": 27695,
+    "length": 0,
+    "end": 27695,
+    "text": ""
+  },
+  {
+    "table_pos": 12736,
+    "mode": "A",
+    "start": 27695,
+    "length": 4,
+    "end": 27699,
+    "text": "co30"
+  },
+  {
+    "table_pos": 12752,
+    "mode": "A",
+    "start": 27699,
+    "length": 65,
+    "end": 27764,
+    "text": "Veja figuras em recriações de cenas famosas da série original."
+  },
+  {
+    "table_pos": 12768,
+    "mode": "A",
+    "start": 27764,
+    "length": 0,
+    "end": 27764,
+    "text": ""
+  },
+  {
+    "table_pos": 12784,
+    "mode": "A",
+    "start": 27764,
+    "length": 4,
+    "end": 27768,
+    "text": "co31"
+  },
+  {
+    "table_pos": 12800,
+    "mode": "A",
+    "start": 27768,
+    "length": 9,
+    "end": 27777,
+    "text": "CENÁRIO:"
+  },
+  {
+    "table_pos": 12816,
+    "mode": "A",
+    "start": 27777,
+    "length": 0,
+    "end": 27777,
+    "text": ""
+  },
+  {
+    "table_pos": 12832,
+    "mode": "A",
+    "start": 27777,
+    "length": 4,
+    "end": 27781,
+    "text": "co32"
+  },
+  {
+    "table_pos": 12848,
+    "mode": "A",
+    "start": 27781,
+    "length": 21,
+    "end": 27802,
+    "text": "SELEÇÃO DE CENÁRIO"
+  },
+  {
+    "table_pos": 12864,
+    "mode": "A",
+    "start": 27802,
+    "length": 0,
+    "end": 27802,
+    "text": ""
+  },
+  {
+    "table_pos": 12880,
+    "mode": "A",
+    "start": 27802,
+    "length": 4,
+    "end": 27806,
+    "text": "co33"
+  },
+  {
+    "table_pos": 12896,
+    "mode": "A",
+    "start": 27806,
+    "length": 27,
+    "end": 27833,
+    "text": "SELECIONAR JUTSU DEFINITIVO"
+  },
+  {
+    "table_pos": 12912,
+    "mode": "A",
+    "start": 27833,
+    "length": 0,
+    "end": 27833,
+    "text": ""
+  },
+  {
+    "table_pos": 12928,
+    "mode": "A",
+    "start": 27833,
+    "length": 4,
+    "end": 27837,
+    "text": "co34"
+  },
+  {
+    "table_pos": 12944,
+    "mode": "A",
+    "start": 27837,
+    "length": 19,
+    "end": 27856,
+    "text": "SELECIONAR OPONENTE"
+  },
+  {
+    "table_pos": 12960,
+    "mode": "A",
+    "start": 27856,
+    "length": 0,
+    "end": 27856,
+    "text": ""
+  },
+  {
+    "table_pos": 12976,
+    "mode": "A",
+    "start": 27856,
+    "length": 4,
+    "end": 27860,
+    "text": "co35"
+  },
+  {
+    "table_pos": 12992,
+    "mode": "A",
+    "start": 27860,
+    "length": 15,
+    "end": 27875,
+    "text": "Voltar ao jogo?"
+  },
+  {
+    "table_pos": 13008,
+    "mode": "A",
+    "start": 27875,
+    "length": 0,
+    "end": 27875,
+    "text": ""
+  },
+  {
+    "table_pos": 13024,
+    "mode": "A",
+    "start": 27875,
+    "length": 4,
+    "end": 27879,
+    "text": "co36"
+  },
+  {
+    "table_pos": 13040,
+    "mode": "A",
+    "start": 27879,
+    "length": 33,
+    "end": 27912,
+    "text": "Você conseguiu todas as Figuras!"
+  },
+  {
+    "table_pos": 13056,
+    "mode": "A",
+    "start": 27912,
+    "length": 0,
+    "end": 27912,
+    "text": ""
+  },
+  {
+    "table_pos": 13072,
+    "mode": "A",
+    "start": 27912,
+    "length": 4,
+    "end": 27916,
+    "text": "co37"
+  },
+  {
+    "table_pos": 13088,
+    "mode": "A",
+    "start": 27916,
+    "length": 53,
+    "end": 27969,
+    "text": "Você conseguiu todos os Vídeos\nde Jutsu Definitivo!"
+  },
+  {
+    "table_pos": 13104,
+    "mode": "A",
+    "start": 27969,
+    "length": 0,
+    "end": 27969,
+    "text": ""
+  },
+  {
+    "table_pos": 13120,
+    "mode": "A",
+    "start": 27969,
+    "length": 4,
+    "end": 27973,
+    "text": "co38"
+  },
+  {
+    "table_pos": 13136,
+    "mode": "A",
+    "start": 27973,
+    "length": 34,
+    "end": 28007,
+    "text": "Você conseguiu todas as Músicas!"
+  },
+  {
+    "table_pos": 13152,
+    "mode": "A",
+    "start": 28007,
+    "length": 0,
+    "end": 28007,
+    "text": ""
+  },
+  {
+    "table_pos": 13168,
+    "mode": "A",
+    "start": 28007,
+    "length": 4,
+    "end": 28011,
+    "text": "co39"
+  },
+  {
+    "table_pos": 13184,
+    "mode": "A",
+    "start": 28011,
+    "length": 34,
+    "end": 28045,
+    "text": "Você conseguiu todos os Dioramas!"
+  },
+  {
+    "table_pos": 13200,
+    "mode": "A",
+    "start": 28045,
+    "length": 0,
+    "end": 28045,
+    "text": ""
+  },
+  {
+    "table_pos": 13216,
+    "mode": "A",
+    "start": 28045,
+    "length": 4,
+    "end": 28049,
+    "text": "co40"
+  },
+  {
+    "table_pos": 13232,
+    "mode": "A",
+    "start": 28049,
+    "length": 8,
+    "end": 28057,
+    "text": "COLETADO"
+  },
+  {
+    "table_pos": 13248,
+    "mode": "A",
+    "start": 28057,
+    "length": 0,
+    "end": 28057,
+    "text": ""
+  },
+  {
+    "table_pos": 13264,
+    "mode": "A",
+    "start": 28057,
+    "length": 4,
+    "end": 28061,
+    "text": "co41"
+  },
+  {
+    "table_pos": 13280,
+    "mode": "A",
+    "start": 28061,
+    "length": 6,
+    "end": 28067,
+    "text": "OBTIDO"
+  },
+  {
+    "table_pos": 13296,
+    "mode": "A",
+    "start": 28067,
+    "length": 0,
+    "end": 28067,
+    "text": ""
+  },
+  {
+    "table_pos": 13312,
+    "mode": "A",
+    "start": 28067,
+    "length": 4,
+    "end": 28071,
+    "text": "co42"
+  },
+  {
+    "table_pos": 13328,
+    "mode": "A",
+    "start": 28071,
+    "length": 34,
+    "end": 28105,
+    "text": "Você completou todos os Dioramas!"
+  },
+  {
+    "table_pos": 13344,
+    "mode": "A",
+    "start": 28105,
+    "length": 0,
+    "end": 28105,
+    "text": ""
+  },
+  {
+    "table_pos": 13360,
+    "mode": "A",
+    "start": 28105,
+    "length": 18,
+    "end": 28123,
+    "text": "start_interrupt_01"
+  },
+  {
+    "table_pos": 13376,
+    "mode": "A",
+    "start": 28123,
+    "length": 11,
+    "end": 28134,
+    "text": "Sair agora?"
+  },
+  {
+    "table_pos": 13392,
+    "mode": "A",
+    "start": 28134,
+    "length": 0,
+    "end": 28134,
+    "text": ""
+  },
+  {
+    "table_pos": 13408,
+    "mode": "A",
+    "start": 28134,
+    "length": 18,
+    "end": 28152,
+    "text": "start_interrupt_02"
+  },
+  {
+    "table_pos": 13424,
+    "mode": "A",
+    "start": 28152,
+    "length": 45,
+    "end": 28197,
+    "text": "Se você sair agora, o jogo não será salvo."
+  },
+  {
+    "table_pos": 13440,
+    "mode": "A",
+    "start": 28197,
+    "length": 0,
+    "end": 28197,
+    "text": ""
+  },
+  {
+    "table_pos": 13456,
+    "mode": "A",
+    "start": 28197,
+    "length": 18,
+    "end": 28215,
+    "text": "start_interrupt_03"
+  },
+  {
+    "table_pos": 13472,
+    "mode": "A",
+    "start": 28215,
+    "length": 74,
+    "end": 28289,
+    "text": "Da próxima vez, você começará a partir\ndo último ponto de salvamento."
+  },
+  {
+    "table_pos": 13488,
+    "mode": "A",
+    "start": 28289,
+    "length": 0,
+    "end": 28289,
+    "text": ""
+  },
+  {
+    "table_pos": 13504,
+    "mode": "A",
+    "start": 28289,
+    "length": 18,
+    "end": 28307,
+    "text": "start_interrupt_04"
+  },
+  {
+    "table_pos": 13520,
+    "mode": "A",
+    "start": 28307,
+    "length": 36,
+    "end": 28343,
+    "text": "Voltar à tela de Seleção de Modo?"
+  },
+  {
+    "table_pos": 13536,
+    "mode": "A",
+    "start": 28343,
+    "length": 0,
+    "end": 28343,
+    "text": ""
+  },
+  {
+    "table_pos": 13552,
+    "mode": "A",
+    "start": 28343,
+    "length": 18,
+    "end": 28361,
+    "text": "start_interrupt_05"
+  },
+  {
+    "table_pos": 13568,
+    "mode": "A",
+    "start": 28361,
+    "length": 26,
+    "end": 28387,
+    "text": "Abandonar a missão atual."
+  },
+  {
+    "table_pos": 13584,
+    "mode": "A",
+    "start": 28387,
+    "length": 0,
+    "end": 28387,
+    "text": ""
+  },
+  {
+    "table_pos": 13600,
+    "mode": "A",
+    "start": 28387,
+    "length": 18,
+    "end": 28405,
+    "text": "start_interrupt_06"
+  },
+  {
+    "table_pos": 13616,
+    "mode": "A",
+    "start": 28405,
+    "length": 22,
+    "end": 28427,
+    "text": "Cancelar esta missão?"
+  },
+  {
+    "table_pos": 13632,
+    "mode": "A",
+    "start": 28427,
+    "length": 0,
+    "end": 28427,
+    "text": ""
+  },
+  {
+    "table_pos": 13648,
+    "mode": "A",
+    "start": 28427,
+    "length": 18,
+    "end": 28445,
+    "text": "start_interrupt_07"
+  },
+  {
+    "table_pos": 13664,
+    "mode": "A",
+    "start": 28445,
+    "length": 66,
+    "end": 28511,
+    "text": "Se você cancelar a missão agora,\ntodo o progresso será perdido."
+  },
+  {
+    "table_pos": 13680,
+    "mode": "A",
+    "start": 28511,
+    "length": 0,
+    "end": 28511,
+    "text": ""
+  },
+  {
+    "table_pos": 13696,
+    "mode": "A",
+    "start": 28511,
+    "length": 18,
+    "end": 28529,
+    "text": "start_interrupt_08"
+  },
+  {
+    "table_pos": 13712,
+    "mode": "A",
+    "start": 28529,
+    "length": 18,
+    "end": 28547,
+    "text": "Missão cancelada."
+  },
+  {
+    "table_pos": 13728,
+    "mode": "A",
+    "start": 28547,
+    "length": 0,
+    "end": 28547,
+    "text": ""
+  },
+  {
+    "table_pos": 13744,
+    "mode": "A",
+    "start": 28547,
+    "length": 18,
+    "end": 28565,
+    "text": "start_interrupt_09"
+  },
+  {
+    "table_pos": 13760,
+    "mode": "A",
+    "start": 28565,
+    "length": 29,
+    "end": 28594,
+    "text": "Tentar novamente. Tudo certo?"
+  },
+  {
+    "table_pos": 13776,
+    "mode": "A",
+    "start": 28594,
+    "length": 0,
+    "end": 28594,
+    "text": ""
+  },
+  {
+    "table_pos": 13792,
+    "mode": "A",
+    "start": 28594,
+    "length": 18,
+    "end": 28612,
+    "text": "start_interrupt_10"
+  },
+  {
+    "table_pos": 13808,
+    "mode": "A",
+    "start": 28612,
+    "length": 26,
+    "end": 28638,
+    "text": "Abrir o Menu de Coleção?"
+  },
+  {
+    "table_pos": 13824,
+    "mode": "A",
+    "start": 28638,
+    "length": 0,
+    "end": 28638,
+    "text": ""
+  },
+  {
+    "table_pos": 13840,
+    "mode": "A",
+    "start": 28638,
+    "length": 18,
+    "end": 28656,
+    "text": "start_interrupt_11"
+  },
+  {
+    "table_pos": 13856,
+    "mode": "A",
+    "start": 28656,
+    "length": 75,
+    "end": 28731,
+    "text": "Você não tem itens de coleção,\nentão esta opção está indisponível."
+  },
+  {
+    "table_pos": 13872,
+    "mode": "A",
+    "start": 28731,
+    "length": 0,
+    "end": 28731,
+    "text": ""
+  },
+  {
+    "table_pos": 13888,
+    "mode": "A",
+    "start": 28731,
+    "length": 18,
+    "end": 28749,
+    "text": "start_interrupt_12"
+  },
+  {
+    "table_pos": 13904,
+    "mode": "A",
+    "start": 28749,
+    "length": 40,
+    "end": 28789,
+    "text": "Você realmente deseja tentar novamente?"
+  },
+  {
+    "table_pos": 13920,
+    "mode": "A",
+    "start": 28789,
+    "length": 0,
+    "end": 28789,
+    "text": ""
+  },
+  {
+    "table_pos": 13936,
+    "mode": "A",
+    "start": 28789,
+    "length": 18,
+    "end": 28807,
+    "text": "start_interrupt_13"
+  },
+  {
+    "table_pos": 13952,
+    "mode": "A",
+    "start": 28807,
+    "length": 24,
+    "end": 28831,
+    "text": "Deseja tentar novamente?"
+  },
+  {
+    "table_pos": 13968,
+    "mode": "A",
+    "start": 28831,
+    "length": 0,
+    "end": 28831,
+    "text": ""
+  },
+  {
+    "table_pos": 13984,
+    "mode": "A",
+    "start": 28831,
+    "length": 18,
+    "end": 28849,
+    "text": "start_interrupt_14"
+  },
+  {
+    "table_pos": 14000,
+    "mode": "A",
+    "start": 28849,
+    "length": 42,
+    "end": 28891,
+    "text": "Voltar à tela de Seleção de Personagem?"
+  },
+  {
+    "table_pos": 14016,
+    "mode": "A",
+    "start": 28891,
+    "length": 0,
+    "end": 28891,
+    "text": ""
+  },
+  {
+    "table_pos": 14032,
+    "mode": "A",
+    "start": 28891,
+    "length": 18,
+    "end": 28909,
+    "text": "start_interrupt_15"
+  },
+  {
+    "table_pos": 14048,
+    "mode": "A",
+    "start": 28909,
+    "length": 36,
+    "end": 28945,
+    "text": "Voltar à tela de Seleção de Modo?"
+  },
+  {
+    "table_pos": 14064,
+    "mode": "A",
+    "start": 28945,
+    "length": 0,
+    "end": 28945,
+    "text": ""
+  },
+  {
+    "table_pos": 14080,
+    "mode": "A",
+    "start": 28945,
+    "length": 18,
+    "end": 28963,
+    "text": "start_interrupt_16"
+  },
+  {
+    "table_pos": 14096,
+    "mode": "A",
+    "start": 28963,
+    "length": 57,
+    "end": 29020,
+    "text": "Você não pode salvar seu progresso\ndurante uma missão."
+  },
+  {
+    "table_pos": 14112,
+    "mode": "A",
+    "start": 29020,
+    "length": 0,
+    "end": 29020,
+    "text": ""
+  },
+  {
+    "table_pos": 14128,
+    "mode": "A",
+    "start": 29020,
+    "length": 18,
+    "end": 29038,
+    "text": "start_interrupt_17"
+  },
+  {
+    "table_pos": 14144,
+    "mode": "A",
+    "start": 29038,
+    "length": 54,
+    "end": 29092,
+    "text": "Você não pode abrir a Coleção\ndurante uma missão."
+  },
+  {
+    "table_pos": 14160,
+    "mode": "A",
+    "start": 29092,
+    "length": 0,
+    "end": 29092,
+    "text": ""
+  },
+  {
+    "table_pos": 14176,
+    "mode": "A",
+    "start": 29092,
+    "length": 17,
+    "end": 29109,
+    "text": "start_minigame_00"
+  },
+  {
+    "table_pos": 14192,
+    "mode": "A",
+    "start": 29109,
+    "length": 8,
+    "end": 29117,
+    "text": "ACELERAR"
+  },
+  {
+    "table_pos": 14208,
+    "mode": "A",
+    "start": 29117,
+    "length": 0,
+    "end": 29117,
+    "text": ""
+  },
+  {
+    "table_pos": 14224,
+    "mode": "A",
+    "start": 29117,
+    "length": 17,
+    "end": 29134,
+    "text": "start_minigame_01"
+  },
+  {
+    "table_pos": 14240,
+    "mode": "A",
+    "start": 29134,
+    "length": 11,
+    "end": 29145,
+    "text": "DESACELERAR"
+  },
+  {
+    "table_pos": 14256,
+    "mode": "A",
+    "start": 29145,
+    "length": 0,
+    "end": 29145,
+    "text": ""
+  },
+  {
+    "table_pos": 14272,
+    "mode": "A",
+    "start": 29145,
+    "length": 17,
+    "end": 29162,
+    "text": "start_minigame_02"
+  },
+  {
+    "table_pos": 14288,
+    "mode": "A",
+    "start": 29162,
+    "length": 19,
+    "end": 29181,
+    "text": "MOVER PARA ESQUERDA"
+  },
+  {
+    "table_pos": 14304,
+    "mode": "A",
+    "start": 29181,
+    "length": 0,
+    "end": 29181,
+    "text": ""
+  },
+  {
+    "table_pos": 14320,
+    "mode": "A",
+    "start": 29181,
+    "length": 17,
+    "end": 29198,
+    "text": "start_minigame_03"
+  },
+  {
+    "table_pos": 14336,
+    "mode": "A",
+    "start": 29198,
+    "length": 18,
+    "end": 29216,
+    "text": "MOVER PARA DIREITA"
+  },
+  {
+    "table_pos": 14352,
+    "mode": "A",
+    "start": 29216,
+    "length": 0,
+    "end": 29216,
+    "text": ""
+  },
+  {
+    "table_pos": 14368,
+    "mode": "A",
+    "start": 29216,
+    "length": 17,
+    "end": 29233,
+    "text": "start_minigame_04"
+  },
+  {
+    "table_pos": 14384,
+    "mode": "A",
+    "start": 29233,
+    "length": 16,
+    "end": 29249,
+    "text": "VELOCIDADE TURBO"
+  },
+  {
+    "table_pos": 14400,
+    "mode": "A",
+    "start": 29249,
+    "length": 0,
+    "end": 29249,
+    "text": ""
+  },
+  {
+    "table_pos": 14416,
+    "mode": "A",
+    "start": 29249,
+    "length": 17,
+    "end": 29266,
+    "text": "start_minigame_05"
+  },
+  {
+    "table_pos": 14432,
+    "mode": "A",
+    "start": 29266,
+    "length": 20,
+    "end": 29286,
+    "text": "TUTORIAL DO MINIJOGO"
+  },
+  {
+    "table_pos": 14448,
+    "mode": "A",
+    "start": 29286,
+    "length": 0,
+    "end": 29286,
+    "text": ""
+  },
+  {
+    "table_pos": 14464,
+    "mode": "A",
+    "start": 29286,
+    "length": 17,
+    "end": 29303,
+    "text": "start_minigame_06"
+  },
+  {
+    "table_pos": 14480,
+    "mode": "A",
+    "start": 29303,
+    "length": 37,
+    "end": 29340,
+    "text": "VERIFICAÇÃO DO TUTORIAL DO MINIJOGO"
+  },
+  {
+    "table_pos": 14496,
+    "mode": "A",
+    "start": 29340,
+    "length": 0,
+    "end": 29340,
+    "text": ""
+  },
+  {
+    "table_pos": 14512,
+    "mode": "A",
+    "start": 29340,
+    "length": 17,
+    "end": 29357,
+    "text": "start_minigame_07"
+  },
+  {
+    "table_pos": 14528,
+    "mode": "A",
+    "start": 29357,
+    "length": 29,
+    "end": 29386,
+    "text": "LISTA DE COMANDOS DO MINIJOGO"
+  },
+  {
+    "table_pos": 14544,
+    "mode": "A",
+    "start": 29386,
+    "length": 0,
+    "end": 29386,
+    "text": ""
+  },
+  {
+    "table_pos": 14560,
+    "mode": "A",
+    "start": 29386,
+    "length": 17,
+    "end": 29403,
+    "text": "start_minigame_08"
+  },
+  {
+    "table_pos": 14576,
+    "mode": "A",
+    "start": 29403,
+    "length": 16,
+    "end": 29419,
+    "text": "TENTAR NOVAMENTE"
+  },
+  {
+    "table_pos": 14592,
+    "mode": "A",
+    "start": 29419,
+    "length": 0,
+    "end": 29419,
+    "text": ""
+  },
+  {
+    "table_pos": 14608,
+    "mode": "A",
+    "start": 29419,
+    "length": 17,
+    "end": 29436,
+    "text": "start_minigame_09"
+  },
+  {
+    "table_pos": 14624,
+    "mode": "A",
+    "start": 29436,
+    "length": 5,
+    "end": 29441,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 14640,
+    "mode": "A",
+    "start": 29441,
+    "length": 0,
+    "end": 29441,
+    "text": ""
+  },
+  {
+    "table_pos": 14656,
+    "mode": "A",
+    "start": 29441,
+    "length": 17,
+    "end": 29458,
+    "text": "start_minigame_10"
+  },
+  {
+    "table_pos": 14672,
+    "mode": "A",
+    "start": 29458,
+    "length": 70,
+    "end": 29528,
+    "text": "Toque para um item aleatório abaixo.\nO item é usado automaticamente."
+  },
+  {
+    "table_pos": 14688,
+    "mode": "A",
+    "start": 29528,
+    "length": 0,
+    "end": 29528,
+    "text": ""
+  },
+  {
+    "table_pos": 14704,
+    "mode": "A",
+    "start": 29528,
+    "length": 17,
+    "end": 29545,
+    "text": "start_minigame_11"
+  },
+  {
+    "table_pos": 14720,
+    "mode": "A",
+    "start": 29545,
+    "length": 32,
+    "end": 29577,
+    "text": "Use um item do estoque de itens."
+  },
+  {
+    "table_pos": 14736,
+    "mode": "A",
+    "start": 29577,
+    "length": 0,
+    "end": 29577,
+    "text": ""
+  },
+  {
+    "table_pos": 14752,
+    "mode": "A",
+    "start": 29577,
+    "length": 17,
+    "end": 29594,
+    "text": "start_minigame_12"
+  },
+  {
+    "table_pos": 14768,
+    "mode": "A",
+    "start": 29594,
+    "length": 60,
+    "end": 29654,
+    "text": "Use o ninjutsu do seu personagem\npara atrapalhar o oponente."
+  },
+  {
+    "table_pos": 14784,
+    "mode": "A",
+    "start": 29654,
+    "length": 0,
+    "end": 29654,
+    "text": ""
+  },
+  {
+    "table_pos": 14800,
+    "mode": "A",
+    "start": 29654,
+    "length": 17,
+    "end": 29671,
+    "text": "start_minigame_13"
+  },
+  {
+    "table_pos": 14816,
+    "mode": "A",
+    "start": 29671,
+    "length": 5,
+    "end": 29676,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 14832,
+    "mode": "A",
+    "start": 29676,
+    "length": 0,
+    "end": 29676,
+    "text": ""
+  },
+  {
+    "table_pos": 14848,
+    "mode": "A",
+    "start": 29676,
+    "length": 17,
+    "end": 29693,
+    "text": "start_minigame_14"
+  },
+  {
+    "table_pos": 14864,
+    "mode": "A",
+    "start": 29693,
+    "length": 5,
+    "end": 29698,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 14880,
+    "mode": "A",
+    "start": 29698,
+    "length": 0,
+    "end": 29698,
+    "text": ""
+  },
+  {
+    "table_pos": 14896,
+    "mode": "A",
+    "start": 29698,
+    "length": 17,
+    "end": 29715,
+    "text": "start_minigame_15"
+  },
+  {
+    "table_pos": 14912,
+    "mode": "A",
+    "start": 29715,
+    "length": 43,
+    "end": 29758,
+    "text": "Desvie de obstáculos ficando\natrás deles."
+  },
+  {
+    "table_pos": 14928,
+    "mode": "A",
+    "start": 29758,
+    "length": 0,
+    "end": 29758,
+    "text": ""
+  },
+  {
+    "table_pos": 14944,
+    "mode": "A",
+    "start": 29758,
+    "length": 17,
+    "end": 29775,
+    "text": "start_minigame_16"
+  },
+  {
+    "table_pos": 14960,
+    "mode": "A",
+    "start": 29775,
+    "length": 5,
+    "end": 29780,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 14976,
+    "mode": "A",
+    "start": 29780,
+    "length": 0,
+    "end": 29780,
+    "text": ""
+  },
+  {
+    "table_pos": 14992,
+    "mode": "A",
+    "start": 29780,
+    "length": 17,
+    "end": 29797,
+    "text": "start_minigame_17"
+  },
+  {
+    "table_pos": 15008,
+    "mode": "A",
+    "start": 29797,
+    "length": 43,
+    "end": 29840,
+    "text": "Coloque uma bomba de papel\ncomo obstáculo."
+  },
+  {
+    "table_pos": 15024,
+    "mode": "A",
+    "start": 29840,
+    "length": 0,
+    "end": 29840,
+    "text": ""
+  },
+  {
+    "table_pos": 15040,
+    "mode": "A",
+    "start": 29840,
+    "length": 17,
+    "end": 29857,
+    "text": "start_minigame_18"
+  },
+  {
+    "table_pos": 15056,
+    "mode": "A",
+    "start": 29857,
+    "length": 49,
+    "end": 29906,
+    "text": "Toque para um impulso\nde velocidade instantâneo."
+  },
+  {
+    "table_pos": 15072,
+    "mode": "A",
+    "start": 29906,
+    "length": 0,
+    "end": 29906,
+    "text": ""
+  },
+  {
+    "table_pos": 15088,
+    "mode": "A",
+    "start": 29906,
+    "length": 17,
+    "end": 29923,
+    "text": "start_minigame_19"
+  },
+  {
+    "table_pos": 15104,
+    "mode": "A",
+    "start": 29923,
+    "length": 26,
+    "end": 29949,
+    "text": "Tente a missão novamente."
+  },
+  {
+    "table_pos": 15120,
+    "mode": "A",
+    "start": 29949,
+    "length": 0,
+    "end": 29949,
+    "text": ""
+  },
+  {
+    "table_pos": 15136,
+    "mode": "A",
+    "start": 29949,
+    "length": 17,
+    "end": 29966,
+    "text": "start_minigame_20"
+  },
+  {
+    "table_pos": 15152,
+    "mode": "A",
+    "start": 29966,
+    "length": 24,
+    "end": 29990,
+    "text": "Deseja tentar novamente?"
+  },
+  {
+    "table_pos": 15168,
+    "mode": "A",
+    "start": 29990,
+    "length": 0,
+    "end": 29990,
+    "text": ""
+  },
+  {
+    "table_pos": 15184,
+    "mode": "A",
+    "start": 29990,
+    "length": 17,
+    "end": 30007,
+    "text": "start_minigame_21"
+  },
+  {
+    "table_pos": 15200,
+    "mode": "A",
+    "start": 30007,
+    "length": 16,
+    "end": 30023,
+    "text": "DETALHES DO JOGO"
+  },
+  {
+    "table_pos": 15216,
+    "mode": "A",
+    "start": 30023,
+    "length": 0,
+    "end": 30023,
+    "text": ""
+  },
+  {
+    "table_pos": 15232,
+    "mode": "A",
+    "start": 30023,
+    "length": 17,
+    "end": 30040,
+    "text": "start_minigame_22"
+  },
+  {
+    "table_pos": 15248,
+    "mode": "A",
+    "start": 30040,
+    "length": 36,
+    "end": 30076,
+    "text": "Confira as instruções do minijogo."
+  },
+  {
+    "table_pos": 15264,
+    "mode": "A",
+    "start": 30076,
+    "length": 0,
+    "end": 30076,
+    "text": ""
+  },
+  {
+    "table_pos": 15280,
+    "mode": "A",
+    "start": 30076,
+    "length": 20,
+    "end": 30096,
+    "text": "start_mission_sys_00"
+  },
+  {
+    "table_pos": 15296,
+    "mode": "A",
+    "start": 30096,
+    "length": 153,
+    "end": 30249,
+    "text": "Missão aceita.\n\n<colorfa9200>Personagem(ns) de Informação da Missão<color000000>\napareceu(ram) no cenário. Use a marca\nno mapa para localizá-lo(s)."
+  },
+  {
+    "table_pos": 15312,
+    "mode": "A",
+    "start": 30249,
+    "length": 0,
+    "end": 30249,
+    "text": ""
+  },
+  {
+    "table_pos": 15328,
+    "mode": "A",
+    "start": 30249,
+    "length": 20,
+    "end": 30269,
+    "text": "start_mission_sys_01"
+  },
+  {
+    "table_pos": 15344,
+    "mode": "A",
+    "start": 30269,
+    "length": 15,
+    "end": 30284,
+    "text": "Missão aceita."
+  },
+  {
+    "table_pos": 15360,
+    "mode": "A",
+    "start": 30284,
+    "length": 0,
+    "end": 30284,
+    "text": ""
+  },
+  {
+    "table_pos": 15376,
+    "mode": "A",
+    "start": 30284,
+    "length": 20,
+    "end": 30304,
+    "text": "start_mission_sys_02"
+  },
+  {
+    "table_pos": 15392,
+    "mode": "A",
+    "start": 30304,
+    "length": 30,
+    "end": 30334,
+    "text": "Esta missão está concluída."
+  },
+  {
+    "table_pos": 15408,
+    "mode": "A",
+    "start": 30334,
+    "length": 0,
+    "end": 30334,
+    "text": ""
+  },
+  {
+    "table_pos": 15424,
+    "mode": "A",
+    "start": 30334,
+    "length": 18,
+    "end": 30352,
+    "text": "start_doll_skip_00"
+  },
+  {
+    "table_pos": 15440,
+    "mode": "A",
+    "start": 30352,
+    "length": 13,
+    "end": 30365,
+    "text": "Deseja pular?"
+  },
+  {
+    "table_pos": 15456,
+    "mode": "A",
+    "start": 30365,
+    "length": 0,
+    "end": 30365,
+    "text": ""
+  },
+  {
+    "table_pos": 15472,
+    "mode": "A",
+    "start": 30365,
+    "length": 10,
+    "end": 30375,
+    "text": "rpg_info00"
+  },
+  {
+    "table_pos": 15488,
+    "mode": "A",
+    "start": 30375,
+    "length": 19,
+    "end": 30394,
+    "text": "OBJETOS DESTRUÍDOS"
+  },
+  {
+    "table_pos": 15504,
+    "mode": "A",
+    "start": 30394,
+    "length": 0,
+    "end": 30394,
+    "text": ""
+  },
+  {
+    "table_pos": 15520,
+    "mode": "A",
+    "start": 30394,
+    "length": 10,
+    "end": 30404,
+    "text": "rpg_info01"
+  },
+  {
+    "table_pos": 15536,
+    "mode": "A",
+    "start": 30404,
+    "length": 6,
+    "end": 30410,
+    "text": "PASSOS"
+  },
+  {
+    "table_pos": 15552,
+    "mode": "A",
+    "start": 30410,
+    "length": 0,
+    "end": 30410,
+    "text": ""
+  },
+  {
+    "table_pos": 15568,
+    "mode": "A",
+    "start": 30410,
+    "length": 10,
+    "end": 30420,
+    "text": "rpg_info02"
+  },
+  {
+    "table_pos": 15584,
+    "mode": "A",
+    "start": 30420,
+    "length": 13,
+    "end": 30433,
+    "text": "TEMPO DE JOGO"
+  },
+  {
+    "table_pos": 15600,
+    "mode": "A",
+    "start": 30433,
+    "length": 0,
+    "end": 30433,
+    "text": ""
+  },
+  {
+    "table_pos": 15616,
+    "mode": "A",
+    "start": 30433,
+    "length": 12,
+    "end": 30445,
+    "text": "wait_help_01"
+  },
+  {
+    "table_pos": 15632,
+    "mode": "A",
+    "start": 30445,
+    "length": 26,
+    "end": 30471,
+    "text": "Botão START: MENU INICIAL"
+  },
+  {
+    "table_pos": 15648,
+    "mode": "A",
+    "start": 30471,
+    "length": 0,
+    "end": 30471,
+    "text": ""
+  },
+  {
+    "table_pos": 15664,
+    "mode": "A",
+    "start": 30471,
+    "length": 12,
+    "end": 30483,
+    "text": "wait_help_02"
+  },
+  {
+    "table_pos": 15680,
+    "mode": "A",
+    "start": 30483,
+    "length": 13,
+    "end": 30496,
+    "text": "MODO SHURIKEN"
+  },
+  {
+    "table_pos": 15696,
+    "mode": "A",
+    "start": 30496,
+    "length": 0,
+    "end": 30496,
+    "text": ""
+  },
+  {
+    "table_pos": 15712,
+    "mode": "A",
+    "start": 30496,
+    "length": 15,
+    "end": 30511,
+    "text": "save_mission_02"
+  },
+  {
+    "table_pos": 15728,
+    "mode": "A",
+    "start": 30511,
+    "length": 33,
+    "end": 30544,
+    "text": "Registre o progresso do seu jogo."
+  },
+  {
+    "table_pos": 15744,
+    "mode": "A",
+    "start": 30544,
+    "length": 0,
+    "end": 30544,
+    "text": ""
+  },
+  {
+    "table_pos": 15760,
+    "mode": "A",
+    "start": 30544,
+    "length": 15,
+    "end": 30559,
+    "text": "save_mission_03"
+  },
+  {
+    "table_pos": 15776,
+    "mode": "A",
+    "start": 30559,
+    "length": 57,
+    "end": 30616,
+    "text": "Você não pode salvar seu progresso\ndurante uma missão."
+  },
+  {
+    "table_pos": 15792,
+    "mode": "A",
+    "start": 30616,
+    "length": 0,
+    "end": 30616,
+    "text": ""
+  },
+  {
+    "table_pos": 15808,
+    "mode": "A",
+    "start": 30616,
+    "length": 15,
+    "end": 30631,
+    "text": "save_mission_04"
+  },
+  {
+    "table_pos": 15824,
+    "mode": "A",
+    "start": 30631,
+    "length": 37,
+    "end": 30668,
+    "text": "Você não pode salvar neste momento."
+  },
+  {
+    "table_pos": 15840,
+    "mode": "A",
+    "start": 30668,
+    "length": 0,
+    "end": 30668,
+    "text": ""
+  },
+  {
+    "table_pos": 15856,
+    "mode": "A",
+    "start": 30668,
+    "length": 15,
+    "end": 30683,
+    "text": "save_mission_05"
+  },
+  {
+    "table_pos": 15872,
+    "mode": "A",
+    "start": 30683,
+    "length": 12,
+    "end": 30695,
+    "text": "Salvar jogo?"
+  },
+  {
+    "table_pos": 15888,
+    "mode": "A",
+    "start": 30695,
+    "length": 0,
+    "end": 30695,
+    "text": ""
+  },
+  {
+    "table_pos": 15904,
+    "mode": "A",
+    "start": 30695,
+    "length": 10,
+    "end": 30705,
+    "text": "demo_jp_00"
+  },
+  {
+    "table_pos": 15920,
+    "mode": "A",
+    "start": 30705,
+    "length": 5,
+    "end": 30710,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 15936,
+    "mode": "A",
+    "start": 30710,
+    "length": 0,
+    "end": 30710,
+    "text": ""
+  },
+  {
+    "table_pos": 15952,
+    "mode": "A",
+    "start": 30710,
+    "length": 10,
+    "end": 30720,
+    "text": "demo_jp_01"
+  },
+  {
+    "table_pos": 15968,
+    "mode": "A",
+    "start": 30720,
+    "length": 5,
+    "end": 30725,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 15984,
+    "mode": "A",
+    "start": 30725,
+    "length": 0,
+    "end": 30725,
+    "text": ""
+  },
+  {
+    "table_pos": 16000,
+    "mode": "A",
+    "start": 30725,
+    "length": 10,
+    "end": 30735,
+    "text": "demo_jp_02"
+  },
+  {
+    "table_pos": 16016,
+    "mode": "A",
+    "start": 30735,
+    "length": 5,
+    "end": 30740,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 16032,
+    "mode": "A",
+    "start": 30740,
+    "length": 0,
+    "end": 30740,
+    "text": ""
+  }
+]

@@ -1,0 +1,2218 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2818,
+    "length": 8,
+    "end": 2826,
+    "text": "subtitle"
+  },
+  {
+    "table_pos": 80,
+    "mode": "A",
+    "start": 2826,
+    "length": 5,
+    "end": 2831,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2831,
+    "length": 14,
+    "end": 2845,
+    "text": "VOICE_SUBTITLE"
+  },
+  {
+    "table_pos": 112,
+    "mode": "B-implicit",
+    "start": 2845,
+    "length": 2,
+    "end": 2847,
+    "text": "38"
+  },
+  {
+    "table_pos": 112,
+    "mode": "B-explicit",
+    "start": 2847,
+    "length": 3,
+    "end": 2850,
+    "text": "001"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 2850,
+    "length": 10,
+    "end": 2860,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 2860,
+    "length": 41,
+    "end": 2901,
+    "text": "Tsunade... Você vai ficar fora disso...?"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2901,
+    "length": 14,
+    "end": 2915,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 160,
+    "mode": "B-implicit",
+    "start": 2915,
+    "length": 1,
+    "end": 2916,
+    "text": "0"
+  },
+  {
+    "table_pos": 160,
+    "mode": "B-explicit",
+    "start": 2916,
+    "length": 3,
+    "end": 2919,
+    "text": "002"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 2919,
+    "length": 7,
+    "end": 2926,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 2926,
+    "length": 73,
+    "end": 2999,
+    "text": "Escuta aqui...\nSe eu não fizer mais nada...\nEu vou proteger esse garoto!"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2999,
+    "length": 14,
+    "end": 3013,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 208,
+    "mode": "B-implicit",
+    "start": 3013,
+    "length": 1,
+    "end": 3014,
+    "text": "1"
+  },
+  {
+    "table_pos": 208,
+    "mode": "B-explicit",
+    "start": 3014,
+    "length": 3,
+    "end": 3017,
+    "text": "003"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 3017,
+    "length": 10,
+    "end": 3027,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 3027,
+    "length": 82,
+    "end": 3109,
+    "text": "E por que você, um dos Sannin,\narriscaria sua vida para salvar um\ngenin qualquer?"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 3109,
+    "length": 14,
+    "end": 3123,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 256,
+    "mode": "B-implicit",
+    "start": 3123,
+    "length": 1,
+    "end": 3124,
+    "text": "2"
+  },
+  {
+    "table_pos": 256,
+    "mode": "B-explicit",
+    "start": 3124,
+    "length": 3,
+    "end": 3127,
+    "text": "004"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 3127,
+    "length": 7,
+    "end": 3134,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 3134,
+    "length": 53,
+    "end": 3187,
+    "text": "Para proteger... meu lar...\nA Vila Oculta da Folha..."
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 3187,
+    "length": 14,
+    "end": 3201,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 304,
+    "mode": "B-implicit",
+    "start": 3201,
+    "length": 1,
+    "end": 3202,
+    "text": "3"
+  },
+  {
+    "table_pos": 304,
+    "mode": "B-explicit",
+    "start": 3202,
+    "length": 3,
+    "end": 3205,
+    "text": "005"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 3205,
+    "length": 10,
+    "end": 3215,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 3215,
+    "length": 19,
+    "end": 3234,
+    "text": "Proteger a vila...?"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 3234,
+    "length": 14,
+    "end": 3248,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 352,
+    "mode": "B-implicit",
+    "start": 3248,
+    "length": 1,
+    "end": 3249,
+    "text": "4"
+  },
+  {
+    "table_pos": 352,
+    "mode": "B-explicit",
+    "start": 3249,
+    "length": 3,
+    "end": 3252,
+    "text": "006"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 3252,
+    "length": 7,
+    "end": 3259,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 3259,
+    "length": 79,
+    "end": 3338,
+    "text": "Porque esse genin humilde...\nfoi escolhido pelo destino para ser\nHokage um dia."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 3338,
+    "length": 14,
+    "end": 3352,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 400,
+    "mode": "B-implicit",
+    "start": 3352,
+    "length": 1,
+    "end": 3353,
+    "text": "5"
+  },
+  {
+    "table_pos": 400,
+    "mode": "B-explicit",
+    "start": 3353,
+    "length": 3,
+    "end": 3356,
+    "text": "007"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 3356,
+    "length": 10,
+    "end": 3366,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 3366,
+    "length": 41,
+    "end": 3407,
+    "text": "Que tipo de devaneio mal-acabado é esse?"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 3407,
+    "length": 14,
+    "end": 3421,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 448,
+    "mode": "B-implicit",
+    "start": 3421,
+    "length": 1,
+    "end": 3422,
+    "text": "6"
+  },
+  {
+    "table_pos": 448,
+    "mode": "B-explicit",
+    "start": 3422,
+    "length": 3,
+    "end": 3425,
+    "text": "008"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 3425,
+    "length": 10,
+    "end": 3435,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 3435,
+    "length": 68,
+    "end": 3503,
+    "text": "Quem se importa com o Hokage?\nSó um tolo iria querer esse trabalho."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 3503,
+    "length": 14,
+    "end": 3517,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 496,
+    "mode": "B-implicit",
+    "start": 3517,
+    "length": 1,
+    "end": 3518,
+    "text": "7"
+  },
+  {
+    "table_pos": 496,
+    "mode": "B-explicit",
+    "start": 3518,
+    "length": 3,
+    "end": 3521,
+    "text": "009"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 3521,
+    "length": 7,
+    "end": 3528,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 3528,
+    "length": 8,
+    "end": 3536,
+    "text": "......!!"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 3536,
+    "length": 14,
+    "end": 3550,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 544,
+    "mode": "B-implicit",
+    "start": 3550,
+    "length": 1,
+    "end": 3551,
+    "text": "8"
+  },
+  {
+    "table_pos": 544,
+    "mode": "B-explicit",
+    "start": 3551,
+    "length": 3,
+    "end": 3554,
+    "text": "010"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 3554,
+    "length": 7,
+    "end": 3561,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 3561,
+    "length": 62,
+    "end": 3623,
+    "text": "Brincar de Hokage?\nPode me tirar dessa... É um jogo de tolos."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 3623,
+    "length": 14,
+    "end": 3637,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 592,
+    "mode": "B-implicit",
+    "start": 3637,
+    "length": 1,
+    "end": 3638,
+    "text": "9"
+  },
+  {
+    "table_pos": 592,
+    "mode": "B-explicit",
+    "start": 3638,
+    "length": 3,
+    "end": 3641,
+    "text": "011"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 3641,
+    "length": 7,
+    "end": 3648,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 3648,
+    "length": 108,
+    "end": 3756,
+    "text": "Lembre-se dos Hokages que vieram\nantes, e de tudo que arriscaram para\nproteger a Vila da Folha e seu povo..."
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 3756,
+    "length": 14,
+    "end": 3770,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 640,
+    "mode": "B-implicit",
+    "start": 3770,
+    "length": 2,
+    "end": 3772,
+    "text": "10"
+  },
+  {
+    "table_pos": 640,
+    "mode": "B-explicit",
+    "start": 3772,
+    "length": 3,
+    "end": 3775,
+    "text": "012"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 3775,
+    "length": 7,
+    "end": 3782,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 3782,
+    "length": 88,
+    "end": 3870,
+    "text": "É só graças a eles que a vila\nsobreviveu, e até prosperou,\nem tempos tão difíceis."
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 3870,
+    "length": 14,
+    "end": 3884,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 688,
+    "mode": "B-implicit",
+    "start": 3884,
+    "length": 2,
+    "end": 3886,
+    "text": "11"
+  },
+  {
+    "table_pos": 688,
+    "mode": "B-explicit",
+    "start": 3886,
+    "length": 3,
+    "end": 3889,
+    "text": "013"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 3889,
+    "length": 7,
+    "end": 3896,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 3896,
+    "length": 107,
+    "end": 4003,
+    "text": "Esse era o sonho deles. E eles estavam\ndispostos a arriscar tudo para\nalcançá-lo... até a própria vida."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 4003,
+    "length": 14,
+    "end": 4017,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 736,
+    "mode": "B-implicit",
+    "start": 4017,
+    "length": 2,
+    "end": 4019,
+    "text": "12"
+  },
+  {
+    "table_pos": 736,
+    "mode": "B-explicit",
+    "start": 4019,
+    "length": 3,
+    "end": 4022,
+    "text": "014"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 4022,
+    "length": 7,
+    "end": 4029,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 4029,
+    "length": 7,
+    "end": 4036,
+    "text": "Hunf..."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 4036,
+    "length": 14,
+    "end": 4050,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 784,
+    "mode": "B-implicit",
+    "start": 4050,
+    "length": 2,
+    "end": 4052,
+    "text": "13"
+  },
+  {
+    "table_pos": 784,
+    "mode": "B-explicit",
+    "start": 4052,
+    "length": 3,
+    "end": 4055,
+    "text": "015"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 4055,
+    "length": 7,
+    "end": 4062,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 4062,
+    "length": 86,
+    "end": 4148,
+    "text": "De agora em diante... eu também vou\narriscar tudo... Vou apostar minha\nprópria vida!"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 4148,
+    "length": 14,
+    "end": 4162,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 832,
+    "mode": "B-implicit",
+    "start": 4162,
+    "length": 2,
+    "end": 4164,
+    "text": "14"
+  },
+  {
+    "table_pos": 832,
+    "mode": "B-explicit",
+    "start": 4164,
+    "length": 3,
+    "end": 4167,
+    "text": "016"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 4167,
+    "length": 10,
+    "end": 4177,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 4177,
+    "length": 11,
+    "end": 4188,
+    "text": "Seu tolo..."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 4188,
+    "length": 14,
+    "end": 4202,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 880,
+    "mode": "B-implicit",
+    "start": 4202,
+    "length": 2,
+    "end": 4204,
+    "text": "15"
+  },
+  {
+    "table_pos": 880,
+    "mode": "B-explicit",
+    "start": 4204,
+    "length": 3,
+    "end": 4207,
+    "text": "017"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 4207,
+    "length": 10,
+    "end": 4217,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 4217,
+    "length": 110,
+    "end": 4327,
+    "text": "Se você está tão disposta a jogar\nsua vida fora por um pirralho patético...\neu terei prazer em te atender!"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 4327,
+    "length": 14,
+    "end": 4341,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 928,
+    "mode": "B-implicit",
+    "start": 4341,
+    "length": 2,
+    "end": 4343,
+    "text": "16"
+  },
+  {
+    "table_pos": 928,
+    "mode": "B-explicit",
+    "start": 4343,
+    "length": 3,
+    "end": 4346,
+    "text": "018"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 4346,
+    "length": 7,
+    "end": 4353,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 4353,
+    "length": 5,
+    "end": 4358,
+    "text": "...!!"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 4358,
+    "length": 14,
+    "end": 4372,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 976,
+    "mode": "B-implicit",
+    "start": 4372,
+    "length": 2,
+    "end": 4374,
+    "text": "17"
+  },
+  {
+    "table_pos": 976,
+    "mode": "B-explicit",
+    "start": 4374,
+    "length": 3,
+    "end": 4377,
+    "text": "019"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 4377,
+    "length": 7,
+    "end": 4384,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 4384,
+    "length": 9,
+    "end": 4393,
+    "text": "Tsunade!!"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 4393,
+    "length": 14,
+    "end": 4407,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1024,
+    "mode": "B-implicit",
+    "start": 4407,
+    "length": 2,
+    "end": 4409,
+    "text": "18"
+  },
+  {
+    "table_pos": 1024,
+    "mode": "B-explicit",
+    "start": 4409,
+    "length": 3,
+    "end": 4412,
+    "text": "020"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 4412,
+    "length": 7,
+    "end": 4419,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 4419,
+    "length": 5,
+    "end": 4424,
+    "text": "Aah!!"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 4424,
+    "length": 14,
+    "end": 4438,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1072,
+    "mode": "B-implicit",
+    "start": 4438,
+    "length": 2,
+    "end": 4440,
+    "text": "19"
+  },
+  {
+    "table_pos": 1072,
+    "mode": "B-explicit",
+    "start": 4440,
+    "length": 3,
+    "end": 4443,
+    "text": "021"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 4443,
+    "length": 10,
+    "end": 4453,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 4453,
+    "length": 22,
+    "end": 4475,
+    "text": "Hora de encerrar isso!"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 4475,
+    "length": 14,
+    "end": 4489,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1120,
+    "mode": "B-implicit",
+    "start": 4489,
+    "length": 2,
+    "end": 4491,
+    "text": "20"
+  },
+  {
+    "table_pos": 1120,
+    "mode": "B-explicit",
+    "start": 4491,
+    "length": 5,
+    "end": 4496,
+    "text": "021_5"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 4496,
+    "length": 26,
+    "end": 4522,
+    "text": "Jiraiya・Tsunade・Kabuto"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 4522,
+    "length": 22,
+    "end": 4544,
+    "text": "Jutsu de Invocação!!"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 4544,
+    "length": 14,
+    "end": 4558,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1168,
+    "mode": "B-implicit",
+    "start": 4558,
+    "length": 2,
+    "end": 4560,
+    "text": "52"
+  },
+  {
+    "table_pos": 1168,
+    "mode": "B-explicit",
+    "start": 4560,
+    "length": 3,
+    "end": 4563,
+    "text": "022"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 4563,
+    "length": 10,
+    "end": 4573,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 4573,
+    "length": 12,
+    "end": 4585,
+    "text": "Uff, uff...!"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 4585,
+    "length": 14,
+    "end": 4599,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1216,
+    "mode": "B-implicit",
+    "start": 4599,
+    "length": 2,
+    "end": 4601,
+    "text": "21"
+  },
+  {
+    "table_pos": 1216,
+    "mode": "B-explicit",
+    "start": 4601,
+    "length": 3,
+    "end": 4604,
+    "text": "023"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 4604,
+    "length": 7,
+    "end": 4611,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 4611,
+    "length": 12,
+    "end": 4623,
+    "text": "Uff...uff..."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 4623,
+    "length": 14,
+    "end": 4637,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1264,
+    "mode": "B-implicit",
+    "start": 4637,
+    "length": 2,
+    "end": 4639,
+    "text": "22"
+  },
+  {
+    "table_pos": 1264,
+    "mode": "B-explicit",
+    "start": 4639,
+    "length": 3,
+    "end": 4642,
+    "text": "024"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 4642,
+    "length": 10,
+    "end": 4652,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 4652,
+    "length": 17,
+    "end": 4669,
+    "text": "Rá... rá-rá..."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 4669,
+    "length": 14,
+    "end": 4683,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1312,
+    "mode": "B-implicit",
+    "start": 4683,
+    "length": 2,
+    "end": 4685,
+    "text": "23"
+  },
+  {
+    "table_pos": 1312,
+    "mode": "B-explicit",
+    "start": 4685,
+    "length": 3,
+    "end": 4688,
+    "text": "025"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 4688,
+    "length": 7,
+    "end": 4695,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 4695,
+    "length": 27,
+    "end": 4722,
+    "text": "O que tem de engraçado...?"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 4722,
+    "length": 14,
+    "end": 4736,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1360,
+    "mode": "B-implicit",
+    "start": 4736,
+    "length": 2,
+    "end": 4738,
+    "text": "24"
+  },
+  {
+    "table_pos": 1360,
+    "mode": "B-explicit",
+    "start": 4738,
+    "length": 3,
+    "end": 4741,
+    "text": "026"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 4741,
+    "length": 10,
+    "end": 4751,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 4751,
+    "length": 63,
+    "end": 4814,
+    "text": "Eu não preciso de você...\nMesmo que não cure meus braços..."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 4814,
+    "length": 14,
+    "end": 4828,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1408,
+    "mode": "B-implicit",
+    "start": 4828,
+    "length": 2,
+    "end": 4830,
+    "text": "25"
+  },
+  {
+    "table_pos": 1408,
+    "mode": "B-explicit",
+    "start": 4830,
+    "length": 3,
+    "end": 4833,
+    "text": "027"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 4833,
+    "length": 10,
+    "end": 4843,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 4843,
+    "length": 23,
+    "end": 4866,
+    "text": "...há outras formas..."
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 4866,
+    "length": 14,
+    "end": 4880,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1456,
+    "mode": "B-implicit",
+    "start": 4880,
+    "length": 2,
+    "end": 4882,
+    "text": "26"
+  },
+  {
+    "table_pos": 1456,
+    "mode": "B-explicit",
+    "start": 4882,
+    "length": 3,
+    "end": 4885,
+    "text": "028"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 4885,
+    "length": 7,
+    "end": 4892,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 4892,
+    "length": 10,
+    "end": 4902,
+    "text": "O quê...?"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 4902,
+    "length": 14,
+    "end": 4916,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1504,
+    "mode": "B-implicit",
+    "start": 4916,
+    "length": 2,
+    "end": 4918,
+    "text": "27"
+  },
+  {
+    "table_pos": 1504,
+    "mode": "B-explicit",
+    "start": 4918,
+    "length": 3,
+    "end": 4921,
+    "text": "029"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 4921,
+    "length": 10,
+    "end": 4931,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 4931,
+    "length": 97,
+    "end": 5028,
+    "text": "E eu vou destruir a Vila da Folha...\nPode contar com isso...\nEstou ansioso para te ver de novo..."
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 5028,
+    "length": 14,
+    "end": 5042,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1552,
+    "mode": "B-implicit",
+    "start": 5042,
+    "length": 2,
+    "end": 5044,
+    "text": "28"
+  },
+  {
+    "table_pos": 1552,
+    "mode": "B-explicit",
+    "start": 5044,
+    "length": 3,
+    "end": 5047,
+    "text": "030"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 5047,
+    "length": 10,
+    "end": 5057,
+    "text": "Orochimaru"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 5057,
+    "length": 62,
+    "end": 5119,
+    "text": "Até lá, Tsunade... Jiraiya...\nMeus queridos velhos amigos..."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 5119,
+    "length": 14,
+    "end": 5133,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1600,
+    "mode": "B-implicit",
+    "start": 5133,
+    "length": 2,
+    "end": 5135,
+    "text": "29"
+  },
+  {
+    "table_pos": 1600,
+    "mode": "B-explicit",
+    "start": 5135,
+    "length": 3,
+    "end": 5138,
+    "text": "031"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 5138,
+    "length": 6,
+    "end": 5144,
+    "text": "Kabuto"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 5144,
+    "length": 16,
+    "end": 5160,
+    "text": "Até a próxima."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 5160,
+    "length": 14,
+    "end": 5174,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1648,
+    "mode": "B-implicit",
+    "start": 5174,
+    "length": 2,
+    "end": 5176,
+    "text": "30"
+  },
+  {
+    "table_pos": 1648,
+    "mode": "B-explicit",
+    "start": 5176,
+    "length": 3,
+    "end": 5179,
+    "text": "032"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 5179,
+    "length": 7,
+    "end": 5186,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 5186,
+    "length": 6,
+    "end": 5192,
+    "text": "Tsc..."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 5192,
+    "length": 14,
+    "end": 5206,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1696,
+    "mode": "B-implicit",
+    "start": 5206,
+    "length": 2,
+    "end": 5208,
+    "text": "31"
+  },
+  {
+    "table_pos": 1696,
+    "mode": "B-explicit",
+    "start": 5208,
+    "length": 3,
+    "end": 5211,
+    "text": "033"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 5211,
+    "length": 7,
+    "end": 5218,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 5218,
+    "length": 17,
+    "end": 5235,
+    "text": "Eles escaparam..."
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 5235,
+    "length": 14,
+    "end": 5249,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1744,
+    "mode": "B-implicit",
+    "start": 5249,
+    "length": 2,
+    "end": 5251,
+    "text": "32"
+  },
+  {
+    "table_pos": 1744,
+    "mode": "B-explicit",
+    "start": 5251,
+    "length": 3,
+    "end": 5254,
+    "text": "034"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 5254,
+    "length": 6,
+    "end": 5260,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 5260,
+    "length": 9,
+    "end": 5269,
+    "text": "Hããã?!"
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 5269,
+    "length": 14,
+    "end": 5283,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1792,
+    "mode": "B-implicit",
+    "start": 5283,
+    "length": 2,
+    "end": 5285,
+    "text": "33"
+  },
+  {
+    "table_pos": 1792,
+    "mode": "B-explicit",
+    "start": 5285,
+    "length": 3,
+    "end": 5288,
+    "text": "035"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 5288,
+    "length": 6,
+    "end": 5294,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 5294,
+    "length": 40,
+    "end": 5334,
+    "text": "A vovó aqui vai ser a próxima Hokage?!"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 5334,
+    "length": 14,
+    "end": 5348,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1840,
+    "mode": "B-implicit",
+    "start": 5348,
+    "length": 2,
+    "end": 5350,
+    "text": "34"
+  },
+  {
+    "table_pos": 1840,
+    "mode": "B-explicit",
+    "start": 5350,
+    "length": 3,
+    "end": 5353,
+    "text": "036"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 5353,
+    "length": 7,
+    "end": 5360,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 5360,
+    "length": 40,
+    "end": 5400,
+    "text": "É, uh, tem algo te incomodando, Naruto?"
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 5400,
+    "length": 14,
+    "end": 5414,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1888,
+    "mode": "B-implicit",
+    "start": 5414,
+    "length": 2,
+    "end": 5416,
+    "text": "35"
+  },
+  {
+    "table_pos": 1888,
+    "mode": "B-explicit",
+    "start": 5416,
+    "length": 3,
+    "end": 5419,
+    "text": "037"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 5419,
+    "length": 6,
+    "end": 5425,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 5425,
+    "length": 94,
+    "end": 5519,
+    "text": "Qual é, o Hokage não devia ser gentil\ne sábio e tudo mais?\nIgual o velhinho costumava ser? "
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 5519,
+    "length": 14,
+    "end": 5533,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1936,
+    "mode": "B-implicit",
+    "start": 5533,
+    "length": 2,
+    "end": 5535,
+    "text": "36"
+  },
+  {
+    "table_pos": 1936,
+    "mode": "B-explicit",
+    "start": 5535,
+    "length": 3,
+    "end": 5538,
+    "text": "038"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 5538,
+    "length": 6,
+    "end": 5544,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 5544,
+    "length": 57,
+    "end": 5601,
+    "text": "E ela é má e gananciosa...\nE nem é tão esperta assim!"
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 5601,
+    "length": 14,
+    "end": 5615,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 1984,
+    "mode": "B-implicit",
+    "start": 5615,
+    "length": 2,
+    "end": 5617,
+    "text": "37"
+  },
+  {
+    "table_pos": 1984,
+    "mode": "B-explicit",
+    "start": 5617,
+    "length": 3,
+    "end": 5620,
+    "text": "039"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 5620,
+    "length": 6,
+    "end": 5626,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 5626,
+    "length": 79,
+    "end": 5705,
+    "text": "Não é nada pessoal, mas é um trabalho\ngrande e eu não sei se ela dá conta."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 5705,
+    "length": 14,
+    "end": 5719,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 2032,
+    "mode": "B-implicit",
+    "start": 5719,
+    "length": 2,
+    "end": 5721,
+    "text": "38"
+  },
+  {
+    "table_pos": 2032,
+    "mode": "B-explicit",
+    "start": 5721,
+    "length": 3,
+    "end": 5724,
+    "text": "040"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 5724,
+    "length": 7,
+    "end": 5731,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 5731,
+    "length": 15,
+    "end": 5746,
+    "text": "Certo. Chega..."
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 5746,
+    "length": 14,
+    "end": 5760,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 2080,
+    "mode": "B-implicit",
+    "start": 5760,
+    "length": 2,
+    "end": 5762,
+    "text": "39"
+  },
+  {
+    "table_pos": 2080,
+    "mode": "B-explicit",
+    "start": 5762,
+    "length": 3,
+    "end": 5765,
+    "text": "041"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 5765,
+    "length": 7,
+    "end": 5772,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 5772,
+    "length": 29,
+    "end": 5801,
+    "text": "Você e eu, garoto, lá fora!"
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 5801,
+    "length": 14,
+    "end": 5815,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 2128,
+    "mode": "B-implicit",
+    "start": 5815,
+    "length": 2,
+    "end": 5817,
+    "text": "40"
+  },
+  {
+    "table_pos": 2128,
+    "mode": "B-explicit",
+    "start": 5817,
+    "length": 3,
+    "end": 5820,
+    "text": "042"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 5820,
+    "length": 7,
+    "end": 5827,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 5827,
+    "length": 39,
+    "end": 5866,
+    "text": "Lá vamos nós. É um deja vu daqueles."
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 5866,
+    "length": 14,
+    "end": 5880,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 2176,
+    "mode": "B-implicit",
+    "start": 5880,
+    "length": 2,
+    "end": 5882,
+    "text": "41"
+  },
+  {
+    "table_pos": 2176,
+    "mode": "B-explicit",
+    "start": 5882,
+    "length": 3,
+    "end": 5885,
+    "text": "043"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 5885,
+    "length": 7,
+    "end": 5892,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 5892,
+    "length": 110,
+    "end": 6002,
+    "text": "Eu posso não ser perfeita, mas agora\nsou Hokage. Então não vou perder meu\ntempo com um pirralho como você."
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 6002,
+    "length": 14,
+    "end": 6016,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 2224,
+    "mode": "B-implicit",
+    "start": 6016,
+    "length": 2,
+    "end": 6018,
+    "text": "42"
+  },
+  {
+    "table_pos": 2224,
+    "mode": "B-explicit",
+    "start": 6018,
+    "length": 3,
+    "end": 6021,
+    "text": "044"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 6021,
+    "length": 6,
+    "end": 6027,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 6027,
+    "length": 40,
+    "end": 6067,
+    "text": "Ei! Para de me chamar de pirralho, tá?!"
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 6067,
+    "length": 14,
+    "end": 6081,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 2272,
+    "mode": "B-implicit",
+    "start": 6081,
+    "length": 2,
+    "end": 6083,
+    "text": "43"
+  },
+  {
+    "table_pos": 2272,
+    "mode": "B-explicit",
+    "start": 6083,
+    "length": 3,
+    "end": 6086,
+    "text": "045"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 6086,
+    "length": 6,
+    "end": 6092,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 6092,
+    "length": 66,
+    "end": 6158,
+    "text": "Agora eu sou só uma criança,\nmas um dia eu mesmo vou ser Hokage!"
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 6158,
+    "length": 14,
+    "end": 6172,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 2320,
+    "mode": "B-implicit",
+    "start": 6172,
+    "length": 2,
+    "end": 6174,
+    "text": "44"
+  },
+  {
+    "table_pos": 2320,
+    "mode": "B-explicit",
+    "start": 6174,
+    "length": 3,
+    "end": 6177,
+    "text": "046"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-implicit",
+    "start": 6177,
+    "length": 7,
+    "end": 6184,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-explicit",
+    "start": 6184,
+    "length": 1,
+    "end": 6185,
+    "text": "!"
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 6185,
+    "length": 14,
+    "end": 6199,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 2368,
+    "mode": "B-implicit",
+    "start": 6199,
+    "length": 2,
+    "end": 6201,
+    "text": "45"
+  },
+  {
+    "table_pos": 2368,
+    "mode": "B-explicit",
+    "start": 6201,
+    "length": 3,
+    "end": 6204,
+    "text": "047"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-implicit",
+    "start": 6204,
+    "length": 7,
+    "end": 6211,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-explicit",
+    "start": 6211,
+    "length": 4,
+    "end": 6215,
+    "text": "Rá."
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 6215,
+    "length": 14,
+    "end": 6229,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 2416,
+    "mode": "B-implicit",
+    "start": 6229,
+    "length": 2,
+    "end": 6231,
+    "text": "46"
+  },
+  {
+    "table_pos": 2416,
+    "mode": "B-explicit",
+    "start": 6231,
+    "length": 3,
+    "end": 6234,
+    "text": "048"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-implicit",
+    "start": 6234,
+    "length": 6,
+    "end": 6240,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-explicit",
+    "start": 6240,
+    "length": 12,
+    "end": 6252,
+    "text": "O-o quê...?"
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 6252,
+    "length": 14,
+    "end": 6266,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 2464,
+    "mode": "B-implicit",
+    "start": 6266,
+    "length": 2,
+    "end": 6268,
+    "text": "47"
+  },
+  {
+    "table_pos": 2464,
+    "mode": "B-explicit",
+    "start": 6268,
+    "length": 3,
+    "end": 6271,
+    "text": "049"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-implicit",
+    "start": 6271,
+    "length": 7,
+    "end": 6278,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-explicit",
+    "start": 6278,
+    "length": 41,
+    "end": 6319,
+    "text": "Você vai crescer e virar um bom homem..."
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 6319,
+    "length": 14,
+    "end": 6333,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 2512,
+    "mode": "B-implicit",
+    "start": 6333,
+    "length": 2,
+    "end": 6335,
+    "text": "48"
+  },
+  {
+    "table_pos": 2512,
+    "mode": "B-explicit",
+    "start": 6335,
+    "length": 3,
+    "end": 6338,
+    "text": "050"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-implicit",
+    "start": 6338,
+    "length": 7,
+    "end": 6345,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-explicit",
+    "start": 6345,
+    "length": 34,
+    "end": 6379,
+    "text": "(E também um Hokage brilhante...)"
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 6379,
+    "length": 14,
+    "end": 6393,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 2560,
+    "mode": "B-implicit",
+    "start": 6393,
+    "length": 2,
+    "end": 6395,
+    "text": "49"
+  },
+  {
+    "table_pos": 2560,
+    "mode": "B-explicit",
+    "start": 6395,
+    "length": 3,
+    "end": 6398,
+    "text": "051"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-implicit",
+    "start": 6398,
+    "length": 6,
+    "end": 6404,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-explicit",
+    "start": 6404,
+    "length": 3,
+    "end": 6407,
+    "text": "..."
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 6407,
+    "length": 6,
+    "end": 6413,
+    "text": "無音"
+  },
+  {
+    "table_pos": 2608,
+    "mode": "A",
+    "start": 6413,
+    "length": 3,
+    "end": 6416,
+    "text": "052"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-implicit",
+    "start": 6416,
+    "length": 6,
+    "end": 6422,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-explicit",
+    "start": 6422,
+    "length": 12,
+    "end": 6434,
+    "text": "É isso aí!"
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 6434,
+    "length": 14,
+    "end": 6448,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 2656,
+    "mode": "B-implicit",
+    "start": 6448,
+    "length": 2,
+    "end": 6450,
+    "text": "50"
+  },
+  {
+    "table_pos": 2656,
+    "mode": "B-explicit",
+    "start": 6450,
+    "length": 3,
+    "end": 6453,
+    "text": "053"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-implicit",
+    "start": 6453,
+    "length": 7,
+    "end": 6460,
+    "text": "Tsunade"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-explicit",
+    "start": 6460,
+    "length": 47,
+    "end": 6507,
+    "text": "Certo, vamos todos pra casa.\nPra Vila da Folha!"
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 6507,
+    "length": 14,
+    "end": 6521,
+    "text": "VOICE_EV_UMM38"
+  },
+  {
+    "table_pos": 2704,
+    "mode": "B-implicit",
+    "start": 6521,
+    "length": 2,
+    "end": 6523,
+    "text": "51"
+  },
+  {
+    "table_pos": 2704,
+    "mode": "B-explicit",
+    "start": 6523,
+    "length": 3,
+    "end": 6526,
+    "text": "054"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-implicit",
+    "start": 6526,
+    "length": 6,
+    "end": 6532,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-explicit",
+    "start": 6532,
+    "length": 11,
+    "end": 6543,
+    "text": "Uoooaaahh!!"
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 6543,
+    "length": 14,
+    "end": 6557,
+    "text": "VOICE_EV_UMM27"
+  }
+]

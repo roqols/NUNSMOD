@@ -1,0 +1,1274 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2706,
+    "length": 11,
+    "end": 2717,
+    "text": "1nrtfig1_02"
+  },
+  {
+    "table_pos": 80,
+    "mode": "A",
+    "start": 2717,
+    "length": 30,
+    "end": 2747,
+    "text": "Vou ficar cada vez mais forte!"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2747,
+    "length": 0,
+    "end": 2747,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2747,
+    "length": 11,
+    "end": 2758,
+    "text": "1nrtfig2_02"
+  },
+  {
+    "table_pos": 128,
+    "mode": "A",
+    "start": 2758,
+    "length": 10,
+    "end": 2768,
+    "text": "Rasengan!!"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2768,
+    "length": 0,
+    "end": 2768,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2768,
+    "length": 11,
+    "end": 2779,
+    "text": "1nrtfig3_02"
+  },
+  {
+    "table_pos": 176,
+    "mode": "A",
+    "start": 2779,
+    "length": 22,
+    "end": 2801,
+    "text": "Hrrrrrrrrooooarrr...!!"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2801,
+    "length": 0,
+    "end": 2801,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2801,
+    "length": 11,
+    "end": 2812,
+    "text": "1sskfig1_02"
+  },
+  {
+    "table_pos": 224,
+    "mode": "A",
+    "start": 2812,
+    "length": 29,
+    "end": 2841,
+    "text": "A hora de brincar já acabou?"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2841,
+    "length": 0,
+    "end": 2841,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2841,
+    "length": 11,
+    "end": 2852,
+    "text": "1sskfig2_02"
+  },
+  {
+    "table_pos": 272,
+    "mode": "A",
+    "start": 2852,
+    "length": 9,
+    "end": 2861,
+    "text": "Chidori!!"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2861,
+    "length": 0,
+    "end": 2861,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2861,
+    "length": 11,
+    "end": 2872,
+    "text": "1sskfig3_02"
+  },
+  {
+    "table_pos": 320,
+    "mode": "A",
+    "start": 2872,
+    "length": 22,
+    "end": 2894,
+    "text": "Hrrrrrrrrooooarrr...!!"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2894,
+    "length": 0,
+    "end": 2894,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2894,
+    "length": 11,
+    "end": 2905,
+    "text": "1skrfig1_02"
+  },
+  {
+    "table_pos": 368,
+    "mode": "A",
+    "start": 2905,
+    "length": 18,
+    "end": 2923,
+    "text": "Isso!\nMandou bem!!"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2923,
+    "length": 0,
+    "end": 2923,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2923,
+    "length": 11,
+    "end": 2934,
+    "text": "1skrfig2_02"
+  },
+  {
+    "table_pos": 416,
+    "mode": "A",
+    "start": 2934,
+    "length": 48,
+    "end": 2982,
+    "text": "Vou dar o meu melhor!\nEspero que esteja pronto!!"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2982,
+    "length": 0,
+    "end": 2982,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2982,
+    "length": 11,
+    "end": 2993,
+    "text": "1rocfig1_02"
+  },
+  {
+    "table_pos": 464,
+    "mode": "A",
+    "start": 2993,
+    "length": 27,
+    "end": 3020,
+    "text": "Conseguimos!\nNós vencemos!"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 3020,
+    "length": 0,
+    "end": 3020,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 3020,
+    "length": 11,
+    "end": 3031,
+    "text": "1rocfig2_02"
+  },
+  {
+    "table_pos": 512,
+    "mode": "A",
+    "start": 3031,
+    "length": 65,
+    "end": 3096,
+    "text": "Finalmente, chegou a hora de mostrar\no resultado do meu esforço!"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 3096,
+    "length": 0,
+    "end": 3096,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 3096,
+    "length": 11,
+    "end": 3107,
+    "text": "1garfig1_02"
+  },
+  {
+    "table_pos": 560,
+    "mode": "A",
+    "start": 3107,
+    "length": 28,
+    "end": 3135,
+    "text": "Huh... Não foi nada demais."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 3135,
+    "length": 0,
+    "end": 3135,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 3135,
+    "length": 11,
+    "end": 3146,
+    "text": "1garfig2_02"
+  },
+  {
+    "table_pos": 608,
+    "mode": "A",
+    "start": 3146,
+    "length": 40,
+    "end": 3186,
+    "text": "Aproveite com calma o\nterror da Areia..."
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 3186,
+    "length": 0,
+    "end": 3186,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 3186,
+    "length": 11,
+    "end": 3197,
+    "text": "1garfig3_02"
+  },
+  {
+    "table_pos": 656,
+    "mode": "A",
+    "start": 3197,
+    "length": 17,
+    "end": 3214,
+    "text": "Este é o fim...!"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 3214,
+    "length": 0,
+    "end": 3214,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 3214,
+    "length": 11,
+    "end": 3225,
+    "text": "1sikfig1_02"
+  },
+  {
+    "table_pos": 704,
+    "mode": "A",
+    "start": 3225,
+    "length": 43,
+    "end": 3268,
+    "text": "Bom... Tudo saiu exatamente\ncomo planejado."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 3268,
+    "length": 0,
+    "end": 3268,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 3268,
+    "length": 11,
+    "end": 3279,
+    "text": "1sikfig2_02"
+  },
+  {
+    "table_pos": 752,
+    "mode": "A",
+    "start": 3279,
+    "length": 30,
+    "end": 3309,
+    "text": "Tsk, que oponente irritante..."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 3309,
+    "length": 0,
+    "end": 3309,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 3309,
+    "length": 11,
+    "end": 3320,
+    "text": "1nejfig1_02"
+  },
+  {
+    "table_pos": 800,
+    "mode": "A",
+    "start": 3320,
+    "length": 54,
+    "end": 3374,
+    "text": "Nós, os Hyuga, somos os mais\nfortes da Vila da Folha!"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 3374,
+    "length": 0,
+    "end": 3374,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 3374,
+    "length": 11,
+    "end": 3385,
+    "text": "1nejfig2_02"
+  },
+  {
+    "table_pos": 848,
+    "mode": "A",
+    "start": 3385,
+    "length": 40,
+    "end": 3425,
+    "text": "Você teve azar de me ter\ncomo oponente."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 3425,
+    "length": 0,
+    "end": 3425,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 3425,
+    "length": 11,
+    "end": 3436,
+    "text": "1kksfig1_02"
+  },
+  {
+    "table_pos": 896,
+    "mode": "A",
+    "start": 3436,
+    "length": 45,
+    "end": 3481,
+    "text": "Você não vai me derrotar tão\nfácil assim."
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 3481,
+    "length": 0,
+    "end": 3481,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 3481,
+    "length": 11,
+    "end": 3492,
+    "text": "1kksfig2_02"
+  },
+  {
+    "table_pos": 944,
+    "mode": "A",
+    "start": 3492,
+    "length": 24,
+    "end": 3516,
+    "text": "Certo, vamos começar..."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 3516,
+    "length": 0,
+    "end": 3516,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 3516,
+    "length": 11,
+    "end": 3527,
+    "text": "1orcfig1_02"
+  },
+  {
+    "table_pos": 992,
+    "mode": "A",
+    "start": 3527,
+    "length": 32,
+    "end": 3559,
+    "text": "Heh-heh-heh... Que engraçado..."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3559,
+    "length": 0,
+    "end": 3559,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3559,
+    "length": 11,
+    "end": 3570,
+    "text": "1orcfig2_02"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "A",
+    "start": 3570,
+    "length": 32,
+    "end": 3602,
+    "text": "Vou acabar com isso em segundos."
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3602,
+    "length": 0,
+    "end": 3602,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3602,
+    "length": 11,
+    "end": 3613,
+    "text": "1hntfig1_02"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "A",
+    "start": 3613,
+    "length": 35,
+    "end": 3648,
+    "text": "Se eu me esforçar... Eu consigo..."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 3648,
+    "length": 0,
+    "end": 3648,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 3648,
+    "length": 11,
+    "end": 3659,
+    "text": "1hntfig2_02"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "A",
+    "start": 3659,
+    "length": 24,
+    "end": 3683,
+    "text": "Eu também sei lutar...!"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 3683,
+    "length": 0,
+    "end": 3683,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 3683,
+    "length": 11,
+    "end": 3694,
+    "text": "1guyfig1_02"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "A",
+    "start": 3694,
+    "length": 21,
+    "end": 3715,
+    "text": "Ha-ha-ha!!\nBoa luta!!"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3715,
+    "length": 0,
+    "end": 3715,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3715,
+    "length": 11,
+    "end": 3726,
+    "text": "1guyfig2_02"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "A",
+    "start": 3726,
+    "length": 58,
+    "end": 3784,
+    "text": "Paixão! Sangue quente da juventude!\nUm grande confronto!!"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3784,
+    "length": 0,
+    "end": 3784,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3784,
+    "length": 11,
+    "end": 3795,
+    "text": "1sinfig1_02"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "A",
+    "start": 3795,
+    "length": 34,
+    "end": 3829,
+    "text": "Você perdeu porque\nme subestimou."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 3829,
+    "length": 0,
+    "end": 3829,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 3829,
+    "length": 11,
+    "end": 3840,
+    "text": "1sinfig2_02"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "A",
+    "start": 3840,
+    "length": 60,
+    "end": 3900,
+    "text": "Não vou baixar a guarda,\nnão importa quem seja o oponente."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 3900,
+    "length": 0,
+    "end": 3900,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 3900,
+    "length": 11,
+    "end": 3911,
+    "text": "1tenfig1_02"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "A",
+    "start": 3911,
+    "length": 29,
+    "end": 3940,
+    "text": "Nós vencemos, nós vencemos!"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 3940,
+    "length": 0,
+    "end": 3940,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 3940,
+    "length": 11,
+    "end": 3951,
+    "text": "1tenfig2_02"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "A",
+    "start": 3951,
+    "length": 37,
+    "end": 3988,
+    "text": "Vou dar o meu melhor\ndesde o início!"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 3988,
+    "length": 0,
+    "end": 3988,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 3988,
+    "length": 11,
+    "end": 3999,
+    "text": "1jryfig1_02"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "A",
+    "start": 3999,
+    "length": 42,
+    "end": 4041,
+    "text": "Já aprendeu o poder do\nSábio dos Sapos!?"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 4041,
+    "length": 0,
+    "end": 4041,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 4041,
+    "length": 11,
+    "end": 4052,
+    "text": "1jryfig2_02"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "A",
+    "start": 4052,
+    "length": 33,
+    "end": 4085,
+    "text": "Invocação! Jutsu Derruba-Casa!!"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 4085,
+    "length": 0,
+    "end": 4085,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 4085,
+    "length": 11,
+    "end": 4096,
+    "text": "1inofig1_02"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "A",
+    "start": 4096,
+    "length": 17,
+    "end": 4113,
+    "text": "O quê? Só isso?"
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 4113,
+    "length": 0,
+    "end": 4113,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 4113,
+    "length": 11,
+    "end": 4124,
+    "text": "1inofig2_02"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "A",
+    "start": 4124,
+    "length": 21,
+    "end": 4145,
+    "text": "Vou te dar uma surra!"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 4145,
+    "length": 0,
+    "end": 4145,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 4145,
+    "length": 11,
+    "end": 4156,
+    "text": "1tyofig1_02"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "A",
+    "start": 4156,
+    "length": 50,
+    "end": 4206,
+    "text": "Que tal isso? Agora você já\nconhece o meu poder!"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 4206,
+    "length": 0,
+    "end": 4206,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 4206,
+    "length": 11,
+    "end": 4217,
+    "text": "1tyofig2_02"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "A",
+    "start": 4217,
+    "length": 46,
+    "end": 4263,
+    "text": "Ninguém me vence\nquando o assunto é força!!"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 4263,
+    "length": 0,
+    "end": 4263,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 4263,
+    "length": 11,
+    "end": 4274,
+    "text": "1kibfig1_02"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "A",
+    "start": 4274,
+    "length": 46,
+    "end": 4320,
+    "text": "Moleza total!!\nVocê é só uma piada pra mim!"
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 4320,
+    "length": 0,
+    "end": 4320,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 4320,
+    "length": 11,
+    "end": 4331,
+    "text": "1kibfig2_02"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "A",
+    "start": 4331,
+    "length": 70,
+    "end": 4401,
+    "text": "Vamos mostrar como nosso trabalho\nem equipe é melhor que o de vocês!"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 4401,
+    "length": 0,
+    "end": 4401,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 4401,
+    "length": 11,
+    "end": 4412,
+    "text": "1itcfig1_02"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "A",
+    "start": 4412,
+    "length": 25,
+    "end": 4437,
+    "text": "Ninguém pode me parar..."
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 4437,
+    "length": 0,
+    "end": 4437,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 4437,
+    "length": 11,
+    "end": 4448,
+    "text": "1itcfig2_02"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "A",
+    "start": 4448,
+    "length": 51,
+    "end": 4499,
+    "text": "Está atrapalhando meu\ncaminho...? Que mente fraca."
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 4499,
+    "length": 0,
+    "end": 4499,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 4499,
+    "length": 11,
+    "end": 4510,
+    "text": "1ksmfig1_02"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "A",
+    "start": 4510,
+    "length": 27,
+    "end": 4537,
+    "text": "Nem vale a pena triturar..."
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 4537,
+    "length": 0,
+    "end": 4537,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 4537,
+    "length": 11,
+    "end": 4548,
+    "text": "1ksmfig2_02"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "A",
+    "start": 4548,
+    "length": 40,
+    "end": 4588,
+    "text": "Você vai virar presa da minha\nSamehada."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 4588,
+    "length": 0,
+    "end": 4588,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 4588,
+    "length": 11,
+    "end": 4599,
+    "text": "1tndfig1_02"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "A",
+    "start": 4599,
+    "length": 32,
+    "end": 4631,
+    "text": "Esta luta... é minha vitória!!"
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 4631,
+    "length": 0,
+    "end": 4631,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 4631,
+    "length": 11,
+    "end": 4642,
+    "text": "1tndfig2_02"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "A",
+    "start": 4642,
+    "length": 24,
+    "end": 4666,
+    "text": "Certo!! Vamos começar!!"
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 4666,
+    "length": 0,
+    "end": 4666,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 4666,
+    "length": 11,
+    "end": 4677,
+    "text": "1hkgfig1_02"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "A",
+    "start": 4677,
+    "length": 58,
+    "end": 4735,
+    "text": "As pessoas importantes pra mim...\nVou proteger todas elas."
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 4735,
+    "length": 0,
+    "end": 4735,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 4735,
+    "length": 11,
+    "end": 4746,
+    "text": "1hkgfig2_02"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "A",
+    "start": 4746,
+    "length": 43,
+    "end": 4789,
+    "text": "Nunca subestime o poder\ndo Terceiro Hokage!"
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 4789,
+    "length": 0,
+    "end": 4789,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 4789,
+    "length": 11,
+    "end": 4800,
+    "text": "1kbtfig1_02"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "A",
+    "start": 4800,
+    "length": 34,
+    "end": 4834,
+    "text": "He-he... Garoto, você é fraco..."
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 4834,
+    "length": 0,
+    "end": 4834,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 4834,
+    "length": 11,
+    "end": 4845,
+    "text": "1kbtfig2_02"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "A",
+    "start": 4845,
+    "length": 56,
+    "end": 4901,
+    "text": "Ora, ora, parece que a hora\nde brincar está começando."
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 4901,
+    "length": 0,
+    "end": 4901,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 4901,
+    "length": 11,
+    "end": 4912,
+    "text": "1tmrfig1_02"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "A",
+    "start": 4912,
+    "length": 47,
+    "end": 4959,
+    "text": "Heh... Você se saiu melhor\ndo que eu esperava."
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 4959,
+    "length": 0,
+    "end": 4959,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 4959,
+    "length": 11,
+    "end": 4970,
+    "text": "1tmrfig2_02"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "A",
+    "start": 4970,
+    "length": 41,
+    "end": 5011,
+    "text": "Não me importa o que acontece com você!"
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 5011,
+    "length": 0,
+    "end": 5011,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 5011,
+    "length": 11,
+    "end": 5022,
+    "text": "1knkfig1_02"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "A",
+    "start": 5022,
+    "length": 28,
+    "end": 5050,
+    "text": "Hah! Você era fraco demais!"
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 5050,
+    "length": 0,
+    "end": 5050,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 5050,
+    "length": 11,
+    "end": 5061,
+    "text": "1knkfig2_02"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "A",
+    "start": 5061,
+    "length": 34,
+    "end": 5095,
+    "text": "Agora... O show de horror começa."
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 5095,
+    "length": 0,
+    "end": 5095,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 5095,
+    "length": 11,
+    "end": 5106,
+    "text": "1kmmfig1_02"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "A",
+    "start": 5106,
+    "length": 43,
+    "end": 5149,
+    "text": "Você é fraco demais...\nQue sem sentido..."
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 5149,
+    "length": 0,
+    "end": 5149,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 5149,
+    "length": 11,
+    "end": 5160,
+    "text": "1kmmfig2_02"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "A",
+    "start": 5160,
+    "length": 15,
+    "end": 5175,
+    "text": "Raaaaaaahh...!!"
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 5175,
+    "length": 0,
+    "end": 5175,
+    "text": ""
+  }
+]

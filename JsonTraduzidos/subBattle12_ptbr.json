@@ -1,0 +1,826 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 1402,
+    "length": 3,
+    "end": 1405,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 1405,
+    "length": 6,
+    "end": 1411,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 1411,
+    "length": 35,
+    "end": 1446,
+    "text": "Queria falar comigo, Sábio Tarado?"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 1446,
+    "length": 0,
+    "end": 1446,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 1446,
+    "length": 3,
+    "end": 1449,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 1449,
+    "length": 7,
+    "end": 1456,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 1456,
+    "length": 43,
+    "end": 1499,
+    "text": "Tem uma coisa que eu quero falar\ncom você."
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 1499,
+    "length": 0,
+    "end": 1499,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 1499,
+    "length": 3,
+    "end": 1502,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 1502,
+    "length": 6,
+    "end": 1508,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 1508,
+    "length": 30,
+    "end": 1538,
+    "text": "Se for sermão, dá pra pular?"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 1538,
+    "length": 0,
+    "end": 1538,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 1538,
+    "length": 3,
+    "end": 1541,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 1541,
+    "length": 7,
+    "end": 1548,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 1548,
+    "length": 95,
+    "end": 1643,
+    "text": "Não é sermão. É sobre o espírito da\nRaposa de Nove Caudas e o poder\nda marca amaldiçoada."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 1643,
+    "length": 0,
+    "end": 1643,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 1643,
+    "length": 3,
+    "end": 1646,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 1646,
+    "length": 6,
+    "end": 1652,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 1652,
+    "length": 5,
+    "end": 1657,
+    "text": "...!!"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 1657,
+    "length": 0,
+    "end": 1657,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 1657,
+    "length": 3,
+    "end": 1660,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 1660,
+    "length": 7,
+    "end": 1667,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 1667,
+    "length": 57,
+    "end": 1724,
+    "text": "Esse poder é incrivelmente destrutivo,\ne muito perigoso."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 1724,
+    "length": 0,
+    "end": 1724,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 1724,
+    "length": 3,
+    "end": 1727,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 1727,
+    "length": 6,
+    "end": 1733,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 1733,
+    "length": 9,
+    "end": 1742,
+    "text": "... É..."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 1742,
+    "length": 0,
+    "end": 1742,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 1742,
+    "length": 3,
+    "end": 1745,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 1745,
+    "length": 7,
+    "end": 1752,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 1752,
+    "length": 101,
+    "end": 1853,
+    "text": "Use com sabedoria e você ganha\nvantagem na batalha, mas use mal\ne o resultado pode ser desastroso..."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 1853,
+    "length": 0,
+    "end": 1853,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 1853,
+    "length": 3,
+    "end": 1856,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 1856,
+    "length": 7,
+    "end": 1863,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 1863,
+    "length": 78,
+    "end": 1941,
+    "text": "Tenho certeza que você já sabe disso,\nmas... não confie demais\nnesse poder."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 1941,
+    "length": 0,
+    "end": 1941,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 1941,
+    "length": 3,
+    "end": 1944,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 1944,
+    "length": 6,
+    "end": 1950,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 1950,
+    "length": 6,
+    "end": 1956,
+    "text": "......"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 1956,
+    "length": 0,
+    "end": 1956,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 1956,
+    "length": 3,
+    "end": 1959,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "A",
+    "start": 1959,
+    "length": 96,
+    "end": 2055,
+    "text": "Naruto fecha os olhos, pensando na\nmarca amaldiçoada e no espírito\nda Raposa de Nove Caudas..."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 2055,
+    "length": 0,
+    "end": 2055,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 2055,
+    "length": 3,
+    "end": 2058,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 2058,
+    "length": 6,
+    "end": 2064,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 2064,
+    "length": 63,
+    "end": 2127,
+    "text": "Você não pode esperar que eu...\ntenha controle desse poder..."
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 2127,
+    "length": 0,
+    "end": 2127,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 2127,
+    "length": 3,
+    "end": 2130,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 2130,
+    "length": 7,
+    "end": 2137,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 2137,
+    "length": 48,
+    "end": 2185,
+    "text": "(Hmm... Parece que dei a ele algo\npra pensar...)"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 2185,
+    "length": 0,
+    "end": 2185,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 2185,
+    "length": 3,
+    "end": 2188,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 2188,
+    "length": 6,
+    "end": 2194,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 2194,
+    "length": 6,
+    "end": 2200,
+    "text": "......"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 2200,
+    "length": 0,
+    "end": 2200,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 2200,
+    "length": 3,
+    "end": 2203,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 2203,
+    "length": 7,
+    "end": 2210,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 2210,
+    "length": 67,
+    "end": 2277,
+    "text": "Só se você usar mal o poder.\nVai ficar tudo bem se tiver cuidado."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 2277,
+    "length": 0,
+    "end": 2277,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 2277,
+    "length": 3,
+    "end": 2280,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 2280,
+    "length": 6,
+    "end": 2286,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 2286,
+    "length": 8,
+    "end": 2294,
+    "text": "Certo..."
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 2294,
+    "length": 0,
+    "end": 2294,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 2294,
+    "length": 3,
+    "end": 2297,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 2297,
+    "length": 7,
+    "end": 2304,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 2304,
+    "length": 95,
+    "end": 2399,
+    "text": "(Ainda tenho muito a ensinar a ele.\nEle não consegue fazer nada se\nficar preocupado demais...)"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 2399,
+    "length": 0,
+    "end": 2399,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 2399,
+    "length": 3,
+    "end": 2402,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 2402,
+    "length": 7,
+    "end": 2409,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 2409,
+    "length": 56,
+    "end": 2465,
+    "text": "Não se preocupe, vou te ensinar a\nusar o poder direito."
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 2465,
+    "length": 0,
+    "end": 2465,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 2465,
+    "length": 3,
+    "end": 2468,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 2468,
+    "length": 6,
+    "end": 2474,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 2474,
+    "length": 52,
+    "end": 2526,
+    "text": "É verdade... aquele poder É\nincrivelmente forte..."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 2526,
+    "length": 0,
+    "end": 2526,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 2526,
+    "length": 3,
+    "end": 2529,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 2529,
+    "length": 6,
+    "end": 2535,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 2535,
+    "length": 77,
+    "end": 2612,
+    "text": "Mas os meus poderes também vão\nficar cada vez mais fortes,\nSábio Tarado..."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 2612,
+    "length": 0,
+    "end": 2612,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 2612,
+    "length": 3,
+    "end": 2615,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 2615,
+    "length": 6,
+    "end": 2621,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 2621,
+    "length": 36,
+    "end": 2657,
+    "text": "Então continua me treinando pesado!"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 2657,
+    "length": 0,
+    "end": 2657,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 2657,
+    "length": 3,
+    "end": 2660,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 2660,
+    "length": 7,
+    "end": 2667,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 2667,
+    "length": 6,
+    "end": 2673,
+    "text": "......"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 2673,
+    "length": 0,
+    "end": 2673,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 2673,
+    "length": 3,
+    "end": 2676,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 2676,
+    "length": 7,
+    "end": 2683,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 2683,
+    "length": 75,
+    "end": 2758,
+    "text": "(Hmph. Com uma vontade tão forte,\nnenhum poder está fora do seu alcance.)"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 2758,
+    "length": 0,
+    "end": 2758,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 2758,
+    "length": 3,
+    "end": 2761,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 2761,
+    "length": 6,
+    "end": 2767,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 2767,
+    "length": 21,
+    "end": 2788,
+    "text": "Beleza! Vamos nessa!!"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 2788,
+    "length": 0,
+    "end": 2788,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 2788,
+    "length": 3,
+    "end": 2791,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 2791,
+    "length": 7,
+    "end": 2798,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 2798,
+    "length": 47,
+    "end": 2845,
+    "text": "Estou ansioso pra ver o que vai\nse tornar dele."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 2845,
+    "length": 0,
+    "end": 2845,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 2845,
+    "length": 3,
+    "end": 2848,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 2848,
+    "length": 7,
+    "end": 2855,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 2855,
+    "length": 57,
+    "end": 2912,
+    "text": "Você talvez consiga mesmo domar\na Raposa de Nove Caudas."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 2912,
+    "length": 0,
+    "end": 2912,
+    "text": ""
+  }
+]

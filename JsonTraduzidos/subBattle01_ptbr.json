@@ -1,0 +1,1122 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 1849,
+    "length": 3,
+    "end": 1852,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 1852,
+    "length": 6,
+    "end": 1858,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 1858,
+    "length": 88,
+    "end": 1946,
+    "text": "Ah, aí está você. O que está\nfazendo aqui, Kakashi sensei?\nPensando em alguma coisa?"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 1946,
+    "length": 0,
+    "end": 1946,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 1946,
+    "length": 3,
+    "end": 1949,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 1949,
+    "length": 7,
+    "end": 1956,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 1956,
+    "length": 24,
+    "end": 1980,
+    "text": "Mm, é... mais ou menos."
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 1980,
+    "length": 0,
+    "end": 1980,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 1980,
+    "length": 3,
+    "end": 1983,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 1983,
+    "length": 6,
+    "end": 1989,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 1989,
+    "length": 61,
+    "end": 2050,
+    "text": "Hmm. Bem. Uh, a Sakura está\nte procurando, Kakashi sensei..."
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2050,
+    "length": 0,
+    "end": 2050,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2050,
+    "length": 3,
+    "end": 2053,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2053,
+    "length": 7,
+    "end": 2060,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2060,
+    "length": 57,
+    "end": 2117,
+    "text": "Na verdade eu estava pensando\nnum novo treino pra vocês."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2117,
+    "length": 0,
+    "end": 2117,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2117,
+    "length": 3,
+    "end": 2120,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2120,
+    "length": 6,
+    "end": 2126,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2126,
+    "length": 8,
+    "end": 2134,
+    "text": "O quê!?"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2134,
+    "length": 0,
+    "end": 2134,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2134,
+    "length": 5,
+    "end": 2139,
+    "text": "005_5"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 2139,
+    "length": 7,
+    "end": 2146,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 2146,
+    "length": 45,
+    "end": 2191,
+    "text": "Eu ia justamente te pedir\npra experimentar..."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2191,
+    "length": 0,
+    "end": 2191,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2191,
+    "length": 3,
+    "end": 2194,
+    "text": "006"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2194,
+    "length": 7,
+    "end": 2201,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2201,
+    "length": 24,
+    "end": 2225,
+    "text": "O que acha? Quer tentar?"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2225,
+    "length": 0,
+    "end": 2225,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2225,
+    "length": 3,
+    "end": 2228,
+    "text": "007"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2228,
+    "length": 6,
+    "end": 2234,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2234,
+    "length": 42,
+    "end": 2276,
+    "text": "Claro! Adoraria! Hoje é meu\ndia de sorte!"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2276,
+    "length": 0,
+    "end": 2276,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2276,
+    "length": 3,
+    "end": 2279,
+    "text": "008"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2279,
+    "length": 7,
+    "end": 2286,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 2286,
+    "length": 65,
+    "end": 2351,
+    "text": "(Não tem muita gente que se\nacha SORTUDA por ter que\ntreinar...)"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 2351,
+    "length": 0,
+    "end": 2351,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 2351,
+    "length": 3,
+    "end": 2354,
+    "text": "009"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 2354,
+    "length": 6,
+    "end": 2360,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 2360,
+    "length": 32,
+    "end": 2392,
+    "text": "Kakashi sensei! Vamos começar!!"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2392,
+    "length": 0,
+    "end": 2392,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2392,
+    "length": 3,
+    "end": 2395,
+    "text": "010"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 2395,
+    "length": 7,
+    "end": 2402,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 2402,
+    "length": 39,
+    "end": 2441,
+    "text": "Certo. Vamos ver até onde\nvocê chega."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 2441,
+    "length": 0,
+    "end": 2441,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 2441,
+    "length": 3,
+    "end": 2444,
+    "text": "011"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 2444,
+    "length": 7,
+    "end": 2451,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 2451,
+    "length": 34,
+    "end": 2485,
+    "text": "Ei, o que há de errado com\nvocê?"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 2485,
+    "length": 0,
+    "end": 2485,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 2485,
+    "length": 3,
+    "end": 2488,
+    "text": "012"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 2488,
+    "length": 6,
+    "end": 2494,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 2494,
+    "length": 7,
+    "end": 2501,
+    "text": "Droga!!"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 2501,
+    "length": 0,
+    "end": 2501,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 2501,
+    "length": 3,
+    "end": 2504,
+    "text": "013"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 2504,
+    "length": 7,
+    "end": 2511,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 2511,
+    "length": 47,
+    "end": 2558,
+    "text": "Não foi bom o suficiente. Isso\nnão vai dar..."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 2558,
+    "length": 0,
+    "end": 2558,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 2558,
+    "length": 3,
+    "end": 2561,
+    "text": "014"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 2561,
+    "length": 6,
+    "end": 2567,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 2567,
+    "length": 29,
+    "end": 2596,
+    "text": "Da próxima vez... eu acerto!"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 2596,
+    "length": 0,
+    "end": 2596,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 2596,
+    "length": 3,
+    "end": 2599,
+    "text": "015"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 2599,
+    "length": 7,
+    "end": 2606,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 2606,
+    "length": 82,
+    "end": 2688,
+    "text": "Eu adoraria continuar\ntreinando, mas,\ninfelizmente, tenho outras\ncoisas pra fazer."
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 2688,
+    "length": 0,
+    "end": 2688,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 2688,
+    "length": 3,
+    "end": 2691,
+    "text": "016"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 2691,
+    "length": 6,
+    "end": 2697,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 2697,
+    "length": 12,
+    "end": 2709,
+    "text": "Nãããão!!"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 2709,
+    "length": 0,
+    "end": 2709,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 2709,
+    "length": 3,
+    "end": 2712,
+    "text": "017"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 2712,
+    "length": 7,
+    "end": 2719,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 2719,
+    "length": 73,
+    "end": 2792,
+    "text": "Vou treinar com você de novo\nem outra hora. Continue\ntreinando até lá."
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 2792,
+    "length": 0,
+    "end": 2792,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 2792,
+    "length": 3,
+    "end": 2795,
+    "text": "018"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 2795,
+    "length": 6,
+    "end": 2801,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 2801,
+    "length": 59,
+    "end": 2860,
+    "text": "Certo. Só espera, na próxima\nvez eu acerto com certeza..."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 2860,
+    "length": 0,
+    "end": 2860,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 2860,
+    "length": 3,
+    "end": 2863,
+    "text": "019"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 2863,
+    "length": 6,
+    "end": 2869,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 2869,
+    "length": 9,
+    "end": 2878,
+    "text": "........."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 2878,
+    "length": 0,
+    "end": 2878,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 2878,
+    "length": 3,
+    "end": 2881,
+    "text": "020"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 2881,
+    "length": 6,
+    "end": 2887,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 2887,
+    "length": 34,
+    "end": 2921,
+    "text": "(Ah...? Estou esquecendo\nalgo...?)"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 2921,
+    "length": 0,
+    "end": 2921,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 2921,
+    "length": 3,
+    "end": 2924,
+    "text": "021"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 2924,
+    "length": 6,
+    "end": 2930,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 2930,
+    "length": 62,
+    "end": 2992,
+    "text": "Aaaah!! Eu não disse a ele que\na Sakura está procurando ele!"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 2992,
+    "length": 0,
+    "end": 2992,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 2992,
+    "length": 3,
+    "end": 2995,
+    "text": "022"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 2995,
+    "length": 6,
+    "end": 3001,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 3001,
+    "length": 35,
+    "end": 3036,
+    "text": "Ah, não!! Ela vai ficar\nbraaava..."
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 3036,
+    "length": 0,
+    "end": 3036,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 3036,
+    "length": 3,
+    "end": 3039,
+    "text": "023"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 3039,
+    "length": 6,
+    "end": 3045,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 3045,
+    "length": 4,
+    "end": 3049,
+    "text": "É!!"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3049,
+    "length": 0,
+    "end": 3049,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3049,
+    "length": 3,
+    "end": 3052,
+    "text": "024"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 3052,
+    "length": 7,
+    "end": 3059,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 3059,
+    "length": 23,
+    "end": 3082,
+    "text": "Bem, você se saiu bem."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3082,
+    "length": 0,
+    "end": 3082,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3082,
+    "length": 3,
+    "end": 3085,
+    "text": "025"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 3085,
+    "length": 6,
+    "end": 3091,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 3091,
+    "length": 35,
+    "end": 3126,
+    "text": "Hehe! Como eu já sabia que ia\nser."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 3126,
+    "length": 0,
+    "end": 3126,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 3126,
+    "length": 3,
+    "end": 3129,
+    "text": "026"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 3129,
+    "length": 7,
+    "end": 3136,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 3136,
+    "length": 71,
+    "end": 3207,
+    "text": "Bem, o treino acabou, então\nvou indo. Tenho algo\nimportante pra fazer."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 3207,
+    "length": 0,
+    "end": 3207,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 3207,
+    "length": 3,
+    "end": 3210,
+    "text": "027"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 3210,
+    "length": 6,
+    "end": 3216,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 3216,
+    "length": 49,
+    "end": 3265,
+    "text": "Algo importante...? Por que\nisso soa familiar...?"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 3265,
+    "length": 0,
+    "end": 3265,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 3265,
+    "length": 3,
+    "end": 3268,
+    "text": "028"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 3268,
+    "length": 6,
+    "end": 3274,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 3274,
+    "length": 28,
+    "end": 3302,
+    "text": "Aaaahh!! Agora eu lembrei!! "
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 3302,
+    "length": 0,
+    "end": 3302,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 3302,
+    "length": 3,
+    "end": 3305,
+    "text": "029"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 3305,
+    "length": 6,
+    "end": 3311,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 3311,
+    "length": 65,
+    "end": 3376,
+    "text": "Sabe de uma coisa? A Sakura\nestava te procurando, Kakashi\nsensei."
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 3376,
+    "length": 0,
+    "end": 3376,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 3376,
+    "length": 3,
+    "end": 3379,
+    "text": "030"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 3379,
+    "length": 6,
+    "end": 3385,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 3385,
+    "length": 48,
+    "end": 3433,
+    "text": "Ela disse que precisa te\ncontar algo importante!"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 3433,
+    "length": 0,
+    "end": 3433,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 3433,
+    "length": 3,
+    "end": 3436,
+    "text": "031"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 3436,
+    "length": 7,
+    "end": 3443,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 3443,
+    "length": 23,
+    "end": 3466,
+    "text": "A Sakura disse isso...?"
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 3466,
+    "length": 0,
+    "end": 3466,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 3466,
+    "length": 3,
+    "end": 3469,
+    "text": "032"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 3469,
+    "length": 7,
+    "end": 3476,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 3476,
+    "length": 30,
+    "end": 3506,
+    "text": "Certo. Vou procurá-la então."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 3506,
+    "length": 0,
+    "end": 3506,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 3506,
+    "length": 3,
+    "end": 3509,
+    "text": "033"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 3509,
+    "length": 6,
+    "end": 3515,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 3515,
+    "length": 23,
+    "end": 3538,
+    "text": "É! Por favor, vai lá."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 3538,
+    "length": 0,
+    "end": 3538,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 3538,
+    "length": 3,
+    "end": 3541,
+    "text": "034"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 3541,
+    "length": 6,
+    "end": 3547,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 3547,
+    "length": 36,
+    "end": 3583,
+    "text": "Ufa. Quase esqueci... Foi por\npouco."
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 3583,
+    "length": 0,
+    "end": 3583,
+    "text": ""
+  }
+]

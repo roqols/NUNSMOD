@@ -1,0 +1,290 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 674,
+    "length": 1,
+    "end": 675,
+    "text": "0"
+  },
+  {
+    "table_pos": 80,
+    "mode": "A",
+    "start": 675,
+    "length": 13,
+    "end": 688,
+    "text": "LOJA DE ITENS"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 688,
+    "length": 0,
+    "end": 688,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 688,
+    "length": 1,
+    "end": 689,
+    "text": "1"
+  },
+  {
+    "table_pos": 128,
+    "mode": "A",
+    "start": 689,
+    "length": 14,
+    "end": 703,
+    "text": "ICHIRAKU RAMEN"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 703,
+    "length": 0,
+    "end": 703,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 703,
+    "length": 1,
+    "end": 704,
+    "text": "2"
+  },
+  {
+    "table_pos": 176,
+    "mode": "A",
+    "start": 704,
+    "length": 10,
+    "end": 714,
+    "text": "LOJA GERAL"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 714,
+    "length": 0,
+    "end": 714,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 714,
+    "length": 1,
+    "end": 715,
+    "text": "3"
+  },
+  {
+    "table_pos": 224,
+    "mode": "A",
+    "start": 715,
+    "length": 20,
+    "end": 735,
+    "text": "TROCA DE PERGAMINHOS"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 735,
+    "length": 0,
+    "end": 735,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 735,
+    "length": 1,
+    "end": 736,
+    "text": "4"
+  },
+  {
+    "table_pos": 272,
+    "mode": "A",
+    "start": 736,
+    "length": 21,
+    "end": 757,
+    "text": "FLORICULTURA YAMANAKA"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 757,
+    "length": 0,
+    "end": 757,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 757,
+    "length": 1,
+    "end": 758,
+    "text": "5"
+  },
+  {
+    "table_pos": 320,
+    "mode": "A",
+    "start": 758,
+    "length": 15,
+    "end": 773,
+    "text": "LOJA DE INSETOS"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 773,
+    "length": 0,
+    "end": 773,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 773,
+    "length": 1,
+    "end": 774,
+    "text": "6"
+  },
+  {
+    "table_pos": 368,
+    "mode": "A",
+    "start": 774,
+    "length": 16,
+    "end": 790,
+    "text": "LOJA DE VEGETAIS"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 790,
+    "length": 0,
+    "end": 790,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 790,
+    "length": 1,
+    "end": 791,
+    "text": "7"
+  },
+  {
+    "table_pos": 416,
+    "mode": "A",
+    "start": 791,
+    "length": 14,
+    "end": 805,
+    "text": "LOJA DE FRUTAS"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 805,
+    "length": 0,
+    "end": 805,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 805,
+    "length": 1,
+    "end": 806,
+    "text": "8"
+  },
+  {
+    "table_pos": 464,
+    "mode": "A",
+    "start": 806,
+    "length": 5,
+    "end": 811,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 811,
+    "length": 0,
+    "end": 811,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 811,
+    "length": 1,
+    "end": 812,
+    "text": "9"
+  },
+  {
+    "table_pos": 512,
+    "mode": "A",
+    "start": 812,
+    "length": 5,
+    "end": 817,
+    "text": "CESTA"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 817,
+    "length": 0,
+    "end": 817,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 817,
+    "length": 2,
+    "end": 819,
+    "text": "10"
+  },
+  {
+    "table_pos": 560,
+    "mode": "A",
+    "start": 819,
+    "length": 19,
+    "end": 838,
+    "text": "PONTO DE SALVAMENTO"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 838,
+    "length": 0,
+    "end": 838,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 838,
+    "length": 2,
+    "end": 840,
+    "text": "11"
+  },
+  {
+    "table_pos": 608,
+    "mode": "A",
+    "start": 840,
+    "length": 5,
+    "end": 845,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 845,
+    "length": 0,
+    "end": 845,
+    "text": ""
+  }
+]

@@ -1,0 +1,818 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 1723,
+    "length": 5,
+    "end": 1728,
+    "text": "1NRT1"
+  },
+  {
+    "table_pos": 80,
+    "mode": "A",
+    "start": 1728,
+    "length": 5,
+    "end": 1733,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 1733,
+    "length": 0,
+    "end": 1733,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 1733,
+    "length": 5,
+    "end": 1738,
+    "text": "1NRT2"
+  },
+  {
+    "table_pos": 128,
+    "mode": "A",
+    "start": 1738,
+    "length": 22,
+    "end": 1760,
+    "text": "MANUAL NINJA DO NARUTO"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 1760,
+    "length": 0,
+    "end": 1760,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 1760,
+    "length": 5,
+    "end": 1765,
+    "text": "1NRT3"
+  },
+  {
+    "table_pos": 176,
+    "mode": "A",
+    "start": 1765,
+    "length": 27,
+    "end": 1792,
+    "text": "CLONE DAS SOMBRAS: RASENGAN"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 1792,
+    "length": 0,
+    "end": 1792,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 1792,
+    "length": 5,
+    "end": 1797,
+    "text": "1SSK1"
+  },
+  {
+    "table_pos": 224,
+    "mode": "A",
+    "start": 1797,
+    "length": 32,
+    "end": 1829,
+    "text": "ESTILO FOGO: JUTSU FLOR DE FENIX"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 1829,
+    "length": 0,
+    "end": 1829,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 1829,
+    "length": 5,
+    "end": 1834,
+    "text": "1SSK2"
+  },
+  {
+    "table_pos": 272,
+    "mode": "A",
+    "start": 1834,
+    "length": 30,
+    "end": 1864,
+    "text": "CHIDORI DA MARCA DA MALDIÇÃO"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 1864,
+    "length": 0,
+    "end": 1864,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 1864,
+    "length": 7,
+    "end": 1871,
+    "text": "1SSK2_1"
+  },
+  {
+    "table_pos": 320,
+    "mode": "A",
+    "start": 1871,
+    "length": 7,
+    "end": 1878,
+    "text": "CHIDORI"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 1878,
+    "length": 0,
+    "end": 1878,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 1878,
+    "length": 5,
+    "end": 1883,
+    "text": "1SKR1"
+  },
+  {
+    "table_pos": 368,
+    "mode": "A",
+    "start": 1883,
+    "length": 15,
+    "end": 1898,
+    "text": "A GRANDE SAKURA"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 1898,
+    "length": 0,
+    "end": 1898,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 1898,
+    "length": 5,
+    "end": 1903,
+    "text": "1ROC1"
+  },
+  {
+    "table_pos": 416,
+    "mode": "A",
+    "start": 1903,
+    "length": 23,
+    "end": 1926,
+    "text": "CÉU EM CHAMAS DA FOLHA"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 1926,
+    "length": 0,
+    "end": 1926,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 1926,
+    "length": 5,
+    "end": 1931,
+    "text": "1NEJ1"
+  },
+  {
+    "table_pos": 464,
+    "mode": "A",
+    "start": 1931,
+    "length": 22,
+    "end": 1953,
+    "text": "8 TRIGRAMAS: 64 GOLPES"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 1953,
+    "length": 0,
+    "end": 1953,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 1953,
+    "length": 5,
+    "end": 1958,
+    "text": "1TEN1"
+  },
+  {
+    "table_pos": 512,
+    "mode": "A",
+    "start": 1958,
+    "length": 45,
+    "end": 2003,
+    "text": "FERRAMENTA NINJA: CAOS DE MÚLTIPLAS LÂMINAS"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2003,
+    "length": 0,
+    "end": 2003,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2003,
+    "length": 5,
+    "end": 2008,
+    "text": "1SIK1"
+  },
+  {
+    "table_pos": 560,
+    "mode": "A",
+    "start": 2008,
+    "length": 48,
+    "end": 2056,
+    "text": "ARTE NINJA: JUTSU DO ESTRANGULAMENTO DAS SOMBRAS"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 2056,
+    "length": 0,
+    "end": 2056,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 2056,
+    "length": 5,
+    "end": 2061,
+    "text": "1TYO1"
+  },
+  {
+    "table_pos": 608,
+    "mode": "A",
+    "start": 2061,
+    "length": 24,
+    "end": 2085,
+    "text": "JUTSU DE SUPER EXPANSÃO"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 2085,
+    "length": 0,
+    "end": 2085,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 2085,
+    "length": 5,
+    "end": 2090,
+    "text": "1INO1"
+  },
+  {
+    "table_pos": 656,
+    "mode": "A",
+    "start": 2090,
+    "length": 33,
+    "end": 2123,
+    "text": "ARTE NINJA: INUNDAÇÃO DE FLORES"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 2123,
+    "length": 0,
+    "end": 2123,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 2123,
+    "length": 5,
+    "end": 2128,
+    "text": "1KIB1"
+  },
+  {
+    "table_pos": 704,
+    "mode": "A",
+    "start": 2128,
+    "length": 25,
+    "end": 2153,
+    "text": "PRESA SOBRE PRESA DO LOBO"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 2153,
+    "length": 0,
+    "end": 2153,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 2153,
+    "length": 5,
+    "end": 2158,
+    "text": "1SIN1"
+  },
+  {
+    "table_pos": 752,
+    "mode": "A",
+    "start": 2158,
+    "length": 23,
+    "end": 2181,
+    "text": "INSETOS PARASITAS: PUPA"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 2181,
+    "length": 0,
+    "end": 2181,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 2181,
+    "length": 5,
+    "end": 2186,
+    "text": "1HNT1"
+  },
+  {
+    "table_pos": 800,
+    "mode": "A",
+    "start": 2186,
+    "length": 33,
+    "end": 2219,
+    "text": "GUARDA DOS 8 TRIGRAMAS: 64 GOLPES"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 2219,
+    "length": 0,
+    "end": 2219,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 2219,
+    "length": 5,
+    "end": 2224,
+    "text": "1GAR1"
+  },
+  {
+    "table_pos": 848,
+    "mode": "A",
+    "start": 2224,
+    "length": 29,
+    "end": 2253,
+    "text": "SEPULTAMENTO GIGANTE DE AREIA"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 2253,
+    "length": 0,
+    "end": 2253,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 2253,
+    "length": 5,
+    "end": 2258,
+    "text": "1KNK1"
+  },
+  {
+    "table_pos": 896,
+    "mode": "A",
+    "start": 2258,
+    "length": 40,
+    "end": 2298,
+    "text": "TÉCNICA SECRETA NEGRA: DONZELA DE FERRO"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 2298,
+    "length": 0,
+    "end": 2298,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 2298,
+    "length": 5,
+    "end": 2303,
+    "text": "1TMR1"
+  },
+  {
+    "table_pos": 944,
+    "mode": "A",
+    "start": 2303,
+    "length": 32,
+    "end": 2335,
+    "text": "INVOCAÇÃO: DANÇA DAS LÂMINAS"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 2335,
+    "length": 0,
+    "end": 2335,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 2335,
+    "length": 5,
+    "end": 2340,
+    "text": "1KKS1"
+  },
+  {
+    "table_pos": 992,
+    "mode": "A",
+    "start": 2340,
+    "length": 49,
+    "end": 2389,
+    "text": "LÂMINA DO RELÂMPAGO: TERREMOTO RELÂMPAGO DUPLO"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 2389,
+    "length": 0,
+    "end": 2389,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 2389,
+    "length": 5,
+    "end": 2394,
+    "text": "1GUY1"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "A",
+    "start": 2394,
+    "length": 16,
+    "end": 2410,
+    "text": "A PRÓPRIA REGRA"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 2410,
+    "length": 0,
+    "end": 2410,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 2410,
+    "length": 5,
+    "end": 2415,
+    "text": "1JRY1"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "A",
+    "start": 2415,
+    "length": 12,
+    "end": 2427,
+    "text": "PODER SÁBIO"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 2427,
+    "length": 0,
+    "end": 2427,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 2427,
+    "length": 5,
+    "end": 2432,
+    "text": "1TND1"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "A",
+    "start": 2432,
+    "length": 26,
+    "end": 2458,
+    "text": "FORÇA HERCÚLEA LENDÁRIA"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 2458,
+    "length": 0,
+    "end": 2458,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 2458,
+    "length": 5,
+    "end": 2463,
+    "text": "1HKG1"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "A",
+    "start": 2463,
+    "length": 45,
+    "end": 2508,
+    "text": "JUTSU DE SELAMENTO: SELO DA MORTE DO CEIFADOR"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 2508,
+    "length": 0,
+    "end": 2508,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 2508,
+    "length": 5,
+    "end": 2513,
+    "text": "1ORC1"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "A",
+    "start": 2513,
+    "length": 15,
+    "end": 2528,
+    "text": "GIGANTE MALIGNO"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 2528,
+    "length": 0,
+    "end": 2528,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 2528,
+    "length": 5,
+    "end": 2533,
+    "text": "1KBT1"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "A",
+    "start": 2533,
+    "length": 19,
+    "end": 2552,
+    "text": "JUTSU DA ALMA MORTA"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 2552,
+    "length": 0,
+    "end": 2552,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 2552,
+    "length": 5,
+    "end": 2557,
+    "text": "1KMM1"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "A",
+    "start": 2557,
+    "length": 15,
+    "end": 2572,
+    "text": "DANÇA DE GENJI"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 2572,
+    "length": 0,
+    "end": 2572,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 2572,
+    "length": 5,
+    "end": 2577,
+    "text": "1ITC1"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "A",
+    "start": 2577,
+    "length": 9,
+    "end": 2586,
+    "text": "TSUKUYOMI"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 2586,
+    "length": 0,
+    "end": 2586,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 2586,
+    "length": 5,
+    "end": 2591,
+    "text": "1KSM1"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "A",
+    "start": 2591,
+    "length": 45,
+    "end": 2636,
+    "text": "ESTILO DE ÁGUA: GRANDE ESCAVAÇÃO AQUÁTICA"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 2636,
+    "length": 0,
+    "end": 2636,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 2636,
+    "length": 5,
+    "end": 2641,
+    "text": "1NRV1"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "A",
+    "start": 2641,
+    "length": 12,
+    "end": 2653,
+    "text": "PODER SELADO"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 2653,
+    "length": 0,
+    "end": 2653,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 2653,
+    "length": 5,
+    "end": 2658,
+    "text": "1SSV1"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "A",
+    "start": 2658,
+    "length": 18,
+    "end": 2676,
+    "text": "PODER AMALDIÇOADO"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 2676,
+    "length": 0,
+    "end": 2676,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 2676,
+    "length": 5,
+    "end": 2681,
+    "text": "1ROV1"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "A",
+    "start": 2681,
+    "length": 13,
+    "end": 2694,
+    "text": "LÓTUS OCULTO"
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 2694,
+    "length": 0,
+    "end": 2694,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 2694,
+    "length": 5,
+    "end": 2699,
+    "text": "1GUV1"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "A",
+    "start": 2699,
+    "length": 13,
+    "end": 2712,
+    "text": "LÓTUS OCULTO"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 2712,
+    "length": 0,
+    "end": 2712,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 2712,
+    "length": 5,
+    "end": 2717,
+    "text": "1KMV1"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "A",
+    "start": 2717,
+    "length": 22,
+    "end": 2739,
+    "text": "DANÇA DAS SAMAMBAIAS "
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 2739,
+    "length": 0,
+    "end": 2739,
+    "text": ""
+  }
+]

@@ -1,0 +1,5154 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 7903,
+    "length": 7,
+    "end": 7910,
+    "text": "f_nrt01"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 7910,
+    "length": 16,
+    "end": 7926,
+    "text": "Naruto Uzumaki 1"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 7926,
+    "length": 77,
+    "end": 8003,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 8003,
+    "length": 0,
+    "end": 8003,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 8003,
+    "length": 7,
+    "end": 8010,
+    "text": "f_nrt02"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 8010,
+    "length": 16,
+    "end": 8026,
+    "text": "Naruto Uzumaki 2"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 8026,
+    "length": 77,
+    "end": 8103,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 8103,
+    "length": 0,
+    "end": 8103,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 8103,
+    "length": 7,
+    "end": 8110,
+    "text": "f_nrt03"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 8110,
+    "length": 16,
+    "end": 8126,
+    "text": "Naruto Uzumaki 3"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 8126,
+    "length": 77,
+    "end": 8203,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 8203,
+    "length": 0,
+    "end": 8203,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 8203,
+    "length": 7,
+    "end": 8210,
+    "text": "f_ssk01"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 8210,
+    "length": 15,
+    "end": 8225,
+    "text": "Sasuke Uchiha 1"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 8225,
+    "length": 77,
+    "end": 8302,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 8302,
+    "length": 0,
+    "end": 8302,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 8302,
+    "length": 7,
+    "end": 8309,
+    "text": "f_ssk02"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 8309,
+    "length": 15,
+    "end": 8324,
+    "text": "Sasuke Uchiha 2"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 8324,
+    "length": 77,
+    "end": 8401,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 8401,
+    "length": 0,
+    "end": 8401,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 8401,
+    "length": 7,
+    "end": 8408,
+    "text": "f_ssk03"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 8408,
+    "length": 15,
+    "end": 8423,
+    "text": "Sasuke Uchiha 3"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 8423,
+    "length": 77,
+    "end": 8500,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 8500,
+    "length": 0,
+    "end": 8500,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 8500,
+    "length": 7,
+    "end": 8507,
+    "text": "f_skr01"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 8507,
+    "length": 15,
+    "end": 8522,
+    "text": "Sakura Haruno 1"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 8522,
+    "length": 77,
+    "end": 8599,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 8599,
+    "length": 0,
+    "end": 8599,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 8599,
+    "length": 7,
+    "end": 8606,
+    "text": "f_skr02"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 8606,
+    "length": 15,
+    "end": 8621,
+    "text": "Sakura Haruno 2"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 8621,
+    "length": 77,
+    "end": 8698,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 8698,
+    "length": 0,
+    "end": 8698,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 8698,
+    "length": 7,
+    "end": 8705,
+    "text": "f_roc01"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 8705,
+    "length": 10,
+    "end": 8715,
+    "text": "Rock Lee 1"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 8715,
+    "length": 77,
+    "end": 8792,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 8792,
+    "length": 0,
+    "end": 8792,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 8792,
+    "length": 7,
+    "end": 8799,
+    "text": "f_roc02"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 8799,
+    "length": 10,
+    "end": 8809,
+    "text": "Rock Lee 2"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 8809,
+    "length": 77,
+    "end": 8886,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 8886,
+    "length": 0,
+    "end": 8886,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 8886,
+    "length": 7,
+    "end": 8893,
+    "text": "f_gar01"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 8893,
+    "length": 16,
+    "end": 8909,
+    "text": "Gaara da Areia 1"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 8909,
+    "length": 77,
+    "end": 8986,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 8986,
+    "length": 0,
+    "end": 8986,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 8986,
+    "length": 7,
+    "end": 8993,
+    "text": "f_gar02"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 8993,
+    "length": 16,
+    "end": 9009,
+    "text": "Gaara da Areia 2"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 9009,
+    "length": 77,
+    "end": 9086,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 9086,
+    "length": 0,
+    "end": 9086,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 9086,
+    "length": 7,
+    "end": 9093,
+    "text": "f_gar03"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 9093,
+    "length": 16,
+    "end": 9109,
+    "text": "Gaara da Areia 3"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 9109,
+    "length": 77,
+    "end": 9186,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 9186,
+    "length": 0,
+    "end": 9186,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 9186,
+    "length": 7,
+    "end": 9193,
+    "text": "f_sik01"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 9193,
+    "length": 16,
+    "end": 9209,
+    "text": "Shikamaru Nara 1"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 9209,
+    "length": 77,
+    "end": 9286,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 9286,
+    "length": 0,
+    "end": 9286,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 9286,
+    "length": 7,
+    "end": 9293,
+    "text": "f_sik02"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 9293,
+    "length": 16,
+    "end": 9309,
+    "text": "Shikamaru Nara 2"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 9309,
+    "length": 77,
+    "end": 9386,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 9386,
+    "length": 0,
+    "end": 9386,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 9386,
+    "length": 7,
+    "end": 9393,
+    "text": "f_nej01"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 9393,
+    "length": 12,
+    "end": 9405,
+    "text": "Neji Hyuga 1"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 9405,
+    "length": 77,
+    "end": 9482,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 9482,
+    "length": 0,
+    "end": 9482,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 9482,
+    "length": 7,
+    "end": 9489,
+    "text": "f_nej02"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 9489,
+    "length": 12,
+    "end": 9501,
+    "text": "Neji Hyuga 2"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 9501,
+    "length": 77,
+    "end": 9578,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 9578,
+    "length": 0,
+    "end": 9578,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 9578,
+    "length": 7,
+    "end": 9585,
+    "text": "f_kks01"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 9585,
+    "length": 16,
+    "end": 9601,
+    "text": "Kakashi Hatake 1"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 9601,
+    "length": 77,
+    "end": 9678,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 9678,
+    "length": 0,
+    "end": 9678,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 9678,
+    "length": 7,
+    "end": 9685,
+    "text": "f_kks02"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 9685,
+    "length": 16,
+    "end": 9701,
+    "text": "Kakashi Hatake 2"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 9701,
+    "length": 77,
+    "end": 9778,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 9778,
+    "length": 0,
+    "end": 9778,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 9778,
+    "length": 7,
+    "end": 9785,
+    "text": "f_orc01"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 9785,
+    "length": 12,
+    "end": 9797,
+    "text": "Orochimaru 1"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 9797,
+    "length": 77,
+    "end": 9874,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 9874,
+    "length": 0,
+    "end": 9874,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 9874,
+    "length": 7,
+    "end": 9881,
+    "text": "f_orc02"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 9881,
+    "length": 12,
+    "end": 9893,
+    "text": "Orochimaru 2"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 9893,
+    "length": 77,
+    "end": 9970,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 9970,
+    "length": 0,
+    "end": 9970,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 9970,
+    "length": 7,
+    "end": 9977,
+    "text": "f_hnt01"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 9977,
+    "length": 14,
+    "end": 9991,
+    "text": "Hinata Hyuga 1"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 9991,
+    "length": 77,
+    "end": 10068,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 10068,
+    "length": 0,
+    "end": 10068,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 10068,
+    "length": 7,
+    "end": 10075,
+    "text": "f_hnt02"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 10075,
+    "length": 14,
+    "end": 10089,
+    "text": "Hinata Hyuga 2"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 10089,
+    "length": 77,
+    "end": 10166,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 10166,
+    "length": 0,
+    "end": 10166,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 10166,
+    "length": 7,
+    "end": 10173,
+    "text": "f_guy01"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 10173,
+    "length": 11,
+    "end": 10184,
+    "text": "Might Guy 1"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 10184,
+    "length": 77,
+    "end": 10261,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 10261,
+    "length": 0,
+    "end": 10261,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 10261,
+    "length": 7,
+    "end": 10268,
+    "text": "f_guy02"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 10268,
+    "length": 11,
+    "end": 10279,
+    "text": "Might Guy 2"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 10279,
+    "length": 77,
+    "end": 10356,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 10356,
+    "length": 0,
+    "end": 10356,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 10356,
+    "length": 7,
+    "end": 10363,
+    "text": "f_sin01"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 10363,
+    "length": 15,
+    "end": 10378,
+    "text": "Shino Aburame 1"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 10378,
+    "length": 77,
+    "end": 10455,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 10455,
+    "length": 0,
+    "end": 10455,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 10455,
+    "length": 7,
+    "end": 10462,
+    "text": "f_sin02"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 10462,
+    "length": 15,
+    "end": 10477,
+    "text": "Shino Aburame 2"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 10477,
+    "length": 77,
+    "end": 10554,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 10554,
+    "length": 0,
+    "end": 10554,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 10554,
+    "length": 7,
+    "end": 10561,
+    "text": "f_ten01"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 10561,
+    "length": 8,
+    "end": 10569,
+    "text": "Tenten 1"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 10569,
+    "length": 77,
+    "end": 10646,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 10646,
+    "length": 0,
+    "end": 10646,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 10646,
+    "length": 7,
+    "end": 10653,
+    "text": "f_ten02"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 10653,
+    "length": 8,
+    "end": 10661,
+    "text": "Tenten 2"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 10661,
+    "length": 77,
+    "end": 10738,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 10738,
+    "length": 0,
+    "end": 10738,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 10738,
+    "length": 7,
+    "end": 10745,
+    "text": "f_jry01"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 10745,
+    "length": 9,
+    "end": 10754,
+    "text": "Jiraiya 1"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 10754,
+    "length": 77,
+    "end": 10831,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 10831,
+    "length": 0,
+    "end": 10831,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 10831,
+    "length": 7,
+    "end": 10838,
+    "text": "f_jry02"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 10838,
+    "length": 9,
+    "end": 10847,
+    "text": "Jiraiya 2"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 10847,
+    "length": 77,
+    "end": 10924,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 10924,
+    "length": 0,
+    "end": 10924,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 10924,
+    "length": 7,
+    "end": 10931,
+    "text": "f_ino01"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 10931,
+    "length": 14,
+    "end": 10945,
+    "text": "Ino Yamanaka 1"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 10945,
+    "length": 77,
+    "end": 11022,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 11022,
+    "length": 0,
+    "end": 11022,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 11022,
+    "length": 7,
+    "end": 11029,
+    "text": "f_ino02"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 11029,
+    "length": 14,
+    "end": 11043,
+    "text": "Ino Yamanaka 2"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 11043,
+    "length": 77,
+    "end": 11120,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 11120,
+    "length": 0,
+    "end": 11120,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 11120,
+    "length": 7,
+    "end": 11127,
+    "text": "f_tyo01"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 11127,
+    "length": 16,
+    "end": 11143,
+    "text": "Choji Akimichi 1"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 11143,
+    "length": 77,
+    "end": 11220,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 11220,
+    "length": 0,
+    "end": 11220,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 11220,
+    "length": 7,
+    "end": 11227,
+    "text": "f_tyo02"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 11227,
+    "length": 16,
+    "end": 11243,
+    "text": "Choji Akimichi 2"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 11243,
+    "length": 77,
+    "end": 11320,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 11320,
+    "length": 0,
+    "end": 11320,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 11320,
+    "length": 7,
+    "end": 11327,
+    "text": "f_kib01"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 11327,
+    "length": 14,
+    "end": 11341,
+    "text": "Kiba Inuzuka 1"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 11341,
+    "length": 77,
+    "end": 11418,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 11418,
+    "length": 0,
+    "end": 11418,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 11418,
+    "length": 7,
+    "end": 11425,
+    "text": "f_kib02"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 11425,
+    "length": 14,
+    "end": 11439,
+    "text": "Kiba Inuzuka 2"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 11439,
+    "length": 77,
+    "end": 11516,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 11516,
+    "length": 0,
+    "end": 11516,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 11516,
+    "length": 7,
+    "end": 11523,
+    "text": "f_itc01"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 11523,
+    "length": 15,
+    "end": 11538,
+    "text": "Itachi Uchiha 1"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 11538,
+    "length": 77,
+    "end": 11615,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 11615,
+    "length": 0,
+    "end": 11615,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 11615,
+    "length": 7,
+    "end": 11622,
+    "text": "f_itc02"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 11622,
+    "length": 15,
+    "end": 11637,
+    "text": "Itachi Uchiha 2"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 11637,
+    "length": 77,
+    "end": 11714,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 11714,
+    "length": 0,
+    "end": 11714,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 11714,
+    "length": 7,
+    "end": 11721,
+    "text": "f_ksm01"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 11721,
+    "length": 18,
+    "end": 11739,
+    "text": "Kisame Hoshigaki 1"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 11739,
+    "length": 77,
+    "end": 11816,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 11816,
+    "length": 0,
+    "end": 11816,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 11816,
+    "length": 7,
+    "end": 11823,
+    "text": "f_ksm02"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 11823,
+    "length": 18,
+    "end": 11841,
+    "text": "Kisame Hoshigaki 2"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 11841,
+    "length": 77,
+    "end": 11918,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 11918,
+    "length": 0,
+    "end": 11918,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 11918,
+    "length": 7,
+    "end": 11925,
+    "text": "f_tnd01"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 11925,
+    "length": 9,
+    "end": 11934,
+    "text": "Tsunade 1"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 11934,
+    "length": 77,
+    "end": 12011,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 12011,
+    "length": 0,
+    "end": 12011,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 12011,
+    "length": 7,
+    "end": 12018,
+    "text": "f_tnd02"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 12018,
+    "length": 9,
+    "end": 12027,
+    "text": "Tsunade 2"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 12027,
+    "length": 77,
+    "end": 12104,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 12104,
+    "length": 0,
+    "end": 12104,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 12104,
+    "length": 7,
+    "end": 12111,
+    "text": "f_hkg01"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 12111,
+    "length": 17,
+    "end": 12128,
+    "text": "Terceiro Hokage 1"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 12128,
+    "length": 77,
+    "end": 12205,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 12205,
+    "length": 0,
+    "end": 12205,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 12205,
+    "length": 7,
+    "end": 12212,
+    "text": "f_hkg02"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 12212,
+    "length": 17,
+    "end": 12229,
+    "text": "Terceiro Hokage 2"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 12229,
+    "length": 77,
+    "end": 12306,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 12306,
+    "length": 0,
+    "end": 12306,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 12306,
+    "length": 7,
+    "end": 12313,
+    "text": "f_kbt01"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 12313,
+    "length": 16,
+    "end": 12329,
+    "text": "Kabuto Yakushi 1"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 12329,
+    "length": 77,
+    "end": 12406,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 12406,
+    "length": 0,
+    "end": 12406,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 12406,
+    "length": 7,
+    "end": 12413,
+    "text": "f_kbt02"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 12413,
+    "length": 16,
+    "end": 12429,
+    "text": "Kabuto Yakushi 2"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 12429,
+    "length": 77,
+    "end": 12506,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 12506,
+    "length": 0,
+    "end": 12506,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 12506,
+    "length": 7,
+    "end": 12513,
+    "text": "f_tmr01"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-implicit",
+    "start": 12513,
+    "length": 8,
+    "end": 12521,
+    "text": "Temari 1"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-explicit",
+    "start": 12521,
+    "length": 77,
+    "end": 12598,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 12598,
+    "length": 0,
+    "end": 12598,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 12598,
+    "length": 7,
+    "end": 12605,
+    "text": "f_tmr02"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-implicit",
+    "start": 12605,
+    "length": 8,
+    "end": 12613,
+    "text": "Temari 2"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-explicit",
+    "start": 12613,
+    "length": 77,
+    "end": 12690,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 12690,
+    "length": 0,
+    "end": 12690,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 12690,
+    "length": 7,
+    "end": 12697,
+    "text": "f_knk01"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-implicit",
+    "start": 12697,
+    "length": 9,
+    "end": 12706,
+    "text": "Kankuro 1"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-explicit",
+    "start": 12706,
+    "length": 77,
+    "end": 12783,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 12783,
+    "length": 0,
+    "end": 12783,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 12783,
+    "length": 7,
+    "end": 12790,
+    "text": "f_knk02"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-implicit",
+    "start": 12790,
+    "length": 9,
+    "end": 12799,
+    "text": "Kankuro 2"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-explicit",
+    "start": 12799,
+    "length": 77,
+    "end": 12876,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 12876,
+    "length": 0,
+    "end": 12876,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 12876,
+    "length": 7,
+    "end": 12883,
+    "text": "f_kmm01"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-implicit",
+    "start": 12883,
+    "length": 10,
+    "end": 12893,
+    "text": "Kimimaro 1"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-explicit",
+    "start": 12893,
+    "length": 77,
+    "end": 12970,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 12970,
+    "length": 0,
+    "end": 12970,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 12970,
+    "length": 7,
+    "end": 12977,
+    "text": "f_kmm02"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-implicit",
+    "start": 12977,
+    "length": 10,
+    "end": 12987,
+    "text": "Kimimaro 2"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-explicit",
+    "start": 12987,
+    "length": 77,
+    "end": 13064,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 13064,
+    "length": 0,
+    "end": 13064,
+    "text": ""
+  },
+  {
+    "table_pos": 2608,
+    "mode": "A",
+    "start": 13064,
+    "length": 7,
+    "end": 13071,
+    "text": "f_fir01"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-implicit",
+    "start": 13071,
+    "length": 15,
+    "end": 13086,
+    "text": "Primeiro Hokage"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-explicit",
+    "start": 13086,
+    "length": 77,
+    "end": 13163,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 13163,
+    "length": 0,
+    "end": 13163,
+    "text": ""
+  },
+  {
+    "table_pos": 2656,
+    "mode": "A",
+    "start": 13163,
+    "length": 7,
+    "end": 13170,
+    "text": "f_sec01"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-implicit",
+    "start": 13170,
+    "length": 14,
+    "end": 13184,
+    "text": "Segundo Hokage"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-explicit",
+    "start": 13184,
+    "length": 77,
+    "end": 13261,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 13261,
+    "length": 0,
+    "end": 13261,
+    "text": ""
+  },
+  {
+    "table_pos": 2704,
+    "mode": "A",
+    "start": 13261,
+    "length": 7,
+    "end": 13268,
+    "text": "f_kdm01"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-implicit",
+    "start": 13268,
+    "length": 8,
+    "end": 13276,
+    "text": "Kidomaru"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-explicit",
+    "start": 13276,
+    "length": 77,
+    "end": 13353,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 13353,
+    "length": 0,
+    "end": 13353,
+    "text": ""
+  },
+  {
+    "table_pos": 2752,
+    "mode": "A",
+    "start": 13353,
+    "length": 7,
+    "end": 13360,
+    "text": "f_jrb01"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-implicit",
+    "start": 13360,
+    "length": 6,
+    "end": 13366,
+    "text": "Jirobo"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-explicit",
+    "start": 13366,
+    "length": 77,
+    "end": 13443,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 13443,
+    "length": 0,
+    "end": 13443,
+    "text": ""
+  },
+  {
+    "table_pos": 2800,
+    "mode": "A",
+    "start": 13443,
+    "length": 7,
+    "end": 13450,
+    "text": "f_tyy01"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-implicit",
+    "start": 13450,
+    "length": 6,
+    "end": 13456,
+    "text": "Tayuya"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-explicit",
+    "start": 13456,
+    "length": 77,
+    "end": 13533,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 13533,
+    "length": 0,
+    "end": 13533,
+    "text": ""
+  },
+  {
+    "table_pos": 2848,
+    "mode": "A",
+    "start": 13533,
+    "length": 7,
+    "end": 13540,
+    "text": "f_skn01"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "B-implicit",
+    "start": 13540,
+    "length": 5,
+    "end": 13545,
+    "text": "Sakon"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "B-explicit",
+    "start": 13545,
+    "length": 77,
+    "end": 13622,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2880,
+    "mode": "A",
+    "start": 13622,
+    "length": 0,
+    "end": 13622,
+    "text": ""
+  },
+  {
+    "table_pos": 2896,
+    "mode": "A",
+    "start": 13622,
+    "length": 7,
+    "end": 13629,
+    "text": "f_asm01"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "B-implicit",
+    "start": 13629,
+    "length": 15,
+    "end": 13644,
+    "text": "Asuma Sarutobi "
+  },
+  {
+    "table_pos": 2912,
+    "mode": "B-explicit",
+    "start": 13644,
+    "length": 77,
+    "end": 13721,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2928,
+    "mode": "A",
+    "start": 13721,
+    "length": 0,
+    "end": 13721,
+    "text": ""
+  },
+  {
+    "table_pos": 2944,
+    "mode": "A",
+    "start": 13721,
+    "length": 7,
+    "end": 13728,
+    "text": "f_krn01"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "B-implicit",
+    "start": 13728,
+    "length": 12,
+    "end": 13740,
+    "text": "Kurenai Yuhi"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "B-explicit",
+    "start": 13740,
+    "length": 77,
+    "end": 13817,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 2976,
+    "mode": "A",
+    "start": 13817,
+    "length": 0,
+    "end": 13817,
+    "text": ""
+  },
+  {
+    "table_pos": 2992,
+    "mode": "A",
+    "start": 13817,
+    "length": 7,
+    "end": 13824,
+    "text": "f_szn01"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "B-implicit",
+    "start": 13824,
+    "length": 7,
+    "end": 13831,
+    "text": "Shizune"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "B-explicit",
+    "start": 13831,
+    "length": 77,
+    "end": 13908,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 3024,
+    "mode": "A",
+    "start": 13908,
+    "length": 0,
+    "end": 13908,
+    "text": ""
+  },
+  {
+    "table_pos": 3040,
+    "mode": "A",
+    "start": 13908,
+    "length": 7,
+    "end": 13915,
+    "text": "f_ank01"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "B-implicit",
+    "start": 13915,
+    "length": 14,
+    "end": 13929,
+    "text": "Anko Mitarashi"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "B-explicit",
+    "start": 13929,
+    "length": 77,
+    "end": 14006,
+    "text": "Uma figura animada do personagem.\nPode ser vista na Coleção após\na compra."
+  },
+  {
+    "table_pos": 3072,
+    "mode": "A",
+    "start": 14006,
+    "length": 0,
+    "end": 14006,
+    "text": ""
+  },
+  {
+    "table_pos": 3088,
+    "mode": "A",
+    "start": 14006,
+    "length": 7,
+    "end": 14013,
+    "text": "s_nrt01"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "B-implicit",
+    "start": 14013,
+    "length": 31,
+    "end": 14044,
+    "text": "Cenas de Jutsu Supremo - Naruto"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "B-explicit",
+    "start": 14044,
+    "length": 68,
+    "end": 14112,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3120,
+    "mode": "A",
+    "start": 14112,
+    "length": 0,
+    "end": 14112,
+    "text": ""
+  },
+  {
+    "table_pos": 3136,
+    "mode": "A",
+    "start": 14112,
+    "length": 7,
+    "end": 14119,
+    "text": "s_nrt02"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "B-implicit",
+    "start": 14119,
+    "length": 27,
+    "end": 14146,
+    "text": "Cenas de JS - Naruto - Selo"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "B-explicit",
+    "start": 14146,
+    "length": 68,
+    "end": 14214,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3168,
+    "mode": "A",
+    "start": 14214,
+    "length": 0,
+    "end": 14214,
+    "text": ""
+  },
+  {
+    "table_pos": 3184,
+    "mode": "A",
+    "start": 14214,
+    "length": 7,
+    "end": 14221,
+    "text": "s_nrt03"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "B-implicit",
+    "start": 14221,
+    "length": 29,
+    "end": 14250,
+    "text": "Cenas de JS - Naruto - Sombra"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "B-explicit",
+    "start": 14250,
+    "length": 68,
+    "end": 14318,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3216,
+    "mode": "A",
+    "start": 14318,
+    "length": 0,
+    "end": 14318,
+    "text": ""
+  },
+  {
+    "table_pos": 3232,
+    "mode": "A",
+    "start": 14318,
+    "length": 7,
+    "end": 14325,
+    "text": "s_ssk01"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "B-implicit",
+    "start": 14325,
+    "length": 31,
+    "end": 14356,
+    "text": "Cenas de Jutsu Supremo - Sasuke"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "B-explicit",
+    "start": 14356,
+    "length": 68,
+    "end": 14424,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3264,
+    "mode": "A",
+    "start": 14424,
+    "length": 0,
+    "end": 14424,
+    "text": ""
+  },
+  {
+    "table_pos": 3280,
+    "mode": "A",
+    "start": 14424,
+    "length": 7,
+    "end": 14431,
+    "text": "s_ssk02"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "B-implicit",
+    "start": 14431,
+    "length": 27,
+    "end": 14458,
+    "text": "Cenas de JS - Sasuke - Selo"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "B-explicit",
+    "start": 14458,
+    "length": 68,
+    "end": 14526,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3312,
+    "mode": "A",
+    "start": 14526,
+    "length": 0,
+    "end": 14526,
+    "text": ""
+  },
+  {
+    "table_pos": 3328,
+    "mode": "A",
+    "start": 14526,
+    "length": 7,
+    "end": 14533,
+    "text": "s_ssk03"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "B-implicit",
+    "start": 14533,
+    "length": 29,
+    "end": 14562,
+    "text": "Cenas de JS - Sasuke - Sombra"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "B-explicit",
+    "start": 14562,
+    "length": 68,
+    "end": 14630,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3360,
+    "mode": "A",
+    "start": 14630,
+    "length": 0,
+    "end": 14630,
+    "text": ""
+  },
+  {
+    "table_pos": 3376,
+    "mode": "A",
+    "start": 14630,
+    "length": 7,
+    "end": 14637,
+    "text": "s_skr01"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "B-implicit",
+    "start": 14637,
+    "length": 31,
+    "end": 14668,
+    "text": "Cenas de Jutsu Supremo - Sakura"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "B-explicit",
+    "start": 14668,
+    "length": 68,
+    "end": 14736,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3408,
+    "mode": "A",
+    "start": 14736,
+    "length": 0,
+    "end": 14736,
+    "text": ""
+  },
+  {
+    "table_pos": 3424,
+    "mode": "A",
+    "start": 14736,
+    "length": 7,
+    "end": 14743,
+    "text": "s_roc01"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "B-implicit",
+    "start": 14743,
+    "length": 28,
+    "end": 14771,
+    "text": "Cenas de Jutsu Supremo - Lee"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "B-explicit",
+    "start": 14771,
+    "length": 68,
+    "end": 14839,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3456,
+    "mode": "A",
+    "start": 14839,
+    "length": 0,
+    "end": 14839,
+    "text": ""
+  },
+  {
+    "table_pos": 3472,
+    "mode": "A",
+    "start": 14839,
+    "length": 7,
+    "end": 14846,
+    "text": "s_roc02"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "B-implicit",
+    "start": 14846,
+    "length": 24,
+    "end": 14870,
+    "text": "Cenas de JS - Lee - Selo"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "B-explicit",
+    "start": 14870,
+    "length": 68,
+    "end": 14938,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3504,
+    "mode": "A",
+    "start": 14938,
+    "length": 0,
+    "end": 14938,
+    "text": ""
+  },
+  {
+    "table_pos": 3520,
+    "mode": "A",
+    "start": 14938,
+    "length": 7,
+    "end": 14945,
+    "text": "s_nej01"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "B-implicit",
+    "start": 14945,
+    "length": 29,
+    "end": 14974,
+    "text": "Cenas de Jutsu Supremo - Neji"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "B-explicit",
+    "start": 14974,
+    "length": 68,
+    "end": 15042,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3552,
+    "mode": "A",
+    "start": 15042,
+    "length": 0,
+    "end": 15042,
+    "text": ""
+  },
+  {
+    "table_pos": 3568,
+    "mode": "A",
+    "start": 15042,
+    "length": 7,
+    "end": 15049,
+    "text": "s_ten01"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "B-implicit",
+    "start": 15049,
+    "length": 31,
+    "end": 15080,
+    "text": "Cenas de Jutsu Supremo - Tenten"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "B-explicit",
+    "start": 15080,
+    "length": 68,
+    "end": 15148,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3600,
+    "mode": "A",
+    "start": 15148,
+    "length": 0,
+    "end": 15148,
+    "text": ""
+  },
+  {
+    "table_pos": 3616,
+    "mode": "A",
+    "start": 15148,
+    "length": 7,
+    "end": 15155,
+    "text": "s_sik01"
+  },
+  {
+    "table_pos": 3632,
+    "mode": "B-implicit",
+    "start": 15155,
+    "length": 23,
+    "end": 15178,
+    "text": "Cenas de JS - Shikamaru"
+  },
+  {
+    "table_pos": 3632,
+    "mode": "B-explicit",
+    "start": 15178,
+    "length": 68,
+    "end": 15246,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3648,
+    "mode": "A",
+    "start": 15246,
+    "length": 0,
+    "end": 15246,
+    "text": ""
+  },
+  {
+    "table_pos": 3664,
+    "mode": "A",
+    "start": 15246,
+    "length": 7,
+    "end": 15253,
+    "text": "s_sik02"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "B-implicit",
+    "start": 15253,
+    "length": 32,
+    "end": 15285,
+    "text": "Cenas de JS - Shikamaru - Sombra"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "B-explicit",
+    "start": 15285,
+    "length": 68,
+    "end": 15353,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3696,
+    "mode": "A",
+    "start": 15353,
+    "length": 0,
+    "end": 15353,
+    "text": ""
+  },
+  {
+    "table_pos": 3712,
+    "mode": "A",
+    "start": 15353,
+    "length": 7,
+    "end": 15360,
+    "text": "s_tyo01"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "B-implicit",
+    "start": 15360,
+    "length": 30,
+    "end": 15390,
+    "text": "Cenas de Jutsu Supremo - Choji"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "B-explicit",
+    "start": 15390,
+    "length": 68,
+    "end": 15458,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3744,
+    "mode": "A",
+    "start": 15458,
+    "length": 0,
+    "end": 15458,
+    "text": ""
+  },
+  {
+    "table_pos": 3760,
+    "mode": "A",
+    "start": 15458,
+    "length": 7,
+    "end": 15465,
+    "text": "s_ino01"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "B-implicit",
+    "start": 15465,
+    "length": 28,
+    "end": 15493,
+    "text": "Cenas de Jutsu Supremo - Ino"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "B-explicit",
+    "start": 15493,
+    "length": 68,
+    "end": 15561,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3792,
+    "mode": "A",
+    "start": 15561,
+    "length": 0,
+    "end": 15561,
+    "text": ""
+  },
+  {
+    "table_pos": 3808,
+    "mode": "A",
+    "start": 15561,
+    "length": 7,
+    "end": 15568,
+    "text": "s_kib01"
+  },
+  {
+    "table_pos": 3824,
+    "mode": "B-implicit",
+    "start": 15568,
+    "length": 29,
+    "end": 15597,
+    "text": "Cenas de Jutsu Supremo - Kiba"
+  },
+  {
+    "table_pos": 3824,
+    "mode": "B-explicit",
+    "start": 15597,
+    "length": 68,
+    "end": 15665,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3840,
+    "mode": "A",
+    "start": 15665,
+    "length": 0,
+    "end": 15665,
+    "text": ""
+  },
+  {
+    "table_pos": 3856,
+    "mode": "A",
+    "start": 15665,
+    "length": 7,
+    "end": 15672,
+    "text": "s_sin01"
+  },
+  {
+    "table_pos": 3872,
+    "mode": "B-implicit",
+    "start": 15672,
+    "length": 30,
+    "end": 15702,
+    "text": "Cenas de Jutsu Supremo - Shino"
+  },
+  {
+    "table_pos": 3872,
+    "mode": "B-explicit",
+    "start": 15702,
+    "length": 68,
+    "end": 15770,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3888,
+    "mode": "A",
+    "start": 15770,
+    "length": 0,
+    "end": 15770,
+    "text": ""
+  },
+  {
+    "table_pos": 3904,
+    "mode": "A",
+    "start": 15770,
+    "length": 7,
+    "end": 15777,
+    "text": "s_hnt01"
+  },
+  {
+    "table_pos": 3920,
+    "mode": "B-implicit",
+    "start": 15777,
+    "length": 31,
+    "end": 15808,
+    "text": "Cenas de Jutsu Supremo - Hinata"
+  },
+  {
+    "table_pos": 3920,
+    "mode": "B-explicit",
+    "start": 15808,
+    "length": 68,
+    "end": 15876,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3936,
+    "mode": "A",
+    "start": 15876,
+    "length": 0,
+    "end": 15876,
+    "text": ""
+  },
+  {
+    "table_pos": 3952,
+    "mode": "A",
+    "start": 15876,
+    "length": 7,
+    "end": 15883,
+    "text": "s_gar01"
+  },
+  {
+    "table_pos": 3968,
+    "mode": "B-implicit",
+    "start": 15883,
+    "length": 30,
+    "end": 15913,
+    "text": "Cenas de Jutsu Supremo - Gaara"
+  },
+  {
+    "table_pos": 3968,
+    "mode": "B-explicit",
+    "start": 15913,
+    "length": 68,
+    "end": 15981,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 3984,
+    "mode": "A",
+    "start": 15981,
+    "length": 0,
+    "end": 15981,
+    "text": ""
+  },
+  {
+    "table_pos": 4000,
+    "mode": "A",
+    "start": 15981,
+    "length": 7,
+    "end": 15988,
+    "text": "s_gar02"
+  },
+  {
+    "table_pos": 4016,
+    "mode": "B-implicit",
+    "start": 15988,
+    "length": 28,
+    "end": 16016,
+    "text": "Cenas de JS - Gaara - Sombra"
+  },
+  {
+    "table_pos": 4016,
+    "mode": "B-explicit",
+    "start": 16016,
+    "length": 68,
+    "end": 16084,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4032,
+    "mode": "A",
+    "start": 16084,
+    "length": 0,
+    "end": 16084,
+    "text": ""
+  },
+  {
+    "table_pos": 4048,
+    "mode": "A",
+    "start": 16084,
+    "length": 7,
+    "end": 16091,
+    "text": "s_knk01"
+  },
+  {
+    "table_pos": 4064,
+    "mode": "B-implicit",
+    "start": 16091,
+    "length": 32,
+    "end": 16123,
+    "text": "Cenas de Jutsu Supremo - Kankuro"
+  },
+  {
+    "table_pos": 4064,
+    "mode": "B-explicit",
+    "start": 16123,
+    "length": 68,
+    "end": 16191,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4080,
+    "mode": "A",
+    "start": 16191,
+    "length": 0,
+    "end": 16191,
+    "text": ""
+  },
+  {
+    "table_pos": 4096,
+    "mode": "A",
+    "start": 16191,
+    "length": 7,
+    "end": 16198,
+    "text": "s_knk02"
+  },
+  {
+    "table_pos": 4112,
+    "mode": "B-implicit",
+    "start": 16198,
+    "length": 30,
+    "end": 16228,
+    "text": "Cenas de JS - Kankuro - Sombra"
+  },
+  {
+    "table_pos": 4112,
+    "mode": "B-explicit",
+    "start": 16228,
+    "length": 68,
+    "end": 16296,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4128,
+    "mode": "A",
+    "start": 16296,
+    "length": 0,
+    "end": 16296,
+    "text": ""
+  },
+  {
+    "table_pos": 4144,
+    "mode": "A",
+    "start": 16296,
+    "length": 7,
+    "end": 16303,
+    "text": "s_tmr01"
+  },
+  {
+    "table_pos": 4160,
+    "mode": "B-implicit",
+    "start": 16303,
+    "length": 31,
+    "end": 16334,
+    "text": "Cenas de Jutsu Supremo - Temari"
+  },
+  {
+    "table_pos": 4160,
+    "mode": "B-explicit",
+    "start": 16334,
+    "length": 68,
+    "end": 16402,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4176,
+    "mode": "A",
+    "start": 16402,
+    "length": 0,
+    "end": 16402,
+    "text": ""
+  },
+  {
+    "table_pos": 4192,
+    "mode": "A",
+    "start": 16402,
+    "length": 7,
+    "end": 16409,
+    "text": "s_tmr02"
+  },
+  {
+    "table_pos": 4208,
+    "mode": "B-implicit",
+    "start": 16409,
+    "length": 29,
+    "end": 16438,
+    "text": "Cenas de JS - Temari - Sombra"
+  },
+  {
+    "table_pos": 4208,
+    "mode": "B-explicit",
+    "start": 16438,
+    "length": 68,
+    "end": 16506,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4224,
+    "mode": "A",
+    "start": 16506,
+    "length": 0,
+    "end": 16506,
+    "text": ""
+  },
+  {
+    "table_pos": 4240,
+    "mode": "A",
+    "start": 16506,
+    "length": 7,
+    "end": 16513,
+    "text": "s_kks01"
+  },
+  {
+    "table_pos": 4256,
+    "mode": "B-implicit",
+    "start": 16513,
+    "length": 32,
+    "end": 16545,
+    "text": "Cenas de Jutsu Supremo - Kakashi"
+  },
+  {
+    "table_pos": 4256,
+    "mode": "B-explicit",
+    "start": 16545,
+    "length": 68,
+    "end": 16613,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4272,
+    "mode": "A",
+    "start": 16613,
+    "length": 0,
+    "end": 16613,
+    "text": ""
+  },
+  {
+    "table_pos": 4288,
+    "mode": "A",
+    "start": 16613,
+    "length": 7,
+    "end": 16620,
+    "text": "s_guy01"
+  },
+  {
+    "table_pos": 4304,
+    "mode": "B-implicit",
+    "start": 16620,
+    "length": 28,
+    "end": 16648,
+    "text": "Cenas de Jutsu Supremo - Guy"
+  },
+  {
+    "table_pos": 4304,
+    "mode": "B-explicit",
+    "start": 16648,
+    "length": 68,
+    "end": 16716,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4320,
+    "mode": "A",
+    "start": 16716,
+    "length": 0,
+    "end": 16716,
+    "text": ""
+  },
+  {
+    "table_pos": 4336,
+    "mode": "A",
+    "start": 16716,
+    "length": 7,
+    "end": 16723,
+    "text": "s_guy02"
+  },
+  {
+    "table_pos": 4352,
+    "mode": "B-implicit",
+    "start": 16723,
+    "length": 24,
+    "end": 16747,
+    "text": "Cenas de JS - Guy - Selo"
+  },
+  {
+    "table_pos": 4352,
+    "mode": "B-explicit",
+    "start": 16747,
+    "length": 68,
+    "end": 16815,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4368,
+    "mode": "A",
+    "start": 16815,
+    "length": 0,
+    "end": 16815,
+    "text": ""
+  },
+  {
+    "table_pos": 4384,
+    "mode": "A",
+    "start": 16815,
+    "length": 7,
+    "end": 16822,
+    "text": "s_jry01"
+  },
+  {
+    "table_pos": 4400,
+    "mode": "B-implicit",
+    "start": 16822,
+    "length": 32,
+    "end": 16854,
+    "text": "Cenas de Jutsu Supremo - Jiraiya"
+  },
+  {
+    "table_pos": 4400,
+    "mode": "B-explicit",
+    "start": 16854,
+    "length": 68,
+    "end": 16922,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4416,
+    "mode": "A",
+    "start": 16922,
+    "length": 0,
+    "end": 16922,
+    "text": ""
+  },
+  {
+    "table_pos": 4432,
+    "mode": "A",
+    "start": 16922,
+    "length": 7,
+    "end": 16929,
+    "text": "s_tnd01"
+  },
+  {
+    "table_pos": 4448,
+    "mode": "B-implicit",
+    "start": 16929,
+    "length": 32,
+    "end": 16961,
+    "text": "Cenas de Jutsu Supremo - Tsunade"
+  },
+  {
+    "table_pos": 4448,
+    "mode": "B-explicit",
+    "start": 16961,
+    "length": 68,
+    "end": 17029,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4464,
+    "mode": "A",
+    "start": 17029,
+    "length": 0,
+    "end": 17029,
+    "text": ""
+  },
+  {
+    "table_pos": 4480,
+    "mode": "A",
+    "start": 17029,
+    "length": 7,
+    "end": 17036,
+    "text": "s_hkg01"
+  },
+  {
+    "table_pos": 4496,
+    "mode": "B-implicit",
+    "start": 17036,
+    "length": 29,
+    "end": 17065,
+    "text": "Cenas de JS - Terceiro Hokage"
+  },
+  {
+    "table_pos": 4496,
+    "mode": "B-explicit",
+    "start": 17065,
+    "length": 68,
+    "end": 17133,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4512,
+    "mode": "A",
+    "start": 17133,
+    "length": 0,
+    "end": 17133,
+    "text": ""
+  },
+  {
+    "table_pos": 4528,
+    "mode": "A",
+    "start": 17133,
+    "length": 7,
+    "end": 17140,
+    "text": "s_orc01"
+  },
+  {
+    "table_pos": 4544,
+    "mode": "B-implicit",
+    "start": 17140,
+    "length": 24,
+    "end": 17164,
+    "text": "Cenas de JS - Orochimaru"
+  },
+  {
+    "table_pos": 4544,
+    "mode": "B-explicit",
+    "start": 17164,
+    "length": 68,
+    "end": 17232,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4560,
+    "mode": "A",
+    "start": 17232,
+    "length": 0,
+    "end": 17232,
+    "text": ""
+  },
+  {
+    "table_pos": 4576,
+    "mode": "A",
+    "start": 17232,
+    "length": 7,
+    "end": 17239,
+    "text": "s_kbt01"
+  },
+  {
+    "table_pos": 4592,
+    "mode": "B-implicit",
+    "start": 17239,
+    "length": 31,
+    "end": 17270,
+    "text": "Cenas de Jutsu Supremo - Kabuto"
+  },
+  {
+    "table_pos": 4592,
+    "mode": "B-explicit",
+    "start": 17270,
+    "length": 68,
+    "end": 17338,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4608,
+    "mode": "A",
+    "start": 17338,
+    "length": 0,
+    "end": 17338,
+    "text": ""
+  },
+  {
+    "table_pos": 4624,
+    "mode": "A",
+    "start": 17338,
+    "length": 7,
+    "end": 17345,
+    "text": "s_kmm01"
+  },
+  {
+    "table_pos": 4640,
+    "mode": "B-implicit",
+    "start": 17345,
+    "length": 33,
+    "end": 17378,
+    "text": "Cenas de Jutsu Supremo - Kimimaro"
+  },
+  {
+    "table_pos": 4640,
+    "mode": "B-explicit",
+    "start": 17378,
+    "length": 68,
+    "end": 17446,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4656,
+    "mode": "A",
+    "start": 17446,
+    "length": 0,
+    "end": 17446,
+    "text": ""
+  },
+  {
+    "table_pos": 4672,
+    "mode": "A",
+    "start": 17446,
+    "length": 7,
+    "end": 17453,
+    "text": "s_kmm02"
+  },
+  {
+    "table_pos": 4688,
+    "mode": "B-implicit",
+    "start": 17453,
+    "length": 29,
+    "end": 17482,
+    "text": "Cenas de JS - Kimimaro - Selo"
+  },
+  {
+    "table_pos": 4688,
+    "mode": "B-explicit",
+    "start": 17482,
+    "length": 68,
+    "end": 17550,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4704,
+    "mode": "A",
+    "start": 17550,
+    "length": 0,
+    "end": 17550,
+    "text": ""
+  },
+  {
+    "table_pos": 4720,
+    "mode": "A",
+    "start": 17550,
+    "length": 7,
+    "end": 17557,
+    "text": "s_itc01"
+  },
+  {
+    "table_pos": 4736,
+    "mode": "B-implicit",
+    "start": 17557,
+    "length": 31,
+    "end": 17588,
+    "text": "Cenas de Jutsu Supremo - Itachi"
+  },
+  {
+    "table_pos": 4736,
+    "mode": "B-explicit",
+    "start": 17588,
+    "length": 68,
+    "end": 17656,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4752,
+    "mode": "A",
+    "start": 17656,
+    "length": 0,
+    "end": 17656,
+    "text": ""
+  },
+  {
+    "table_pos": 4768,
+    "mode": "A",
+    "start": 17656,
+    "length": 7,
+    "end": 17663,
+    "text": "s_ksm01"
+  },
+  {
+    "table_pos": 4784,
+    "mode": "B-implicit",
+    "start": 17663,
+    "length": 31,
+    "end": 17694,
+    "text": "Cenas de Jutsu Supremo - Kisame"
+  },
+  {
+    "table_pos": 4784,
+    "mode": "B-explicit",
+    "start": 17694,
+    "length": 68,
+    "end": 17762,
+    "text": "Vídeo do Jutsu Supremo. Pode ser\nvisto na Coleção após a compra."
+  },
+  {
+    "table_pos": 4800,
+    "mode": "A",
+    "start": 17762,
+    "length": 0,
+    "end": 17762,
+    "text": ""
+  },
+  {
+    "table_pos": 4816,
+    "mode": "A",
+    "start": 17762,
+    "length": 5,
+    "end": 17767,
+    "text": "m_001"
+  },
+  {
+    "table_pos": 4832,
+    "mode": "B-implicit",
+    "start": 17767,
+    "length": 27,
+    "end": 17794,
+    "text": "Junto às Folhas Dançantes"
+  },
+  {
+    "table_pos": 4832,
+    "mode": "B-explicit",
+    "start": 17794,
+    "length": 67,
+    "end": 17861,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 4848,
+    "mode": "A",
+    "start": 17861,
+    "length": 0,
+    "end": 17861,
+    "text": ""
+  },
+  {
+    "table_pos": 4864,
+    "mode": "A",
+    "start": 17861,
+    "length": 5,
+    "end": 17866,
+    "text": "m_002"
+  },
+  {
+    "table_pos": 4880,
+    "mode": "B-implicit",
+    "start": 17866,
+    "length": 27,
+    "end": 17893,
+    "text": "A Floresta da Inquietação"
+  },
+  {
+    "table_pos": 4880,
+    "mode": "B-explicit",
+    "start": 17893,
+    "length": 67,
+    "end": 17960,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 4896,
+    "mode": "A",
+    "start": 17960,
+    "length": 0,
+    "end": 17960,
+    "text": ""
+  },
+  {
+    "table_pos": 4912,
+    "mode": "A",
+    "start": 17960,
+    "length": 5,
+    "end": 17965,
+    "text": "m_003"
+  },
+  {
+    "table_pos": 4928,
+    "mode": "B-implicit",
+    "start": 17965,
+    "length": 14,
+    "end": 17979,
+    "text": "Vendaval Veloz"
+  },
+  {
+    "table_pos": 4928,
+    "mode": "B-explicit",
+    "start": 17979,
+    "length": 67,
+    "end": 18046,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 4944,
+    "mode": "A",
+    "start": 18046,
+    "length": 0,
+    "end": 18046,
+    "text": ""
+  },
+  {
+    "table_pos": 4960,
+    "mode": "A",
+    "start": 18046,
+    "length": 5,
+    "end": 18051,
+    "text": "m_004"
+  },
+  {
+    "table_pos": 4976,
+    "mode": "B-implicit",
+    "start": 18051,
+    "length": 29,
+    "end": 18080,
+    "text": "A Floresta em Alta Velocidade"
+  },
+  {
+    "table_pos": 4976,
+    "mode": "B-explicit",
+    "start": 18080,
+    "length": 67,
+    "end": 18147,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 4992,
+    "mode": "A",
+    "start": 18147,
+    "length": 0,
+    "end": 18147,
+    "text": ""
+  },
+  {
+    "table_pos": 5008,
+    "mode": "A",
+    "start": 18147,
+    "length": 5,
+    "end": 18152,
+    "text": "m_005"
+  },
+  {
+    "table_pos": 5024,
+    "mode": "B-implicit",
+    "start": 18152,
+    "length": 12,
+    "end": 18164,
+    "text": "Rumo ao Cume"
+  },
+  {
+    "table_pos": 5024,
+    "mode": "B-explicit",
+    "start": 18164,
+    "length": 67,
+    "end": 18231,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5040,
+    "mode": "A",
+    "start": 18231,
+    "length": 0,
+    "end": 18231,
+    "text": ""
+  },
+  {
+    "table_pos": 5056,
+    "mode": "A",
+    "start": 18231,
+    "length": 5,
+    "end": 18236,
+    "text": "m_006"
+  },
+  {
+    "table_pos": 5072,
+    "mode": "B-implicit",
+    "start": 18236,
+    "length": 16,
+    "end": 18252,
+    "text": "Naruto Disparado"
+  },
+  {
+    "table_pos": 5072,
+    "mode": "B-explicit",
+    "start": 18252,
+    "length": 67,
+    "end": 18319,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5088,
+    "mode": "A",
+    "start": 18319,
+    "length": 0,
+    "end": 18319,
+    "text": ""
+  },
+  {
+    "table_pos": 5104,
+    "mode": "A",
+    "start": 18319,
+    "length": 5,
+    "end": 18324,
+    "text": "m_007"
+  },
+  {
+    "table_pos": 5120,
+    "mode": "B-implicit",
+    "start": 18324,
+    "length": 15,
+    "end": 18339,
+    "text": "Esconde-Esconde"
+  },
+  {
+    "table_pos": 5120,
+    "mode": "B-explicit",
+    "start": 18339,
+    "length": 67,
+    "end": 18406,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5136,
+    "mode": "A",
+    "start": 18406,
+    "length": 0,
+    "end": 18406,
+    "text": ""
+  },
+  {
+    "table_pos": 5152,
+    "mode": "A",
+    "start": 18406,
+    "length": 5,
+    "end": 18411,
+    "text": "m_008"
+  },
+  {
+    "table_pos": 5168,
+    "mode": "B-implicit",
+    "start": 18411,
+    "length": 20,
+    "end": 18431,
+    "text": "Manual Ninja Exposto"
+  },
+  {
+    "table_pos": 5168,
+    "mode": "B-explicit",
+    "start": 18431,
+    "length": 67,
+    "end": 18498,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5184,
+    "mode": "A",
+    "start": 18498,
+    "length": 0,
+    "end": 18498,
+    "text": ""
+  },
+  {
+    "table_pos": 5200,
+    "mode": "A",
+    "start": 18498,
+    "length": 5,
+    "end": 18503,
+    "text": "m_009"
+  },
+  {
+    "table_pos": 5216,
+    "mode": "B-implicit",
+    "start": 18503,
+    "length": 32,
+    "end": 18535,
+    "text": "Aqueles que Devem Ser Protegidos"
+  },
+  {
+    "table_pos": 5216,
+    "mode": "B-explicit",
+    "start": 18535,
+    "length": 67,
+    "end": 18602,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5232,
+    "mode": "A",
+    "start": 18602,
+    "length": 0,
+    "end": 18602,
+    "text": ""
+  },
+  {
+    "table_pos": 5248,
+    "mode": "A",
+    "start": 18602,
+    "length": 5,
+    "end": 18607,
+    "text": "m_010"
+  },
+  {
+    "table_pos": 5264,
+    "mode": "B-implicit",
+    "start": 18607,
+    "length": 30,
+    "end": 18637,
+    "text": "Ondulações de Areia ao Vento"
+  },
+  {
+    "table_pos": 5264,
+    "mode": "B-explicit",
+    "start": 18637,
+    "length": 67,
+    "end": 18704,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5280,
+    "mode": "A",
+    "start": 18704,
+    "length": 0,
+    "end": 18704,
+    "text": ""
+  },
+  {
+    "table_pos": 5296,
+    "mode": "A",
+    "start": 18704,
+    "length": 5,
+    "end": 18709,
+    "text": "m_011"
+  },
+  {
+    "table_pos": 5312,
+    "mode": "B-implicit",
+    "start": 18709,
+    "length": 22,
+    "end": 18731,
+    "text": "Sonho e Determinação"
+  },
+  {
+    "table_pos": 5312,
+    "mode": "B-explicit",
+    "start": 18731,
+    "length": 67,
+    "end": 18798,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5328,
+    "mode": "A",
+    "start": 18798,
+    "length": 0,
+    "end": 18798,
+    "text": ""
+  },
+  {
+    "table_pos": 5344,
+    "mode": "A",
+    "start": 18798,
+    "length": 5,
+    "end": 18803,
+    "text": "m_012"
+  },
+  {
+    "table_pos": 5360,
+    "mode": "B-implicit",
+    "start": 18803,
+    "length": 12,
+    "end": 18815,
+    "text": "Olhos Gentis"
+  },
+  {
+    "table_pos": 5360,
+    "mode": "B-explicit",
+    "start": 18815,
+    "length": 67,
+    "end": 18882,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5376,
+    "mode": "A",
+    "start": 18882,
+    "length": 0,
+    "end": 18882,
+    "text": ""
+  },
+  {
+    "table_pos": 5392,
+    "mode": "A",
+    "start": 18882,
+    "length": 5,
+    "end": 18887,
+    "text": "m_013"
+  },
+  {
+    "table_pos": 5408,
+    "mode": "B-implicit",
+    "start": 18887,
+    "length": 34,
+    "end": 18921,
+    "text": "O Rugido em uma Chuva de Lágrimas"
+  },
+  {
+    "table_pos": 5408,
+    "mode": "B-explicit",
+    "start": 18921,
+    "length": 67,
+    "end": 18988,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5424,
+    "mode": "A",
+    "start": 18988,
+    "length": 0,
+    "end": 18988,
+    "text": ""
+  },
+  {
+    "table_pos": 5440,
+    "mode": "A",
+    "start": 18988,
+    "length": 5,
+    "end": 18993,
+    "text": "m_014"
+  },
+  {
+    "table_pos": 5456,
+    "mode": "B-implicit",
+    "start": 18993,
+    "length": 25,
+    "end": 19018,
+    "text": "As Costas que Desaparecem"
+  },
+  {
+    "table_pos": 5456,
+    "mode": "B-explicit",
+    "start": 19018,
+    "length": 67,
+    "end": 19085,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5472,
+    "mode": "A",
+    "start": 19085,
+    "length": 0,
+    "end": 19085,
+    "text": ""
+  },
+  {
+    "table_pos": 5488,
+    "mode": "A",
+    "start": 19085,
+    "length": 5,
+    "end": 19090,
+    "text": "m_015"
+  },
+  {
+    "table_pos": 5504,
+    "mode": "B-implicit",
+    "start": 19090,
+    "length": 20,
+    "end": 19110,
+    "text": "A Luz Nunca se Apaga"
+  },
+  {
+    "table_pos": 5504,
+    "mode": "B-explicit",
+    "start": 19110,
+    "length": 67,
+    "end": 19177,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5520,
+    "mode": "A",
+    "start": 19177,
+    "length": 0,
+    "end": 19177,
+    "text": ""
+  },
+  {
+    "table_pos": 5536,
+    "mode": "A",
+    "start": 19177,
+    "length": 5,
+    "end": 19182,
+    "text": "m_016"
+  },
+  {
+    "table_pos": 5552,
+    "mode": "B-implicit",
+    "start": 19182,
+    "length": 14,
+    "end": 19196,
+    "text": "Dia da Partida"
+  },
+  {
+    "table_pos": 5552,
+    "mode": "B-explicit",
+    "start": 19196,
+    "length": 67,
+    "end": 19263,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5568,
+    "mode": "A",
+    "start": 19263,
+    "length": 0,
+    "end": 19263,
+    "text": ""
+  },
+  {
+    "table_pos": 5584,
+    "mode": "A",
+    "start": 19263,
+    "length": 5,
+    "end": 19268,
+    "text": "m_017"
+  },
+  {
+    "table_pos": 5600,
+    "mode": "B-implicit",
+    "start": 19268,
+    "length": 20,
+    "end": 19288,
+    "text": "Campo de Treinamento"
+  },
+  {
+    "table_pos": 5600,
+    "mode": "B-explicit",
+    "start": 19288,
+    "length": 67,
+    "end": 19355,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5616,
+    "mode": "A",
+    "start": 19355,
+    "length": 0,
+    "end": 19355,
+    "text": ""
+  },
+  {
+    "table_pos": 5632,
+    "mode": "A",
+    "start": 19355,
+    "length": 5,
+    "end": 19360,
+    "text": "m_018"
+  },
+  {
+    "table_pos": 5648,
+    "mode": "B-implicit",
+    "start": 19360,
+    "length": 26,
+    "end": 19386,
+    "text": "Fase Final do Exame Chunin"
+  },
+  {
+    "table_pos": 5648,
+    "mode": "B-explicit",
+    "start": 19386,
+    "length": 67,
+    "end": 19453,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5664,
+    "mode": "A",
+    "start": 19453,
+    "length": 0,
+    "end": 19453,
+    "text": ""
+  },
+  {
+    "table_pos": 5680,
+    "mode": "A",
+    "start": 19453,
+    "length": 5,
+    "end": 19458,
+    "text": "m_019"
+  },
+  {
+    "table_pos": 5696,
+    "mode": "B-implicit",
+    "start": 19458,
+    "length": 22,
+    "end": 19480,
+    "text": "Topo da Torre de Vigia"
+  },
+  {
+    "table_pos": 5696,
+    "mode": "B-explicit",
+    "start": 19480,
+    "length": 67,
+    "end": 19547,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5712,
+    "mode": "A",
+    "start": 19547,
+    "length": 0,
+    "end": 19547,
+    "text": ""
+  },
+  {
+    "table_pos": 5728,
+    "mode": "A",
+    "start": 19547,
+    "length": 5,
+    "end": 19552,
+    "text": "m_020"
+  },
+  {
+    "table_pos": 5744,
+    "mode": "B-implicit",
+    "start": 19552,
+    "length": 17,
+    "end": 19569,
+    "text": "Floresta da Morte"
+  },
+  {
+    "table_pos": 5744,
+    "mode": "B-explicit",
+    "start": 19569,
+    "length": 67,
+    "end": 19636,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5760,
+    "mode": "A",
+    "start": 19636,
+    "length": 0,
+    "end": 19636,
+    "text": ""
+  },
+  {
+    "table_pos": 5776,
+    "mode": "A",
+    "start": 19636,
+    "length": 5,
+    "end": 19641,
+    "text": "m_021"
+  },
+  {
+    "table_pos": 5792,
+    "mode": "B-implicit",
+    "start": 19641,
+    "length": 25,
+    "end": 19666,
+    "text": "Floresta da Vila da Folha"
+  },
+  {
+    "table_pos": 5792,
+    "mode": "B-explicit",
+    "start": 19666,
+    "length": 67,
+    "end": 19733,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5808,
+    "mode": "A",
+    "start": 19733,
+    "length": 0,
+    "end": 19733,
+    "text": ""
+  },
+  {
+    "table_pos": 5824,
+    "mode": "A",
+    "start": 19733,
+    "length": 5,
+    "end": 19738,
+    "text": "m_022"
+  },
+  {
+    "table_pos": 5840,
+    "mode": "B-implicit",
+    "start": 19738,
+    "length": 31,
+    "end": 19769,
+    "text": "Fase Preliminar do Exame Chunin"
+  },
+  {
+    "table_pos": 5840,
+    "mode": "B-explicit",
+    "start": 19769,
+    "length": 67,
+    "end": 19836,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5856,
+    "mode": "A",
+    "start": 19836,
+    "length": 0,
+    "end": 19836,
+    "text": ""
+  },
+  {
+    "table_pos": 5872,
+    "mode": "A",
+    "start": 19836,
+    "length": 5,
+    "end": 19841,
+    "text": "m_023"
+  },
+  {
+    "table_pos": 5888,
+    "mode": "B-implicit",
+    "start": 19841,
+    "length": 26,
+    "end": 19867,
+    "text": "Pradaria de Ondas de Grama"
+  },
+  {
+    "table_pos": 5888,
+    "mode": "B-explicit",
+    "start": 19867,
+    "length": 67,
+    "end": 19934,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5904,
+    "mode": "A",
+    "start": 19934,
+    "length": 0,
+    "end": 19934,
+    "text": ""
+  },
+  {
+    "table_pos": 5920,
+    "mode": "A",
+    "start": 19934,
+    "length": 5,
+    "end": 19939,
+    "text": "m_024"
+  },
+  {
+    "table_pos": 5936,
+    "mode": "B-implicit",
+    "start": 19939,
+    "length": 28,
+    "end": 19967,
+    "text": "Pradaria do Céu Crepuscular"
+  },
+  {
+    "table_pos": 5936,
+    "mode": "B-explicit",
+    "start": 19967,
+    "length": 67,
+    "end": 20034,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 5952,
+    "mode": "A",
+    "start": 20034,
+    "length": 0,
+    "end": 20034,
+    "text": ""
+  },
+  {
+    "table_pos": 5968,
+    "mode": "A",
+    "start": 20034,
+    "length": 5,
+    "end": 20039,
+    "text": "m_025"
+  },
+  {
+    "table_pos": 5984,
+    "mode": "B-implicit",
+    "start": 20039,
+    "length": 12,
+    "end": 20051,
+    "text": "O Vale Final"
+  },
+  {
+    "table_pos": 5984,
+    "mode": "B-explicit",
+    "start": 20051,
+    "length": 67,
+    "end": 20118,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 6000,
+    "mode": "A",
+    "start": 20118,
+    "length": 0,
+    "end": 20118,
+    "text": ""
+  },
+  {
+    "table_pos": 6016,
+    "mode": "A",
+    "start": 20118,
+    "length": 5,
+    "end": 20123,
+    "text": "m_026"
+  },
+  {
+    "table_pos": 6032,
+    "mode": "B-implicit",
+    "start": 20123,
+    "length": 30,
+    "end": 20153,
+    "text": "Grande Luta com o Sapo Gigante"
+  },
+  {
+    "table_pos": 6032,
+    "mode": "B-explicit",
+    "start": 20153,
+    "length": 67,
+    "end": 20220,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 6048,
+    "mode": "A",
+    "start": 20220,
+    "length": 0,
+    "end": 20220,
+    "text": ""
+  },
+  {
+    "table_pos": 6064,
+    "mode": "A",
+    "start": 20220,
+    "length": 5,
+    "end": 20225,
+    "text": "m_027"
+  },
+  {
+    "table_pos": 6080,
+    "mode": "B-implicit",
+    "start": 20225,
+    "length": 17,
+    "end": 20242,
+    "text": "Olhos de Tristeza"
+  },
+  {
+    "table_pos": 6080,
+    "mode": "B-explicit",
+    "start": 20242,
+    "length": 67,
+    "end": 20309,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 6096,
+    "mode": "A",
+    "start": 20309,
+    "length": 0,
+    "end": 20309,
+    "text": ""
+  },
+  {
+    "table_pos": 6112,
+    "mode": "A",
+    "start": 20309,
+    "length": 5,
+    "end": 20314,
+    "text": "m_028"
+  },
+  {
+    "table_pos": 6128,
+    "mode": "B-implicit",
+    "start": 20314,
+    "length": 25,
+    "end": 20339,
+    "text": "Assunto que Abala a Terra"
+  },
+  {
+    "table_pos": 6128,
+    "mode": "B-explicit",
+    "start": 20339,
+    "length": 67,
+    "end": 20406,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 6144,
+    "mode": "A",
+    "start": 20406,
+    "length": 0,
+    "end": 20406,
+    "text": ""
+  },
+  {
+    "table_pos": 6160,
+    "mode": "A",
+    "start": 20406,
+    "length": 5,
+    "end": 20411,
+    "text": "m_029"
+  },
+  {
+    "table_pos": 6176,
+    "mode": "B-implicit",
+    "start": 20411,
+    "length": 11,
+    "end": 20422,
+    "text": "Luta Mortal"
+  },
+  {
+    "table_pos": 6176,
+    "mode": "B-explicit",
+    "start": 20422,
+    "length": 67,
+    "end": 20489,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 6192,
+    "mode": "A",
+    "start": 20489,
+    "length": 0,
+    "end": 20489,
+    "text": ""
+  },
+  {
+    "table_pos": 6208,
+    "mode": "A",
+    "start": 20489,
+    "length": 5,
+    "end": 20494,
+    "text": "m_030"
+  },
+  {
+    "table_pos": 6224,
+    "mode": "B-implicit",
+    "start": 20494,
+    "length": 32,
+    "end": 20526,
+    "text": "Espiral Carmesim & Trovão Negro"
+  },
+  {
+    "table_pos": 6224,
+    "mode": "B-explicit",
+    "start": 20526,
+    "length": 67,
+    "end": 20593,
+    "text": "Música usada no jogo. Pode ser\nouvida na Coleção após a compra."
+  },
+  {
+    "table_pos": 6240,
+    "mode": "A",
+    "start": 20593,
+    "length": 0,
+    "end": 20593,
+    "text": ""
+  },
+  {
+    "table_pos": 6256,
+    "mode": "A",
+    "start": 20593,
+    "length": 5,
+    "end": 20598,
+    "text": "d_001"
+  },
+  {
+    "table_pos": 6272,
+    "mode": "B-implicit",
+    "start": 20598,
+    "length": 28,
+    "end": 20626,
+    "text": "Exercício de Sobrevivência"
+  },
+  {
+    "table_pos": 6272,
+    "mode": "B-explicit",
+    "start": 20626,
+    "length": 0,
+    "end": 20626,
+    "text": ""
+  },
+  {
+    "table_pos": 6288,
+    "mode": "A",
+    "start": 20626,
+    "length": 0,
+    "end": 20626,
+    "text": ""
+  },
+  {
+    "table_pos": 6304,
+    "mode": "A",
+    "start": 20626,
+    "length": 5,
+    "end": 20631,
+    "text": "d_002"
+  },
+  {
+    "table_pos": 6320,
+    "mode": "B-implicit",
+    "start": 20631,
+    "length": 15,
+    "end": 20646,
+    "text": "Sem Concessões"
+  },
+  {
+    "table_pos": 6320,
+    "mode": "B-explicit",
+    "start": 20646,
+    "length": 0,
+    "end": 20646,
+    "text": ""
+  },
+  {
+    "table_pos": 6336,
+    "mode": "A",
+    "start": 20646,
+    "length": 0,
+    "end": 20646,
+    "text": ""
+  },
+  {
+    "table_pos": 6352,
+    "mode": "A",
+    "start": 20646,
+    "length": 5,
+    "end": 20651,
+    "text": "d_003"
+  },
+  {
+    "table_pos": 6368,
+    "mode": "B-implicit",
+    "start": 20651,
+    "length": 18,
+    "end": 20669,
+    "text": "Muro de Redemoinho"
+  },
+  {
+    "table_pos": 6368,
+    "mode": "B-explicit",
+    "start": 20669,
+    "length": 0,
+    "end": 20669,
+    "text": ""
+  },
+  {
+    "table_pos": 6384,
+    "mode": "A",
+    "start": 20669,
+    "length": 0,
+    "end": 20669,
+    "text": ""
+  },
+  {
+    "table_pos": 6400,
+    "mode": "A",
+    "start": 20669,
+    "length": 5,
+    "end": 20674,
+    "text": "d_004"
+  },
+  {
+    "table_pos": 6416,
+    "mode": "B-implicit",
+    "start": 20674,
+    "length": 15,
+    "end": 20689,
+    "text": "Clã do Destino"
+  },
+  {
+    "table_pos": 6416,
+    "mode": "B-explicit",
+    "start": 20689,
+    "length": 0,
+    "end": 20689,
+    "text": ""
+  },
+  {
+    "table_pos": 6432,
+    "mode": "A",
+    "start": 20689,
+    "length": 0,
+    "end": 20689,
+    "text": ""
+  },
+  {
+    "table_pos": 6448,
+    "mode": "A",
+    "start": 20689,
+    "length": 5,
+    "end": 20694,
+    "text": "d_005"
+  },
+  {
+    "table_pos": 6464,
+    "mode": "B-implicit",
+    "start": 20694,
+    "length": 18,
+    "end": 20712,
+    "text": "O Hyuga Mais Forte"
+  },
+  {
+    "table_pos": 6464,
+    "mode": "B-explicit",
+    "start": 20712,
+    "length": 0,
+    "end": 20712,
+    "text": ""
+  },
+  {
+    "table_pos": 6480,
+    "mode": "A",
+    "start": 20712,
+    "length": 0,
+    "end": 20712,
+    "text": ""
+  },
+  {
+    "table_pos": 6496,
+    "mode": "A",
+    "start": 20712,
+    "length": 5,
+    "end": 20717,
+    "text": "d_006"
+  },
+  {
+    "table_pos": 6512,
+    "mode": "B-implicit",
+    "start": 20717,
+    "length": 24,
+    "end": 20741,
+    "text": "Mil Pássaros Alçam Voo"
+  },
+  {
+    "table_pos": 6512,
+    "mode": "B-explicit",
+    "start": 20741,
+    "length": 0,
+    "end": 20741,
+    "text": ""
+  },
+  {
+    "table_pos": 6528,
+    "mode": "A",
+    "start": 20741,
+    "length": 0,
+    "end": 20741,
+    "text": ""
+  },
+  {
+    "table_pos": 6544,
+    "mode": "A",
+    "start": 20741,
+    "length": 5,
+    "end": 20746,
+    "text": "d_007"
+  },
+  {
+    "table_pos": 6560,
+    "mode": "B-implicit",
+    "start": 20746,
+    "length": 27,
+    "end": 20773,
+    "text": "Batalha Como uma Tempestade"
+  },
+  {
+    "table_pos": 6560,
+    "mode": "B-explicit",
+    "start": 20773,
+    "length": 0,
+    "end": 20773,
+    "text": ""
+  },
+  {
+    "table_pos": 6576,
+    "mode": "A",
+    "start": 20773,
+    "length": 0,
+    "end": 20773,
+    "text": ""
+  },
+  {
+    "table_pos": 6592,
+    "mode": "A",
+    "start": 20773,
+    "length": 5,
+    "end": 20778,
+    "text": "d_008"
+  },
+  {
+    "table_pos": 6608,
+    "mode": "B-implicit",
+    "start": 20778,
+    "length": 26,
+    "end": 20804,
+    "text": "O Ninjutsu Copiado Explode"
+  },
+  {
+    "table_pos": 6608,
+    "mode": "B-explicit",
+    "start": 20804,
+    "length": 0,
+    "end": 20804,
+    "text": ""
+  },
+  {
+    "table_pos": 6624,
+    "mode": "A",
+    "start": 20804,
+    "length": 0,
+    "end": 20804,
+    "text": ""
+  },
+  {
+    "table_pos": 6640,
+    "mode": "A",
+    "start": 20804,
+    "length": 5,
+    "end": 20809,
+    "text": "d_009"
+  },
+  {
+    "table_pos": 6656,
+    "mode": "B-implicit",
+    "start": 20809,
+    "length": 15,
+    "end": 20824,
+    "text": "Fera e Demônio"
+  },
+  {
+    "table_pos": 6656,
+    "mode": "B-explicit",
+    "start": 20824,
+    "length": 0,
+    "end": 20824,
+    "text": ""
+  },
+  {
+    "table_pos": 6672,
+    "mode": "A",
+    "start": 20824,
+    "length": 0,
+    "end": 20824,
+    "text": ""
+  },
+  {
+    "table_pos": 6688,
+    "mode": "A",
+    "start": 20824,
+    "length": 5,
+    "end": 20829,
+    "text": "d_010"
+  },
+  {
+    "table_pos": 6704,
+    "mode": "B-implicit",
+    "start": 20829,
+    "length": 15,
+    "end": 20844,
+    "text": "O Rasengan Ruge"
+  },
+  {
+    "table_pos": 6704,
+    "mode": "B-explicit",
+    "start": 20844,
+    "length": 0,
+    "end": 20844,
+    "text": ""
+  },
+  {
+    "table_pos": 6720,
+    "mode": "A",
+    "start": 20844,
+    "length": 0,
+    "end": 20844,
+    "text": ""
+  },
+  {
+    "table_pos": 6736,
+    "mode": "A",
+    "start": 20844,
+    "length": 5,
+    "end": 20849,
+    "text": "d_011"
+  },
+  {
+    "table_pos": 6752,
+    "mode": "B-implicit",
+    "start": 20849,
+    "length": 19,
+    "end": 20868,
+    "text": "Impasse Entre Três"
+  },
+  {
+    "table_pos": 6752,
+    "mode": "B-explicit",
+    "start": 20868,
+    "length": 0,
+    "end": 20868,
+    "text": ""
+  },
+  {
+    "table_pos": 6768,
+    "mode": "A",
+    "start": 20868,
+    "length": 0,
+    "end": 20868,
+    "text": ""
+  },
+  {
+    "table_pos": 6784,
+    "mode": "A",
+    "start": 20868,
+    "length": 5,
+    "end": 20873,
+    "text": "d_012"
+  },
+  {
+    "table_pos": 6800,
+    "mode": "B-implicit",
+    "start": 20873,
+    "length": 17,
+    "end": 20890,
+    "text": "O Orgulho de Dois"
+  },
+  {
+    "table_pos": 6800,
+    "mode": "B-explicit",
+    "start": 20890,
+    "length": 0,
+    "end": 20890,
+    "text": ""
+  },
+  {
+    "table_pos": 6816,
+    "mode": "A",
+    "start": 20890,
+    "length": 0,
+    "end": 20890,
+    "text": ""
+  },
+  {
+    "table_pos": 6832,
+    "mode": "A",
+    "start": 20890,
+    "length": 5,
+    "end": 20895,
+    "text": "d_013"
+  },
+  {
+    "table_pos": 6848,
+    "mode": "B-implicit",
+    "start": 20895,
+    "length": 23,
+    "end": 20918,
+    "text": "O Pelotão do Shikamaru"
+  },
+  {
+    "table_pos": 6848,
+    "mode": "B-explicit",
+    "start": 20918,
+    "length": 0,
+    "end": 20918,
+    "text": ""
+  },
+  {
+    "table_pos": 6864,
+    "mode": "A",
+    "start": 20918,
+    "length": 0,
+    "end": 20918,
+    "text": ""
+  },
+  {
+    "table_pos": 6880,
+    "mode": "A",
+    "start": 20918,
+    "length": 5,
+    "end": 20923,
+    "text": "d_014"
+  },
+  {
+    "table_pos": 6896,
+    "mode": "B-implicit",
+    "start": 20923,
+    "length": 25,
+    "end": 20948,
+    "text": "Emoções Incontroláveis"
+  },
+  {
+    "table_pos": 6896,
+    "mode": "B-explicit",
+    "start": 20948,
+    "length": 0,
+    "end": 20948,
+    "text": ""
+  },
+  {
+    "table_pos": 6912,
+    "mode": "A",
+    "start": 20948,
+    "length": 0,
+    "end": 20948,
+    "text": ""
+  },
+  {
+    "table_pos": 6928,
+    "mode": "A",
+    "start": 20948,
+    "length": 5,
+    "end": 20953,
+    "text": "d_015"
+  },
+  {
+    "table_pos": 6944,
+    "mode": "B-implicit",
+    "start": 20953,
+    "length": 6,
+    "end": 20959,
+    "text": "Laços"
+  },
+  {
+    "table_pos": 6944,
+    "mode": "B-explicit",
+    "start": 20959,
+    "length": 0,
+    "end": 20959,
+    "text": ""
+  },
+  {
+    "table_pos": 6960,
+    "mode": "A",
+    "start": 20959,
+    "length": 0,
+    "end": 20959,
+    "text": ""
+  },
+  {
+    "table_pos": 6976,
+    "mode": "A",
+    "start": 20959,
+    "length": 5,
+    "end": 20964,
+    "text": "d_016"
+  },
+  {
+    "table_pos": 6992,
+    "mode": "B-implicit",
+    "start": 20964,
+    "length": 30,
+    "end": 20994,
+    "text": "O Ninja Cabeça-Oca Número Um"
+  },
+  {
+    "table_pos": 6992,
+    "mode": "B-explicit",
+    "start": 20994,
+    "length": 0,
+    "end": 20994,
+    "text": ""
+  },
+  {
+    "table_pos": 7008,
+    "mode": "A",
+    "start": 20994,
+    "length": 0,
+    "end": 20994,
+    "text": ""
+  },
+  {
+    "table_pos": 7024,
+    "mode": "A",
+    "start": 20994,
+    "length": 5,
+    "end": 20999,
+    "text": "d_s01"
+  },
+  {
+    "table_pos": 7040,
+    "mode": "B-implicit",
+    "start": 20999,
+    "length": 5,
+    "end": 21004,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7040,
+    "mode": "B-explicit",
+    "start": 21004,
+    "length": 0,
+    "end": 21004,
+    "text": ""
+  },
+  {
+    "table_pos": 7056,
+    "mode": "A",
+    "start": 21004,
+    "length": 0,
+    "end": 21004,
+    "text": ""
+  },
+  {
+    "table_pos": 7072,
+    "mode": "A",
+    "start": 21004,
+    "length": 5,
+    "end": 21009,
+    "text": "d_s02"
+  },
+  {
+    "table_pos": 7088,
+    "mode": "B-implicit",
+    "start": 21009,
+    "length": 5,
+    "end": 21014,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7088,
+    "mode": "B-explicit",
+    "start": 21014,
+    "length": 0,
+    "end": 21014,
+    "text": ""
+  },
+  {
+    "table_pos": 7104,
+    "mode": "A",
+    "start": 21014,
+    "length": 0,
+    "end": 21014,
+    "text": ""
+  },
+  {
+    "table_pos": 7120,
+    "mode": "A",
+    "start": 21014,
+    "length": 5,
+    "end": 21019,
+    "text": "d_s03"
+  },
+  {
+    "table_pos": 7136,
+    "mode": "B-implicit",
+    "start": 21019,
+    "length": 5,
+    "end": 21024,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7136,
+    "mode": "B-explicit",
+    "start": 21024,
+    "length": 0,
+    "end": 21024,
+    "text": ""
+  },
+  {
+    "table_pos": 7152,
+    "mode": "A",
+    "start": 21024,
+    "length": 0,
+    "end": 21024,
+    "text": ""
+  },
+  {
+    "table_pos": 7168,
+    "mode": "A",
+    "start": 21024,
+    "length": 5,
+    "end": 21029,
+    "text": "d_s04"
+  },
+  {
+    "table_pos": 7184,
+    "mode": "B-implicit",
+    "start": 21029,
+    "length": 5,
+    "end": 21034,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7184,
+    "mode": "B-explicit",
+    "start": 21034,
+    "length": 0,
+    "end": 21034,
+    "text": ""
+  },
+  {
+    "table_pos": 7200,
+    "mode": "A",
+    "start": 21034,
+    "length": 0,
+    "end": 21034,
+    "text": ""
+  },
+  {
+    "table_pos": 7216,
+    "mode": "A",
+    "start": 21034,
+    "length": 5,
+    "end": 21039,
+    "text": "d_s05"
+  },
+  {
+    "table_pos": 7232,
+    "mode": "B-implicit",
+    "start": 21039,
+    "length": 5,
+    "end": 21044,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7232,
+    "mode": "B-explicit",
+    "start": 21044,
+    "length": 0,
+    "end": 21044,
+    "text": ""
+  },
+  {
+    "table_pos": 7248,
+    "mode": "A",
+    "start": 21044,
+    "length": 0,
+    "end": 21044,
+    "text": ""
+  },
+  {
+    "table_pos": 7264,
+    "mode": "A",
+    "start": 21044,
+    "length": 5,
+    "end": 21049,
+    "text": "d_s06"
+  },
+  {
+    "table_pos": 7280,
+    "mode": "B-implicit",
+    "start": 21049,
+    "length": 5,
+    "end": 21054,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7280,
+    "mode": "B-explicit",
+    "start": 21054,
+    "length": 0,
+    "end": 21054,
+    "text": ""
+  },
+  {
+    "table_pos": 7296,
+    "mode": "A",
+    "start": 21054,
+    "length": 0,
+    "end": 21054,
+    "text": ""
+  },
+  {
+    "table_pos": 7312,
+    "mode": "A",
+    "start": 21054,
+    "length": 5,
+    "end": 21059,
+    "text": "d_s07"
+  },
+  {
+    "table_pos": 7328,
+    "mode": "B-implicit",
+    "start": 21059,
+    "length": 5,
+    "end": 21064,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7328,
+    "mode": "B-explicit",
+    "start": 21064,
+    "length": 0,
+    "end": 21064,
+    "text": ""
+  },
+  {
+    "table_pos": 7344,
+    "mode": "A",
+    "start": 21064,
+    "length": 0,
+    "end": 21064,
+    "text": ""
+  },
+  {
+    "table_pos": 7360,
+    "mode": "A",
+    "start": 21064,
+    "length": 5,
+    "end": 21069,
+    "text": "d_s08"
+  },
+  {
+    "table_pos": 7376,
+    "mode": "B-implicit",
+    "start": 21069,
+    "length": 5,
+    "end": 21074,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7376,
+    "mode": "B-explicit",
+    "start": 21074,
+    "length": 0,
+    "end": 21074,
+    "text": ""
+  },
+  {
+    "table_pos": 7392,
+    "mode": "A",
+    "start": 21074,
+    "length": 0,
+    "end": 21074,
+    "text": ""
+  },
+  {
+    "table_pos": 7408,
+    "mode": "A",
+    "start": 21074,
+    "length": 5,
+    "end": 21079,
+    "text": "d_s09"
+  },
+  {
+    "table_pos": 7424,
+    "mode": "B-implicit",
+    "start": 21079,
+    "length": 5,
+    "end": 21084,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7424,
+    "mode": "B-explicit",
+    "start": 21084,
+    "length": 0,
+    "end": 21084,
+    "text": ""
+  },
+  {
+    "table_pos": 7440,
+    "mode": "A",
+    "start": 21084,
+    "length": 0,
+    "end": 21084,
+    "text": ""
+  },
+  {
+    "table_pos": 7456,
+    "mode": "A",
+    "start": 21084,
+    "length": 5,
+    "end": 21089,
+    "text": "d_s10"
+  },
+  {
+    "table_pos": 7472,
+    "mode": "B-implicit",
+    "start": 21089,
+    "length": 5,
+    "end": 21094,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7472,
+    "mode": "B-explicit",
+    "start": 21094,
+    "length": 0,
+    "end": 21094,
+    "text": ""
+  },
+  {
+    "table_pos": 7488,
+    "mode": "A",
+    "start": 21094,
+    "length": 0,
+    "end": 21094,
+    "text": ""
+  },
+  {
+    "table_pos": 7504,
+    "mode": "A",
+    "start": 21094,
+    "length": 5,
+    "end": 21099,
+    "text": "d_s11"
+  },
+  {
+    "table_pos": 7520,
+    "mode": "B-implicit",
+    "start": 21099,
+    "length": 5,
+    "end": 21104,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7520,
+    "mode": "B-explicit",
+    "start": 21104,
+    "length": 0,
+    "end": 21104,
+    "text": ""
+  },
+  {
+    "table_pos": 7536,
+    "mode": "A",
+    "start": 21104,
+    "length": 0,
+    "end": 21104,
+    "text": ""
+  },
+  {
+    "table_pos": 7552,
+    "mode": "A",
+    "start": 21104,
+    "length": 5,
+    "end": 21109,
+    "text": "d_s12"
+  },
+  {
+    "table_pos": 7568,
+    "mode": "B-implicit",
+    "start": 21109,
+    "length": 5,
+    "end": 21114,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7568,
+    "mode": "B-explicit",
+    "start": 21114,
+    "length": 0,
+    "end": 21114,
+    "text": ""
+  },
+  {
+    "table_pos": 7584,
+    "mode": "A",
+    "start": 21114,
+    "length": 0,
+    "end": 21114,
+    "text": ""
+  },
+  {
+    "table_pos": 7600,
+    "mode": "A",
+    "start": 21114,
+    "length": 5,
+    "end": 21119,
+    "text": "d_s13"
+  },
+  {
+    "table_pos": 7616,
+    "mode": "B-implicit",
+    "start": 21119,
+    "length": 5,
+    "end": 21124,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7616,
+    "mode": "B-explicit",
+    "start": 21124,
+    "length": 0,
+    "end": 21124,
+    "text": ""
+  },
+  {
+    "table_pos": 7632,
+    "mode": "A",
+    "start": 21124,
+    "length": 0,
+    "end": 21124,
+    "text": ""
+  },
+  {
+    "table_pos": 7648,
+    "mode": "A",
+    "start": 21124,
+    "length": 5,
+    "end": 21129,
+    "text": "d_s14"
+  },
+  {
+    "table_pos": 7664,
+    "mode": "B-implicit",
+    "start": 21129,
+    "length": 5,
+    "end": 21134,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7664,
+    "mode": "B-explicit",
+    "start": 21134,
+    "length": 0,
+    "end": 21134,
+    "text": ""
+  },
+  {
+    "table_pos": 7680,
+    "mode": "A",
+    "start": 21134,
+    "length": 0,
+    "end": 21134,
+    "text": ""
+  },
+  {
+    "table_pos": 7696,
+    "mode": "A",
+    "start": 21134,
+    "length": 5,
+    "end": 21139,
+    "text": "d_s15"
+  },
+  {
+    "table_pos": 7712,
+    "mode": "B-implicit",
+    "start": 21139,
+    "length": 5,
+    "end": 21144,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7712,
+    "mode": "B-explicit",
+    "start": 21144,
+    "length": 0,
+    "end": 21144,
+    "text": ""
+  },
+  {
+    "table_pos": 7728,
+    "mode": "A",
+    "start": 21144,
+    "length": 0,
+    "end": 21144,
+    "text": ""
+  },
+  {
+    "table_pos": 7744,
+    "mode": "A",
+    "start": 21144,
+    "length": 5,
+    "end": 21149,
+    "text": "d_s16"
+  },
+  {
+    "table_pos": 7760,
+    "mode": "B-implicit",
+    "start": 21149,
+    "length": 5,
+    "end": 21154,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 7760,
+    "mode": "B-explicit",
+    "start": 21154,
+    "length": 0,
+    "end": 21154,
+    "text": ""
+  },
+  {
+    "table_pos": 7776,
+    "mode": "A",
+    "start": 21154,
+    "length": 0,
+    "end": 21154,
+    "text": ""
+  }
+]

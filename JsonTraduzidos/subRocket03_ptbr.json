@@ -1,0 +1,962 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 1606,
+    "length": 3,
+    "end": 1609,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 1609,
+    "length": 7,
+    "end": 1616,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 1616,
+    "length": 70,
+    "end": 1686,
+    "text": "Então, o Kakashi me disse que você\ndominou uma técnica incomum, hm?"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 1686,
+    "length": 0,
+    "end": 1686,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 1686,
+    "length": 3,
+    "end": 1689,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 1689,
+    "length": 6,
+    "end": 1695,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 1695,
+    "length": 44,
+    "end": 1739,
+    "text": "Ah, quer dizer a que usa clones\ndas sombras?"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 1739,
+    "length": 0,
+    "end": 1739,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 1739,
+    "length": 3,
+    "end": 1742,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 1742,
+    "length": 6,
+    "end": 1748,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 1748,
+    "length": 69,
+    "end": 1817,
+    "text": "É, o sensei Kakashi me deu umas\ndicas e agora ficou bem mais fácil."
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 1817,
+    "length": 0,
+    "end": 1817,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 1817,
+    "length": 3,
+    "end": 1820,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 1820,
+    "length": 7,
+    "end": 1827,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 1827,
+    "length": 33,
+    "end": 1860,
+    "text": "Hmm, pensei em te ajudar\ntambém."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 1860,
+    "length": 0,
+    "end": 1860,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 1860,
+    "length": 3,
+    "end": 1863,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 1863,
+    "length": 7,
+    "end": 1870,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 1870,
+    "length": 80,
+    "end": 1950,
+    "text": "Preparei um treino ainda mais\npesado que o do Kakashi. Você\ndevia experimentar."
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 1950,
+    "length": 0,
+    "end": 1950,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 1950,
+    "length": 3,
+    "end": 1953,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 1953,
+    "length": 6,
+    "end": 1959,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 1959,
+    "length": 66,
+    "end": 2025,
+    "text": "Consigo imaginar o tipo de coisa\nque você criaria, Sábio Tarado."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2025,
+    "length": 0,
+    "end": 2025,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2025,
+    "length": 3,
+    "end": 2028,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2028,
+    "length": 6,
+    "end": 2034,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2034,
+    "length": 31,
+    "end": 2065,
+    "text": "Seja lá o que for, eu aguento!"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2065,
+    "length": 0,
+    "end": 2065,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2065,
+    "length": 3,
+    "end": 2068,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2068,
+    "length": 7,
+    "end": 2075,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2075,
+    "length": 28,
+    "end": 2103,
+    "text": "Bem... Isso a gente vai ver."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2103,
+    "length": 0,
+    "end": 2103,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2103,
+    "length": 3,
+    "end": 2106,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2106,
+    "length": 6,
+    "end": 2112,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 2112,
+    "length": 7,
+    "end": 2119,
+    "text": "Argh..."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 2119,
+    "length": 0,
+    "end": 2119,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 2119,
+    "length": 3,
+    "end": 2122,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 2122,
+    "length": 7,
+    "end": 2129,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 2129,
+    "length": 57,
+    "end": 2186,
+    "text": "Hã? Hããã? Bem, ao menos você\nfalhou rápido, Naruto."
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2186,
+    "length": 0,
+    "end": 2186,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2186,
+    "length": 3,
+    "end": 2189,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 2189,
+    "length": 6,
+    "end": 2195,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 2195,
+    "length": 7,
+    "end": 2202,
+    "text": "Argh..."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 2202,
+    "length": 0,
+    "end": 2202,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 2202,
+    "length": 3,
+    "end": 2205,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 2205,
+    "length": 7,
+    "end": 2212,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 2212,
+    "length": 63,
+    "end": 2275,
+    "text": "Bem... Se você nem isso consegue,\no futuro parece bem sombrio."
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 2275,
+    "length": 0,
+    "end": 2275,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 2275,
+    "length": 3,
+    "end": 2278,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 2278,
+    "length": 6,
+    "end": 2284,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 2284,
+    "length": 51,
+    "end": 2335,
+    "text": "Parece sombrio, né? É melhor\nvocê ir ao oftalmo."
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 2335,
+    "length": 0,
+    "end": 2335,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 2335,
+    "length": 3,
+    "end": 2338,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 2338,
+    "length": 7,
+    "end": 2345,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 2345,
+    "length": 4,
+    "end": 2349,
+    "text": "Hã?"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 2349,
+    "length": 0,
+    "end": 2349,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 2349,
+    "length": 3,
+    "end": 2352,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 2352,
+    "length": 6,
+    "end": 2358,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 2358,
+    "length": 46,
+    "end": 2404,
+    "text": "Só observe, vou tentar de novo e\nvou acertar!"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 2404,
+    "length": 0,
+    "end": 2404,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 2404,
+    "length": 3,
+    "end": 2407,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 2407,
+    "length": 7,
+    "end": 2414,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 2414,
+    "length": 34,
+    "end": 2448,
+    "text": "Hunf... Mal posso esperar pra ver."
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 2448,
+    "length": 0,
+    "end": 2448,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 2448,
+    "length": 3,
+    "end": 2451,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 2451,
+    "length": 7,
+    "end": 2458,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 2458,
+    "length": 42,
+    "end": 2500,
+    "text": "Espero que se saia melhor da\npróxima vez."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 2500,
+    "length": 0,
+    "end": 2500,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 2500,
+    "length": 3,
+    "end": 2503,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 2503,
+    "length": 6,
+    "end": 2509,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 2509,
+    "length": 31,
+    "end": 2540,
+    "text": "Pode acreditar que vou! Fácil!"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 2540,
+    "length": 0,
+    "end": 2540,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 2540,
+    "length": 3,
+    "end": 2543,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 2543,
+    "length": 7,
+    "end": 2550,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 2550,
+    "length": 49,
+    "end": 2599,
+    "text": "Hmm, esse é meu aluno... pra o\nbem ou pra o mal."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 2599,
+    "length": 0,
+    "end": 2599,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 2599,
+    "length": 3,
+    "end": 2602,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 2602,
+    "length": 6,
+    "end": 2608,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 2608,
+    "length": 38,
+    "end": 2646,
+    "text": "Hihihihi!\nEu só fico cada vez melhor!"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 2646,
+    "length": 0,
+    "end": 2646,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 2646,
+    "length": 3,
+    "end": 2649,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 2649,
+    "length": 7,
+    "end": 2656,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 2656,
+    "length": 7,
+    "end": 2663,
+    "text": "Ahem..."
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 2663,
+    "length": 0,
+    "end": 2663,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 2663,
+    "length": 3,
+    "end": 2666,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 2666,
+    "length": 7,
+    "end": 2673,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 2673,
+    "length": 63,
+    "end": 2736,
+    "text": "É bom que esteja melhorando, mas\nnão abuse dos seus talentos."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 2736,
+    "length": 0,
+    "end": 2736,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 2736,
+    "length": 3,
+    "end": 2739,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 2739,
+    "length": 6,
+    "end": 2745,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 2745,
+    "length": 18,
+    "end": 2763,
+    "text": "Hã? Abusar deles?"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 2763,
+    "length": 0,
+    "end": 2763,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 2763,
+    "length": 3,
+    "end": 2766,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 2766,
+    "length": 7,
+    "end": 2773,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 2773,
+    "length": 81,
+    "end": 2854,
+    "text": "B-bem, tipo cair sem querer no\nvestiário feminino... ou na sauna\ndas mulheres..."
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 2854,
+    "length": 0,
+    "end": 2854,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 2854,
+    "length": 3,
+    "end": 2857,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 2857,
+    "length": 7,
+    "end": 2864,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 2864,
+    "length": 61,
+    "end": 2925,
+    "text": "Se isso acontecer, me chame na\nhora e eu corro pra te salvar!"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 2925,
+    "length": 0,
+    "end": 2925,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 2925,
+    "length": 3,
+    "end": 2928,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 2928,
+    "length": 7,
+    "end": 2935,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 2935,
+    "length": 19,
+    "end": 2954,
+    "text": "Heh... Hehehehehe!!"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 2954,
+    "length": 0,
+    "end": 2954,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 2954,
+    "length": 3,
+    "end": 2957,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 2957,
+    "length": 6,
+    "end": 2963,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 2963,
+    "length": 12,
+    "end": 2975,
+    "text": "............"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 2975,
+    "length": 0,
+    "end": 2975,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 2975,
+    "length": 3,
+    "end": 2978,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 2978,
+    "length": 6,
+    "end": 2984,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 2984,
+    "length": 68,
+    "end": 3052,
+    "text": "Acho que não vou fazer isso...\nVocê não tem jeito, Sábio Tarado."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 3052,
+    "length": 0,
+    "end": 3052,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 3052,
+    "length": 3,
+    "end": 3055,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 3055,
+    "length": 7,
+    "end": 3062,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 3062,
+    "length": 6,
+    "end": 3068,
+    "text": "NÃO!?"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 3068,
+    "length": 0,
+    "end": 3068,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 3068,
+    "length": 3,
+    "end": 3071,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 3071,
+    "length": 7,
+    "end": 3078,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 3078,
+    "length": 54,
+    "end": 3132,
+    "text": "Você... Você não entendeu nada\ndesse treino todo..."
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 3132,
+    "length": 0,
+    "end": 3132,
+    "text": ""
+  }
+]

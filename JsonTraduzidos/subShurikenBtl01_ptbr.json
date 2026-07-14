@@ -1,0 +1,1282 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2085,
+    "length": 3,
+    "end": 2088,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 2088,
+    "length": 6,
+    "end": 2094,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 2094,
+    "length": 3,
+    "end": 2097,
+    "text": "Oi!"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2097,
+    "length": 0,
+    "end": 2097,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2097,
+    "length": 3,
+    "end": 2100,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 2100,
+    "length": 4,
+    "end": 2104,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 2104,
+    "length": 23,
+    "end": 2127,
+    "text": "Ah, é você, Naruto..."
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2127,
+    "length": 0,
+    "end": 2127,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2127,
+    "length": 3,
+    "end": 2130,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 2130,
+    "length": 6,
+    "end": 2136,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 2136,
+    "length": 53,
+    "end": 2189,
+    "text": "Hmmm? Por que você veio até aqui?\nO que você quer?"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2189,
+    "length": 0,
+    "end": 2189,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2189,
+    "length": 3,
+    "end": 2192,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2192,
+    "length": 6,
+    "end": 2198,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2198,
+    "length": 97,
+    "end": 2295,
+    "text": "Bem, ouvi dizer que vocês dois\nestavam treinando, e fiquei curioso\nsobre que tipo de treino era."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2295,
+    "length": 0,
+    "end": 2295,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2295,
+    "length": 3,
+    "end": 2298,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2298,
+    "length": 6,
+    "end": 2304,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2304,
+    "length": 35,
+    "end": 2339,
+    "text": "Veio aprender com os experts, hein?"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2339,
+    "length": 0,
+    "end": 2339,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2339,
+    "length": 3,
+    "end": 2342,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 2342,
+    "length": 4,
+    "end": 2346,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 2346,
+    "length": 71,
+    "end": 2417,
+    "text": "Eu estava tendo uma aula sobre o uso\nde ferramentas ninja com a Tenten."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2417,
+    "length": 0,
+    "end": 2417,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2417,
+    "length": 3,
+    "end": 2420,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2420,
+    "length": 4,
+    "end": 2424,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2424,
+    "length": 51,
+    "end": 2475,
+    "text": "É bem útil. Talvez você também\nqueira aprender."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2475,
+    "length": 0,
+    "end": 2475,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2475,
+    "length": 3,
+    "end": 2478,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2478,
+    "length": 6,
+    "end": 2484,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2484,
+    "length": 58,
+    "end": 2542,
+    "text": "Hehe. Se você insiste, tudo bem,\neu também vou aprender!"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2542,
+    "length": 0,
+    "end": 2542,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2542,
+    "length": 3,
+    "end": 2545,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2545,
+    "length": 6,
+    "end": 2551,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 2551,
+    "length": 52,
+    "end": 2603,
+    "text": "Sério...? Duvido que você\nconsiga acompanhar isso."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 2603,
+    "length": 0,
+    "end": 2603,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 2603,
+    "length": 3,
+    "end": 2606,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 2606,
+    "length": 6,
+    "end": 2612,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 2612,
+    "length": 6,
+    "end": 2618,
+    "text": "Grrrr!"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2618,
+    "length": 0,
+    "end": 2618,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2618,
+    "length": 3,
+    "end": 2621,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 2621,
+    "length": 6,
+    "end": 2627,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 2627,
+    "length": 44,
+    "end": 2671,
+    "text": "E eu não tenho muito tempo a perder,\nsabia?"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 2671,
+    "length": 0,
+    "end": 2671,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 2671,
+    "length": 3,
+    "end": 2674,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 2674,
+    "length": 6,
+    "end": 2680,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 2680,
+    "length": 11,
+    "end": 2691,
+    "text": "Hehehehe…"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 2691,
+    "length": 0,
+    "end": 2691,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 2691,
+    "length": 3,
+    "end": 2694,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 2694,
+    "length": 6,
+    "end": 2700,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 2700,
+    "length": 69,
+    "end": 2769,
+    "text": "Ah, é? Então não tenho escolha\na não ser provar que está errada!"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 2769,
+    "length": 0,
+    "end": 2769,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 2769,
+    "length": 3,
+    "end": 2772,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 2772,
+    "length": 6,
+    "end": 2778,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 2778,
+    "length": 97,
+    "end": 2875,
+    "text": "Hunf! Acha mesmo? Aviso logo,\nse você não aguentar esse treino,\nvai provar que é um patético."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 2875,
+    "length": 0,
+    "end": 2875,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 2875,
+    "length": 3,
+    "end": 2878,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 2878,
+    "length": 6,
+    "end": 2884,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 2884,
+    "length": 61,
+    "end": 2945,
+    "text": "Ah, tá, tanto faz, pode mandar!\nEu vou arrasar, vai ver só!"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 2945,
+    "length": 0,
+    "end": 2945,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 2945,
+    "length": 3,
+    "end": 2948,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 2948,
+    "length": 6,
+    "end": 2954,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 2954,
+    "length": 65,
+    "end": 3019,
+    "text": "Bem, você ganha pontos pela\ncoragem... Agora, mostre o que sabe!"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 3019,
+    "length": 0,
+    "end": 3019,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 3019,
+    "length": 3,
+    "end": 3022,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 3022,
+    "length": 6,
+    "end": 3028,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 3028,
+    "length": 11,
+    "end": 3039,
+    "text": "Com prazer!"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 3039,
+    "length": 0,
+    "end": 3039,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 3039,
+    "length": 3,
+    "end": 3042,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 3042,
+    "length": 4,
+    "end": 3046,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 3046,
+    "length": 71,
+    "end": 3117,
+    "text": "(Ufa... Só de ouvir esses dois\ntagarelando já me dá dor de cabeça.)"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 3117,
+    "length": 0,
+    "end": 3117,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 3117,
+    "length": 3,
+    "end": 3120,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 3120,
+    "length": 6,
+    "end": 3126,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 3126,
+    "length": 16,
+    "end": 3142,
+    "text": "Vamos começar!!"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 3142,
+    "length": 0,
+    "end": 3142,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 3142,
+    "length": 3,
+    "end": 3145,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 3145,
+    "length": 6,
+    "end": 3151,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 3151,
+    "length": 34,
+    "end": 3185,
+    "text": "Argh! O que há de errado comigo!?"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3185,
+    "length": 0,
+    "end": 3185,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3185,
+    "length": 3,
+    "end": 3188,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 3188,
+    "length": 6,
+    "end": 3194,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 3194,
+    "length": 27,
+    "end": 3221,
+    "text": "Isso é tudo que você tem?"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3221,
+    "length": 0,
+    "end": 3221,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3221,
+    "length": 3,
+    "end": 3224,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 3224,
+    "length": 6,
+    "end": 3230,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 3230,
+    "length": 42,
+    "end": 3272,
+    "text": "D-Deve haver... algum tipo de\nengano aqui."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 3272,
+    "length": 0,
+    "end": 3272,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 3272,
+    "length": 3,
+    "end": 3275,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 3275,
+    "length": 6,
+    "end": 3281,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 3281,
+    "length": 56,
+    "end": 3337,
+    "text": "Volte quando tiver mais treino,\ntá bom, Naruto Uzumaki?"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 3337,
+    "length": 0,
+    "end": 3337,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 3337,
+    "length": 3,
+    "end": 3340,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 3340,
+    "length": 6,
+    "end": 3346,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 3346,
+    "length": 9,
+    "end": 3355,
+    "text": "Argh...!!"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3355,
+    "length": 0,
+    "end": 3355,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3355,
+    "length": 3,
+    "end": 3358,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 3358,
+    "length": 4,
+    "end": 3362,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 3362,
+    "length": 69,
+    "end": 3431,
+    "text": "(Ela diz que ele precisa treinar mais\nantes de aprender shuriken...?)"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3431,
+    "length": 0,
+    "end": 3431,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3431,
+    "length": 3,
+    "end": 3434,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 3434,
+    "length": 4,
+    "end": 3438,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 3438,
+    "length": 46,
+    "end": 3484,
+    "text": "*Suspiro* Esses dois me dão\ndor de cabeça…"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 3484,
+    "length": 0,
+    "end": 3484,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 3484,
+    "length": 3,
+    "end": 3487,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 3487,
+    "length": 6,
+    "end": 3493,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 3493,
+    "length": 58,
+    "end": 3551,
+    "text": "Isso mostra que você tem muito\nmais a aprender. Entendeu?"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 3551,
+    "length": 0,
+    "end": 3551,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 3551,
+    "length": 3,
+    "end": 3554,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 3554,
+    "length": 4,
+    "end": 3558,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 3558,
+    "length": 10,
+    "end": 3568,
+    "text": "Ah, bem…"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 3568,
+    "length": 0,
+    "end": 3568,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 3568,
+    "length": 3,
+    "end": 3571,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 3571,
+    "length": 6,
+    "end": 3577,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 3577,
+    "length": 13,
+    "end": 3590,
+    "text": "Ah-ha-ha-ha!!"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 3590,
+    "length": 0,
+    "end": 3590,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 3590,
+    "length": 3,
+    "end": 3593,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 3593,
+    "length": 6,
+    "end": 3599,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 3599,
+    "length": 62,
+    "end": 3661,
+    "text": "Isso é inacreditável. Ele realmente\nacompanhou meu treino..."
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 3661,
+    "length": 0,
+    "end": 3661,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 3661,
+    "length": 3,
+    "end": 3664,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 3664,
+    "length": 6,
+    "end": 3670,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 3670,
+    "length": 40,
+    "end": 3710,
+    "text": "Talvez eu devesse treinar VOCÊ, Tenten!"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 3710,
+    "length": 0,
+    "end": 3710,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 3710,
+    "length": 3,
+    "end": 3713,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 3713,
+    "length": 6,
+    "end": 3719,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 3719,
+    "length": 20,
+    "end": 3739,
+    "text": "Ugh... que desastre."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 3739,
+    "length": 0,
+    "end": 3739,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 3739,
+    "length": 3,
+    "end": 3742,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 3742,
+    "length": 4,
+    "end": 3746,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 3746,
+    "length": 6,
+    "end": 3752,
+    "text": "......"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 3752,
+    "length": 0,
+    "end": 3752,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 3752,
+    "length": 3,
+    "end": 3755,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 3755,
+    "length": 4,
+    "end": 3759,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 3759,
+    "length": 62,
+    "end": 3821,
+    "text": "(Ele diz à própria mestra que ELA\nprecisa de mais treino...)"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 3821,
+    "length": 0,
+    "end": 3821,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 3821,
+    "length": 3,
+    "end": 3824,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 3824,
+    "length": 6,
+    "end": 3830,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 3830,
+    "length": 58,
+    "end": 3888,
+    "text": "Treine-me de novo! Estou sempre\npronto pra aprender, hihi!"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 3888,
+    "length": 0,
+    "end": 3888,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 3888,
+    "length": 3,
+    "end": 3891,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 3891,
+    "length": 6,
+    "end": 3897,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 3897,
+    "length": 47,
+    "end": 3944,
+    "text": "Com certeza não vou perder da\npróxima vez...!"
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 3944,
+    "length": 0,
+    "end": 3944,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 3944,
+    "length": 3,
+    "end": 3947,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 3947,
+    "length": 4,
+    "end": 3951,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 3951,
+    "length": 6,
+    "end": 3957,
+    "text": "......"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 3957,
+    "length": 0,
+    "end": 3957,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 3957,
+    "length": 3,
+    "end": 3960,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 3960,
+    "length": 4,
+    "end": 3964,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 3964,
+    "length": 31,
+    "end": 3995,
+    "text": "Não aguento mais esses dois…"
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 3995,
+    "length": 0,
+    "end": 3995,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 3995,
+    "length": 3,
+    "end": 3998,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 3998,
+    "length": 6,
+    "end": 4004,
+    "text": "Tenten"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 4004,
+    "length": 54,
+    "end": 4058,
+    "text": "Da próxima vez o treino será\nbem mais desafiador...!"
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 4058,
+    "length": 0,
+    "end": 4058,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 4058,
+    "length": 3,
+    "end": 4061,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 4061,
+    "length": 4,
+    "end": 4065,
+    "text": "Neji"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 4065,
+    "length": 6,
+    "end": 4071,
+    "text": "Ufa..."
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 4071,
+    "length": 0,
+    "end": 4071,
+    "text": ""
+  }
+]

@@ -1,0 +1,1858 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2944,
+    "length": 3,
+    "end": 2947,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 2947,
+    "length": 4,
+    "end": 2951,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 2951,
+    "length": 14,
+    "end": 2965,
+    "text": "Hora perfeita!"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2965,
+    "length": 0,
+    "end": 2965,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2965,
+    "length": 3,
+    "end": 2968,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 2968,
+    "length": 6,
+    "end": 2974,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 2974,
+    "length": 24,
+    "end": 2998,
+    "text": "Ugh. A... Anko sensei..."
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2998,
+    "length": 0,
+    "end": 2998,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2998,
+    "length": 3,
+    "end": 3001,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 3001,
+    "length": 4,
+    "end": 3005,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 3005,
+    "length": 59,
+    "end": 3064,
+    "text": "Hmm, parece que você tá com tempo\nlivre. Quer vir comigo?"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 3064,
+    "length": 0,
+    "end": 3064,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 3064,
+    "length": 3,
+    "end": 3067,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 3067,
+    "length": 6,
+    "end": 3073,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 3073,
+    "length": 76,
+    "end": 3149,
+    "text": "Você vai me obrigar mesmo se eu disser\nnão, né? Então por que perguntar?"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 3149,
+    "length": 0,
+    "end": 3149,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 3149,
+    "length": 3,
+    "end": 3152,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 3152,
+    "length": 4,
+    "end": 3156,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 3156,
+    "length": 42,
+    "end": 3198,
+    "text": "Só pra ser educada. Mas você\ntem razão."
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 3198,
+    "length": 0,
+    "end": 3198,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 3198,
+    "length": 3,
+    "end": 3201,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 3201,
+    "length": 6,
+    "end": 3207,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 3207,
+    "length": 33,
+    "end": 3240,
+    "text": "Então, o que eu tenho que fazer?"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 3240,
+    "length": 0,
+    "end": 3240,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 3240,
+    "length": 3,
+    "end": 3243,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 3243,
+    "length": 4,
+    "end": 3247,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 3247,
+    "length": 27,
+    "end": 3274,
+    "text": "Ah, só carregar uma coisa."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 3274,
+    "length": 0,
+    "end": 3274,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 3274,
+    "length": 3,
+    "end": 3277,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 3277,
+    "length": 6,
+    "end": 3283,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 3283,
+    "length": 52,
+    "end": 3335,
+    "text": "Carregar uma coisa… Bem, parece\nfácil o bastante."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 3335,
+    "length": 0,
+    "end": 3335,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 3335,
+    "length": 3,
+    "end": 3338,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 3338,
+    "length": 4,
+    "end": 3342,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 3342,
+    "length": 66,
+    "end": 3408,
+    "text": "Certo? E é uma coisa bem\npequena e leve, então não se preocupe."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 3408,
+    "length": 0,
+    "end": 3408,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 3408,
+    "length": 3,
+    "end": 3411,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 3411,
+    "length": 6,
+    "end": 3417,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 3417,
+    "length": 21,
+    "end": 3438,
+    "text": "....................."
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 3438,
+    "length": 0,
+    "end": 3438,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 3438,
+    "length": 3,
+    "end": 3441,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 3441,
+    "length": 6,
+    "end": 3447,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 3447,
+    "length": 35,
+    "end": 3482,
+    "text": "Você chama isso de pequeno e leve?"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 3482,
+    "length": 0,
+    "end": 3482,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 3482,
+    "length": 3,
+    "end": 3485,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 3485,
+    "length": 4,
+    "end": 3489,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 3489,
+    "length": 29,
+    "end": 3518,
+    "text": "Para de reclamar! Seja homem!"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 3518,
+    "length": 0,
+    "end": 3518,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 3518,
+    "length": 3,
+    "end": 3521,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 3521,
+    "length": 6,
+    "end": 3527,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 3527,
+    "length": 40,
+    "end": 3567,
+    "text": "... Eu devia saber que seria\nalgo assim."
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 3567,
+    "length": 0,
+    "end": 3567,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 3567,
+    "length": 3,
+    "end": 3570,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 3570,
+    "length": 4,
+    "end": 3574,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 3574,
+    "length": 62,
+    "end": 3636,
+    "text": "De qualquer forma, leve isso pro\nlocal que vou te dizer agora."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 3636,
+    "length": 0,
+    "end": 3636,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 3636,
+    "length": 3,
+    "end": 3639,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 3639,
+    "length": 4,
+    "end": 3643,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 3643,
+    "length": 60,
+    "end": 3703,
+    "text": "Só tem bolinhos de arroz aí dentro.\nNão ouse deixar cair."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 3703,
+    "length": 0,
+    "end": 3703,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 3703,
+    "length": 3,
+    "end": 3706,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 3706,
+    "length": 6,
+    "end": 3712,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 3712,
+    "length": 57,
+    "end": 3769,
+    "text": "Só bolinhos de arroz?... Só de pensar\nna indigestão..."
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 3769,
+    "length": 0,
+    "end": 3769,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 3769,
+    "length": 3,
+    "end": 3772,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 3772,
+    "length": 4,
+    "end": 3776,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 3776,
+    "length": 37,
+    "end": 3813,
+    "text": "Certo, vou na frente! Não se atrase!"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 3813,
+    "length": 0,
+    "end": 3813,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 3813,
+    "length": 3,
+    "end": 3816,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 3816,
+    "length": 6,
+    "end": 3822,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 3822,
+    "length": 33,
+    "end": 3855,
+    "text": "Ah, Ahhhhh!! Agora fiz besteira!!"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 3855,
+    "length": 0,
+    "end": 3855,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 3855,
+    "length": 3,
+    "end": 3858,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 3858,
+    "length": 6,
+    "end": 3864,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 3864,
+    "length": 42,
+    "end": 3906,
+    "text": "A... a Anko sensei não vai ficar\nfeliz..."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 3906,
+    "length": 0,
+    "end": 3906,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 3906,
+    "length": 3,
+    "end": 3909,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 3909,
+    "length": 4,
+    "end": 3913,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 3913,
+    "length": 32,
+    "end": 3945,
+    "text": "Hã? Você derrubou os bolinhos?"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3945,
+    "length": 0,
+    "end": 3945,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3945,
+    "length": 3,
+    "end": 3948,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 3948,
+    "length": 6,
+    "end": 3954,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 3954,
+    "length": 14,
+    "end": 3968,
+    "text": "D- desculpa..."
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3968,
+    "length": 0,
+    "end": 3968,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3968,
+    "length": 3,
+    "end": 3971,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 3971,
+    "length": 4,
+    "end": 3975,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 3975,
+    "length": 48,
+    "end": 4023,
+    "text": "Heh heh heh heh... Bem, todos\nerramos às vezes."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 4023,
+    "length": 0,
+    "end": 4023,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 4023,
+    "length": 3,
+    "end": 4026,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 4026,
+    "length": 4,
+    "end": 4030,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 4030,
+    "length": 71,
+    "end": 4101,
+    "text": "Mas talvez eu devesse te dar uma lição\npra você não repetir o erro."
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 4101,
+    "length": 0,
+    "end": 4101,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 4101,
+    "length": 3,
+    "end": 4104,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 4104,
+    "length": 6,
+    "end": 4110,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 4110,
+    "length": 36,
+    "end": 4146,
+    "text": "E- e- espera! Que tipo de lição??!"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 4146,
+    "length": 0,
+    "end": 4146,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 4146,
+    "length": 3,
+    "end": 4149,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 4149,
+    "length": 4,
+    "end": 4153,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 4153,
+    "length": 12,
+    "end": 4165,
+    "text": "Heh heh heh!"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 4165,
+    "length": 0,
+    "end": 4165,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 4165,
+    "length": 3,
+    "end": 4168,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 4168,
+    "length": 6,
+    "end": 4174,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 4174,
+    "length": 10,
+    "end": 4184,
+    "text": "Waaaaahh!!"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 4184,
+    "length": 0,
+    "end": 4184,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 4184,
+    "length": 3,
+    "end": 4187,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 4187,
+    "length": 6,
+    "end": 4193,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 4193,
+    "length": 21,
+    "end": 4214,
+    "text": "....................."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 4214,
+    "length": 0,
+    "end": 4214,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 4214,
+    "length": 3,
+    "end": 4217,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 4217,
+    "length": 4,
+    "end": 4221,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 4221,
+    "length": 42,
+    "end": 4263,
+    "text": "Sem mais erros, certo? Aprendeu\na lição?"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 4263,
+    "length": 0,
+    "end": 4263,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 4263,
+    "length": 3,
+    "end": 4266,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 4266,
+    "length": 6,
+    "end": 4272,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 4272,
+    "length": 11,
+    "end": 4283,
+    "text": "S... sim..."
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 4283,
+    "length": 0,
+    "end": 4283,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 4283,
+    "length": 3,
+    "end": 4286,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 4286,
+    "length": 6,
+    "end": 4292,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 4292,
+    "length": 43,
+    "end": 4335,
+    "text": "(Ufa... Aquilo foi uma cena de\npesadelo...)"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 4335,
+    "length": 0,
+    "end": 4335,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 4335,
+    "length": 3,
+    "end": 4338,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 4338,
+    "length": 4,
+    "end": 4342,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 4342,
+    "length": 115,
+    "end": 4457,
+    "text": "Idiota... Aqueles bolinhos eram\ninsubstituíveis… Faça isso de novo e\nvocê não vai viver pra se arrepender...!"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 4457,
+    "length": 0,
+    "end": 4457,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 4457,
+    "length": 3,
+    "end": 4460,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 4460,
+    "length": 6,
+    "end": 4466,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 4466,
+    "length": 24,
+    "end": 4490,
+    "text": "Ugh... Demorei demais..."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 4490,
+    "length": 0,
+    "end": 4490,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 4490,
+    "length": 3,
+    "end": 4493,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 4493,
+    "length": 6,
+    "end": 4499,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 4499,
+    "length": 42,
+    "end": 4541,
+    "text": "Será que a Anko sensei vai ficar brava..."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 4541,
+    "length": 0,
+    "end": 4541,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 4541,
+    "length": 3,
+    "end": 4544,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 4544,
+    "length": 4,
+    "end": 4548,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 4548,
+    "length": 80,
+    "end": 4628,
+    "text": "Que desperdício. Demorou tanto,\nque nem tô mais com vontade\nde comer bolinhos."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 4628,
+    "length": 0,
+    "end": 4628,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 4628,
+    "length": 3,
+    "end": 4631,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 4631,
+    "length": 6,
+    "end": 4637,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 4637,
+    "length": 32,
+    "end": 4669,
+    "text": "*Ofegante*…Aqui estão eles..."
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 4669,
+    "length": 0,
+    "end": 4669,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 4669,
+    "length": 3,
+    "end": 4672,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 4672,
+    "length": 4,
+    "end": 4676,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 4676,
+    "length": 41,
+    "end": 4717,
+    "text": "Bom trabalho. Certo, hora de\numa mordida."
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 4717,
+    "length": 0,
+    "end": 4717,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 4717,
+    "length": 3,
+    "end": 4720,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 4720,
+    "length": 4,
+    "end": 4724,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 4724,
+    "length": 56,
+    "end": 4780,
+    "text": "Ahh! Bolinhos gostosos e uma bela vista.\nEssa é a vida!"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 4780,
+    "length": 0,
+    "end": 4780,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 4780,
+    "length": 3,
+    "end": 4783,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 4783,
+    "length": 6,
+    "end": 4789,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 4789,
+    "length": 39,
+    "end": 4828,
+    "text": "(E eu não ganho nada...\nQue surpresa.)"
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 4828,
+    "length": 0,
+    "end": 4828,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 4828,
+    "length": 3,
+    "end": 4831,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 4831,
+    "length": 4,
+    "end": 4835,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 4835,
+    "length": 24,
+    "end": 4859,
+    "text": "Certo, vamos continuar!!"
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 4859,
+    "length": 0,
+    "end": 4859,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 4859,
+    "length": 3,
+    "end": 4862,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 4862,
+    "length": 6,
+    "end": 4868,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 4868,
+    "length": 17,
+    "end": 4885,
+    "text": "Hã!? Continuar?!"
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 4885,
+    "length": 0,
+    "end": 4885,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 4885,
+    "length": 3,
+    "end": 4888,
+    "text": "041"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 4888,
+    "length": 4,
+    "end": 4892,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 4892,
+    "length": 42,
+    "end": 4934,
+    "text": "Claro. Ainda tem alguns bolinhos\nsobrando!"
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 4934,
+    "length": 0,
+    "end": 4934,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 4934,
+    "length": 3,
+    "end": 4937,
+    "text": "042"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 4937,
+    "length": 6,
+    "end": 4943,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 4943,
+    "length": 8,
+    "end": 4951,
+    "text": "Aaugh..."
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 4951,
+    "length": 0,
+    "end": 4951,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 4951,
+    "length": 3,
+    "end": 4954,
+    "text": "043"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 4954,
+    "length": 4,
+    "end": 4958,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 4958,
+    "length": 19,
+    "end": 4977,
+    "text": "Pro próximo lugar!"
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 4977,
+    "length": 0,
+    "end": 4977,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 4977,
+    "length": 3,
+    "end": 4980,
+    "text": "044"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 4980,
+    "length": 6,
+    "end": 4986,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 4986,
+    "length": 33,
+    "end": 5019,
+    "text": "*Ofegante*... Aqui estão eles..."
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 5019,
+    "length": 0,
+    "end": 5019,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 5019,
+    "length": 3,
+    "end": 5022,
+    "text": "045"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 5022,
+    "length": 4,
+    "end": 5026,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 5026,
+    "length": 39,
+    "end": 5065,
+    "text": "Bom trabalho! Certo, hora dos\nbolinhos!"
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 5065,
+    "length": 0,
+    "end": 5065,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 5065,
+    "length": 3,
+    "end": 5068,
+    "text": "046"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 5068,
+    "length": 6,
+    "end": 5074,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 5074,
+    "length": 21,
+    "end": 5095,
+    "text": "....................."
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 5095,
+    "length": 0,
+    "end": 5095,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 5095,
+    "length": 3,
+    "end": 5098,
+    "text": "047"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 5098,
+    "length": 4,
+    "end": 5102,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 5102,
+    "length": 36,
+    "end": 5138,
+    "text": "O que você tá esperando? Come aí."
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 5138,
+    "length": 0,
+    "end": 5138,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 5138,
+    "length": 3,
+    "end": 5141,
+    "text": "048"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-implicit",
+    "start": 5141,
+    "length": 6,
+    "end": 5147,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-explicit",
+    "start": 5147,
+    "length": 29,
+    "end": 5176,
+    "text": "Hã!? Eu... eu também ganho?"
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 5176,
+    "length": 0,
+    "end": 5176,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 5176,
+    "length": 3,
+    "end": 5179,
+    "text": "049"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-implicit",
+    "start": 5179,
+    "length": 4,
+    "end": 5183,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-explicit",
+    "start": 5183,
+    "length": 64,
+    "end": 5247,
+    "text": "Sua recompensa por carregar eles até\naqui. Come quantos quiser!"
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 5247,
+    "length": 0,
+    "end": 5247,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 5247,
+    "length": 3,
+    "end": 5250,
+    "text": "050"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-implicit",
+    "start": 5250,
+    "length": 6,
+    "end": 5256,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-explicit",
+    "start": 5256,
+    "length": 32,
+    "end": 5288,
+    "text": "Heh heh...! Não vou dizer não!"
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 5288,
+    "length": 0,
+    "end": 5288,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 5288,
+    "length": 3,
+    "end": 5291,
+    "text": "051"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-implicit",
+    "start": 5291,
+    "length": 6,
+    "end": 5297,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-explicit",
+    "start": 5297,
+    "length": 15,
+    "end": 5312,
+    "text": "Ahh, tô cheio."
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 5312,
+    "length": 0,
+    "end": 5312,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 5312,
+    "length": 3,
+    "end": 5315,
+    "text": "052"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-implicit",
+    "start": 5315,
+    "length": 4,
+    "end": 5319,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-explicit",
+    "start": 5319,
+    "length": 64,
+    "end": 5383,
+    "text": "Você come feito um cavalo. Mas você\ntrabalhou como um também."
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 5383,
+    "length": 0,
+    "end": 5383,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 5383,
+    "length": 3,
+    "end": 5386,
+    "text": "053"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-implicit",
+    "start": 5386,
+    "length": 6,
+    "end": 5392,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-explicit",
+    "start": 5392,
+    "length": 20,
+    "end": 5412,
+    "text": "Valeu, Anko sensei.\n"
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 5412,
+    "length": 0,
+    "end": 5412,
+    "text": ""
+  },
+  {
+    "table_pos": 2608,
+    "mode": "A",
+    "start": 5412,
+    "length": 3,
+    "end": 5415,
+    "text": "054"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-implicit",
+    "start": 5415,
+    "length": 4,
+    "end": 5419,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-explicit",
+    "start": 5419,
+    "length": 48,
+    "end": 5467,
+    "text": "Bons, né? Talvez eu te pague\nde novo algum dia."
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 5467,
+    "length": 0,
+    "end": 5467,
+    "text": ""
+  },
+  {
+    "table_pos": 2656,
+    "mode": "A",
+    "start": 5467,
+    "length": 3,
+    "end": 5470,
+    "text": "055"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-implicit",
+    "start": 5470,
+    "length": 4,
+    "end": 5474,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-explicit",
+    "start": 5474,
+    "length": 47,
+    "end": 5521,
+    "text": "Claro, vou fazer você trabalhar\nduro por isso."
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 5521,
+    "length": 0,
+    "end": 5521,
+    "text": ""
+  },
+  {
+    "table_pos": 2704,
+    "mode": "A",
+    "start": 5521,
+    "length": 3,
+    "end": 5524,
+    "text": "056"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-implicit",
+    "start": 5524,
+    "length": 6,
+    "end": 5530,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-explicit",
+    "start": 5530,
+    "length": 82,
+    "end": 5612,
+    "text": "Sem problema! Se a recompensa for\nassim, eu faço qualquer coisa\nque você mandar!"
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 5612,
+    "length": 0,
+    "end": 5612,
+    "text": ""
+  },
+  {
+    "table_pos": 2752,
+    "mode": "A",
+    "start": 5612,
+    "length": 3,
+    "end": 5615,
+    "text": "057"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-implicit",
+    "start": 5615,
+    "length": 4,
+    "end": 5619,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-explicit",
+    "start": 5619,
+    "length": 62,
+    "end": 5681,
+    "text": "(O humor dele muda que nem\nmontanha-russa. Garoto engraçado.)"
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 5681,
+    "length": 0,
+    "end": 5681,
+    "text": ""
+  },
+  {
+    "table_pos": 2800,
+    "mode": "A",
+    "start": 5681,
+    "length": 3,
+    "end": 5684,
+    "text": "058"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-implicit",
+    "start": 5684,
+    "length": 4,
+    "end": 5688,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-explicit",
+    "start": 5688,
+    "length": 66,
+    "end": 5754,
+    "text": "Hmm, essa foi uma boa mudança de ritmo.\nHora da próxima missão!"
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 5754,
+    "length": 0,
+    "end": 5754,
+    "text": ""
+  }
+]

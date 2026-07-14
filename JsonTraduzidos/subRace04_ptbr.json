@@ -1,0 +1,1538 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2471,
+    "length": 3,
+    "end": 2474,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 2474,
+    "length": 3,
+    "end": 2477,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 2477,
+    "length": 68,
+    "end": 2545,
+    "text": "Bem-vindo ao campo de treino do\ntorneio de corrida do Poderoso Guy!!"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2545,
+    "length": 0,
+    "end": 2545,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2545,
+    "length": 3,
+    "end": 2548,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 2548,
+    "length": 3,
+    "end": 2551,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 2551,
+    "length": 34,
+    "end": 2585,
+    "text": "Agora! Eu sei por que você veio!!"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2585,
+    "length": 0,
+    "end": 2585,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2585,
+    "length": 3,
+    "end": 2588,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 2588,
+    "length": 3,
+    "end": 2591,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 2591,
+    "length": 72,
+    "end": 2663,
+    "text": "Você quer um corpo que se move\nrápido como um raio, igual ao meu,\nné?"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2663,
+    "length": 0,
+    "end": 2663,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2663,
+    "length": 3,
+    "end": 2666,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2666,
+    "length": 3,
+    "end": 2669,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2669,
+    "length": 97,
+    "end": 2766,
+    "text": "Não há nada como ter um corpo\nincrível com agilidade sem igual! Eu\ntambém treinei muito aqui!"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2766,
+    "length": 0,
+    "end": 2766,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2766,
+    "length": 3,
+    "end": 2769,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2769,
+    "length": 3,
+    "end": 2772,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2772,
+    "length": 92,
+    "end": 2864,
+    "text": "E valeu a pena! Agora sou um dos\nmelhores, senão O melhor, ninja da\nFolha nessa habilidade!"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2864,
+    "length": 0,
+    "end": 2864,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2864,
+    "length": 3,
+    "end": 2867,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 2867,
+    "length": 6,
+    "end": 2873,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 2873,
+    "length": 39,
+    "end": 2912,
+    "text": "......\nEsse sensei fala demais mesmo..."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2912,
+    "length": 0,
+    "end": 2912,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2912,
+    "length": 3,
+    "end": 2915,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2915,
+    "length": 3,
+    "end": 2918,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2918,
+    "length": 41,
+    "end": 2959,
+    "text": "Vamos buscar juntos a flor da\njuventude!!"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2959,
+    "length": 0,
+    "end": 2959,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2959,
+    "length": 3,
+    "end": 2962,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2962,
+    "length": 3,
+    "end": 2965,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2965,
+    "length": 21,
+    "end": 2986,
+    "text": "Argh... Sensei Guy..."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2986,
+    "length": 0,
+    "end": 2986,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2986,
+    "length": 3,
+    "end": 2989,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2989,
+    "length": 3,
+    "end": 2992,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 2992,
+    "length": 26,
+    "end": 3018,
+    "text": "Hm... Sim, o que foi, Lee?"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 3018,
+    "length": 0,
+    "end": 3018,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 3018,
+    "length": 3,
+    "end": 3021,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 3021,
+    "length": 3,
+    "end": 3024,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 3024,
+    "length": 50,
+    "end": 3074,
+    "text": "Sinto muito... Falhei na minha\núltima corrida...."
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 3074,
+    "length": 0,
+    "end": 3074,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 3074,
+    "length": 3,
+    "end": 3077,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 3077,
+    "length": 3,
+    "end": 3080,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 3080,
+    "length": 107,
+    "end": 3187,
+    "text": "Não... Isso não pode ser!! Será que\na floresta ficou tão perigosa que\nnem meu amado pupilo Lee aguenta?"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 3187,
+    "length": 0,
+    "end": 3187,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 3187,
+    "length": 3,
+    "end": 3190,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 3190,
+    "length": 3,
+    "end": 3193,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 3193,
+    "length": 91,
+    "end": 3284,
+    "text": "Mas sensei! Eu não vou desistir!!\nVou tentar quantas vezes for preciso\npra conquistá-la!!"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 3284,
+    "length": 0,
+    "end": 3284,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 3284,
+    "length": 3,
+    "end": 3287,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 3287,
+    "length": 3,
+    "end": 3290,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 3290,
+    "length": 26,
+    "end": 3316,
+    "text": "Sim!! Lee!! Meu corajoso!!"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 3316,
+    "length": 0,
+    "end": 3316,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 3316,
+    "length": 3,
+    "end": 3319,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 3319,
+    "length": 3,
+    "end": 3322,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 3322,
+    "length": 68,
+    "end": 3390,
+    "text": "Você me deixa tão orgulhoso que\nmeus olhos se enchem de lágrimas!"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 3390,
+    "length": 0,
+    "end": 3390,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 3390,
+    "length": 3,
+    "end": 3393,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 3393,
+    "length": 6,
+    "end": 3399,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 3399,
+    "length": 11,
+    "end": 3410,
+    "text": "Uh... Ahem."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 3410,
+    "length": 0,
+    "end": 3410,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 3410,
+    "length": 3,
+    "end": 3413,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 3413,
+    "length": 3,
+    "end": 3416,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 3416,
+    "length": 24,
+    "end": 3440,
+    "text": "Hm... o que foi, Naruto?"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 3440,
+    "length": 0,
+    "end": 3440,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 3440,
+    "length": 3,
+    "end": 3443,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 3443,
+    "length": 6,
+    "end": 3449,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 3449,
+    "length": 31,
+    "end": 3480,
+    "text": "Podemos só continuar com isso?"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 3480,
+    "length": 0,
+    "end": 3480,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 3480,
+    "length": 3,
+    "end": 3483,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 3483,
+    "length": 3,
+    "end": 3486,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 3486,
+    "length": 42,
+    "end": 3528,
+    "text": "Ah! Quase esqueci!! Lee, não se\npreocupe!"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 3528,
+    "length": 0,
+    "end": 3528,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 3528,
+    "length": 3,
+    "end": 3531,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 3531,
+    "length": 3,
+    "end": 3534,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 3534,
+    "length": 52,
+    "end": 3586,
+    "text": "O Naruto aqui vai vingar suas\nderrotas com certeza!!"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 3586,
+    "length": 0,
+    "end": 3586,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 3586,
+    "length": 3,
+    "end": 3589,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 3589,
+    "length": 3,
+    "end": 3592,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 3592,
+    "length": 80,
+    "end": 3672,
+    "text": "Sim! Me sinto confiante agora que\no Naruto está aqui!! Podemos\ncontar com ele!!"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3672,
+    "length": 0,
+    "end": 3672,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3672,
+    "length": 3,
+    "end": 3675,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 3675,
+    "length": 6,
+    "end": 3681,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 3681,
+    "length": 33,
+    "end": 3714,
+    "text": "Tanto faz... Vamos começar logo."
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3714,
+    "length": 0,
+    "end": 3714,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3714,
+    "length": 3,
+    "end": 3717,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 3717,
+    "length": 6,
+    "end": 3723,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 3723,
+    "length": 18,
+    "end": 3741,
+    "text": "Poxa... Eu falhei."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 3741,
+    "length": 0,
+    "end": 3741,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 3741,
+    "length": 3,
+    "end": 3744,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 3744,
+    "length": 3,
+    "end": 3747,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 3747,
+    "length": 49,
+    "end": 3796,
+    "text": "C...Como isso é possível? Até o\nNaruto falhou?"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 3796,
+    "length": 0,
+    "end": 3796,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 3796,
+    "length": 3,
+    "end": 3799,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 3799,
+    "length": 3,
+    "end": 3802,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 3802,
+    "length": 97,
+    "end": 3899,
+    "text": "Hm... Talvez o percurso tenha\nficado difícil demais. Talvez\ndevêssemos reduzir a dificuldade..."
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3899,
+    "length": 0,
+    "end": 3899,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3899,
+    "length": 3,
+    "end": 3902,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 3902,
+    "length": 3,
+    "end": 3905,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 3905,
+    "length": 43,
+    "end": 3948,
+    "text": "Não, sensei Guy! Deixe do jeito\nque está!"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3948,
+    "length": 0,
+    "end": 3948,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3948,
+    "length": 3,
+    "end": 3951,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 3951,
+    "length": 3,
+    "end": 3954,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 3954,
+    "length": 4,
+    "end": 3958,
+    "text": "Lee?"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 3958,
+    "length": 0,
+    "end": 3958,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 3958,
+    "length": 3,
+    "end": 3961,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 3961,
+    "length": 3,
+    "end": 3964,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 3964,
+    "length": 87,
+    "end": 4051,
+    "text": "Quanto mais alta a montanha, maior\na glória ao chegar ao topo! Essa\ncorrida é igual!!"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 4051,
+    "length": 0,
+    "end": 4051,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 4051,
+    "length": 3,
+    "end": 4054,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 4054,
+    "length": 3,
+    "end": 4057,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 4057,
+    "length": 46,
+    "end": 4103,
+    "text": "Magnífico... Essa é uma ótima\natitude, Lee!"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 4103,
+    "length": 0,
+    "end": 4103,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 4103,
+    "length": 3,
+    "end": 4106,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 4106,
+    "length": 3,
+    "end": 4109,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 4109,
+    "length": 100,
+    "end": 4209,
+    "text": "Sou tão abençoado por ter um\npupilo como você... Agk... Lágrimas\nde alegria turvam minha visão!"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 4209,
+    "length": 0,
+    "end": 4209,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 4209,
+    "length": 3,
+    "end": 4212,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 4212,
+    "length": 3,
+    "end": 4215,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 4215,
+    "length": 12,
+    "end": 4227,
+    "text": "Sensei Guy!!"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 4227,
+    "length": 0,
+    "end": 4227,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 4227,
+    "length": 3,
+    "end": 4230,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 4230,
+    "length": 6,
+    "end": 4236,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 4236,
+    "length": 6,
+    "end": 4242,
+    "text": "......"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 4242,
+    "length": 0,
+    "end": 4242,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 4242,
+    "length": 3,
+    "end": 4245,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 4245,
+    "length": 6,
+    "end": 4251,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 4251,
+    "length": 25,
+    "end": 4276,
+    "text": "Não aguento mais isso..."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 4276,
+    "length": 0,
+    "end": 4276,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 4276,
+    "length": 3,
+    "end": 4279,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 4279,
+    "length": 3,
+    "end": 4282,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 4282,
+    "length": 57,
+    "end": 4339,
+    "text": "Juntos, podemos superar a mais\ndistante e alta montanha!!"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 4339,
+    "length": 0,
+    "end": 4339,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 4339,
+    "length": 3,
+    "end": 4342,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 4342,
+    "length": 3,
+    "end": 4345,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 4345,
+    "length": 53,
+    "end": 4398,
+    "text": "Quanto mais eu falho, mais\ndeterminado fico a vencer!"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 4398,
+    "length": 0,
+    "end": 4398,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 4398,
+    "length": 3,
+    "end": 4401,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 4401,
+    "length": 6,
+    "end": 4407,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 4407,
+    "length": 18,
+    "end": 4425,
+    "text": "Sim! Eu consegui!!"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 4425,
+    "length": 0,
+    "end": 4425,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 4425,
+    "length": 3,
+    "end": 4428,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 4428,
+    "length": 3,
+    "end": 4431,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 4431,
+    "length": 26,
+    "end": 4457,
+    "text": "Hm! Bom trabalho, Naruto!!"
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 4457,
+    "length": 0,
+    "end": 4457,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 4457,
+    "length": 3,
+    "end": 4460,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 4460,
+    "length": 3,
+    "end": 4463,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 4463,
+    "length": 62,
+    "end": 4525,
+    "text": "Extraordinário!! Que tipo de treino\nvocê tem feito, Naruto!?"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 4525,
+    "length": 0,
+    "end": 4525,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 4525,
+    "length": 3,
+    "end": 4528,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 4528,
+    "length": 3,
+    "end": 4531,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 4531,
+    "length": 28,
+    "end": 4559,
+    "text": "Precisa nem perguntar, Lee!?"
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 4559,
+    "length": 0,
+    "end": 4559,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 4559,
+    "length": 3,
+    "end": 4562,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 4562,
+    "length": 3,
+    "end": 4565,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 4565,
+    "length": 18,
+    "end": 4583,
+    "text": "Ha... Como assim!?"
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 4583,
+    "length": 0,
+    "end": 4583,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 4583,
+    "length": 3,
+    "end": 4586,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 4586,
+    "length": 3,
+    "end": 4589,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 4589,
+    "length": 108,
+    "end": 4697,
+    "text": "Não vê? O Naruto tem arriscado a\nprópria vida todo dia, em silêncio,\ntreinando pra se preparar pra isso!"
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 4697,
+    "length": 0,
+    "end": 4697,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 4697,
+    "length": 3,
+    "end": 4700,
+    "text": "041"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 4700,
+    "length": 3,
+    "end": 4703,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 4703,
+    "length": 22,
+    "end": 4725,
+    "text": "Arriscando a vida...!?"
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 4725,
+    "length": 0,
+    "end": 4725,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 4725,
+    "length": 3,
+    "end": 4728,
+    "text": "042"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 4728,
+    "length": 3,
+    "end": 4731,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 4731,
+    "length": 105,
+    "end": 4836,
+    "text": "Isso mesmo! Lee, você precisa se\ndedicar ao treino como o Naruto fez,\nse quiser alcançar essas alturas."
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 4836,
+    "length": 0,
+    "end": 4836,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 4836,
+    "length": 3,
+    "end": 4839,
+    "text": "043"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 4839,
+    "length": 3,
+    "end": 4842,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 4842,
+    "length": 53,
+    "end": 4895,
+    "text": "S...Sim, entendi!! Eu estava cego,\nmas agora enxergo!"
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 4895,
+    "length": 0,
+    "end": 4895,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 4895,
+    "length": 3,
+    "end": 4898,
+    "text": "044"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 4898,
+    "length": 3,
+    "end": 4901,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 4901,
+    "length": 61,
+    "end": 4962,
+    "text": "Não se preocupe. Vou te ajudar\nem cada passo do seu treino!!"
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 4962,
+    "length": 0,
+    "end": 4962,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 4962,
+    "length": 3,
+    "end": 4965,
+    "text": "045"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 4965,
+    "length": 3,
+    "end": 4968,
+    "text": "Lee"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 4968,
+    "length": 12,
+    "end": 4980,
+    "text": "Sim senhor!!"
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 4980,
+    "length": 0,
+    "end": 4980,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 4980,
+    "length": 3,
+    "end": 4983,
+    "text": "046"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 4983,
+    "length": 3,
+    "end": 4986,
+    "text": "Guy"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 4986,
+    "length": 21,
+    "end": 5007,
+    "text": "Vamos com tudo, Lee!!"
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 5007,
+    "length": 0,
+    "end": 5007,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 5007,
+    "length": 3,
+    "end": 5010,
+    "text": "047"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 5010,
+    "length": 6,
+    "end": 5016,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 5016,
+    "length": 6,
+    "end": 5022,
+    "text": "......"
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 5022,
+    "length": 0,
+    "end": 5022,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 5022,
+    "length": 3,
+    "end": 5025,
+    "text": "048"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-implicit",
+    "start": 5025,
+    "length": 6,
+    "end": 5031,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-explicit",
+    "start": 5031,
+    "length": 67,
+    "end": 5098,
+    "text": "Vou deixar esses dois sozinhos…\nNão que vão sentir minha falta."
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 5098,
+    "length": 0,
+    "end": 5098,
+    "text": ""
+  }
+]

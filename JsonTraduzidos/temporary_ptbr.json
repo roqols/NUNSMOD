@@ -1,0 +1,1418 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2924,
+    "length": 15,
+    "end": 2939,
+    "text": "tutorial_001_01"
+  },
+  {
+    "table_pos": 80,
+    "mode": "A",
+    "start": 2939,
+    "length": 5,
+    "end": 2944,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2944,
+    "length": 0,
+    "end": 2944,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2944,
+    "length": 15,
+    "end": 2959,
+    "text": "tutorial_001_02"
+  },
+  {
+    "table_pos": 128,
+    "mode": "A",
+    "start": 2959,
+    "length": 5,
+    "end": 2964,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2964,
+    "length": 0,
+    "end": 2964,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2964,
+    "length": 15,
+    "end": 2979,
+    "text": "tutorial_001_03"
+  },
+  {
+    "table_pos": 176,
+    "mode": "A",
+    "start": 2979,
+    "length": 5,
+    "end": 2984,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2984,
+    "length": 0,
+    "end": 2984,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2984,
+    "length": 15,
+    "end": 2999,
+    "text": "tutorial_001_04"
+  },
+  {
+    "table_pos": 224,
+    "mode": "A",
+    "start": 2999,
+    "length": 5,
+    "end": 3004,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 3004,
+    "length": 0,
+    "end": 3004,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 3004,
+    "length": 18,
+    "end": 3022,
+    "text": "tutorialCollect_01"
+  },
+  {
+    "table_pos": 272,
+    "mode": "A",
+    "start": 3022,
+    "length": 5,
+    "end": 3027,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 3027,
+    "length": 0,
+    "end": 3027,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 3027,
+    "length": 17,
+    "end": 3044,
+    "text": "tutorialRocket_01"
+  },
+  {
+    "table_pos": 320,
+    "mode": "A",
+    "start": 3044,
+    "length": 5,
+    "end": 3049,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 3049,
+    "length": 0,
+    "end": 3049,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 3049,
+    "length": 19,
+    "end": 3068,
+    "text": "tutorialShuriken_01"
+  },
+  {
+    "table_pos": 368,
+    "mode": "A",
+    "start": 3068,
+    "length": 5,
+    "end": 3073,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 3073,
+    "length": 0,
+    "end": 3073,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 3073,
+    "length": 15,
+    "end": 3088,
+    "text": "tutorialSeek_01"
+  },
+  {
+    "table_pos": 416,
+    "mode": "A",
+    "start": 3088,
+    "length": 5,
+    "end": 3093,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 3093,
+    "length": 0,
+    "end": 3093,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 3093,
+    "length": 16,
+    "end": 3109,
+    "text": "tutorialCarry_01"
+  },
+  {
+    "table_pos": 464,
+    "mode": "A",
+    "start": 3109,
+    "length": 5,
+    "end": 3114,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 3114,
+    "length": 0,
+    "end": 3114,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 3114,
+    "length": 20,
+    "end": 3134,
+    "text": "tutorialHugeCarry_01"
+  },
+  {
+    "table_pos": 512,
+    "mode": "A",
+    "start": 3134,
+    "length": 5,
+    "end": 3139,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 3139,
+    "length": 0,
+    "end": 3139,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 3139,
+    "length": 16,
+    "end": 3155,
+    "text": "tutorialCheck_01"
+  },
+  {
+    "table_pos": 560,
+    "mode": "A",
+    "start": 3155,
+    "length": 5,
+    "end": 3160,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 3160,
+    "length": 0,
+    "end": 3160,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 3160,
+    "length": 18,
+    "end": 3178,
+    "text": "tutorialMain004_01"
+  },
+  {
+    "table_pos": 608,
+    "mode": "A",
+    "start": 3178,
+    "length": 5,
+    "end": 3183,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 3183,
+    "length": 0,
+    "end": 3183,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 3183,
+    "length": 18,
+    "end": 3201,
+    "text": "tutorialMain004_02"
+  },
+  {
+    "table_pos": 656,
+    "mode": "A",
+    "start": 3201,
+    "length": 5,
+    "end": 3206,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 3206,
+    "length": 0,
+    "end": 3206,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 3206,
+    "length": 18,
+    "end": 3224,
+    "text": "tutorialMain004_03"
+  },
+  {
+    "table_pos": 704,
+    "mode": "A",
+    "start": 3224,
+    "length": 5,
+    "end": 3229,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 3229,
+    "length": 0,
+    "end": 3229,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 3229,
+    "length": 18,
+    "end": 3247,
+    "text": "tutorialMain004_04"
+  },
+  {
+    "table_pos": 752,
+    "mode": "A",
+    "start": 3247,
+    "length": 5,
+    "end": 3252,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 3252,
+    "length": 0,
+    "end": 3252,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 3252,
+    "length": 18,
+    "end": 3270,
+    "text": "tutorialMain004_05"
+  },
+  {
+    "table_pos": 800,
+    "mode": "A",
+    "start": 3270,
+    "length": 5,
+    "end": 3275,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 3275,
+    "length": 0,
+    "end": 3275,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 3275,
+    "length": 9,
+    "end": 3284,
+    "text": "moviemake"
+  },
+  {
+    "table_pos": 848,
+    "mode": "A",
+    "start": 3284,
+    "length": 5,
+    "end": 3289,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 3289,
+    "length": 0,
+    "end": 3289,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 3289,
+    "length": 10,
+    "end": 3299,
+    "text": "cmn_sys_00"
+  },
+  {
+    "table_pos": 896,
+    "mode": "A",
+    "start": 3299,
+    "length": 90,
+    "end": 3389,
+    "text": "Você aprendeu uma <colorfa9200>técnica<color000000>!\n\n<colorfa9200>Rasengan<color000000>"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 3389,
+    "length": 0,
+    "end": 3389,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 3389,
+    "length": 10,
+    "end": 3399,
+    "text": "cmn_sys_01"
+  },
+  {
+    "table_pos": 944,
+    "mode": "A",
+    "start": 3399,
+    "length": 65,
+    "end": 3464,
+    "text": "Um personagem jogável foi adicionado!\n■■■■■■■■■■"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 3464,
+    "length": 0,
+    "end": 3464,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 3464,
+    "length": 10,
+    "end": 3474,
+    "text": "cmn_sys_02"
+  },
+  {
+    "table_pos": 992,
+    "mode": "A",
+    "start": 3474,
+    "length": 66,
+    "end": 3540,
+    "text": "Um personagem de suporte foi adicionado!\n■■■■■■■■■■"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3540,
+    "length": 0,
+    "end": 3540,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3540,
+    "length": 10,
+    "end": 3550,
+    "text": "cmn_sys_03"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "A",
+    "start": 3550,
+    "length": 56,
+    "end": 3606,
+    "text": "Uma fantasia foi adicionada!\n■■■■■■■■■■"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3606,
+    "length": 0,
+    "end": 3606,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3606,
+    "length": 10,
+    "end": 3616,
+    "text": "cmn_sys_04"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "A",
+    "start": 3616,
+    "length": 133,
+    "end": 3749,
+    "text": "Um novo <colorfa9200>ninjutsu<color000000> pode ser\npersonalizado em batalha!\n\n<colorfa9200>%s:<color000000>\n<colorfa9200>%s<color000000>"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 3749,
+    "length": 0,
+    "end": 3749,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 3749,
+    "length": 10,
+    "end": 3759,
+    "text": "cmn_sys_05"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "A",
+    "start": 3759,
+    "length": 141,
+    "end": 3900,
+    "text": "Um novo <colorfa9200>ninjutsu de suporte<color000000>\npode ser personalizado em batalha!\n\n<colorfa9200>%s:<color000000>\n<colorfa9200>%s<color000000>"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 3900,
+    "length": 0,
+    "end": 3900,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 3900,
+    "length": 10,
+    "end": 3910,
+    "text": "cmn_sys_06"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "A",
+    "start": 3910,
+    "length": 72,
+    "end": 3982,
+    "text": "Você recebeu um <colorfa9200>item!<color000000>\n\n<colorfa9200>%s<color000000>"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3982,
+    "length": 0,
+    "end": 3982,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3982,
+    "length": 12,
+    "end": 3994,
+    "text": "cmn_sys_06_2"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "A",
+    "start": 3994,
+    "length": 42,
+    "end": 4036,
+    "text": "Você recebeu um <colorfa9200>item!<color000000>"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 4036,
+    "length": 0,
+    "end": 4036,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 4036,
+    "length": 10,
+    "end": 4046,
+    "text": "cmn_sys_07"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "A",
+    "start": 4046,
+    "length": 59,
+    "end": 4105,
+    "text": "Você recebeu um item de batalha!\n●●●●●●●●●●●●"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 4105,
+    "length": 0,
+    "end": 4105,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 4105,
+    "length": 10,
+    "end": 4115,
+    "text": "cmn_sys_08"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "A",
+    "start": 4115,
+    "length": 61,
+    "end": 4176,
+    "text": "Você recebeu um item valioso!\n●●●●●●●●●●●●"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 4176,
+    "length": 0,
+    "end": 4176,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 4176,
+    "length": 10,
+    "end": 4186,
+    "text": "cmn_sys_09"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "A",
+    "start": 4186,
+    "length": 62,
+    "end": 4248,
+    "text": "Você recebeu alguns ingredientes!\n●●●●●●●●●●●●"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 4248,
+    "length": 0,
+    "end": 4248,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 4248,
+    "length": 10,
+    "end": 4258,
+    "text": "cmn_sys_10"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "A",
+    "start": 4258,
+    "length": 55,
+    "end": 4313,
+    "text": "Você recebeu alguma comida!\n●●●●●●●●●●●●"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 4313,
+    "length": 0,
+    "end": 4313,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 4313,
+    "length": 10,
+    "end": 4323,
+    "text": "cmn_sys_11"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "A",
+    "start": 4323,
+    "length": 90,
+    "end": 4413,
+    "text": "Você recebeu um <colorfa9200>pergaminho de\nmaestria de ninjutsu!<color000000>\n\n<colorfa9200>%s<color000000>"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 4413,
+    "length": 0,
+    "end": 4413,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 4413,
+    "length": 10,
+    "end": 4423,
+    "text": "cmn_sys_12"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "A",
+    "start": 4423,
+    "length": 79,
+    "end": 4502,
+    "text": "Você recebeu um pergaminho de\nmaestria de ninjutsu de suporte!\n●●●●●●●●●●●●"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 4502,
+    "length": 0,
+    "end": 4502,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 4502,
+    "length": 10,
+    "end": 4512,
+    "text": "cmn_sys_13"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "A",
+    "start": 4512,
+    "length": 32,
+    "end": 4544,
+    "text": "Você recebeu algum dinheiro!\n******* ryo."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 4544,
+    "length": 0,
+    "end": 4544,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 4544,
+    "length": 10,
+    "end": 4554,
+    "text": "cmn_sys_14"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "A",
+    "start": 4554,
+    "length": 79,
+    "end": 4633,
+    "text": "Agora você pode <colorfa9200>trocar de fantasia<color000000>\nno Modo Batalha Livre!"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 4633,
+    "length": 0,
+    "end": 4633,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 4633,
+    "length": 10,
+    "end": 4643,
+    "text": "cmn_sys_15"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "A",
+    "start": 4643,
+    "length": 96,
+    "end": 4739,
+    "text": "Você pode trocar a fantasia de alguns\npersonagens na tela de seleção\nusando o botão R1."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 4739,
+    "length": 0,
+    "end": 4739,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 4739,
+    "length": 10,
+    "end": 4749,
+    "text": "cmn_sys_16"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "A",
+    "start": 4749,
+    "length": 106,
+    "end": 4855,
+    "text": "Agora você pode usar personagens que\ncomeçam em <colorfa9200>Modo Despertar<color000000> no\nModo Batalha Livre!"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 4855,
+    "length": 0,
+    "end": 4855,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 4855,
+    "length": 10,
+    "end": 4865,
+    "text": "cmn_sys_17"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "A",
+    "start": 4865,
+    "length": 104,
+    "end": 4969,
+    "text": "Pressione L1 na tela de seleção de\npersonagens para lutar transformado.\n(Só funciona com alguns personagens.)"
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 4969,
+    "length": 0,
+    "end": 4969,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 4969,
+    "length": 10,
+    "end": 4979,
+    "text": "cmn_sys_18"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "A",
+    "start": 4979,
+    "length": 125,
+    "end": 5104,
+    "text": "Novo item adicionado à <colorfa9200>Coleção<color000000>!\n\n<colorfa9200>Base do Diorama:<color000000>\n<colorfa9200>%s<color000000>"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 5104,
+    "length": 0,
+    "end": 5104,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 5104,
+    "length": 10,
+    "end": 5114,
+    "text": "cmn_sys_19"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "A",
+    "start": 5114,
+    "length": 108,
+    "end": 5222,
+    "text": "Novo item adicionado à <colorfa9200>Coleção<color000000>!\n\n<colorfa9200>Estatueta:\n<colorfa9200>%s<color000000>"
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 5222,
+    "length": 0,
+    "end": 5222,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 5222,
+    "length": 10,
+    "end": 5232,
+    "text": "cmn_sys_20"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "A",
+    "start": 5232,
+    "length": 85,
+    "end": 5317,
+    "text": "Novo item adicionado à <colorfa9200>Coleção<color000000>!\n\n<colorfa9200>%s<color000000>"
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 5317,
+    "length": 0,
+    "end": 5317,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 5317,
+    "length": 10,
+    "end": 5327,
+    "text": "cmn_sys_21"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "A",
+    "start": 5327,
+    "length": 121,
+    "end": 5448,
+    "text": "O personagem a seguir agora está\ndisponível como <colorfa9200>personagem jogável<color000000>!\n\n<colorfa9200>%s<color000000>"
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 5448,
+    "length": 0,
+    "end": 5448,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 5448,
+    "length": 10,
+    "end": 5458,
+    "text": "cmn_sys_22"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "A",
+    "start": 5458,
+    "length": 120,
+    "end": 5578,
+    "text": "O personagem a seguir agora está\ndisponível como <colorfa9200>personagem de\nsuporte<color000000>!\n\n<colorfa9200>%s<color000000>"
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 5578,
+    "length": 0,
+    "end": 5578,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 5578,
+    "length": 10,
+    "end": 5588,
+    "text": "cmn_sys_23"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "A",
+    "start": 5588,
+    "length": 113,
+    "end": 5701,
+    "text": "Uma nova <colorfa9200>fantasia<color000000> está\ndisponível!\n\n<colorfa9200>%s:<color000000>\n<colorfa9200>%s<color000000>"
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 5701,
+    "length": 0,
+    "end": 5701,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 5701,
+    "length": 10,
+    "end": 5711,
+    "text": "cmn_sys_24"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "A",
+    "start": 5711,
+    "length": 128,
+    "end": 5839,
+    "text": "Uma nova <colorfa9200>missão<color000000> está\ndisponível!\n\n<colorfa9200>Missão Flashback:<color000000>\n<colorfa9200>%s<color000000>"
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 5839,
+    "length": 0,
+    "end": 5839,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 5839,
+    "length": 10,
+    "end": 5849,
+    "text": "cmn_sys_25"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "A",
+    "start": 5849,
+    "length": 118,
+    "end": 5967,
+    "text": "Uma nova <colorfa9200>missão<color000000> está\ndisponível!\n\n<colorfa9200>Rank %s:<color000000>\n<colorfa9200>%s<color000000>"
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 5967,
+    "length": 0,
+    "end": 5967,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 5967,
+    "length": 10,
+    "end": 5977,
+    "text": "cmn_sys_26"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "A",
+    "start": 5977,
+    "length": 81,
+    "end": 6058,
+    "text": "Uma nova missão secreta está\ndisponível!\n■ Rank:\n●●●●●●●●●●●●"
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 6058,
+    "length": 0,
+    "end": 6058,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 6058,
+    "length": 10,
+    "end": 6068,
+    "text": "cmn_sys_27"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "A",
+    "start": 6068,
+    "length": 149,
+    "end": 6217,
+    "text": "O personagem a seguir agora pode\ncomeçar a batalha em <colorfa9200>Modo\nDespertar<color000000>!\n\n<colorfa9200>%s:<color000000>\n<colorfa9200>%s<color000000>"
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 6217,
+    "length": 0,
+    "end": 6217,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 6217,
+    "length": 10,
+    "end": 6227,
+    "text": "cmn_sys_28"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "A",
+    "start": 6227,
+    "length": 153,
+    "end": 6380,
+    "text": "Ao selecionar este personagem na\ntela de Seleção de Personagem da\nbatalha, você pode pressionar o\nbotão L1 para que ele comece a\nbatalha em Modo Despertar."
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 6380,
+    "length": 0,
+    "end": 6380,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 6380,
+    "length": 10,
+    "end": 6390,
+    "text": "cmn_sys_29"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "A",
+    "start": 6390,
+    "length": 132,
+    "end": 6522,
+    "text": "Ao selecionar este personagem na\ntela de Seleção de Personagem da\nbatalha, você pode pressionar o\nbotão R1 para trocar a fantasia\ndo personagem."
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 6522,
+    "length": 0,
+    "end": 6522,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 6522,
+    "length": 10,
+    "end": 6532,
+    "text": "cmn_sys_30"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "A",
+    "start": 6532,
+    "length": 55,
+    "end": 6587,
+    "text": "<colorfa9200>Arco de Treinamento Genin<color000000> concluído!"
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 6587,
+    "length": 0,
+    "end": 6587,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 6587,
+    "length": 10,
+    "end": 6597,
+    "text": "cmn_sys_31"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "A",
+    "start": 6597,
+    "length": 63,
+    "end": 6660,
+    "text": "Novo cenário:\n<colorfa9200>Arco do Exame Chunin<color000000>"
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 6660,
+    "length": 0,
+    "end": 6660,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 6660,
+    "length": 10,
+    "end": 6670,
+    "text": "cmn_sys_32"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "A",
+    "start": 6670,
+    "length": 52,
+    "end": 6722,
+    "text": "<colorfa9200>Arco do Exame Chunin<color000000> concluído!"
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 6722,
+    "length": 0,
+    "end": 6722,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 6722,
+    "length": 10,
+    "end": 6732,
+    "text": "cmn_sys_33"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "A",
+    "start": 6732,
+    "length": 68,
+    "end": 6800,
+    "text": "Novo cenário:\n<colorfa9200>Arco da Destruição da Vila da Folha<color000000>"
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 6800,
+    "length": 0,
+    "end": 6800,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 6800,
+    "length": 10,
+    "end": 6810,
+    "text": "cmn_sys_34"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "A",
+    "start": 6810,
+    "length": 57,
+    "end": 6867,
+    "text": "<colorfa9200>Arco da Destruição da Vila\nda Folha<color000000> concluído!"
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 6867,
+    "length": 0,
+    "end": 6867,
+    "text": ""
+  },
+  {
+    "table_pos": 2608,
+    "mode": "A",
+    "start": 6867,
+    "length": 10,
+    "end": 6877,
+    "text": "cmn_sys_35"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "A",
+    "start": 6877,
+    "length": 66,
+    "end": 6943,
+    "text": "Novo cenário:\n<colorfa9200>Arco da Busca por Tsunade<color000000>"
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 6943,
+    "length": 0,
+    "end": 6943,
+    "text": ""
+  },
+  {
+    "table_pos": 2656,
+    "mode": "A",
+    "start": 6943,
+    "length": 10,
+    "end": 6953,
+    "text": "cmn_sys_36"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "A",
+    "start": 6953,
+    "length": 55,
+    "end": 7008,
+    "text": "<colorfa9200>Arco da Busca por Tsunade<color000000> concluído!"
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 7008,
+    "length": 0,
+    "end": 7008,
+    "text": ""
+  },
+  {
+    "table_pos": 2704,
+    "mode": "A",
+    "start": 7008,
+    "length": 10,
+    "end": 7018,
+    "text": "cmn_sys_37"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "A",
+    "start": 7018,
+    "length": 66,
+    "end": 7084,
+    "text": "Novo cenário:\n<colorfa9200>Arco da Perseguição a Sasuke<color000000>"
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 7084,
+    "length": 0,
+    "end": 7084,
+    "text": ""
+  },
+  {
+    "table_pos": 2752,
+    "mode": "A",
+    "start": 7084,
+    "length": 10,
+    "end": 7094,
+    "text": "cmn_sys_38"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "A",
+    "start": 7094,
+    "length": 55,
+    "end": 7149,
+    "text": "<colorfa9200>Arco da Perseguição a Sasuke<color000000>\nconcluído!"
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 7149,
+    "length": 0,
+    "end": 7149,
+    "text": ""
+  },
+  {
+    "table_pos": 2800,
+    "mode": "A",
+    "start": 7149,
+    "length": 10,
+    "end": 7159,
+    "text": "cmn_sys_39"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "A",
+    "start": 7159,
+    "length": 49,
+    "end": 7208,
+    "text": "<colorfa9200>Todas as missões<color000000> concluídas!"
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 7208,
+    "length": 0,
+    "end": 7208,
+    "text": ""
+  },
+  {
+    "table_pos": 2848,
+    "mode": "A",
+    "start": 7208,
+    "length": 10,
+    "end": 7218,
+    "text": "cmn_sys_40"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "A",
+    "start": 7218,
+    "length": 135,
+    "end": 7353,
+    "text": "A última <colorfa9200>missão<color000000> já está\ndisponível!\n\n<colorfa9200>Missão Flashback:<color000000>\n<colorfa9200>%s<color000000>"
+  },
+  {
+    "table_pos": 2880,
+    "mode": "A",
+    "start": 7353,
+    "length": 0,
+    "end": 7353,
+    "text": ""
+  }
+]

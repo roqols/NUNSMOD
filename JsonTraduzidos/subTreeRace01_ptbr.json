@@ -1,0 +1,1346 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2184,
+    "length": 3,
+    "end": 2187,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 2187,
+    "length": 6,
+    "end": 2193,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 2193,
+    "length": 11,
+    "end": 2204,
+    "text": "Você veio."
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2204,
+    "length": 0,
+    "end": 2204,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2204,
+    "length": 3,
+    "end": 2207,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 2207,
+    "length": 6,
+    "end": 2213,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 2213,
+    "length": 68,
+    "end": 2281,
+    "text": "Então, quer ver como fazemos o \ntreino de controle de chakra, hein?"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2281,
+    "length": 0,
+    "end": 2281,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2281,
+    "length": 3,
+    "end": 2284,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 2284,
+    "length": 6,
+    "end": 2290,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 2290,
+    "length": 52,
+    "end": 2342,
+    "text": "Vocês não treinam controle de \nchakra na sua vila?"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2342,
+    "length": 0,
+    "end": 2342,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2342,
+    "length": 3,
+    "end": 2345,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2345,
+    "length": 6,
+    "end": 2351,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2351,
+    "length": 42,
+    "end": 2393,
+    "text": "Claro, mas não envolve escalar \nárvores."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2393,
+    "length": 0,
+    "end": 2393,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2393,
+    "length": 3,
+    "end": 2396,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2396,
+    "length": 7,
+    "end": 2403,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2403,
+    "length": 71,
+    "end": 2474,
+    "text": "No deserto não temos árvores como \nvocês têm aqui na Vila da Folha."
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2474,
+    "length": 0,
+    "end": 2474,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2474,
+    "length": 3,
+    "end": 2477,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 2477,
+    "length": 6,
+    "end": 2483,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 2483,
+    "length": 50,
+    "end": 2533,
+    "text": "Ah, é verdade... Entendi o que \nvocê quis dizer."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2533,
+    "length": 0,
+    "end": 2533,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2533,
+    "length": 3,
+    "end": 2536,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2536,
+    "length": 7,
+    "end": 2543,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2543,
+    "length": 65,
+    "end": 2608,
+    "text": "Por isso queríamos ver o \ntreino de escalar árvores de \nvocês."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2608,
+    "length": 0,
+    "end": 2608,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2608,
+    "length": 3,
+    "end": 2611,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2611,
+    "length": 6,
+    "end": 2617,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2617,
+    "length": 64,
+    "end": 2681,
+    "text": "Sem problema, fiquem à vontade \npra observar o quanto quiserem!"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2681,
+    "length": 0,
+    "end": 2681,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2681,
+    "length": 3,
+    "end": 2684,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2684,
+    "length": 6,
+    "end": 2690,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 2690,
+    "length": 59,
+    "end": 2749,
+    "text": "Vai ser bom pra eu revisar meu \ncontrole de chakra também!"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 2749,
+    "length": 0,
+    "end": 2749,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 2749,
+    "length": 3,
+    "end": 2752,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 2752,
+    "length": 7,
+    "end": 2759,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 2759,
+    "length": 30,
+    "end": 2789,
+    "text": "Então todo mundo fica feliz.."
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2789,
+    "length": 0,
+    "end": 2789,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2789,
+    "length": 3,
+    "end": 2792,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 2792,
+    "length": 6,
+    "end": 2798,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 2798,
+    "length": 63,
+    "end": 2861,
+    "text": "(Certo. Vou escalar rápido \ncomo um raio e impressionar \neles)"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 2861,
+    "length": 0,
+    "end": 2861,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 2861,
+    "length": 3,
+    "end": 2864,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 2864,
+    "length": 6,
+    "end": 2870,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 2870,
+    "length": 9,
+    "end": 2879,
+    "text": "Hehehe..."
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 2879,
+    "length": 0,
+    "end": 2879,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 2879,
+    "length": 3,
+    "end": 2882,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 2882,
+    "length": 6,
+    "end": 2888,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 2888,
+    "length": 55,
+    "end": 2943,
+    "text": "E-ei, Kankuro, por que ele tá \nsorrindo assim do nada?"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 2943,
+    "length": 0,
+    "end": 2943,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 2943,
+    "length": 3,
+    "end": 2946,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 2946,
+    "length": 7,
+    "end": 2953,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 2953,
+    "length": 21,
+    "end": 2974,
+    "text": "Sei lá. Esquisito..."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 2974,
+    "length": 0,
+    "end": 2974,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 2974,
+    "length": 3,
+    "end": 2977,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 2977,
+    "length": 6,
+    "end": 2983,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 2983,
+    "length": 22,
+    "end": 3005,
+    "text": "Certo! Vamos começar!"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 3005,
+    "length": 0,
+    "end": 3005,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 3005,
+    "length": 3,
+    "end": 3008,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 3008,
+    "length": 7,
+    "end": 3015,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 3015,
+    "length": 3,
+    "end": 3018,
+    "text": "..."
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 3018,
+    "length": 0,
+    "end": 3018,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 3018,
+    "length": 3,
+    "end": 3021,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 3021,
+    "length": 6,
+    "end": 3027,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 3027,
+    "length": 3,
+    "end": 3030,
+    "text": "..."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 3030,
+    "length": 0,
+    "end": 3030,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 3030,
+    "length": 3,
+    "end": 3033,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 3033,
+    "length": 7,
+    "end": 3040,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 3040,
+    "length": 29,
+    "end": 3069,
+    "text": "Está brincando. É só isso?"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 3069,
+    "length": 0,
+    "end": 3069,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 3069,
+    "length": 3,
+    "end": 3072,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 3072,
+    "length": 6,
+    "end": 3078,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 3078,
+    "length": 20,
+    "end": 3098,
+    "text": "Ah, bem... É que..."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 3098,
+    "length": 0,
+    "end": 3098,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 3098,
+    "length": 3,
+    "end": 3101,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 3101,
+    "length": 7,
+    "end": 3108,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 3108,
+    "length": 35,
+    "end": 3143,
+    "text": "A gente faria isso sem nem \ntentar."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3143,
+    "length": 0,
+    "end": 3143,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3143,
+    "length": 3,
+    "end": 3146,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 3146,
+    "length": 6,
+    "end": 3152,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 3152,
+    "length": 3,
+    "end": 3155,
+    "text": "..."
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3155,
+    "length": 0,
+    "end": 3155,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3155,
+    "length": 3,
+    "end": 3158,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 3158,
+    "length": 6,
+    "end": 3164,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 3164,
+    "length": 82,
+    "end": 3246,
+    "text": "Estou começando a achar que você \né ruim mesmo em controle de \nchakra, não é?"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 3246,
+    "length": 0,
+    "end": 3246,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 3246,
+    "length": 3,
+    "end": 3249,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 3249,
+    "length": 6,
+    "end": 3255,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 3255,
+    "length": 8,
+    "end": 3263,
+    "text": "Argh...!"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 3263,
+    "length": 0,
+    "end": 3263,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 3263,
+    "length": 3,
+    "end": 3266,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 3266,
+    "length": 6,
+    "end": 3272,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 3272,
+    "length": 20,
+    "end": 3292,
+    "text": "É, eu tenho razão."
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3292,
+    "length": 0,
+    "end": 3292,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3292,
+    "length": 3,
+    "end": 3295,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 3295,
+    "length": 7,
+    "end": 3302,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 3302,
+    "length": 55,
+    "end": 3357,
+    "text": "Talvez devêssemos achar outra \npessoa pra nos mostrar."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3357,
+    "length": 0,
+    "end": 3357,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3357,
+    "length": 3,
+    "end": 3360,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 3360,
+    "length": 6,
+    "end": 3366,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 3366,
+    "length": 31,
+    "end": 3397,
+    "text": "É. Esse aqui não ajudou nada."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 3397,
+    "length": 0,
+    "end": 3397,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 3397,
+    "length": 3,
+    "end": 3400,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 3400,
+    "length": 6,
+    "end": 3406,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 3406,
+    "length": 6,
+    "end": 3412,
+    "text": "Gaah!!"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 3412,
+    "length": 0,
+    "end": 3412,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 3412,
+    "length": 3,
+    "end": 3415,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 3415,
+    "length": 6,
+    "end": 3421,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 3421,
+    "length": 19,
+    "end": 3440,
+    "text": "Que perda de tempo."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 3440,
+    "length": 0,
+    "end": 3440,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 3440,
+    "length": 3,
+    "end": 3443,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 3443,
+    "length": 7,
+    "end": 3450,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 3450,
+    "length": 41,
+    "end": 3491,
+    "text": "Parece que VOCÊ precisa de mais \ntreino."
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 3491,
+    "length": 0,
+    "end": 3491,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 3491,
+    "length": 3,
+    "end": 3494,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 3494,
+    "length": 7,
+    "end": 3501,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 3501,
+    "length": 14,
+    "end": 3515,
+    "text": "Ah, muito bom!"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 3515,
+    "length": 0,
+    "end": 3515,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 3515,
+    "length": 3,
+    "end": 3518,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 3518,
+    "length": 6,
+    "end": 3524,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 3524,
+    "length": 17,
+    "end": 3541,
+    "text": "Hmpf... Nada mal."
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 3541,
+    "length": 0,
+    "end": 3541,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 3541,
+    "length": 3,
+    "end": 3544,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 3544,
+    "length": 6,
+    "end": 3550,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 3550,
+    "length": 38,
+    "end": 3588,
+    "text": "Hehehe! Vocês ainda não viram \nnada."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 3588,
+    "length": 0,
+    "end": 3588,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 3588,
+    "length": 3,
+    "end": 3591,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 3591,
+    "length": 7,
+    "end": 3598,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 3598,
+    "length": 27,
+    "end": 3625,
+    "text": "Isso me ajudou muito mesmo."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 3625,
+    "length": 0,
+    "end": 3625,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 3625,
+    "length": 3,
+    "end": 3628,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 3628,
+    "length": 6,
+    "end": 3634,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 3634,
+    "length": 72,
+    "end": 3706,
+    "text": "É. Basicamente, liberar o \nchakra é bem parecido com \nescalar paredes."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 3706,
+    "length": 0,
+    "end": 3706,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 3706,
+    "length": 3,
+    "end": 3709,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 3709,
+    "length": 7,
+    "end": 3716,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 3716,
+    "length": 97,
+    "end": 3813,
+    "text": "Isso... Contanto que domine o \nbásico, dá pra aplicar em \nqualquer tipo de treino de \nescalada."
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 3813,
+    "length": 0,
+    "end": 3813,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 3813,
+    "length": 3,
+    "end": 3816,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 3816,
+    "length": 6,
+    "end": 3822,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 3822,
+    "length": 23,
+    "end": 3845,
+    "text": "Fiquei feliz em ajudar."
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 3845,
+    "length": 0,
+    "end": 3845,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 3845,
+    "length": 3,
+    "end": 3848,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 3848,
+    "length": 6,
+    "end": 3854,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 3854,
+    "length": 47,
+    "end": 3901,
+    "text": "Vou indo, a menos que tenha \nmais alguma coisa."
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 3901,
+    "length": 0,
+    "end": 3901,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 3901,
+    "length": 3,
+    "end": 3904,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 3904,
+    "length": 7,
+    "end": 3911,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 3911,
+    "length": 34,
+    "end": 3945,
+    "text": "Não, é só isso. Muito obrigado."
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 3945,
+    "length": 0,
+    "end": 3945,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 3945,
+    "length": 3,
+    "end": 3948,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 3948,
+    "length": 6,
+    "end": 3954,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 3954,
+    "length": 53,
+    "end": 4007,
+    "text": "Sem problema. Você pode me \nmostrar algo outra hora!"
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 4007,
+    "length": 0,
+    "end": 4007,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 4007,
+    "length": 3,
+    "end": 4010,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 4010,
+    "length": 7,
+    "end": 4017,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 4017,
+    "length": 48,
+    "end": 4065,
+    "text": "É, pode contar com isso, \nquando chegar a hora."
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 4065,
+    "length": 0,
+    "end": 4065,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 4065,
+    "length": 3,
+    "end": 4068,
+    "text": "041"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 4068,
+    "length": 7,
+    "end": 4075,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 4075,
+    "length": 37,
+    "end": 4112,
+    "text": "Obrigado de novo por ter vindo \nhoje."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 4112,
+    "length": 0,
+    "end": 4112,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 4112,
+    "length": 3,
+    "end": 4115,
+    "text": "042"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 4115,
+    "length": 6,
+    "end": 4121,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 4121,
+    "length": 103,
+    "end": 4224,
+    "text": "Pra ser sincera... Não achei \nque você tivesse um controle \nde chakra tão bom. Estou \nimpressionada."
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 4224,
+    "length": 0,
+    "end": 4224,
+    "text": ""
+  }
+]

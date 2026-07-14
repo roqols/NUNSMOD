@@ -1,0 +1,842 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 1782,
+    "length": 4,
+    "end": 1786,
+    "text": "1nrt"
+  },
+  {
+    "table_pos": 80,
+    "mode": "A",
+    "start": 1786,
+    "length": 7,
+    "end": 1793,
+    "text": "FOGUETE"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 1793,
+    "length": 0,
+    "end": 1793,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 1793,
+    "length": 4,
+    "end": 1797,
+    "text": "1ssk"
+  },
+  {
+    "table_pos": 128,
+    "mode": "A",
+    "start": 1797,
+    "length": 28,
+    "end": 1825,
+    "text": "GIRO FLAMEJANTE DA ANDORINHA"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 1825,
+    "length": 0,
+    "end": 1825,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 1825,
+    "length": 4,
+    "end": 1829,
+    "text": "1skr"
+  },
+  {
+    "table_pos": 176,
+    "mode": "A",
+    "start": 1829,
+    "length": 21,
+    "end": 1850,
+    "text": "CHUTE ESPANTA-INSETOS"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 1850,
+    "length": 0,
+    "end": 1850,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 1850,
+    "length": 4,
+    "end": 1854,
+    "text": "1roc"
+  },
+  {
+    "table_pos": 224,
+    "mode": "A",
+    "start": 1854,
+    "length": 23,
+    "end": 1877,
+    "text": "CHUTE GIRATÓRIO AÉREO"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 1877,
+    "length": 0,
+    "end": 1877,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 1877,
+    "length": 4,
+    "end": 1881,
+    "text": "1nej"
+  },
+  {
+    "table_pos": 272,
+    "mode": "A",
+    "start": 1881,
+    "length": 27,
+    "end": 1908,
+    "text": "ESTOCADA AVANTE DO VENDAVAL"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 1908,
+    "length": 0,
+    "end": 1908,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 1908,
+    "length": 4,
+    "end": 1912,
+    "text": "1ten"
+  },
+  {
+    "table_pos": 320,
+    "mode": "A",
+    "start": 1912,
+    "length": 28,
+    "end": 1940,
+    "text": "CORTE DAS ANDORINHAS GÊMEAS"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 1940,
+    "length": 0,
+    "end": 1940,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 1940,
+    "length": 4,
+    "end": 1944,
+    "text": "1sik"
+  },
+  {
+    "table_pos": 368,
+    "mode": "A",
+    "start": 1944,
+    "length": 15,
+    "end": 1959,
+    "text": "ROUBO DE SOMBRA"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 1959,
+    "length": 0,
+    "end": 1959,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 1959,
+    "length": 4,
+    "end": 1963,
+    "text": "1tyo"
+  },
+  {
+    "table_pos": 416,
+    "mode": "A",
+    "start": 1963,
+    "length": 12,
+    "end": 1975,
+    "text": "SABOR OCULTO"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 1975,
+    "length": 0,
+    "end": 1975,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 1975,
+    "length": 4,
+    "end": 1979,
+    "text": "1ino"
+  },
+  {
+    "table_pos": 464,
+    "mode": "A",
+    "start": 1979,
+    "length": 27,
+    "end": 2006,
+    "text": "DANÇA DA FLOR DE CEREJEIRA"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 2006,
+    "length": 0,
+    "end": 2006,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 2006,
+    "length": 4,
+    "end": 2010,
+    "text": "1kib"
+  },
+  {
+    "table_pos": 512,
+    "mode": "A",
+    "start": 2010,
+    "length": 15,
+    "end": 2025,
+    "text": "PRESA DA FÚRIA"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2025,
+    "length": 0,
+    "end": 2025,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2025,
+    "length": 4,
+    "end": 2029,
+    "text": "1sin"
+  },
+  {
+    "table_pos": 560,
+    "mode": "A",
+    "start": 2029,
+    "length": 20,
+    "end": 2049,
+    "text": "INSETO MÃO DE FERRO"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 2049,
+    "length": 0,
+    "end": 2049,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 2049,
+    "length": 4,
+    "end": 2053,
+    "text": "1hnt"
+  },
+  {
+    "table_pos": 608,
+    "mode": "A",
+    "start": 2053,
+    "length": 27,
+    "end": 2080,
+    "text": "ESTOCADA DE PALMA CELESTIAL"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 2080,
+    "length": 0,
+    "end": 2080,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 2080,
+    "length": 4,
+    "end": 2084,
+    "text": "1gar"
+  },
+  {
+    "table_pos": 656,
+    "mode": "A",
+    "start": 2084,
+    "length": 16,
+    "end": 2100,
+    "text": "INFERNO DE AREIA"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 2100,
+    "length": 0,
+    "end": 2100,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 2100,
+    "length": 4,
+    "end": 2104,
+    "text": "1knk"
+  },
+  {
+    "table_pos": 704,
+    "mode": "A",
+    "start": 2104,
+    "length": 13,
+    "end": 2117,
+    "text": "POLIA DO TETO"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 2117,
+    "length": 0,
+    "end": 2117,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 2117,
+    "length": 4,
+    "end": 2121,
+    "text": "1tmr"
+  },
+  {
+    "table_pos": 752,
+    "mode": "A",
+    "start": 2121,
+    "length": 18,
+    "end": 2139,
+    "text": "DANÇA DO VENDAVAL"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 2139,
+    "length": 0,
+    "end": 2139,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 2139,
+    "length": 4,
+    "end": 2143,
+    "text": "1kks"
+  },
+  {
+    "table_pos": 800,
+    "mode": "A",
+    "start": 2143,
+    "length": 13,
+    "end": 2156,
+    "text": "LANÇA ÚNICA"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 2156,
+    "length": 0,
+    "end": 2156,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 2156,
+    "length": 4,
+    "end": 2160,
+    "text": "1guy"
+  },
+  {
+    "table_pos": 848,
+    "mode": "A",
+    "start": 2160,
+    "length": 24,
+    "end": 2184,
+    "text": "FINALIZAÇÃO ASCENDENTE"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 2184,
+    "length": 0,
+    "end": 2184,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 2184,
+    "length": 4,
+    "end": 2188,
+    "text": "1jry"
+  },
+  {
+    "table_pos": 896,
+    "mode": "A",
+    "start": 2188,
+    "length": 15,
+    "end": 2203,
+    "text": "DANÇA DO LEÃO"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 2203,
+    "length": 0,
+    "end": 2203,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 2203,
+    "length": 4,
+    "end": 2207,
+    "text": "1tnd"
+  },
+  {
+    "table_pos": 944,
+    "mode": "A",
+    "start": 2207,
+    "length": 15,
+    "end": 2222,
+    "text": "SEQUÊNCIA REAL"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 2222,
+    "length": 0,
+    "end": 2222,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 2222,
+    "length": 4,
+    "end": 2226,
+    "text": "1hkg"
+  },
+  {
+    "table_pos": 992,
+    "mode": "A",
+    "start": 2226,
+    "length": 25,
+    "end": 2251,
+    "text": "TÁTICAS FANTASMAGÓRICAS"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 2251,
+    "length": 0,
+    "end": 2251,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 2251,
+    "length": 4,
+    "end": 2255,
+    "text": "1orc"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "A",
+    "start": 2255,
+    "length": 14,
+    "end": 2269,
+    "text": "CORDA DE COBRA"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 2269,
+    "length": 0,
+    "end": 2269,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 2269,
+    "length": 4,
+    "end": 2273,
+    "text": "1kbt"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "A",
+    "start": 2273,
+    "length": 12,
+    "end": 2285,
+    "text": "CORTE VOADOR"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 2285,
+    "length": 0,
+    "end": 2285,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 2285,
+    "length": 4,
+    "end": 2289,
+    "text": "1kmm"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "A",
+    "start": 2289,
+    "length": 9,
+    "end": 2298,
+    "text": "CAMÉLIA "
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 2298,
+    "length": 0,
+    "end": 2298,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 2298,
+    "length": 4,
+    "end": 2302,
+    "text": "1itc"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "A",
+    "start": 2302,
+    "length": 6,
+    "end": 2308,
+    "text": "NAYUTA"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 2308,
+    "length": 0,
+    "end": 2308,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 2308,
+    "length": 4,
+    "end": 2312,
+    "text": "1ksm"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "A",
+    "start": 2312,
+    "length": 21,
+    "end": 2333,
+    "text": "CONTRA-GOLPE CORTANTE"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 2333,
+    "length": 0,
+    "end": 2333,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 2333,
+    "length": 4,
+    "end": 2337,
+    "text": "1fir"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "A",
+    "start": 2337,
+    "length": 26,
+    "end": 2363,
+    "text": "ÁRVORE EREMITA ADAMANTINA"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 2363,
+    "length": 0,
+    "end": 2363,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 2363,
+    "length": 4,
+    "end": 2367,
+    "text": "1sec"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "A",
+    "start": 2367,
+    "length": 23,
+    "end": 2390,
+    "text": "AÇÃO DO ANEL DE ÁGUA"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 2390,
+    "length": 0,
+    "end": 2390,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 2390,
+    "length": 4,
+    "end": 2394,
+    "text": "1kdm"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "A",
+    "start": 2394,
+    "length": 27,
+    "end": 2421,
+    "text": "ATAQUE DA ARANHA DEMÔNIACA"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 2421,
+    "length": 0,
+    "end": 2421,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 2421,
+    "length": 4,
+    "end": 2425,
+    "text": "1jrb"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "A",
+    "start": 2425,
+    "length": 15,
+    "end": 2440,
+    "text": "RAJADA DO ARHAT"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 2440,
+    "length": 0,
+    "end": 2440,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 2440,
+    "length": 4,
+    "end": 2444,
+    "text": "1tyy"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "A",
+    "start": 2444,
+    "length": 29,
+    "end": 2473,
+    "text": "POEMA ENCADEADO ATERRORIZANTE"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 2473,
+    "length": 0,
+    "end": 2473,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 2473,
+    "length": 4,
+    "end": 2477,
+    "text": "1skn"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "A",
+    "start": 2477,
+    "length": 20,
+    "end": 2497,
+    "text": "COMBO DÓ-RÉ-MI-FÁ"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 2497,
+    "length": 0,
+    "end": 2497,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 2497,
+    "length": 4,
+    "end": 2501,
+    "text": "1asm"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "A",
+    "start": 2501,
+    "length": 17,
+    "end": 2518,
+    "text": "VENTO TEMPESTUOSO"
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 2518,
+    "length": 0,
+    "end": 2518,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 2518,
+    "length": 4,
+    "end": 2522,
+    "text": "1krn"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "A",
+    "start": 2522,
+    "length": 25,
+    "end": 2547,
+    "text": "FOLHAS DE BORDO ESCARLATE"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 2547,
+    "length": 0,
+    "end": 2547,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 2547,
+    "length": 4,
+    "end": 2551,
+    "text": "1szn"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "A",
+    "start": 2551,
+    "length": 45,
+    "end": 2596,
+    "text": "REMOINHO DA LÂMINA DE DISSECAÇÃO DE CHAKRA"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 2596,
+    "length": 0,
+    "end": 2596,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 2596,
+    "length": 4,
+    "end": 2600,
+    "text": "1ank"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "A",
+    "start": 2600,
+    "length": 18,
+    "end": 2618,
+    "text": "ATAQUE TEMPESTUOSO"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 2618,
+    "length": 0,
+    "end": 2618,
+    "text": ""
+  }
+]

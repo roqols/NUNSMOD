@@ -1,0 +1,1250 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2037,
+    "length": 3,
+    "end": 2040,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 2040,
+    "length": 6,
+    "end": 2046,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 2046,
+    "length": 77,
+    "end": 2123,
+    "text": "Sakura! Vim aqui pra treinar... \nah, Sasuke. Você também está \naqui, hein?"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2123,
+    "length": 0,
+    "end": 2123,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2123,
+    "length": 3,
+    "end": 2126,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 2126,
+    "length": 6,
+    "end": 2132,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 2132,
+    "length": 7,
+    "end": 2139,
+    "text": "Hmpf..."
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2139,
+    "length": 0,
+    "end": 2139,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2139,
+    "length": 3,
+    "end": 2142,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 2142,
+    "length": 6,
+    "end": 2148,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 2148,
+    "length": 75,
+    "end": 2223,
+    "text": "Sakura, que tal treinarmos \njuntos, só nós dois? Vai ser \nmais divertido."
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2223,
+    "length": 0,
+    "end": 2223,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2223,
+    "length": 3,
+    "end": 2226,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2226,
+    "length": 6,
+    "end": 2232,
+    "text": "Sakura"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2232,
+    "length": 43,
+    "end": 2275,
+    "text": "Desde quando treino tem que \nser divertido?"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2275,
+    "length": 0,
+    "end": 2275,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2275,
+    "length": 3,
+    "end": 2278,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2278,
+    "length": 6,
+    "end": 2284,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2284,
+    "length": 6,
+    "end": 2290,
+    "text": "Ugh..."
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2290,
+    "length": 0,
+    "end": 2290,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2290,
+    "length": 3,
+    "end": 2293,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 2293,
+    "length": 6,
+    "end": 2299,
+    "text": "Sakura"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 2299,
+    "length": 56,
+    "end": 2355,
+    "text": "Bom, já que o Naruto chegou, \nvamos treinar nós três."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2355,
+    "length": 0,
+    "end": 2355,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2355,
+    "length": 3,
+    "end": 2358,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2358,
+    "length": 6,
+    "end": 2364,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2364,
+    "length": 35,
+    "end": 2399,
+    "text": "*Suspiro* Acho que é assim \nmesmo."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2399,
+    "length": 0,
+    "end": 2399,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2399,
+    "length": 3,
+    "end": 2402,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2402,
+    "length": 6,
+    "end": 2408,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2408,
+    "length": 19,
+    "end": 2427,
+    "text": "Eu consigo sozinho."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2427,
+    "length": 0,
+    "end": 2427,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2427,
+    "length": 3,
+    "end": 2430,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2430,
+    "length": 6,
+    "end": 2436,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 2436,
+    "length": 49,
+    "end": 2485,
+    "text": "O quê? Vai treinar sozinho de \nnovo? Ah, saquei."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 2485,
+    "length": 0,
+    "end": 2485,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 2485,
+    "length": 3,
+    "end": 2488,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 2488,
+    "length": 6,
+    "end": 2494,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 2494,
+    "length": 1,
+    "end": 2495,
+    "text": "?"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2495,
+    "length": 0,
+    "end": 2495,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2495,
+    "length": 3,
+    "end": 2498,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 2498,
+    "length": 6,
+    "end": 2504,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 2504,
+    "length": 78,
+    "end": 2582,
+    "text": "Eu sei! Você não quer perder \npra mim, né? Porque eu sou \nmuito forte, né?"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 2582,
+    "length": 0,
+    "end": 2582,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 2582,
+    "length": 3,
+    "end": 2585,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 2585,
+    "length": 6,
+    "end": 2591,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 2591,
+    "length": 10,
+    "end": 2601,
+    "text": "O quê...?"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 2601,
+    "length": 0,
+    "end": 2601,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 2601,
+    "length": 3,
+    "end": 2604,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 2604,
+    "length": 6,
+    "end": 2610,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 2610,
+    "length": 81,
+    "end": 2691,
+    "text": "Bom, se você é tão covarde, \npor que não vai treinar \nsozinho em outro lugar!"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 2691,
+    "length": 0,
+    "end": 2691,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 2691,
+    "length": 3,
+    "end": 2694,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 2694,
+    "length": 6,
+    "end": 2700,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 2700,
+    "length": 3,
+    "end": 2703,
+    "text": "..."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 2703,
+    "length": 0,
+    "end": 2703,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 2703,
+    "length": 3,
+    "end": 2706,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 2706,
+    "length": 6,
+    "end": 2712,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 2712,
+    "length": 76,
+    "end": 2788,
+    "text": "Chega. Vamos ver se você tem \no que precisa pra provar essa \nconversa mole."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 2788,
+    "length": 0,
+    "end": 2788,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 2788,
+    "length": 3,
+    "end": 2791,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 2791,
+    "length": 6,
+    "end": 2797,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 2797,
+    "length": 33,
+    "end": 2830,
+    "text": "Pode ser. Prepare-se pra \nperder!"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 2830,
+    "length": 0,
+    "end": 2830,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 2830,
+    "length": 3,
+    "end": 2833,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 2833,
+    "length": 6,
+    "end": 2839,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 2839,
+    "length": 7,
+    "end": 2846,
+    "text": "Hmpf..."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 2846,
+    "length": 0,
+    "end": 2846,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 2846,
+    "length": 3,
+    "end": 2849,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 2849,
+    "length": 6,
+    "end": 2855,
+    "text": "Sakura"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 2855,
+    "length": 58,
+    "end": 2913,
+    "text": "(Por que é sempre assim \nquando esses dois se juntam...?)"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 2913,
+    "length": 0,
+    "end": 2913,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 2913,
+    "length": 3,
+    "end": 2916,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 2916,
+    "length": 6,
+    "end": 2922,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 2922,
+    "length": 52,
+    "end": 2974,
+    "text": "O... O quê...? Mas eu jurava \nque era mais forte..."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 2974,
+    "length": 0,
+    "end": 2974,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 2974,
+    "length": 3,
+    "end": 2977,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 2977,
+    "length": 6,
+    "end": 2983,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 2983,
+    "length": 63,
+    "end": 3046,
+    "text": "Toda essa arrogância e é esse \no resultado, hein? Perdedor..."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3046,
+    "length": 0,
+    "end": 3046,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3046,
+    "length": 3,
+    "end": 3049,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 3049,
+    "length": 6,
+    "end": 3055,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 3055,
+    "length": 10,
+    "end": 3065,
+    "text": "O-O quê!?"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3065,
+    "length": 0,
+    "end": 3065,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3065,
+    "length": 3,
+    "end": 3068,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 3068,
+    "length": 6,
+    "end": 3074,
+    "text": "Sakura"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 3074,
+    "length": 76,
+    "end": 3150,
+    "text": "Certo, certo, já chega. Mas \nvocê realmente precisa treinar \nmais, Naruto."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 3150,
+    "length": 0,
+    "end": 3150,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 3150,
+    "length": 3,
+    "end": 3153,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 3153,
+    "length": 6,
+    "end": 3159,
+    "text": "Sakura"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 3159,
+    "length": 94,
+    "end": 3253,
+    "text": "Conversa mole não vale nada \nse você não consegue provar. \nO que o Sasuke disse é verdade."
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 3253,
+    "length": 0,
+    "end": 3253,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 3253,
+    "length": 3,
+    "end": 3256,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 3256,
+    "length": 6,
+    "end": 3262,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 3262,
+    "length": 6,
+    "end": 3268,
+    "text": "Ugh..."
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3268,
+    "length": 0,
+    "end": 3268,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3268,
+    "length": 3,
+    "end": 3271,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 3271,
+    "length": 6,
+    "end": 3277,
+    "text": "Sakura"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 3277,
+    "length": 12,
+    "end": 3289,
+    "text": "Treine mais!"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3289,
+    "length": 0,
+    "end": 3289,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3289,
+    "length": 3,
+    "end": 3292,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 3292,
+    "length": 6,
+    "end": 3298,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 3298,
+    "length": 7,
+    "end": 3305,
+    "text": "Hmpf..."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 3305,
+    "length": 0,
+    "end": 3305,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 3305,
+    "length": 3,
+    "end": 3308,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 3308,
+    "length": 6,
+    "end": 3314,
+    "text": "Sakura"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 3314,
+    "length": 56,
+    "end": 3370,
+    "text": "Foi um bom exercício. Vou pra \ncasa descansar um pouco."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 3370,
+    "length": 0,
+    "end": 3370,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 3370,
+    "length": 3,
+    "end": 3373,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 3373,
+    "length": 6,
+    "end": 3379,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 3379,
+    "length": 51,
+    "end": 3430,
+    "text": "Hehehe! E aí, como foi? Eu \nsou demais, não sou!?"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 3430,
+    "length": 0,
+    "end": 3430,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 3430,
+    "length": 3,
+    "end": 3433,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 3433,
+    "length": 6,
+    "end": 3439,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 3439,
+    "length": 8,
+    "end": 3447,
+    "text": "Você..."
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 3447,
+    "length": 0,
+    "end": 3447,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 3447,
+    "length": 3,
+    "end": 3450,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 3450,
+    "length": 6,
+    "end": 3456,
+    "text": "Sakura"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 3456,
+    "length": 51,
+    "end": 3507,
+    "text": "Inacreditável... Como ele ficou \ntão rápido...!?"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 3507,
+    "length": 0,
+    "end": 3507,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 3507,
+    "length": 3,
+    "end": 3510,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 3510,
+    "length": 6,
+    "end": 3516,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 3516,
+    "length": 59,
+    "end": 3575,
+    "text": "Você tem trabalho a fazer se \nquiser me alcançar! Hehehe!"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 3575,
+    "length": 0,
+    "end": 3575,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 3575,
+    "length": 3,
+    "end": 3578,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 3578,
+    "length": 6,
+    "end": 3584,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 3584,
+    "length": 6,
+    "end": 3590,
+    "text": "Ugh..."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 3590,
+    "length": 0,
+    "end": 3590,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 3590,
+    "length": 3,
+    "end": 3593,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 3593,
+    "length": 6,
+    "end": 3599,
+    "text": "Sakura"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 3599,
+    "length": 7,
+    "end": 3606,
+    "text": "Sasuke."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 3606,
+    "length": 0,
+    "end": 3606,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 3606,
+    "length": 3,
+    "end": 3609,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 3609,
+    "length": 6,
+    "end": 3615,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 3615,
+    "length": 5,
+    "end": 3620,
+    "text": "É..."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 3620,
+    "length": 0,
+    "end": 3620,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 3620,
+    "length": 3,
+    "end": 3623,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 3623,
+    "length": 6,
+    "end": 3629,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 3629,
+    "length": 18,
+    "end": 3647,
+    "text": "O que foi, Sakura?"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 3647,
+    "length": 0,
+    "end": 3647,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 3647,
+    "length": 3,
+    "end": 3650,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 3650,
+    "length": 6,
+    "end": 3656,
+    "text": "Sakura"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 3656,
+    "length": 94,
+    "end": 3750,
+    "text": "Não suporto pensar que fui \nderrotada por você. Vou ter \nque recomeçar meu treino do \nzero!"
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 3750,
+    "length": 0,
+    "end": 3750,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 3750,
+    "length": 3,
+    "end": 3753,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 3753,
+    "length": 6,
+    "end": 3759,
+    "text": "Sakura"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 3759,
+    "length": 14,
+    "end": 3773,
+    "text": "Vamos, Sasuke!"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 3773,
+    "length": 0,
+    "end": 3773,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 3773,
+    "length": 3,
+    "end": 3776,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 3776,
+    "length": 6,
+    "end": 3782,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 3782,
+    "length": 23,
+    "end": 3805,
+    "text": "Ah...? Eles se foram..."
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 3805,
+    "length": 0,
+    "end": 3805,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 3805,
+    "length": 3,
+    "end": 3808,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 3808,
+    "length": 6,
+    "end": 3814,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 3814,
+    "length": 68,
+    "end": 3882,
+    "text": "E a Sakura parecia feliz... Eu \nsimplesmente não consigo \nvencer..."
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 3882,
+    "length": 0,
+    "end": 3882,
+    "text": ""
+  }
+]

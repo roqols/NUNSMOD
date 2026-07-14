@@ -1,0 +1,1474 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2433,
+    "length": 3,
+    "end": 2436,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 2436,
+    "length": 6,
+    "end": 2442,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 2442,
+    "length": 34,
+    "end": 2476,
+    "text": "Hinata! Você perdeu alguma coisa?"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2476,
+    "length": 0,
+    "end": 2476,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2476,
+    "length": 3,
+    "end": 2479,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 2479,
+    "length": 6,
+    "end": 2485,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 2485,
+    "length": 12,
+    "end": 2497,
+    "text": "Ei, Naruto!?"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2497,
+    "length": 0,
+    "end": 2497,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2497,
+    "length": 3,
+    "end": 2500,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 2500,
+    "length": 6,
+    "end": 2506,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 2506,
+    "length": 45,
+    "end": 2551,
+    "text": "Sou o mestre em achar coisas. Vou te\najudar! "
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2551,
+    "length": 0,
+    "end": 2551,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2551,
+    "length": 3,
+    "end": 2554,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2554,
+    "length": 6,
+    "end": 2560,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2560,
+    "length": 55,
+    "end": 2615,
+    "text": "Ah, se você pudesse... Mas...\nMe sinto mal em pedir…"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2615,
+    "length": 0,
+    "end": 2615,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2615,
+    "length": 3,
+    "end": 2618,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2618,
+    "length": 6,
+    "end": 2624,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2624,
+    "length": 55,
+    "end": 2679,
+    "text": "Ei, não hesite em pedir! Sem problema!\nEu faço isso!!"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2679,
+    "length": 0,
+    "end": 2679,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2679,
+    "length": 3,
+    "end": 2682,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 2682,
+    "length": 6,
+    "end": 2688,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 2688,
+    "length": 11,
+    "end": 2699,
+    "text": "Ah... Uh..."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2699,
+    "length": 0,
+    "end": 2699,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2699,
+    "length": 3,
+    "end": 2702,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2702,
+    "length": 6,
+    "end": 2708,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2708,
+    "length": 34,
+    "end": 2742,
+    "text": "Então, o que eu estou procurando?"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2742,
+    "length": 0,
+    "end": 2742,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2742,
+    "length": 3,
+    "end": 2745,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2745,
+    "length": 6,
+    "end": 2751,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2751,
+    "length": 61,
+    "end": 2812,
+    "text": "Hã... É meu diário... Mas ele está\ncaindo aos pedaços..."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2812,
+    "length": 0,
+    "end": 2812,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2812,
+    "length": 3,
+    "end": 2815,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2815,
+    "length": 6,
+    "end": 2821,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 2821,
+    "length": 55,
+    "end": 2876,
+    "text": "Seu diário, hein!? Beleza, beleza!\nPode deixar comigo!"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 2876,
+    "length": 0,
+    "end": 2876,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 2876,
+    "length": 3,
+    "end": 2879,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 2879,
+    "length": 6,
+    "end": 2885,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 2885,
+    "length": 35,
+    "end": 2920,
+    "text": "Não faço ideia de quem o pegou…"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2920,
+    "length": 0,
+    "end": 2920,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2920,
+    "length": 3,
+    "end": 2923,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 2923,
+    "length": 6,
+    "end": 2929,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 2929,
+    "length": 78,
+    "end": 3007,
+    "text": "Hmm... Algo assim já aconteceu antes.\nDaquela vez, foi um pássaro que\npegou."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 3007,
+    "length": 0,
+    "end": 3007,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 3007,
+    "length": 3,
+    "end": 3010,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 3010,
+    "length": 6,
+    "end": 3016,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 3016,
+    "length": 28,
+    "end": 3044,
+    "text": "Um pássaro... voou com ele?"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 3044,
+    "length": 0,
+    "end": 3044,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 3044,
+    "length": 3,
+    "end": 3047,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 3047,
+    "length": 6,
+    "end": 3053,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 3053,
+    "length": 71,
+    "end": 3124,
+    "text": "Eu procuro no céu se você continuar\nolhando o chão, tá bom, Hinata?"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 3124,
+    "length": 0,
+    "end": 3124,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 3124,
+    "length": 3,
+    "end": 3127,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 3127,
+    "length": 6,
+    "end": 3133,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 3133,
+    "length": 15,
+    "end": 3148,
+    "text": "T-...tá bom..."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 3148,
+    "length": 0,
+    "end": 3148,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 3148,
+    "length": 3,
+    "end": 3151,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 3151,
+    "length": 6,
+    "end": 3157,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 3157,
+    "length": 69,
+    "end": 3226,
+    "text": "Hã... Se você conseguir recuperar meu\ndiário... Não, nada não..."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 3226,
+    "length": 0,
+    "end": 3226,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 3226,
+    "length": 3,
+    "end": 3229,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 3229,
+    "length": 6,
+    "end": 3235,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 3235,
+    "length": 68,
+    "end": 3303,
+    "text": "Ah, não.... Estou demorando demais...\nNesse ritmo...eu nunca vou…"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 3303,
+    "length": 0,
+    "end": 3303,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 3303,
+    "length": 3,
+    "end": 3306,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 3306,
+    "length": 6,
+    "end": 3312,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 3312,
+    "length": 59,
+    "end": 3371,
+    "text": "Desculpa, Hinata... Eu não consegui\nrecuperar seu diário."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 3371,
+    "length": 0,
+    "end": 3371,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 3371,
+    "length": 3,
+    "end": 3374,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 3374,
+    "length": 6,
+    "end": 3380,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 3380,
+    "length": 108,
+    "end": 3488,
+    "text": "N-não se sinta tão mal, Naruto...\nA culpa é minha, na verdade. Fui eu\nquem deixou roubarem meu diário..."
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 3488,
+    "length": 0,
+    "end": 3488,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 3488,
+    "length": 3,
+    "end": 3491,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 3491,
+    "length": 6,
+    "end": 3497,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 3497,
+    "length": 63,
+    "end": 3560,
+    "text": "(E se ele tiver lido o diário... Seria\ntão constrangedor...) "
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 3560,
+    "length": 0,
+    "end": 3560,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 3560,
+    "length": 3,
+    "end": 3563,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 3563,
+    "length": 6,
+    "end": 3569,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 3569,
+    "length": 27,
+    "end": 3596,
+    "text": "Então, não se preocupe..."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3596,
+    "length": 0,
+    "end": 3596,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3596,
+    "length": 3,
+    "end": 3599,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 3599,
+    "length": 6,
+    "end": 3605,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 3605,
+    "length": 26,
+    "end": 3631,
+    "text": "Cara, eu estraguei tudo…"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3631,
+    "length": 0,
+    "end": 3631,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3631,
+    "length": 3,
+    "end": 3634,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 3634,
+    "length": 6,
+    "end": 3640,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 3640,
+    "length": 31,
+    "end": 3671,
+    "text": "Obrigada por me ajudar, Naruto."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 3671,
+    "length": 0,
+    "end": 3671,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 3671,
+    "length": 3,
+    "end": 3674,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 3674,
+    "length": 6,
+    "end": 3680,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 3680,
+    "length": 48,
+    "end": 3728,
+    "text": "Ah, ele conseguiu, eu sabia que ele\nconseguiria!"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 3728,
+    "length": 0,
+    "end": 3728,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 3728,
+    "length": 3,
+    "end": 3731,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 3731,
+    "length": 6,
+    "end": 3737,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 3737,
+    "length": 16,
+    "end": 3753,
+    "text": "Bingo. Consegui!"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3753,
+    "length": 0,
+    "end": 3753,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3753,
+    "length": 3,
+    "end": 3756,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 3756,
+    "length": 6,
+    "end": 3762,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 3762,
+    "length": 17,
+    "end": 3779,
+    "text": "Acho que é isso."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3779,
+    "length": 0,
+    "end": 3779,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3779,
+    "length": 3,
+    "end": 3782,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "A",
+    "start": 3782,
+    "length": 53,
+    "end": 3835,
+    "text": "Naruto folheou casualmente o que\nele tinha recolhido."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 3835,
+    "length": 0,
+    "end": 3835,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 3835,
+    "length": 3,
+    "end": 3838,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "A",
+    "start": 3838,
+    "length": 57,
+    "end": 3895,
+    "text": "Dia 18 (Ensolarado) Eu o admiro porque\nele nunca desiste."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 3895,
+    "length": 0,
+    "end": 3895,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 3895,
+    "length": 3,
+    "end": 3898,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "A",
+    "start": 3898,
+    "length": 64,
+    "end": 3962,
+    "text": "Dia 21 (Nublado) Fiquei feliz… só de\npoder conversar com ele."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 3962,
+    "length": 0,
+    "end": 3962,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 3962,
+    "length": 3,
+    "end": 3965,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "A",
+    "start": 3965,
+    "length": 75,
+    "end": 4040,
+    "text": "Dia 25 (Ensolarado) Ele se esforça\ntanto. Eu também deveria me esforçar!"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 4040,
+    "length": 0,
+    "end": 4040,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 4040,
+    "length": 3,
+    "end": 4043,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 4043,
+    "length": 6,
+    "end": 4049,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 4049,
+    "length": 83,
+    "end": 4132,
+    "text": "Quem é \"ele\"...? Opa, o que eu\nestou fazendo? Não devia ler\no diário de alguém!"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 4132,
+    "length": 0,
+    "end": 4132,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 4132,
+    "length": 3,
+    "end": 4135,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 4135,
+    "length": 6,
+    "end": 4141,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 4141,
+    "length": 33,
+    "end": 4174,
+    "text": "Eu nunca vi nada! Eu não espiei!"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 4174,
+    "length": 0,
+    "end": 4174,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 4174,
+    "length": 3,
+    "end": 4177,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 4177,
+    "length": 6,
+    "end": 4183,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 4183,
+    "length": 35,
+    "end": 4218,
+    "text": "Hinata. Recolhi todo o seu diário!"
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 4218,
+    "length": 0,
+    "end": 4218,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 4218,
+    "length": 3,
+    "end": 4221,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 4221,
+    "length": 6,
+    "end": 4227,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 4227,
+    "length": 45,
+    "end": 4272,
+    "text": "S-sério...!? Estou impressionada,\nNaruto...!"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 4272,
+    "length": 0,
+    "end": 4272,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 4272,
+    "length": 3,
+    "end": 4275,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 4275,
+    "length": 6,
+    "end": 4281,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 4281,
+    "length": 54,
+    "end": 4335,
+    "text": "Ha-ha-ha! Às vezes eu mesmo me\nimpressiono! Ha-ha-ha!"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 4335,
+    "length": 0,
+    "end": 4335,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 4335,
+    "length": 3,
+    "end": 4338,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 4338,
+    "length": 6,
+    "end": 4344,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 4344,
+    "length": 52,
+    "end": 4396,
+    "text": "Hã... Você... Você não olhou\nlá dentro...olhou?"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 4396,
+    "length": 0,
+    "end": 4396,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 4396,
+    "length": 3,
+    "end": 4399,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 4399,
+    "length": 6,
+    "end": 4405,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 4405,
+    "length": 67,
+    "end": 4472,
+    "text": "C-claro que não! Nem fiquei pensando\nquem é \"ele\" nem nada disso."
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 4472,
+    "length": 0,
+    "end": 4472,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 4472,
+    "length": 3,
+    "end": 4475,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 4475,
+    "length": 6,
+    "end": 4481,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 4481,
+    "length": 11,
+    "end": 4492,
+    "text": "O quê…?!"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 4492,
+    "length": 0,
+    "end": 4492,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 4492,
+    "length": 3,
+    "end": 4495,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 4495,
+    "length": 6,
+    "end": 4501,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 4501,
+    "length": 4,
+    "end": 4505,
+    "text": "Ah!!"
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 4505,
+    "length": 0,
+    "end": 4505,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 4505,
+    "length": 3,
+    "end": 4508,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 4508,
+    "length": 6,
+    "end": 4514,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 4514,
+    "length": 3,
+    "end": 4517,
+    "text": "..."
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 4517,
+    "length": 0,
+    "end": 4517,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 4517,
+    "length": 3,
+    "end": 4520,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 4520,
+    "length": 6,
+    "end": 4526,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 4526,
+    "length": 3,
+    "end": 4529,
+    "text": "..."
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 4529,
+    "length": 0,
+    "end": 4529,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 4529,
+    "length": 3,
+    "end": 4532,
+    "text": "041"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 4532,
+    "length": 6,
+    "end": 4538,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 4538,
+    "length": 41,
+    "end": 4579,
+    "text": "Ah, eu só dei uma espiadinha,\nsó isso!!"
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 4579,
+    "length": 0,
+    "end": 4579,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 4579,
+    "length": 3,
+    "end": 4582,
+    "text": "042"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 4582,
+    "length": 6,
+    "end": 4588,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 4588,
+    "length": 12,
+    "end": 4600,
+    "text": "Ah, entendi!"
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 4600,
+    "length": 0,
+    "end": 4600,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 4600,
+    "length": 3,
+    "end": 4603,
+    "text": "043"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 4603,
+    "length": 6,
+    "end": 4609,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 4609,
+    "length": 14,
+    "end": 4623,
+    "text": "Ah-ha-ha-ha..."
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 4623,
+    "length": 0,
+    "end": 4623,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 4623,
+    "length": 3,
+    "end": 4626,
+    "text": "044"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 4626,
+    "length": 6,
+    "end": 4632,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 4632,
+    "length": 3,
+    "end": 4635,
+    "text": "..."
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 4635,
+    "length": 0,
+    "end": 4635,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 4635,
+    "length": 3,
+    "end": 4638,
+    "text": "045"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 4638,
+    "length": 6,
+    "end": 4644,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 4644,
+    "length": 33,
+    "end": 4677,
+    "text": "(Pelo menos ele não percebeu...)"
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 4677,
+    "length": 0,
+    "end": 4677,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 4677,
+    "length": 3,
+    "end": 4680,
+    "text": "046"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 4680,
+    "length": 6,
+    "end": 4686,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 4686,
+    "length": 12,
+    "end": 4698,
+    "text": "*Suspiro...*"
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 4698,
+    "length": 0,
+    "end": 4698,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 4698,
+    "length": 3,
+    "end": 4701,
+    "text": "047"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 4701,
+    "length": 6,
+    "end": 4707,
+    "text": "Hinata"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 4707,
+    "length": 32,
+    "end": 4739,
+    "text": "Hã...Obrigada pela sua ajuda..."
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 4739,
+    "length": 0,
+    "end": 4739,
+    "text": ""
+  }
+]

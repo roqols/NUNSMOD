@@ -1,0 +1,1538 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2452,
+    "length": 3,
+    "end": 2455,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 2455,
+    "length": 4,
+    "end": 2459,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 2459,
+    "length": 37,
+    "end": 2496,
+    "text": "Gosto dessa combinação de\nmembros. "
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2496,
+    "length": 0,
+    "end": 2496,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2496,
+    "length": 3,
+    "end": 2499,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 2499,
+    "length": 5,
+    "end": 2504,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 2504,
+    "length": 26,
+    "end": 2530,
+    "text": "Eu recomendo esses três. "
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2530,
+    "length": 0,
+    "end": 2530,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2530,
+    "length": 3,
+    "end": 2533,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 2533,
+    "length": 6,
+    "end": 2539,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 2539,
+    "length": 55,
+    "end": 2594,
+    "text": "O que vocês três sensei estão\nfazendo reunidos aqui?"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2594,
+    "length": 0,
+    "end": 2594,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2594,
+    "length": 3,
+    "end": 2597,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2597,
+    "length": 4,
+    "end": 2601,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2601,
+    "length": 32,
+    "end": 2633,
+    "text": "Haha, só um pouco de\ndiversão."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2633,
+    "length": 0,
+    "end": 2633,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2633,
+    "length": 3,
+    "end": 2636,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2636,
+    "length": 6,
+    "end": 2642,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2642,
+    "length": 10,
+    "end": 2652,
+    "text": "Diversão?"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2652,
+    "length": 0,
+    "end": 2652,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2652,
+    "length": 3,
+    "end": 2655,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 2655,
+    "length": 7,
+    "end": 2662,
+    "text": "Kurenai"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 2662,
+    "length": 43,
+    "end": 2705,
+    "text": "Não é um jogo, Anko. É uma\nsimulação. "
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2705,
+    "length": 0,
+    "end": 2705,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2705,
+    "length": 3,
+    "end": 2708,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2708,
+    "length": 6,
+    "end": 2714,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2714,
+    "length": 21,
+    "end": 2735,
+    "text": "Simulação? De quê?"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2735,
+    "length": 0,
+    "end": 2735,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2735,
+    "length": 3,
+    "end": 2738,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2738,
+    "length": 5,
+    "end": 2743,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2743,
+    "length": 119,
+    "end": 2862,
+    "text": "Os membros do time nem sempre\npodem ficar juntos. Em\nalgumas missões, precisam\ntrabalhar com membros de\noutros times. "
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2862,
+    "length": 0,
+    "end": 2862,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2862,
+    "length": 3,
+    "end": 2865,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2865,
+    "length": 7,
+    "end": 2872,
+    "text": "Kurenai"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 2872,
+    "length": 65,
+    "end": 2937,
+    "text": "Então estamos tentando nos\nplanejar pra uma eventualidade\nassim."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 2937,
+    "length": 0,
+    "end": 2937,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 2937,
+    "length": 3,
+    "end": 2940,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 2940,
+    "length": 4,
+    "end": 2944,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 2944,
+    "length": 97,
+    "end": 3041,
+    "text": "Em outras palavras, estamos\ntentando achar a melhor\ncombinação de membros de\ntimes diferentes. "
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 3041,
+    "length": 0,
+    "end": 3041,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 3041,
+    "length": 3,
+    "end": 3044,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 3044,
+    "length": 6,
+    "end": 3050,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 3050,
+    "length": 47,
+    "end": 3097,
+    "text": "Hmm, e vocês acharam alguma\nboa combinação? "
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 3097,
+    "length": 0,
+    "end": 3097,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 3097,
+    "length": 3,
+    "end": 3100,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 3100,
+    "length": 5,
+    "end": 3105,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 3105,
+    "length": 23,
+    "end": 3128,
+    "text": "Quase. O problema é..."
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 3128,
+    "length": 0,
+    "end": 3128,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 3128,
+    "length": 3,
+    "end": 3131,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 3131,
+    "length": 4,
+    "end": 3135,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 3135,
+    "length": 109,
+    "end": 3244,
+    "text": "Não achamos um bom cobaia...\nUm oponente que possamos usar\npra testar como o novo time\nfunciona na prática."
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 3244,
+    "length": 0,
+    "end": 3244,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 3244,
+    "length": 3,
+    "end": 3247,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 3247,
+    "length": 6,
+    "end": 3253,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 3253,
+    "length": 52,
+    "end": 3305,
+    "text": "Hmm. Nesse caso, não me\nimporto em ser o oponente. "
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 3305,
+    "length": 0,
+    "end": 3305,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 3305,
+    "length": 3,
+    "end": 3308,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 3308,
+    "length": 4,
+    "end": 3312,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 3312,
+    "length": 39,
+    "end": 3351,
+    "text": "Sério!? Bem, vale a pena\ntentar, né!?"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 3351,
+    "length": 0,
+    "end": 3351,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 3351,
+    "length": 3,
+    "end": 3354,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 3354,
+    "length": 5,
+    "end": 3359,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 3359,
+    "length": 46,
+    "end": 3405,
+    "text": "Obrigado. Isso realmente nos\najudaria, Naruto."
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 3405,
+    "length": 0,
+    "end": 3405,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 3405,
+    "length": 3,
+    "end": 3408,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 3408,
+    "length": 6,
+    "end": 3414,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 3414,
+    "length": 70,
+    "end": 3484,
+    "text": "Não me importo. Sejam quem\nforem, vou vencer eles de\nqualquer jeito! "
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 3484,
+    "length": 0,
+    "end": 3484,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 3484,
+    "length": 3,
+    "end": 3487,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 3487,
+    "length": 5,
+    "end": 3492,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 3492,
+    "length": 50,
+    "end": 3542,
+    "text": "Isso vai ser interessante.\nCerto, vamos começar! "
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 3542,
+    "length": 0,
+    "end": 3542,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 3542,
+    "length": 3,
+    "end": 3545,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 3545,
+    "length": 6,
+    "end": 3551,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 3551,
+    "length": 11,
+    "end": 3562,
+    "text": "Ah não...!"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 3562,
+    "length": 0,
+    "end": 3562,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 3562,
+    "length": 3,
+    "end": 3565,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 3565,
+    "length": 5,
+    "end": 3570,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 3570,
+    "length": 52,
+    "end": 3622,
+    "text": "Entendo... Essa parece ser uma\ncombinação eficaz. "
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3622,
+    "length": 0,
+    "end": 3622,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3622,
+    "length": 3,
+    "end": 3625,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 3625,
+    "length": 7,
+    "end": 3632,
+    "text": "Kurenai"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 3632,
+    "length": 37,
+    "end": 3669,
+    "text": "É. Aquele garoto parece ser a\nchave."
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3669,
+    "length": 0,
+    "end": 3669,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3669,
+    "length": 3,
+    "end": 3672,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 3672,
+    "length": 6,
+    "end": 3678,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 3678,
+    "length": 60,
+    "end": 3738,
+    "text": "(Argh... Eu estava tentando\nmostrar que sou o mais\nforte...)"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 3738,
+    "length": 0,
+    "end": 3738,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 3738,
+    "length": 3,
+    "end": 3741,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 3741,
+    "length": 6,
+    "end": 3747,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 3747,
+    "length": 28,
+    "end": 3775,
+    "text": "(Mas em vez disso, perdi...)"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 3775,
+    "length": 0,
+    "end": 3775,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 3775,
+    "length": 3,
+    "end": 3778,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 3778,
+    "length": 4,
+    "end": 3782,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 3782,
+    "length": 35,
+    "end": 3817,
+    "text": "Coitado, ele parece meio\ndeprimido."
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3817,
+    "length": 0,
+    "end": 3817,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3817,
+    "length": 3,
+    "end": 3820,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 3820,
+    "length": 5,
+    "end": 3825,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 3825,
+    "length": 38,
+    "end": 3863,
+    "text": "Ei, não precisa ficar assim\ncaído..."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3863,
+    "length": 0,
+    "end": 3863,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3863,
+    "length": 3,
+    "end": 3866,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 3866,
+    "length": 6,
+    "end": 3872,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 3872,
+    "length": 43,
+    "end": 3915,
+    "text": "Aaah!! Preciso treinar! Treinar\ne treinar!!"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 3915,
+    "length": 0,
+    "end": 3915,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 3915,
+    "length": 3,
+    "end": 3918,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 3918,
+    "length": 6,
+    "end": 3924,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 3924,
+    "length": 36,
+    "end": 3960,
+    "text": "Preciso ficar melhor e mais\nforte!! "
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 3960,
+    "length": 0,
+    "end": 3960,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 3960,
+    "length": 3,
+    "end": 3963,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 3963,
+    "length": 7,
+    "end": 3970,
+    "text": "Kurenai"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 3970,
+    "length": 6,
+    "end": 3976,
+    "text": "......"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 3976,
+    "length": 0,
+    "end": 3976,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 3976,
+    "length": 3,
+    "end": 3979,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 3979,
+    "length": 7,
+    "end": 3986,
+    "text": "Kurenai"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 3986,
+    "length": 28,
+    "end": 4014,
+    "text": "Hã... Assim é que se fala."
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 4014,
+    "length": 0,
+    "end": 4014,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 4014,
+    "length": 3,
+    "end": 4017,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 4017,
+    "length": 5,
+    "end": 4022,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 4022,
+    "length": 34,
+    "end": 4056,
+    "text": "Hm... Continue com o bom\ntrabalho."
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 4056,
+    "length": 0,
+    "end": 4056,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 4056,
+    "length": 3,
+    "end": 4059,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 4059,
+    "length": 5,
+    "end": 4064,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 4064,
+    "length": 86,
+    "end": 4150,
+    "text": "Se levantar rápido depois de\numa derrota é uma de suas\nmelhores qualidades, Naruto. "
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 4150,
+    "length": 0,
+    "end": 4150,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 4150,
+    "length": 3,
+    "end": 4153,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 4153,
+    "length": 7,
+    "end": 4160,
+    "text": "Kurenai"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 4160,
+    "length": 29,
+    "end": 4189,
+    "text": "Continue treinando... Naruto."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 4189,
+    "length": 0,
+    "end": 4189,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 4189,
+    "length": 3,
+    "end": 4192,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 4192,
+    "length": 4,
+    "end": 4196,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 4196,
+    "length": 61,
+    "end": 4257,
+    "text": "Vamos ver... Quem devemos\ncolocar numa combinação a\nseguir."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 4257,
+    "length": 0,
+    "end": 4257,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 4257,
+    "length": 3,
+    "end": 4260,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 4260,
+    "length": 6,
+    "end": 4266,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 4266,
+    "length": 44,
+    "end": 4310,
+    "text": "Hah! Nenhuma combinação é\nrival pra mim! "
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 4310,
+    "length": 0,
+    "end": 4310,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 4310,
+    "length": 3,
+    "end": 4313,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 4313,
+    "length": 5,
+    "end": 4318,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 4318,
+    "length": 17,
+    "end": 4335,
+    "text": "Ei... Ele venceu!"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 4335,
+    "length": 0,
+    "end": 4335,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 4335,
+    "length": 3,
+    "end": 4338,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 4338,
+    "length": 4,
+    "end": 4342,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 4342,
+    "length": 56,
+    "end": 4398,
+    "text": "Parece que... Talvez tenhamos\ncalculado um pouco errado."
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 4398,
+    "length": 0,
+    "end": 4398,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 4398,
+    "length": 3,
+    "end": 4401,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 4401,
+    "length": 6,
+    "end": 4407,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 4407,
+    "length": 68,
+    "end": 4475,
+    "text": "Acho que isso mostra qual\nninja é a chave de qualquer\ncombinação!"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 4475,
+    "length": 0,
+    "end": 4475,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 4475,
+    "length": 3,
+    "end": 4478,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 4478,
+    "length": 7,
+    "end": 4485,
+    "text": "Kurenai"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 4485,
+    "length": 23,
+    "end": 4508,
+    "text": "Hã... Suponho que sim."
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 4508,
+    "length": 0,
+    "end": 4508,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 4508,
+    "length": 3,
+    "end": 4511,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 4511,
+    "length": 5,
+    "end": 4516,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 4516,
+    "length": 5,
+    "end": 4521,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 4521,
+    "length": 0,
+    "end": 4521,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 4521,
+    "length": 3,
+    "end": 4524,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 4524,
+    "length": 5,
+    "end": 4529,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 4529,
+    "length": 67,
+    "end": 4596,
+    "text": "(Bem, bem... Nunca imaginei que\nele tivesse chegado tão\nlonge...) "
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 4596,
+    "length": 0,
+    "end": 4596,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 4596,
+    "length": 3,
+    "end": 4599,
+    "text": "041"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 4599,
+    "length": 7,
+    "end": 4606,
+    "text": "Kurenai"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 4606,
+    "length": 48,
+    "end": 4654,
+    "text": "(Precisamos reconsiderar as\ncapacidades dele...)"
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 4654,
+    "length": 0,
+    "end": 4654,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 4654,
+    "length": 3,
+    "end": 4657,
+    "text": "042"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 4657,
+    "length": 6,
+    "end": 4663,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 4663,
+    "length": 57,
+    "end": 4720,
+    "text": "Hahahah! Viu isso, Anko sensei?\nEu sou bem bom, não sou?"
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 4720,
+    "length": 0,
+    "end": 4720,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 4720,
+    "length": 3,
+    "end": 4723,
+    "text": "043"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 4723,
+    "length": 4,
+    "end": 4727,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 4727,
+    "length": 15,
+    "end": 4742,
+    "text": "Sim, você é. "
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 4742,
+    "length": 0,
+    "end": 4742,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 4742,
+    "length": 3,
+    "end": 4745,
+    "text": "044"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 4745,
+    "length": 5,
+    "end": 4750,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 4750,
+    "length": 46,
+    "end": 4796,
+    "text": "Aprendemos muito hoje graças a\nvocê, Naruto."
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 4796,
+    "length": 0,
+    "end": 4796,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 4796,
+    "length": 3,
+    "end": 4799,
+    "text": "045"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 4799,
+    "length": 6,
+    "end": 4805,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 4805,
+    "length": 33,
+    "end": 4838,
+    "text": "Mais um X na coluna de\nvitórias!"
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 4838,
+    "length": 0,
+    "end": 4838,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 4838,
+    "length": 3,
+    "end": 4841,
+    "text": "046"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 4841,
+    "length": 5,
+    "end": 4846,
+    "text": "Asuma"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 4846,
+    "length": 51,
+    "end": 4897,
+    "text": "Acho que vamos ter que tentar\nreagrupar os membros."
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 4897,
+    "length": 0,
+    "end": 4897,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 4897,
+    "length": 3,
+    "end": 4900,
+    "text": "047"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 4900,
+    "length": 7,
+    "end": 4907,
+    "text": "Kurenai"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 4907,
+    "length": 18,
+    "end": 4925,
+    "text": "Bom trabalho hoje."
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 4925,
+    "length": 0,
+    "end": 4925,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 4925,
+    "length": 3,
+    "end": 4928,
+    "text": "048"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-implicit",
+    "start": 4928,
+    "length": 4,
+    "end": 4932,
+    "text": "Anko"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-explicit",
+    "start": 4932,
+    "length": 69,
+    "end": 5001,
+    "text": "Nossa! Graças a você, tenho\nque repensar as combinações\ndo zero. "
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 5001,
+    "length": 0,
+    "end": 5001,
+    "text": ""
+  }
+]

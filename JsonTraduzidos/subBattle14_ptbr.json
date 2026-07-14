@@ -1,0 +1,1090 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 1801,
+    "length": 3,
+    "end": 1804,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 1804,
+    "length": 4,
+    "end": 1808,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 1808,
+    "length": 75,
+    "end": 1883,
+    "text": "Aqui é onde eu passeio com o Akamaru,\nShino. Você está no nosso caminho!"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 1883,
+    "length": 0,
+    "end": 1883,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 1883,
+    "length": 3,
+    "end": 1886,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 1886,
+    "length": 5,
+    "end": 1891,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 1891,
+    "length": 106,
+    "end": 1997,
+    "text": "Acontece que é aqui que eu coleto\ninsetos. Vocês dois estão os\nassustando. Vão passear em outro lugar."
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 1997,
+    "length": 0,
+    "end": 1997,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 1997,
+    "length": 3,
+    "end": 2000,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 2000,
+    "length": 4,
+    "end": 2004,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 2004,
+    "length": 11,
+    "end": 2015,
+    "text": "Nos façam!"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2015,
+    "length": 0,
+    "end": 2015,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2015,
+    "length": 3,
+    "end": 2018,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2018,
+    "length": 6,
+    "end": 2024,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2024,
+    "length": 47,
+    "end": 2071,
+    "text": "Ei, pessoal. Posso falar com vocês\num segundo?"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2071,
+    "length": 0,
+    "end": 2071,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2071,
+    "length": 3,
+    "end": 2074,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2074,
+    "length": 4,
+    "end": 2078,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2078,
+    "length": 31,
+    "end": 2109,
+    "text": "Hã!? O que você quer, Naruto?"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2109,
+    "length": 0,
+    "end": 2109,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2109,
+    "length": 3,
+    "end": 2112,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 2112,
+    "length": 6,
+    "end": 2118,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 2118,
+    "length": 53,
+    "end": 2171,
+    "text": "Olha, a briga de vocês está\nincomodando as pessoas."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2171,
+    "length": 0,
+    "end": 2171,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2171,
+    "length": 3,
+    "end": 2174,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2174,
+    "length": 4,
+    "end": 2178,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2178,
+    "length": 26,
+    "end": 2204,
+    "text": "Quê? Quem está brigando?"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2204,
+    "length": 0,
+    "end": 2204,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2204,
+    "length": 3,
+    "end": 2207,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2207,
+    "length": 5,
+    "end": 2212,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2212,
+    "length": 47,
+    "end": 2259,
+    "text": "A gente só está trocando opiniões.\nSó isso."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2259,
+    "length": 0,
+    "end": 2259,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2259,
+    "length": 3,
+    "end": 2262,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2262,
+    "length": 6,
+    "end": 2268,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 2268,
+    "length": 53,
+    "end": 2321,
+    "text": "Tá, mas as outras pessoas acham que\nvocês estão..."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 2321,
+    "length": 0,
+    "end": 2321,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 2321,
+    "length": 3,
+    "end": 2324,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 2324,
+    "length": 4,
+    "end": 2328,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 2328,
+    "length": 65,
+    "end": 2393,
+    "text": "Se a gente diz que não está brigando,\nnão está! Certo, Shino?"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2393,
+    "length": 0,
+    "end": 2393,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2393,
+    "length": 3,
+    "end": 2396,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 2396,
+    "length": 5,
+    "end": 2401,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 2401,
+    "length": 43,
+    "end": 2444,
+    "text": "Isso. Olha como a gente trabalha\nbem junto."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 2444,
+    "length": 0,
+    "end": 2444,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 2444,
+    "length": 3,
+    "end": 2447,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 2447,
+    "length": 6,
+    "end": 2453,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 2453,
+    "length": 5,
+    "end": 2458,
+    "text": "E-ei!"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 2458,
+    "length": 0,
+    "end": 2458,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 2458,
+    "length": 3,
+    "end": 2461,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 2461,
+    "length": 6,
+    "end": 2467,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 2467,
+    "length": 5,
+    "end": 2472,
+    "text": "Ai..."
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 2472,
+    "length": 0,
+    "end": 2472,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 2472,
+    "length": 3,
+    "end": 2475,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 2475,
+    "length": 4,
+    "end": 2479,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 2479,
+    "length": 14,
+    "end": 2493,
+    "text": "Hmph! Viu só?"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 2493,
+    "length": 0,
+    "end": 2493,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 2493,
+    "length": 3,
+    "end": 2496,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 2496,
+    "length": 5,
+    "end": 2501,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 2501,
+    "length": 34,
+    "end": 2535,
+    "text": "A gente nem está perto de brigar."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 2535,
+    "length": 0,
+    "end": 2535,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 2535,
+    "length": 3,
+    "end": 2538,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 2538,
+    "length": 4,
+    "end": 2542,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 2542,
+    "length": 72,
+    "end": 2614,
+    "text": "É. Mas você podia ter pensado em\nataques melhores que esse, não acha?"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 2614,
+    "length": 0,
+    "end": 2614,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 2614,
+    "length": 3,
+    "end": 2617,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 2617,
+    "length": 5,
+    "end": 2622,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 2622,
+    "length": 74,
+    "end": 2696,
+    "text": "Como assim? Meu ataque foi\nperfeito. Seu suporte que ficou\num pouco fraco."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 2696,
+    "length": 0,
+    "end": 2696,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 2696,
+    "length": 3,
+    "end": 2699,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 2699,
+    "length": 4,
+    "end": 2703,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 2703,
+    "length": 10,
+    "end": 2713,
+    "text": "O quê...?"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 2713,
+    "length": 0,
+    "end": 2713,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 2713,
+    "length": 3,
+    "end": 2716,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 2716,
+    "length": 4,
+    "end": 2720,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 2720,
+    "length": 69,
+    "end": 2789,
+    "text": "Escuta, eu vou te mostrar quem é fraco.\nQue tal uma luta de desafio?"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 2789,
+    "length": 0,
+    "end": 2789,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 2789,
+    "length": 3,
+    "end": 2792,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 2792,
+    "length": 5,
+    "end": 2797,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 2797,
+    "length": 56,
+    "end": 2853,
+    "text": "Por mim tudo bem. O clã Aburame\nsempre topa um desafio."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 2853,
+    "length": 0,
+    "end": 2853,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 2853,
+    "length": 3,
+    "end": 2856,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 2856,
+    "length": 6,
+    "end": 2862,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 2862,
+    "length": 15,
+    "end": 2877,
+    "text": "... ... ... ..."
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 2877,
+    "length": 0,
+    "end": 2877,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 2877,
+    "length": 3,
+    "end": 2880,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 2880,
+    "length": 6,
+    "end": 2886,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 2886,
+    "length": 35,
+    "end": 2921,
+    "text": "Viu? Vocês dois ESTÃO brigando..."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 2921,
+    "length": 0,
+    "end": 2921,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 2921,
+    "length": 3,
+    "end": 2924,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 2924,
+    "length": 6,
+    "end": 2930,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 2930,
+    "length": 32,
+    "end": 2962,
+    "text": "Ufa...\nParece que eu consegui..."
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 2962,
+    "length": 0,
+    "end": 2962,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 2962,
+    "length": 3,
+    "end": 2965,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 2965,
+    "length": 4,
+    "end": 2969,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 2969,
+    "length": 50,
+    "end": 3019,
+    "text": "Nós... Éramos pra ser a combinação\nperfeita..."
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3019,
+    "length": 0,
+    "end": 3019,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3019,
+    "length": 3,
+    "end": 3022,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 3022,
+    "length": 5,
+    "end": 3027,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 3027,
+    "length": 51,
+    "end": 3078,
+    "text": "Desculpa, Kiba... Meus ataques\nficaram meio lentos."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3078,
+    "length": 0,
+    "end": 3078,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3078,
+    "length": 3,
+    "end": 3081,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 3081,
+    "length": 4,
+    "end": 3085,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 3085,
+    "length": 51,
+    "end": 3136,
+    "text": "Não, meu suporte que foi fraco...\nDesculpa, Shino."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 3136,
+    "length": 0,
+    "end": 3136,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 3136,
+    "length": 3,
+    "end": 3139,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 3139,
+    "length": 6,
+    "end": 3145,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 3145,
+    "length": 41,
+    "end": 3186,
+    "text": "Nossa, acho que vocês são mesmo\namigos."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 3186,
+    "length": 0,
+    "end": 3186,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 3186,
+    "length": 3,
+    "end": 3189,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 3189,
+    "length": 6,
+    "end": 3195,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 3195,
+    "length": 44,
+    "end": 3239,
+    "text": "Parece que eu estava errado, afinal!\nHahaha!"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 3239,
+    "length": 0,
+    "end": 3239,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 3239,
+    "length": 3,
+    "end": 3242,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 3242,
+    "length": 4,
+    "end": 3246,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 3246,
+    "length": 9,
+    "end": 3255,
+    "text": "........."
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 3255,
+    "length": 0,
+    "end": 3255,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 3255,
+    "length": 3,
+    "end": 3258,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 3258,
+    "length": 4,
+    "end": 3262,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 3262,
+    "length": 40,
+    "end": 3302,
+    "text": "(Cara, o ataque do Shino foi ridículo.)"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 3302,
+    "length": 0,
+    "end": 3302,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 3302,
+    "length": 3,
+    "end": 3305,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 3305,
+    "length": 5,
+    "end": 3310,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 3310,
+    "length": 66,
+    "end": 3376,
+    "text": "(Kiba... No que ele estava pensando\ncom aquele suporte? Idiota...)"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 3376,
+    "length": 0,
+    "end": 3376,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 3376,
+    "length": 3,
+    "end": 3379,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 3379,
+    "length": 6,
+    "end": 3385,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 3385,
+    "length": 26,
+    "end": 3411,
+    "text": "Tudo bem que termina bem!\n"
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 3411,
+    "length": 0,
+    "end": 3411,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 3411,
+    "length": 3,
+    "end": 3414,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 3414,
+    "length": 4,
+    "end": 3418,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 3418,
+    "length": 12,
+    "end": 3430,
+    "text": "... ... ...\n"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 3430,
+    "length": 0,
+    "end": 3430,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 3430,
+    "length": 3,
+    "end": 3433,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 3433,
+    "length": 5,
+    "end": 3438,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 3438,
+    "length": 11,
+    "end": 3449,
+    "text": "... ... ..."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 3449,
+    "length": 0,
+    "end": 3449,
+    "text": ""
+  }
+]

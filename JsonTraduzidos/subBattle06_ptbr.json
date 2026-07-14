@@ -1,0 +1,1730 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2749,
+    "length": 3,
+    "end": 2752,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 2752,
+    "length": 6,
+    "end": 2758,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 2758,
+    "length": 33,
+    "end": 2791,
+    "text": "Então é aqui que vocês estão."
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2791,
+    "length": 0,
+    "end": 2791,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2791,
+    "length": 3,
+    "end": 2794,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 2794,
+    "length": 5,
+    "end": 2799,
+    "text": "Gaara"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 2799,
+    "length": 17,
+    "end": 2816,
+    "text": "Naruto Uzumaki..."
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2816,
+    "length": 0,
+    "end": 2816,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2816,
+    "length": 3,
+    "end": 2819,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 2819,
+    "length": 6,
+    "end": 2825,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 2825,
+    "length": 67,
+    "end": 2892,
+    "text": "Ouvi dizer que estão\nprocurando uma luta contra\nos genin da Folha."
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2892,
+    "length": 0,
+    "end": 2892,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2892,
+    "length": 3,
+    "end": 2895,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2895,
+    "length": 7,
+    "end": 2902,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2902,
+    "length": 43,
+    "end": 2945,
+    "text": "Isso mesmo, contra os mais\nfortes de todos."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2945,
+    "length": 0,
+    "end": 2945,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2945,
+    "length": 3,
+    "end": 2948,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2948,
+    "length": 6,
+    "end": 2954,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2954,
+    "length": 76,
+    "end": 3030,
+    "text": "Já que viemos até aqui,\nqueríamos ter uma ideia das\nhabilidades da Folha."
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 3030,
+    "length": 0,
+    "end": 3030,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 3030,
+    "length": 3,
+    "end": 3033,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 3033,
+    "length": 7,
+    "end": 3040,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 3040,
+    "length": 59,
+    "end": 3099,
+    "text": "Então nos diga, tem alguma\nideia de qual time é o\nmelhor?"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 3099,
+    "length": 0,
+    "end": 3099,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 3099,
+    "length": 3,
+    "end": 3102,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 3102,
+    "length": 6,
+    "end": 3108,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 3108,
+    "length": 7,
+    "end": 3115,
+    "text": "Hmmm..."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 3115,
+    "length": 0,
+    "end": 3115,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 3115,
+    "length": 3,
+    "end": 3118,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 3118,
+    "length": 6,
+    "end": 3124,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 3124,
+    "length": 82,
+    "end": 3206,
+    "text": "(Será qual é o time mais\nforte... Time Guy... Time\nKurenai... ou Time Asuma...?)"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 3206,
+    "length": 0,
+    "end": 3206,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 3206,
+    "length": 3,
+    "end": 3209,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 3209,
+    "length": 6,
+    "end": 3215,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 3215,
+    "length": 41,
+    "end": 3256,
+    "text": "(Já lutei com todos, mais de\numa vez...)"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 3256,
+    "length": 0,
+    "end": 3256,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 3256,
+    "length": 3,
+    "end": 3259,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 3259,
+    "length": 6,
+    "end": 3265,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 3265,
+    "length": 7,
+    "end": 3272,
+    "text": "Hmmm..."
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 3272,
+    "length": 0,
+    "end": 3272,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 3272,
+    "length": 3,
+    "end": 3275,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 3275,
+    "length": 6,
+    "end": 3281,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 3281,
+    "length": 6,
+    "end": 3287,
+    "text": "Hmmmm."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 3287,
+    "length": 0,
+    "end": 3287,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 3287,
+    "length": 3,
+    "end": 3290,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 3290,
+    "length": 7,
+    "end": 3297,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 3297,
+    "length": 80,
+    "end": 3377,
+    "text": "Que diabos esse garoto está\nfazendo? Vai ficar aí parado\npensando o dia todo? "
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 3377,
+    "length": 0,
+    "end": 3377,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 3377,
+    "length": 3,
+    "end": 3380,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 3380,
+    "length": 6,
+    "end": 3386,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 3386,
+    "length": 69,
+    "end": 3455,
+    "text": "Kankuro, estamos perdendo\ntempo aqui. Vamos perguntar a\noutra pessoa."
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 3455,
+    "length": 0,
+    "end": 3455,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 3455,
+    "length": 3,
+    "end": 3458,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 3458,
+    "length": 7,
+    "end": 3465,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 3465,
+    "length": 12,
+    "end": 3477,
+    "text": "É, verdade."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 3477,
+    "length": 0,
+    "end": 3477,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 3477,
+    "length": 3,
+    "end": 3480,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 3480,
+    "length": 5,
+    "end": 3485,
+    "text": "Gaara"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 3485,
+    "length": 6,
+    "end": 3491,
+    "text": "......"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 3491,
+    "length": 0,
+    "end": 3491,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 3491,
+    "length": 3,
+    "end": 3494,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 3494,
+    "length": 6,
+    "end": 3500,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 3500,
+    "length": 6,
+    "end": 3506,
+    "text": "Hmmmm."
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 3506,
+    "length": 0,
+    "end": 3506,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 3506,
+    "length": 3,
+    "end": 3509,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 3509,
+    "length": 6,
+    "end": 3515,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 3515,
+    "length": 29,
+    "end": 3544,
+    "text": "Uh, hã? Pra onde eles foram?"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 3544,
+    "length": 0,
+    "end": 3544,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 3544,
+    "length": 3,
+    "end": 3547,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 3547,
+    "length": 6,
+    "end": 3553,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 3553,
+    "length": 6,
+    "end": 3559,
+    "text": "......"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 3559,
+    "length": 0,
+    "end": 3559,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 3559,
+    "length": 3,
+    "end": 3562,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 3562,
+    "length": 6,
+    "end": 3568,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 3568,
+    "length": 33,
+    "end": 3601,
+    "text": "Eles simplesmente foram\nembora..."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 3601,
+    "length": 0,
+    "end": 3601,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 3601,
+    "length": 3,
+    "end": 3604,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 3604,
+    "length": 6,
+    "end": 3610,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 3610,
+    "length": 8,
+    "end": 3618,
+    "text": "Enfim..."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3618,
+    "length": 0,
+    "end": 3618,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3618,
+    "length": 3,
+    "end": 3621,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 3621,
+    "length": 6,
+    "end": 3627,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 3627,
+    "length": 41,
+    "end": 3668,
+    "text": "(Não, não eles... Nem eles,\ntambém...)"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3668,
+    "length": 0,
+    "end": 3668,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3668,
+    "length": 3,
+    "end": 3671,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 3671,
+    "length": 6,
+    "end": 3677,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 3677,
+    "length": 48,
+    "end": 3725,
+    "text": "Já sei! O time mais forte\nsomos nós, o Time 7!"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 3725,
+    "length": 0,
+    "end": 3725,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 3725,
+    "length": 3,
+    "end": 3728,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 3728,
+    "length": 7,
+    "end": 3735,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 3735,
+    "length": 7,
+    "end": 3742,
+    "text": "Vocês?"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 3742,
+    "length": 0,
+    "end": 3742,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 3742,
+    "length": 3,
+    "end": 3745,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 3745,
+    "length": 6,
+    "end": 3751,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 3751,
+    "length": 60,
+    "end": 3811,
+    "text": "Isso mesmo! E eu, Naruto\nUzumaki, sou o mais forte de\ntodos!"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3811,
+    "length": 0,
+    "end": 3811,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3811,
+    "length": 3,
+    "end": 3814,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 3814,
+    "length": 6,
+    "end": 3820,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 3820,
+    "length": 6,
+    "end": 3826,
+    "text": "Hã..."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3826,
+    "length": 0,
+    "end": 3826,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3826,
+    "length": 3,
+    "end": 3829,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 3829,
+    "length": 7,
+    "end": 3836,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 3836,
+    "length": 55,
+    "end": 3891,
+    "text": "Que conveniente. Então vamos\nter uma luta agora mesmo."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 3891,
+    "length": 0,
+    "end": 3891,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 3891,
+    "length": 3,
+    "end": 3894,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 3894,
+    "length": 6,
+    "end": 3900,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 3900,
+    "length": 57,
+    "end": 3957,
+    "text": "Certo. Eu provavelmente vou\nte vencer, de qualquer jeito."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 3957,
+    "length": 0,
+    "end": 3957,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 3957,
+    "length": 3,
+    "end": 3960,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 3960,
+    "length": 6,
+    "end": 3966,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 3966,
+    "length": 80,
+    "end": 4046,
+    "text": "Hehe! Vamos ver. Desafiamos\noficialmente o poderoso Naruto\nUzumaki pra uma luta!"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 4046,
+    "length": 0,
+    "end": 4046,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 4046,
+    "length": 3,
+    "end": 4049,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 4049,
+    "length": 6,
+    "end": 4055,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 4055,
+    "length": 35,
+    "end": 4090,
+    "text": "Combinado, sem problema!\nManda ver!"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 4090,
+    "length": 0,
+    "end": 4090,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 4090,
+    "length": 3,
+    "end": 4093,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 4093,
+    "length": 5,
+    "end": 4098,
+    "text": "Gaara"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 4098,
+    "length": 61,
+    "end": 4159,
+    "text": "Naruto Uzumaki como\noponente... Isso pode ser\ninteressante..."
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 4159,
+    "length": 0,
+    "end": 4159,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 4159,
+    "length": 3,
+    "end": 4162,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 4162,
+    "length": 6,
+    "end": 4168,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 4168,
+    "length": 20,
+    "end": 4188,
+    "text": "Cuidado, lá vou eu!"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 4188,
+    "length": 0,
+    "end": 4188,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 4188,
+    "length": 3,
+    "end": 4191,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 4191,
+    "length": 6,
+    "end": 4197,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 4197,
+    "length": 7,
+    "end": 4204,
+    "text": "Argh..."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 4204,
+    "length": 0,
+    "end": 4204,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 4204,
+    "length": 3,
+    "end": 4207,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 4207,
+    "length": 7,
+    "end": 4214,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 4214,
+    "length": 52,
+    "end": 4266,
+    "text": "O que foi isso...? E VOCÊ é\no mais forte de todos?"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 4266,
+    "length": 0,
+    "end": 4266,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 4266,
+    "length": 3,
+    "end": 4269,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 4269,
+    "length": 6,
+    "end": 4275,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 4275,
+    "length": 29,
+    "end": 4304,
+    "text": "Ele estava mentindo, Kankuro."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 4304,
+    "length": 0,
+    "end": 4304,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 4304,
+    "length": 3,
+    "end": 4307,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 4307,
+    "length": 7,
+    "end": 4314,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 4314,
+    "length": 13,
+    "end": 4327,
+    "text": "Acho que sim."
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 4327,
+    "length": 0,
+    "end": 4327,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 4327,
+    "length": 3,
+    "end": 4330,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 4330,
+    "length": 6,
+    "end": 4336,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 4336,
+    "length": 50,
+    "end": 4386,
+    "text": "Estamos perdendo tempo lutando\ncom um cara desses."
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 4386,
+    "length": 0,
+    "end": 4386,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 4386,
+    "length": 3,
+    "end": 4389,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 4389,
+    "length": 6,
+    "end": 4395,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 4395,
+    "length": 22,
+    "end": 4417,
+    "text": "Vamos, Gaara, Kankuro."
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 4417,
+    "length": 0,
+    "end": 4417,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 4417,
+    "length": 3,
+    "end": 4420,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 4420,
+    "length": 6,
+    "end": 4426,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 4426,
+    "length": 6,
+    "end": 4432,
+    "text": "......"
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 4432,
+    "length": 0,
+    "end": 4432,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 4432,
+    "length": 3,
+    "end": 4435,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 4435,
+    "length": 6,
+    "end": 4441,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 4441,
+    "length": 8,
+    "end": 4449,
+    "text": "Droga..."
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 4449,
+    "length": 0,
+    "end": 4449,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 4449,
+    "length": 3,
+    "end": 4452,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 4452,
+    "length": 5,
+    "end": 4457,
+    "text": "Gaara"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 4457,
+    "length": 6,
+    "end": 4463,
+    "text": "Urk..."
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 4463,
+    "length": 0,
+    "end": 4463,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 4463,
+    "length": 3,
+    "end": 4466,
+    "text": "041"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 4466,
+    "length": 6,
+    "end": 4472,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 4472,
+    "length": 79,
+    "end": 4551,
+    "text": "Agora vocês sabem. Sou o mais\nforte de todos os genin da\nVila Oculta da Folha!"
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 4551,
+    "length": 0,
+    "end": 4551,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 4551,
+    "length": 3,
+    "end": 4554,
+    "text": "042"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 4554,
+    "length": 7,
+    "end": 4561,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 4561,
+    "length": 32,
+    "end": 4593,
+    "text": "Ah, hã... Eu acredito em você."
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 4593,
+    "length": 0,
+    "end": 4593,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 4593,
+    "length": 3,
+    "end": 4596,
+    "text": "043"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 4596,
+    "length": 6,
+    "end": 4602,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 4602,
+    "length": 17,
+    "end": 4619,
+    "text": "É... Quem diria?"
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 4619,
+    "length": 0,
+    "end": 4619,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 4619,
+    "length": 3,
+    "end": 4622,
+    "text": "044"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 4622,
+    "length": 5,
+    "end": 4627,
+    "text": "Gaara"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 4627,
+    "length": 6,
+    "end": 4633,
+    "text": "......"
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 4633,
+    "length": 0,
+    "end": 4633,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 4633,
+    "length": 3,
+    "end": 4636,
+    "text": "045"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 4636,
+    "length": 5,
+    "end": 4641,
+    "text": "Gaara"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 4641,
+    "length": 17,
+    "end": 4658,
+    "text": "Naruto Uzumaki..."
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 4658,
+    "length": 0,
+    "end": 4658,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 4658,
+    "length": 3,
+    "end": 4661,
+    "text": "046"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 4661,
+    "length": 6,
+    "end": 4667,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 4667,
+    "length": 7,
+    "end": 4674,
+    "text": "O quê?"
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 4674,
+    "length": 0,
+    "end": 4674,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 4674,
+    "length": 3,
+    "end": 4677,
+    "text": "047"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 4677,
+    "length": 5,
+    "end": 4682,
+    "text": "Gaara"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 4682,
+    "length": 48,
+    "end": 4730,
+    "text": "Devo admitir... Gostei\ndessa luta... Obrigado..."
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 4730,
+    "length": 0,
+    "end": 4730,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 4730,
+    "length": 3,
+    "end": 4733,
+    "text": "048"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-implicit",
+    "start": 4733,
+    "length": 7,
+    "end": 4740,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-explicit",
+    "start": 4740,
+    "length": 8,
+    "end": 4748,
+    "text": "Gaara..."
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 4748,
+    "length": 0,
+    "end": 4748,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 4748,
+    "length": 3,
+    "end": 4751,
+    "text": "049"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-implicit",
+    "start": 4751,
+    "length": 6,
+    "end": 4757,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-explicit",
+    "start": 4757,
+    "length": 49,
+    "end": 4806,
+    "text": "Hehehe! Vamos fazer isso de\nnovo em breve, Gaara!"
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 4806,
+    "length": 0,
+    "end": 4806,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 4806,
+    "length": 3,
+    "end": 4809,
+    "text": "050"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-implicit",
+    "start": 4809,
+    "length": 5,
+    "end": 4814,
+    "text": "Gaara"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-explicit",
+    "start": 4814,
+    "length": 34,
+    "end": 4848,
+    "text": "Combinado. Estou ansioso por\nisso."
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 4848,
+    "length": 0,
+    "end": 4848,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 4848,
+    "length": 3,
+    "end": 4851,
+    "text": "051"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-implicit",
+    "start": 4851,
+    "length": 7,
+    "end": 4858,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-explicit",
+    "start": 4858,
+    "length": 80,
+    "end": 4938,
+    "text": "(Hã... Não gosto de perder,\nmas contanto que o Gaara\nesteja feliz, eu aceito.)"
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 4938,
+    "length": 0,
+    "end": 4938,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 4938,
+    "length": 3,
+    "end": 4941,
+    "text": "052"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-implicit",
+    "start": 4941,
+    "length": 5,
+    "end": 4946,
+    "text": "Gaara"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-explicit",
+    "start": 4946,
+    "length": 42,
+    "end": 4988,
+    "text": "Um dia talvez eu até... goste\nde você..."
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 4988,
+    "length": 0,
+    "end": 4988,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 4988,
+    "length": 3,
+    "end": 4991,
+    "text": "053"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-implicit",
+    "start": 4991,
+    "length": 7,
+    "end": 4998,
+    "text": "Kankuro"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-explicit",
+    "start": 4998,
+    "length": 73,
+    "end": 5071,
+    "text": "Isso é uma surpresa. Nunca\nouvi o Gaara elogiar um\noponente assim antes."
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 5071,
+    "length": 0,
+    "end": 5071,
+    "text": ""
+  },
+  {
+    "table_pos": 2608,
+    "mode": "A",
+    "start": 5071,
+    "length": 3,
+    "end": 5074,
+    "text": "054"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-implicit",
+    "start": 5074,
+    "length": 6,
+    "end": 5080,
+    "text": "Temari"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-explicit",
+    "start": 5080,
+    "length": 59,
+    "end": 5139,
+    "text": "Contanto que o Gaara esteja\nfeliz, está tudo bem pra nós."
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 5139,
+    "length": 0,
+    "end": 5139,
+    "text": ""
+  }
+]

@@ -1,0 +1,1922 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 4062,
+    "length": 1,
+    "end": 4063,
+    "text": "0"
+  },
+  {
+    "table_pos": 80,
+    "mode": "A",
+    "start": 4063,
+    "length": 8,
+    "end": 4071,
+    "text": "Nenhuma."
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 4071,
+    "length": 0,
+    "end": 4071,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 4071,
+    "length": 1,
+    "end": 4072,
+    "text": "1"
+  },
+  {
+    "table_pos": 128,
+    "mode": "A",
+    "start": 4072,
+    "length": 17,
+    "end": 4089,
+    "text": "Vença a batalha."
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 4089,
+    "length": 0,
+    "end": 4089,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 4089,
+    "length": 1,
+    "end": 4090,
+    "text": "2"
+  },
+  {
+    "table_pos": 176,
+    "mode": "A",
+    "start": 4090,
+    "length": 23,
+    "end": 4113,
+    "text": "Lute no Modo Despertar."
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 4113,
+    "length": 0,
+    "end": 4113,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 4113,
+    "length": 1,
+    "end": 4114,
+    "text": "3"
+  },
+  {
+    "table_pos": 224,
+    "mode": "A",
+    "start": 4114,
+    "length": 53,
+    "end": 4167,
+    "text": "Em um estado onde o Modo\nDespertar não é possível."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 4167,
+    "length": 0,
+    "end": 4167,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 4167,
+    "length": 1,
+    "end": 4168,
+    "text": "4"
+  },
+  {
+    "table_pos": 272,
+    "mode": "A",
+    "start": 4168,
+    "length": 54,
+    "end": 4222,
+    "text": "Em um estado onde o Jutsu\nSupremo está inutilizável."
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 4222,
+    "length": 0,
+    "end": 4222,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 4222,
+    "length": 1,
+    "end": 4223,
+    "text": "5"
+  },
+  {
+    "table_pos": 320,
+    "mode": "A",
+    "start": 4223,
+    "length": 49,
+    "end": 4272,
+    "text": "Vença com pelo menos uma\nbarra de vida restante."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 4272,
+    "length": 0,
+    "end": 4272,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 4272,
+    "length": 1,
+    "end": 4273,
+    "text": "6"
+  },
+  {
+    "table_pos": 368,
+    "mode": "A",
+    "start": 4273,
+    "length": 52,
+    "end": 4325,
+    "text": "Vença com pelo menos duas\nbarras de vida restantes."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 4325,
+    "length": 0,
+    "end": 4325,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 4325,
+    "length": 1,
+    "end": 4326,
+    "text": "7"
+  },
+  {
+    "table_pos": 416,
+    "mode": "A",
+    "start": 4326,
+    "length": 45,
+    "end": 4371,
+    "text": "Vença com pelo menos 30%\nde chakra restante."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 4371,
+    "length": 0,
+    "end": 4371,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 4371,
+    "length": 1,
+    "end": 4372,
+    "text": "8"
+  },
+  {
+    "table_pos": 464,
+    "mode": "A",
+    "start": 4372,
+    "length": 45,
+    "end": 4417,
+    "text": "Vença com pelo menos 50%\nde chakra restante."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 4417,
+    "length": 0,
+    "end": 4417,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 4417,
+    "length": 1,
+    "end": 4418,
+    "text": "9"
+  },
+  {
+    "table_pos": 512,
+    "mode": "A",
+    "start": 4418,
+    "length": 45,
+    "end": 4463,
+    "text": "Vença com pelo menos 70%\nde chakra restante."
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 4463,
+    "length": 0,
+    "end": 4463,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 4463,
+    "length": 2,
+    "end": 4465,
+    "text": "10"
+  },
+  {
+    "table_pos": 560,
+    "mode": "A",
+    "start": 4465,
+    "length": 35,
+    "end": 4500,
+    "text": "Vença com 100% de chakra restante."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 4500,
+    "length": 0,
+    "end": 4500,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 4500,
+    "length": 2,
+    "end": 4502,
+    "text": "11"
+  },
+  {
+    "table_pos": 608,
+    "mode": "A",
+    "start": 4502,
+    "length": 39,
+    "end": 4541,
+    "text": "Derrote o inimigo em até 40 contagens."
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 4541,
+    "length": 0,
+    "end": 4541,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 4541,
+    "length": 2,
+    "end": 4543,
+    "text": "12"
+  },
+  {
+    "table_pos": 656,
+    "mode": "A",
+    "start": 4543,
+    "length": 39,
+    "end": 4582,
+    "text": "Derrote o inimigo em até 60 contagens."
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 4582,
+    "length": 0,
+    "end": 4582,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 4582,
+    "length": 2,
+    "end": 4584,
+    "text": "13"
+  },
+  {
+    "table_pos": 704,
+    "mode": "A",
+    "start": 4584,
+    "length": 39,
+    "end": 4623,
+    "text": "Derrote o inimigo em até 80 contagens."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 4623,
+    "length": 0,
+    "end": 4623,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 4623,
+    "length": 2,
+    "end": 4625,
+    "text": "14"
+  },
+  {
+    "table_pos": 752,
+    "mode": "A",
+    "start": 4625,
+    "length": 33,
+    "end": 4658,
+    "text": "Derrote o inimigo arremessando-o."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 4658,
+    "length": 0,
+    "end": 4658,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 4658,
+    "length": 2,
+    "end": 4660,
+    "text": "15"
+  },
+  {
+    "table_pos": 800,
+    "mode": "A",
+    "start": 4660,
+    "length": 31,
+    "end": 4691,
+    "text": "Derrote o inimigo com ninjutsu."
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 4691,
+    "length": 0,
+    "end": 4691,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 4691,
+    "length": 2,
+    "end": 4693,
+    "text": "16"
+  },
+  {
+    "table_pos": 848,
+    "mode": "A",
+    "start": 4693,
+    "length": 39,
+    "end": 4732,
+    "text": "Derrote o inimigo com um\nJutsu Supremo."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 4732,
+    "length": 0,
+    "end": 4732,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 4732,
+    "length": 2,
+    "end": 4734,
+    "text": "17"
+  },
+  {
+    "table_pos": 896,
+    "mode": "A",
+    "start": 4734,
+    "length": 36,
+    "end": 4770,
+    "text": "Derrote o inimigo no\nModo Despertar."
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 4770,
+    "length": 0,
+    "end": 4770,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 4770,
+    "length": 2,
+    "end": 4772,
+    "text": "18"
+  },
+  {
+    "table_pos": 944,
+    "mode": "A",
+    "start": 4772,
+    "length": 47,
+    "end": 4819,
+    "text": "Vença com um Impacto Supremo\ncomo golpe final."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 4819,
+    "length": 0,
+    "end": 4819,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 4819,
+    "length": 2,
+    "end": 4821,
+    "text": "19"
+  },
+  {
+    "table_pos": 992,
+    "mode": "A",
+    "start": 4821,
+    "length": 49,
+    "end": 4870,
+    "text": "Vença com um ataque de suporte\ncomo golpe final."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 4870,
+    "length": 0,
+    "end": 4870,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 4870,
+    "length": 2,
+    "end": 4872,
+    "text": "20"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "A",
+    "start": 4872,
+    "length": 25,
+    "end": 4897,
+    "text": "Sem falhar nenhum ataque."
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 4897,
+    "length": 0,
+    "end": 4897,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 4897,
+    "length": 2,
+    "end": 4899,
+    "text": "21"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "A",
+    "start": 4899,
+    "length": 10,
+    "end": 4909,
+    "text": "Sem pular."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 4909,
+    "length": 0,
+    "end": 4909,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 4909,
+    "length": 2,
+    "end": 4911,
+    "text": "22"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "A",
+    "start": 4911,
+    "length": 35,
+    "end": 4946,
+    "text": "Não use o Jutsu de Substituição."
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 4946,
+    "length": 0,
+    "end": 4946,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 4946,
+    "length": 2,
+    "end": 4948,
+    "text": "23"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "A",
+    "start": 4948,
+    "length": 37,
+    "end": 4985,
+    "text": "Não se defenda dos ataques inimigos."
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 4985,
+    "length": 0,
+    "end": 4985,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 4985,
+    "length": 2,
+    "end": 4987,
+    "text": "24"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "A",
+    "start": 4987,
+    "length": 34,
+    "end": 5021,
+    "text": "Sem usar nenhuma ferramenta ninja."
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 5021,
+    "length": 0,
+    "end": 5021,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 5021,
+    "length": 2,
+    "end": 5023,
+    "text": "25"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "A",
+    "start": 5023,
+    "length": 13,
+    "end": 5036,
+    "text": "Sem ninjutsu."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 5036,
+    "length": 0,
+    "end": 5036,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 5036,
+    "length": 2,
+    "end": 5038,
+    "text": "26"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "A",
+    "start": 5038,
+    "length": 30,
+    "end": 5068,
+    "text": "Não use nenhum Jutsu Supremo."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 5068,
+    "length": 0,
+    "end": 5068,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 5068,
+    "length": 2,
+    "end": 5070,
+    "text": "27"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "A",
+    "start": 5070,
+    "length": 44,
+    "end": 5114,
+    "text": "Não deixe o oponente usar\num Jutsu Supremo."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 5114,
+    "length": 0,
+    "end": 5114,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 5114,
+    "length": 2,
+    "end": 5116,
+    "text": "28"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "A",
+    "start": 5116,
+    "length": 49,
+    "end": 5165,
+    "text": "Use o Jutsu de Substituição\npelo menos 2 vezes."
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 5165,
+    "length": 0,
+    "end": 5165,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 5165,
+    "length": 2,
+    "end": 5167,
+    "text": "29"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "A",
+    "start": 5167,
+    "length": 49,
+    "end": 5216,
+    "text": "Use o Jutsu de Substituição\npelo menos 4 vezes."
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 5216,
+    "length": 0,
+    "end": 5216,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 5216,
+    "length": 2,
+    "end": 5218,
+    "text": "30"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "A",
+    "start": 5218,
+    "length": 49,
+    "end": 5267,
+    "text": "Use o Jutsu de Substituição\npelo menos 6 vezes."
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 5267,
+    "length": 0,
+    "end": 5267,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 5267,
+    "length": 2,
+    "end": 5269,
+    "text": "31"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "A",
+    "start": 5269,
+    "length": 33,
+    "end": 5302,
+    "text": "Invoque um personagem de suporte."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 5302,
+    "length": 0,
+    "end": 5302,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 5302,
+    "length": 2,
+    "end": 5304,
+    "text": "32"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "A",
+    "start": 5304,
+    "length": 52,
+    "end": 5356,
+    "text": "Invoque um personagem de\nsuporte pelo menos 2 vezes."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 5356,
+    "length": 0,
+    "end": 5356,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 5356,
+    "length": 2,
+    "end": 5358,
+    "text": "33"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "A",
+    "start": 5358,
+    "length": 52,
+    "end": 5410,
+    "text": "Invoque um personagem de\nsuporte pelo menos 3 vezes."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 5410,
+    "length": 0,
+    "end": 5410,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 5410,
+    "length": 2,
+    "end": 5412,
+    "text": "34"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "A",
+    "start": 5412,
+    "length": 52,
+    "end": 5464,
+    "text": "Invoque um personagem de\nsuporte pelo menos 4 vezes."
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 5464,
+    "length": 0,
+    "end": 5464,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 5464,
+    "length": 2,
+    "end": 5466,
+    "text": "35"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "A",
+    "start": 5466,
+    "length": 53,
+    "end": 5519,
+    "text": "Acerte pelo menos 3 golpes\nextras num inimigo caído."
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 5519,
+    "length": 0,
+    "end": 5519,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 5519,
+    "length": 2,
+    "end": 5521,
+    "text": "36"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "A",
+    "start": 5521,
+    "length": 53,
+    "end": 5574,
+    "text": "Acerte pelo menos 4 golpes\nextras num inimigo caído."
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 5574,
+    "length": 0,
+    "end": 5574,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 5574,
+    "length": 2,
+    "end": 5576,
+    "text": "37"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "A",
+    "start": 5576,
+    "length": 53,
+    "end": 5629,
+    "text": "Acerte pelo menos 6 golpes\nextras num inimigo caído."
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 5629,
+    "length": 0,
+    "end": 5629,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 5629,
+    "length": 2,
+    "end": 5631,
+    "text": "38"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "A",
+    "start": 5631,
+    "length": 34,
+    "end": 5665,
+    "text": "Realize um Golpe Extra de Suporte."
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 5665,
+    "length": 0,
+    "end": 5665,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 5665,
+    "length": 2,
+    "end": 5667,
+    "text": "39"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "A",
+    "start": 5667,
+    "length": 42,
+    "end": 5709,
+    "text": "Realize um Golpe Extra de\nSuporte 3 vezes."
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 5709,
+    "length": 0,
+    "end": 5709,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 5709,
+    "length": 2,
+    "end": 5711,
+    "text": "40"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "A",
+    "start": 5711,
+    "length": 29,
+    "end": 5740,
+    "text": "Acerte com o Impacto Supremo."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 5740,
+    "length": 0,
+    "end": 5740,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 5740,
+    "length": 2,
+    "end": 5742,
+    "text": "41"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "A",
+    "start": 5742,
+    "length": 37,
+    "end": 5779,
+    "text": "Acerte com o Impacto\nSupremo 2 vezes."
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 5779,
+    "length": 0,
+    "end": 5779,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 5779,
+    "length": 2,
+    "end": 5781,
+    "text": "42"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "A",
+    "start": 5781,
+    "length": 37,
+    "end": 5818,
+    "text": "Acerte com o Impacto\nSupremo 3 vezes."
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 5818,
+    "length": 0,
+    "end": 5818,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 5818,
+    "length": 2,
+    "end": 5820,
+    "text": "43"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "A",
+    "start": 5820,
+    "length": 29,
+    "end": 5849,
+    "text": "Realize um combo de 5 golpes."
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 5849,
+    "length": 0,
+    "end": 5849,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 5849,
+    "length": 2,
+    "end": 5851,
+    "text": "44"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "A",
+    "start": 5851,
+    "length": 30,
+    "end": 5881,
+    "text": "Realize um combo de 10 golpes."
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 5881,
+    "length": 0,
+    "end": 5881,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 5881,
+    "length": 2,
+    "end": 5883,
+    "text": "45"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "A",
+    "start": 5883,
+    "length": 30,
+    "end": 5913,
+    "text": "Realize um combo de 15 golpes."
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 5913,
+    "length": 0,
+    "end": 5913,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 5913,
+    "length": 2,
+    "end": 5915,
+    "text": "46"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "A",
+    "start": 5915,
+    "length": 30,
+    "end": 5945,
+    "text": "Realize um combo de 20 golpes."
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 5945,
+    "length": 0,
+    "end": 5945,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 5945,
+    "length": 2,
+    "end": 5947,
+    "text": "47"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "A",
+    "start": 5947,
+    "length": 30,
+    "end": 5977,
+    "text": "Realize um combo de 25 golpes."
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 5977,
+    "length": 0,
+    "end": 5977,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 5977,
+    "length": 2,
+    "end": 5979,
+    "text": "48"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "A",
+    "start": 5979,
+    "length": 30,
+    "end": 6009,
+    "text": "Realize um combo de 30 golpes."
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 6009,
+    "length": 0,
+    "end": 6009,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 6009,
+    "length": 2,
+    "end": 6011,
+    "text": "49"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "A",
+    "start": 6011,
+    "length": 30,
+    "end": 6041,
+    "text": "Realize um combo de 35 golpes."
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 6041,
+    "length": 0,
+    "end": 6041,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 6041,
+    "length": 2,
+    "end": 6043,
+    "text": "50"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "A",
+    "start": 6043,
+    "length": 30,
+    "end": 6073,
+    "text": "Realize um combo de 40 golpes."
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 6073,
+    "length": 0,
+    "end": 6073,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 6073,
+    "length": 2,
+    "end": 6075,
+    "text": "51"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "A",
+    "start": 6075,
+    "length": 30,
+    "end": 6105,
+    "text": "Realize um combo de 45 golpes."
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 6105,
+    "length": 0,
+    "end": 6105,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 6105,
+    "length": 2,
+    "end": 6107,
+    "text": "52"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "A",
+    "start": 6107,
+    "length": 30,
+    "end": 6137,
+    "text": "Realize um combo de 50 golpes."
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 6137,
+    "length": 0,
+    "end": 6137,
+    "text": ""
+  },
+  {
+    "table_pos": 2608,
+    "mode": "A",
+    "start": 6137,
+    "length": 2,
+    "end": 6139,
+    "text": "53"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "A",
+    "start": 6139,
+    "length": 21,
+    "end": 6160,
+    "text": "Use o Modo Despertar."
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 6160,
+    "length": 0,
+    "end": 6160,
+    "text": ""
+  },
+  {
+    "table_pos": 2656,
+    "mode": "A",
+    "start": 6160,
+    "length": 2,
+    "end": 6162,
+    "text": "54"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "A",
+    "start": 6162,
+    "length": 21,
+    "end": 6183,
+    "text": "Use um Jutsu Supremo."
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 6183,
+    "length": 0,
+    "end": 6183,
+    "text": ""
+  },
+  {
+    "table_pos": 2704,
+    "mode": "A",
+    "start": 6183,
+    "length": 2,
+    "end": 6185,
+    "text": "55"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "A",
+    "start": 6185,
+    "length": 33,
+    "end": 6218,
+    "text": "Encha totalmente o Medidor Storm."
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 6218,
+    "length": 0,
+    "end": 6218,
+    "text": ""
+  },
+  {
+    "table_pos": 2752,
+    "mode": "A",
+    "start": 6218,
+    "length": 2,
+    "end": 6220,
+    "text": "56"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "A",
+    "start": 6220,
+    "length": 52,
+    "end": 6272,
+    "text": "Use um Jutsu Supremo com o\nMedidor Storm no MÁXIMO."
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 6272,
+    "length": 0,
+    "end": 6272,
+    "text": ""
+  },
+  {
+    "table_pos": 2800,
+    "mode": "A",
+    "start": 6272,
+    "length": 2,
+    "end": 6274,
+    "text": "57"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "A",
+    "start": 6274,
+    "length": 36,
+    "end": 6310,
+    "text": "Em um estado de velocidade reduzida."
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 6310,
+    "length": 0,
+    "end": 6310,
+    "text": ""
+  },
+  {
+    "table_pos": 2848,
+    "mode": "A",
+    "start": 6310,
+    "length": 2,
+    "end": 6312,
+    "text": "58"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "A",
+    "start": 6312,
+    "length": 38,
+    "end": 6350,
+    "text": "Em um estado de baixo poder\nde ataque."
+  },
+  {
+    "table_pos": 2880,
+    "mode": "A",
+    "start": 6350,
+    "length": 0,
+    "end": 6350,
+    "text": ""
+  },
+  {
+    "table_pos": 2896,
+    "mode": "A",
+    "start": 6350,
+    "length": 2,
+    "end": 6352,
+    "text": "59"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "A",
+    "start": 6352,
+    "length": 38,
+    "end": 6390,
+    "text": "Em um estado de baixo poder\nde defesa."
+  },
+  {
+    "table_pos": 2928,
+    "mode": "A",
+    "start": 6390,
+    "length": 0,
+    "end": 6390,
+    "text": ""
+  },
+  {
+    "table_pos": 2944,
+    "mode": "A",
+    "start": 6390,
+    "length": 2,
+    "end": 6392,
+    "text": "60"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "A",
+    "start": 6392,
+    "length": 24,
+    "end": 6416,
+    "text": "Em um estado envenenado."
+  },
+  {
+    "table_pos": 2976,
+    "mode": "A",
+    "start": 6416,
+    "length": 0,
+    "end": 6416,
+    "text": ""
+  },
+  {
+    "table_pos": 2992,
+    "mode": "A",
+    "start": 6416,
+    "length": 2,
+    "end": 6418,
+    "text": "61"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "A",
+    "start": 6418,
+    "length": 36,
+    "end": 6454,
+    "text": "Comece com apenas uma barra de vida."
+  },
+  {
+    "table_pos": 3024,
+    "mode": "A",
+    "start": 6454,
+    "length": 0,
+    "end": 6454,
+    "text": ""
+  },
+  {
+    "table_pos": 3040,
+    "mode": "A",
+    "start": 6454,
+    "length": 2,
+    "end": 6456,
+    "text": "62"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "A",
+    "start": 6456,
+    "length": 38,
+    "end": 6494,
+    "text": "Comece com apenas duas barras de vida."
+  },
+  {
+    "table_pos": 3072,
+    "mode": "A",
+    "start": 6494,
+    "length": 0,
+    "end": 6494,
+    "text": ""
+  },
+  {
+    "table_pos": 3088,
+    "mode": "A",
+    "start": 6494,
+    "length": 2,
+    "end": 6496,
+    "text": "63"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "A",
+    "start": 6496,
+    "length": 24,
+    "end": 6520,
+    "text": "Em um estado sem chakra."
+  },
+  {
+    "table_pos": 3120,
+    "mode": "A",
+    "start": 6520,
+    "length": 0,
+    "end": 6520,
+    "text": ""
+  },
+  {
+    "table_pos": 3136,
+    "mode": "A",
+    "start": 6520,
+    "length": 2,
+    "end": 6522,
+    "text": "64"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "A",
+    "start": 6522,
+    "length": 25,
+    "end": 6547,
+    "text": "Comece com chakra em 30%."
+  },
+  {
+    "table_pos": 3168,
+    "mode": "A",
+    "start": 6547,
+    "length": 0,
+    "end": 6547,
+    "text": ""
+  },
+  {
+    "table_pos": 3184,
+    "mode": "A",
+    "start": 6547,
+    "length": 2,
+    "end": 6549,
+    "text": "65"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "A",
+    "start": 6549,
+    "length": 25,
+    "end": 6574,
+    "text": "Comece com chakra em 50%."
+  },
+  {
+    "table_pos": 3216,
+    "mode": "A",
+    "start": 6574,
+    "length": 0,
+    "end": 6574,
+    "text": ""
+  },
+  {
+    "table_pos": 3232,
+    "mode": "A",
+    "start": 6574,
+    "length": 2,
+    "end": 6576,
+    "text": "66"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "A",
+    "start": 6576,
+    "length": 25,
+    "end": 6601,
+    "text": "Comece com chakra em 70%."
+  },
+  {
+    "table_pos": 3264,
+    "mode": "A",
+    "start": 6601,
+    "length": 0,
+    "end": 6601,
+    "text": ""
+  },
+  {
+    "table_pos": 3280,
+    "mode": "A",
+    "start": 6601,
+    "length": 2,
+    "end": 6603,
+    "text": "67"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "A",
+    "start": 6603,
+    "length": 38,
+    "end": 6641,
+    "text": "Em um estado com chakra\ninutilizável."
+  },
+  {
+    "table_pos": 3312,
+    "mode": "A",
+    "start": 6641,
+    "length": 0,
+    "end": 6641,
+    "text": ""
+  },
+  {
+    "table_pos": 3328,
+    "mode": "A",
+    "start": 6641,
+    "length": 2,
+    "end": 6643,
+    "text": "68"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "A",
+    "start": 6643,
+    "length": 30,
+    "end": 6673,
+    "text": "Com o inimigo em estado veloz."
+  },
+  {
+    "table_pos": 3360,
+    "mode": "A",
+    "start": 6673,
+    "length": 0,
+    "end": 6673,
+    "text": ""
+  },
+  {
+    "table_pos": 3376,
+    "mode": "A",
+    "start": 6673,
+    "length": 2,
+    "end": 6675,
+    "text": "69"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "A",
+    "start": 6675,
+    "length": 30,
+    "end": 6705,
+    "text": "Com o inimigo em estado veloz."
+  },
+  {
+    "table_pos": 3408,
+    "mode": "A",
+    "start": 6705,
+    "length": 0,
+    "end": 6705,
+    "text": ""
+  },
+  {
+    "table_pos": 3424,
+    "mode": "A",
+    "start": 6705,
+    "length": 2,
+    "end": 6707,
+    "text": "70"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "A",
+    "start": 6707,
+    "length": 30,
+    "end": 6737,
+    "text": "Com o inimigo em estado veloz."
+  },
+  {
+    "table_pos": 3456,
+    "mode": "A",
+    "start": 6737,
+    "length": 0,
+    "end": 6737,
+    "text": ""
+  },
+  {
+    "table_pos": 3472,
+    "mode": "A",
+    "start": 6737,
+    "length": 2,
+    "end": 6739,
+    "text": "71"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "A",
+    "start": 6739,
+    "length": 41,
+    "end": 6780,
+    "text": "Com o poder de ataque do\ninimigo elevado."
+  },
+  {
+    "table_pos": 3504,
+    "mode": "A",
+    "start": 6780,
+    "length": 0,
+    "end": 6780,
+    "text": ""
+  },
+  {
+    "table_pos": 3520,
+    "mode": "A",
+    "start": 6780,
+    "length": 2,
+    "end": 6782,
+    "text": "72"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "A",
+    "start": 6782,
+    "length": 41,
+    "end": 6823,
+    "text": "Com o poder de ataque do\ninimigo elevado."
+  },
+  {
+    "table_pos": 3552,
+    "mode": "A",
+    "start": 6823,
+    "length": 0,
+    "end": 6823,
+    "text": ""
+  },
+  {
+    "table_pos": 3568,
+    "mode": "A",
+    "start": 6823,
+    "length": 2,
+    "end": 6825,
+    "text": "73"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "A",
+    "start": 6825,
+    "length": 41,
+    "end": 6866,
+    "text": "Com o poder de ataque do\ninimigo elevado."
+  },
+  {
+    "table_pos": 3600,
+    "mode": "A",
+    "start": 6866,
+    "length": 0,
+    "end": 6866,
+    "text": ""
+  },
+  {
+    "table_pos": 3616,
+    "mode": "A",
+    "start": 6866,
+    "length": 2,
+    "end": 6868,
+    "text": "74"
+  },
+  {
+    "table_pos": 3632,
+    "mode": "A",
+    "start": 6868,
+    "length": 41,
+    "end": 6909,
+    "text": "Com o poder de defesa do\ninimigo elevado."
+  },
+  {
+    "table_pos": 3648,
+    "mode": "A",
+    "start": 6909,
+    "length": 0,
+    "end": 6909,
+    "text": ""
+  },
+  {
+    "table_pos": 3664,
+    "mode": "A",
+    "start": 6909,
+    "length": 2,
+    "end": 6911,
+    "text": "75"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "A",
+    "start": 6911,
+    "length": 41,
+    "end": 6952,
+    "text": "Com o poder de defesa do\ninimigo elevado."
+  },
+  {
+    "table_pos": 3696,
+    "mode": "A",
+    "start": 6952,
+    "length": 0,
+    "end": 6952,
+    "text": ""
+  },
+  {
+    "table_pos": 3712,
+    "mode": "A",
+    "start": 6952,
+    "length": 2,
+    "end": 6954,
+    "text": "76"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "A",
+    "start": 6954,
+    "length": 41,
+    "end": 6995,
+    "text": "Com o poder de defesa do\ninimigo elevado."
+  },
+  {
+    "table_pos": 3744,
+    "mode": "A",
+    "start": 6995,
+    "length": 0,
+    "end": 6995,
+    "text": ""
+  },
+  {
+    "table_pos": 3760,
+    "mode": "A",
+    "start": 6995,
+    "length": 2,
+    "end": 6997,
+    "text": "77"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "A",
+    "start": 6997,
+    "length": 51,
+    "end": 7048,
+    "text": "Com a VIDA do inimigo se\nrecuperando continuamente."
+  },
+  {
+    "table_pos": 3792,
+    "mode": "A",
+    "start": 7048,
+    "length": 0,
+    "end": 7048,
+    "text": ""
+  },
+  {
+    "table_pos": 3808,
+    "mode": "A",
+    "start": 7048,
+    "length": 2,
+    "end": 7050,
+    "text": "78"
+  },
+  {
+    "table_pos": 3824,
+    "mode": "A",
+    "start": 7050,
+    "length": 54,
+    "end": 7104,
+    "text": "Com o chakra do inimigo se\nregenerando constantemente."
+  },
+  {
+    "table_pos": 3840,
+    "mode": "A",
+    "start": 7104,
+    "length": 0,
+    "end": 7104,
+    "text": ""
+  },
+  {
+    "table_pos": 3856,
+    "mode": "A",
+    "start": 7104,
+    "length": 2,
+    "end": 7106,
+    "text": "79"
+  },
+  {
+    "table_pos": 3872,
+    "mode": "A",
+    "start": 7106,
+    "length": 44,
+    "end": 7150,
+    "text": "Com o ataque do inimigo\ndrenando seu chakra."
+  },
+  {
+    "table_pos": 3888,
+    "mode": "A",
+    "start": 7150,
+    "length": 0,
+    "end": 7150,
+    "text": ""
+  }
+]

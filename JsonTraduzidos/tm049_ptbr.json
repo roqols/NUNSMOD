@@ -1,0 +1,4130 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 5239,
+    "length": 8,
+    "end": 5247,
+    "text": "subtitle"
+  },
+  {
+    "table_pos": 80,
+    "mode": "A",
+    "start": 5247,
+    "length": 5,
+    "end": 5252,
+    "text": "Dummy"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 5252,
+    "length": 14,
+    "end": 5266,
+    "text": "VOICE_SUBTITLE"
+  },
+  {
+    "table_pos": 112,
+    "mode": "B-implicit",
+    "start": 5266,
+    "length": 2,
+    "end": 5268,
+    "text": "48"
+  },
+  {
+    "table_pos": 112,
+    "mode": "B-explicit",
+    "start": 5268,
+    "length": 3,
+    "end": 5271,
+    "text": "001"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 5271,
+    "length": 6,
+    "end": 5277,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 5277,
+    "length": 13,
+    "end": 5290,
+    "text": "Huff, huff..."
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 5290,
+    "length": 14,
+    "end": 5304,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 160,
+    "mode": "B-implicit",
+    "start": 5304,
+    "length": 1,
+    "end": 5305,
+    "text": "0"
+  },
+  {
+    "table_pos": 160,
+    "mode": "B-explicit",
+    "start": 5305,
+    "length": 3,
+    "end": 5308,
+    "text": "002"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 5308,
+    "length": 6,
+    "end": 5314,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 5314,
+    "length": 15,
+    "end": 5329,
+    "text": "Huff... huff..."
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 5329,
+    "length": 14,
+    "end": 5343,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 208,
+    "mode": "B-implicit",
+    "start": 5343,
+    "length": 1,
+    "end": 5344,
+    "text": "1"
+  },
+  {
+    "table_pos": 208,
+    "mode": "B-explicit",
+    "start": 5344,
+    "length": 3,
+    "end": 5347,
+    "text": "003"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 5347,
+    "length": 6,
+    "end": 5353,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 5353,
+    "length": 3,
+    "end": 5356,
+    "text": "..."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 5356,
+    "length": 6,
+    "end": 5362,
+    "text": "無音"
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 5362,
+    "length": 3,
+    "end": 5365,
+    "text": "004"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 5365,
+    "length": 6,
+    "end": 5371,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 5371,
+    "length": 42,
+    "end": 5413,
+    "text": "Você sabe o que dizem, não sabe,\nNaruto?"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 5413,
+    "length": 14,
+    "end": 5427,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 304,
+    "mode": "B-implicit",
+    "start": 5427,
+    "length": 1,
+    "end": 5428,
+    "text": "2"
+  },
+  {
+    "table_pos": 304,
+    "mode": "B-explicit",
+    "start": 5428,
+    "length": 3,
+    "end": 5431,
+    "text": "005"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 5431,
+    "length": 6,
+    "end": 5437,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 5437,
+    "length": 114,
+    "end": 5551,
+    "text": "Quando dois shinobi são fortes o\nsuficiente, eles conseguem ler os\npensamentos um do outro só de trocar\nsocos..."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 5551,
+    "length": 14,
+    "end": 5565,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 352,
+    "mode": "B-implicit",
+    "start": 5565,
+    "length": 1,
+    "end": 5566,
+    "text": "3"
+  },
+  {
+    "table_pos": 352,
+    "mode": "B-explicit",
+    "start": 5566,
+    "length": 3,
+    "end": 5569,
+    "text": "006"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 5569,
+    "length": 6,
+    "end": 5575,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 5575,
+    "length": 36,
+    "end": 5611,
+    "text": "Você sempre foi ingênuo... Naruto."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 5611,
+    "length": 14,
+    "end": 5625,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 400,
+    "mode": "B-implicit",
+    "start": 5625,
+    "length": 1,
+    "end": 5626,
+    "text": "4"
+  },
+  {
+    "table_pos": 400,
+    "mode": "B-explicit",
+    "start": 5626,
+    "length": 3,
+    "end": 5629,
+    "text": "007"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 5629,
+    "length": 6,
+    "end": 5635,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 5635,
+    "length": 102,
+    "end": 5737,
+    "text": "Então me diga... você sabe o que eu\nestou pensando? Consegue dizer o que\nse passa na minha cabeça?!"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 5737,
+    "length": 14,
+    "end": 5751,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 448,
+    "mode": "B-implicit",
+    "start": 5751,
+    "length": 1,
+    "end": 5752,
+    "text": "5"
+  },
+  {
+    "table_pos": 448,
+    "mode": "B-explicit",
+    "start": 5752,
+    "length": 3,
+    "end": 5755,
+    "text": "008"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 5755,
+    "length": 6,
+    "end": 5761,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 5761,
+    "length": 9,
+    "end": 5770,
+    "text": "Guaaahh!!"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 5770,
+    "length": 14,
+    "end": 5784,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 496,
+    "mode": "B-implicit",
+    "start": 5784,
+    "length": 1,
+    "end": 5785,
+    "text": "6"
+  },
+  {
+    "table_pos": 496,
+    "mode": "B-explicit",
+    "start": 5785,
+    "length": 3,
+    "end": 5788,
+    "text": "009"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 5788,
+    "length": 6,
+    "end": 5794,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 5794,
+    "length": 3,
+    "end": 5797,
+    "text": "..."
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 5797,
+    "length": 6,
+    "end": 5803,
+    "text": "無音"
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 5803,
+    "length": 3,
+    "end": 5806,
+    "text": "010"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 5806,
+    "length": 6,
+    "end": 5812,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 5812,
+    "length": 43,
+    "end": 5855,
+    "text": "(É isso... Não há mais dúvida agora...)"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 5855,
+    "length": 14,
+    "end": 5869,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 592,
+    "mode": "B-implicit",
+    "start": 5869,
+    "length": 1,
+    "end": 5870,
+    "text": "7"
+  },
+  {
+    "table_pos": 592,
+    "mode": "B-explicit",
+    "start": 5870,
+    "length": 3,
+    "end": 5873,
+    "text": "011"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 5873,
+    "length": 6,
+    "end": 5879,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 5879,
+    "length": 55,
+    "end": 5934,
+    "text": "(Você está falando sério sobre isso,\nnão está...?)"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 5934,
+    "length": 14,
+    "end": 5948,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 640,
+    "mode": "B-implicit",
+    "start": 5948,
+    "length": 1,
+    "end": 5949,
+    "text": "8"
+  },
+  {
+    "table_pos": 640,
+    "mode": "B-explicit",
+    "start": 5949,
+    "length": 3,
+    "end": 5952,
+    "text": "012"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 5952,
+    "length": 6,
+    "end": 5958,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 5958,
+    "length": 29,
+    "end": 5987,
+    "text": "(Você realmente pretende...)"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 5987,
+    "length": 14,
+    "end": 6001,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 688,
+    "mode": "B-implicit",
+    "start": 6001,
+    "length": 1,
+    "end": 6002,
+    "text": "9"
+  },
+  {
+    "table_pos": 688,
+    "mode": "B-explicit",
+    "start": 6002,
+    "length": 3,
+    "end": 6005,
+    "text": "013"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 6005,
+    "length": 6,
+    "end": 6011,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 6011,
+    "length": 36,
+    "end": 6047,
+    "text": "(...me matar... não é, Sasuke...?)"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 6047,
+    "length": 14,
+    "end": 6061,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 736,
+    "mode": "B-implicit",
+    "start": 6061,
+    "length": 2,
+    "end": 6063,
+    "text": "10"
+  },
+  {
+    "table_pos": 736,
+    "mode": "B-explicit",
+    "start": 6063,
+    "length": 3,
+    "end": 6066,
+    "text": "014"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 6066,
+    "length": 6,
+    "end": 6072,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 6072,
+    "length": 8,
+    "end": 6080,
+    "text": "(Mas...)"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 6080,
+    "length": 14,
+    "end": 6094,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 784,
+    "mode": "B-implicit",
+    "start": 6094,
+    "length": 2,
+    "end": 6096,
+    "text": "11"
+  },
+  {
+    "table_pos": 784,
+    "mode": "B-explicit",
+    "start": 6096,
+    "length": 3,
+    "end": 6099,
+    "text": "015"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 6099,
+    "length": 6,
+    "end": 6105,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 6105,
+    "length": 16,
+    "end": 6121,
+    "text": "(Mesmo assim...)"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 6121,
+    "length": 14,
+    "end": 6135,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 832,
+    "mode": "B-implicit",
+    "start": 6135,
+    "length": 2,
+    "end": 6137,
+    "text": "12"
+  },
+  {
+    "table_pos": 832,
+    "mode": "B-explicit",
+    "start": 6137,
+    "length": 3,
+    "end": 6140,
+    "text": "016"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 6140,
+    "length": 6,
+    "end": 6146,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 6146,
+    "length": 54,
+    "end": 6200,
+    "text": "Eu não sei por quê...\nEu não sei POR QUÊ... mas..."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 6200,
+    "length": 14,
+    "end": 6214,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 880,
+    "mode": "B-implicit",
+    "start": 6214,
+    "length": 2,
+    "end": 6216,
+    "text": "13"
+  },
+  {
+    "table_pos": 880,
+    "mode": "B-explicit",
+    "start": 6216,
+    "length": 3,
+    "end": 6219,
+    "text": "017"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 6219,
+    "length": 6,
+    "end": 6225,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 6225,
+    "length": 63,
+    "end": 6288,
+    "text": "Eu não suporto que alguém como o\nOrochimaru fique com você!!"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 6288,
+    "length": 14,
+    "end": 6302,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 928,
+    "mode": "B-implicit",
+    "start": 6302,
+    "length": 2,
+    "end": 6304,
+    "text": "14"
+  },
+  {
+    "table_pos": 928,
+    "mode": "B-explicit",
+    "start": 6304,
+    "length": 3,
+    "end": 6307,
+    "text": "018"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 6307,
+    "length": 6,
+    "end": 6313,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 6313,
+    "length": 12,
+    "end": 6325,
+    "text": "(Rá-rá...)"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 6325,
+    "length": 14,
+    "end": 6339,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 976,
+    "mode": "B-implicit",
+    "start": 6339,
+    "length": 2,
+    "end": 6341,
+    "text": "15"
+  },
+  {
+    "table_pos": 976,
+    "mode": "B-explicit",
+    "start": 6341,
+    "length": 3,
+    "end": 6344,
+    "text": "019"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 6344,
+    "length": 6,
+    "end": 6350,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 6350,
+    "length": 75,
+    "end": 6425,
+    "text": "(Vou só esperar ele aparecer...\ne aí acabo com ele de uma vez por todas.)"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 6425,
+    "length": 14,
+    "end": 6439,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1024,
+    "mode": "B-implicit",
+    "start": 6439,
+    "length": 2,
+    "end": 6441,
+    "text": "16"
+  },
+  {
+    "table_pos": 1024,
+    "mode": "B-explicit",
+    "start": 6441,
+    "length": 3,
+    "end": 6444,
+    "text": "020"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 6444,
+    "length": 6,
+    "end": 6450,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 6450,
+    "length": 8,
+    "end": 6458,
+    "text": "......!?"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 6458,
+    "length": 14,
+    "end": 6472,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1072,
+    "mode": "B-implicit",
+    "start": 6472,
+    "length": 2,
+    "end": 6474,
+    "text": "17"
+  },
+  {
+    "table_pos": 1072,
+    "mode": "B-explicit",
+    "start": 6474,
+    "length": 3,
+    "end": 6477,
+    "text": "021"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 6477,
+    "length": 6,
+    "end": 6483,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 6483,
+    "length": 19,
+    "end": 6502,
+    "text": "O quê... o que...?"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 6502,
+    "length": 14,
+    "end": 6516,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1120,
+    "mode": "B-implicit",
+    "start": 6516,
+    "length": 2,
+    "end": 6518,
+    "text": "18"
+  },
+  {
+    "table_pos": 1120,
+    "mode": "B-explicit",
+    "start": 6518,
+    "length": 3,
+    "end": 6521,
+    "text": "022"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 6521,
+    "length": 6,
+    "end": 6527,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 6527,
+    "length": 5,
+    "end": 6532,
+    "text": "...!?"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 6532,
+    "length": 14,
+    "end": 6546,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1168,
+    "mode": "B-implicit",
+    "start": 6546,
+    "length": 2,
+    "end": 6548,
+    "text": "19"
+  },
+  {
+    "table_pos": 1168,
+    "mode": "B-explicit",
+    "start": 6548,
+    "length": 3,
+    "end": 6551,
+    "text": "023"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 6551,
+    "length": 6,
+    "end": 6557,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 6557,
+    "length": 11,
+    "end": 6568,
+    "text": "O quê...!?"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 6568,
+    "length": 14,
+    "end": 6582,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1216,
+    "mode": "B-implicit",
+    "start": 6582,
+    "length": 2,
+    "end": 6584,
+    "text": "20"
+  },
+  {
+    "table_pos": 1216,
+    "mode": "B-explicit",
+    "start": 6584,
+    "length": 3,
+    "end": 6587,
+    "text": "024"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 6587,
+    "length": 6,
+    "end": 6593,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 6593,
+    "length": 29,
+    "end": 6622,
+    "text": "(Se... esse é o Naruto...!?)"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 6622,
+    "length": 14,
+    "end": 6636,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1264,
+    "mode": "B-implicit",
+    "start": 6636,
+    "length": 2,
+    "end": 6638,
+    "text": "21"
+  },
+  {
+    "table_pos": 1264,
+    "mode": "B-explicit",
+    "start": 6638,
+    "length": 3,
+    "end": 6641,
+    "text": "025"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 6641,
+    "length": 6,
+    "end": 6647,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 6647,
+    "length": 40,
+    "end": 6687,
+    "text": "(Que medo é esse que eu tô sentindo!?)"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 6687,
+    "length": 14,
+    "end": 6701,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1312,
+    "mode": "B-implicit",
+    "start": 6701,
+    "length": 2,
+    "end": 6703,
+    "text": "22"
+  },
+  {
+    "table_pos": 1312,
+    "mode": "B-explicit",
+    "start": 6703,
+    "length": 3,
+    "end": 6706,
+    "text": "026"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 6706,
+    "length": 6,
+    "end": 6712,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 6712,
+    "length": 9,
+    "end": 6721,
+    "text": "O quê..."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 6721,
+    "length": 14,
+    "end": 6735,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1360,
+    "mode": "B-implicit",
+    "start": 6735,
+    "length": 2,
+    "end": 6737,
+    "text": "23"
+  },
+  {
+    "table_pos": 1360,
+    "mode": "B-explicit",
+    "start": 6737,
+    "length": 3,
+    "end": 6740,
+    "text": "027"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 6740,
+    "length": 6,
+    "end": 6746,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 6746,
+    "length": 31,
+    "end": 6777,
+    "text": "Você... O que diabos VOCÊ é?"
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 6777,
+    "length": 14,
+    "end": 6791,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1408,
+    "mode": "B-implicit",
+    "start": 6791,
+    "length": 2,
+    "end": 6793,
+    "text": "24"
+  },
+  {
+    "table_pos": 1408,
+    "mode": "B-explicit",
+    "start": 6793,
+    "length": 3,
+    "end": 6796,
+    "text": "028"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 6796,
+    "length": 6,
+    "end": 6802,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 6802,
+    "length": 17,
+    "end": 6819,
+    "text": "Eu sou seu amigo!"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 6819,
+    "length": 14,
+    "end": 6833,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1456,
+    "mode": "B-implicit",
+    "start": 6833,
+    "length": 2,
+    "end": 6835,
+    "text": "25"
+  },
+  {
+    "table_pos": 1456,
+    "mode": "B-explicit",
+    "start": 6835,
+    "length": 3,
+    "end": 6838,
+    "text": "029"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 6838,
+    "length": 6,
+    "end": 6844,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 6844,
+    "length": 8,
+    "end": 6852,
+    "text": "......!!"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 6852,
+    "length": 14,
+    "end": 6866,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1504,
+    "mode": "B-implicit",
+    "start": 6866,
+    "length": 2,
+    "end": 6868,
+    "text": "26"
+  },
+  {
+    "table_pos": 1504,
+    "mode": "B-explicit",
+    "start": 6868,
+    "length": 3,
+    "end": 6871,
+    "text": "030"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 6871,
+    "length": 6,
+    "end": 6877,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 6877,
+    "length": 103,
+    "end": 6980,
+    "text": "É por isso que eu tô te dizendo,\nnão vou deixar um cara como o\nOrochimaru colocar as mãos em você!"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 6980,
+    "length": 14,
+    "end": 6994,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1552,
+    "mode": "B-implicit",
+    "start": 6994,
+    "length": 2,
+    "end": 6996,
+    "text": "27"
+  },
+  {
+    "table_pos": 1552,
+    "mode": "B-explicit",
+    "start": 6996,
+    "length": 3,
+    "end": 6999,
+    "text": "031"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 6999,
+    "length": 6,
+    "end": 7005,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 7005,
+    "length": 3,
+    "end": 7008,
+    "text": "..."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 7008,
+    "length": 6,
+    "end": 7014,
+    "text": "無音"
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 7014,
+    "length": 3,
+    "end": 7017,
+    "text": "032"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 7017,
+    "length": 6,
+    "end": 7023,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 7023,
+    "length": 20,
+    "end": 7043,
+    "text": "Por quê, Naruto...?"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 7043,
+    "length": 14,
+    "end": 7057,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1648,
+    "mode": "B-implicit",
+    "start": 7057,
+    "length": 2,
+    "end": 7059,
+    "text": "28"
+  },
+  {
+    "table_pos": 1648,
+    "mode": "B-explicit",
+    "start": 7059,
+    "length": 3,
+    "end": 7062,
+    "text": "033"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 7062,
+    "length": 6,
+    "end": 7068,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 7068,
+    "length": 41,
+    "end": 7109,
+    "text": "Por que você iria tão longe por mim...?"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 7109,
+    "length": 14,
+    "end": 7123,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1696,
+    "mode": "B-implicit",
+    "start": 7123,
+    "length": 2,
+    "end": 7125,
+    "text": "29"
+  },
+  {
+    "table_pos": 1696,
+    "mode": "B-explicit",
+    "start": 7125,
+    "length": 3,
+    "end": 7128,
+    "text": "034"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 7128,
+    "length": 6,
+    "end": 7134,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 7134,
+    "length": 3,
+    "end": 7137,
+    "text": "..."
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 7137,
+    "length": 6,
+    "end": 7143,
+    "text": "無音"
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 7143,
+    "length": 3,
+    "end": 7146,
+    "text": "035"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 7146,
+    "length": 6,
+    "end": 7152,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 7152,
+    "length": 56,
+    "end": 7208,
+    "text": "Porque esse é o primeiro laço\nque eu já tive assim..."
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 7208,
+    "length": 14,
+    "end": 7222,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1792,
+    "mode": "B-implicit",
+    "start": 7222,
+    "length": 2,
+    "end": 7224,
+    "text": "30"
+  },
+  {
+    "table_pos": 1792,
+    "mode": "B-explicit",
+    "start": 7224,
+    "length": 3,
+    "end": 7227,
+    "text": "036"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 7227,
+    "length": 6,
+    "end": 7233,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 7233,
+    "length": 11,
+    "end": 7244,
+    "text": "Um laço..."
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 7244,
+    "length": 14,
+    "end": 7258,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1840,
+    "mode": "B-implicit",
+    "start": 7258,
+    "length": 2,
+    "end": 7260,
+    "text": "31"
+  },
+  {
+    "table_pos": 1840,
+    "mode": "B-explicit",
+    "start": 7260,
+    "length": 3,
+    "end": 7263,
+    "text": "037"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 7263,
+    "length": 6,
+    "end": 7269,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 7269,
+    "length": 52,
+    "end": 7321,
+    "text": "É por isso que eu vou fazer de tudo\npra te impedir."
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 7321,
+    "length": 14,
+    "end": 7335,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1888,
+    "mode": "B-implicit",
+    "start": 7335,
+    "length": 2,
+    "end": 7337,
+    "text": "32"
+  },
+  {
+    "table_pos": 1888,
+    "mode": "B-explicit",
+    "start": 7337,
+    "length": 3,
+    "end": 7340,
+    "text": "038"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 7340,
+    "length": 6,
+    "end": 7346,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 7346,
+    "length": 3,
+    "end": 7349,
+    "text": "..."
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 7349,
+    "length": 6,
+    "end": 7355,
+    "text": "無音"
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 7355,
+    "length": 3,
+    "end": 7358,
+    "text": "039"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 7358,
+    "length": 6,
+    "end": 7364,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 7364,
+    "length": 11,
+    "end": 7375,
+    "text": "Um laço..."
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 7375,
+    "length": 14,
+    "end": 7389,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 1984,
+    "mode": "B-implicit",
+    "start": 7389,
+    "length": 2,
+    "end": 7391,
+    "text": "33"
+  },
+  {
+    "table_pos": 1984,
+    "mode": "B-explicit",
+    "start": 7391,
+    "length": 3,
+    "end": 7394,
+    "text": "040"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 7394,
+    "length": 6,
+    "end": 7400,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 7400,
+    "length": 21,
+    "end": 7421,
+    "text": "Se é assim que é..."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 7421,
+    "length": 14,
+    "end": 7435,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2032,
+    "mode": "B-implicit",
+    "start": 7435,
+    "length": 2,
+    "end": 7437,
+    "text": "34"
+  },
+  {
+    "table_pos": 2032,
+    "mode": "B-explicit",
+    "start": 7437,
+    "length": 3,
+    "end": 7440,
+    "text": "041"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 7440,
+    "length": 6,
+    "end": 7446,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 7446,
+    "length": 8,
+    "end": 7454,
+    "text": "......!?"
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 7454,
+    "length": 14,
+    "end": 7468,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2080,
+    "mode": "B-implicit",
+    "start": 7468,
+    "length": 2,
+    "end": 7470,
+    "text": "35"
+  },
+  {
+    "table_pos": 2080,
+    "mode": "B-explicit",
+    "start": 7470,
+    "length": 3,
+    "end": 7473,
+    "text": "042"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 7473,
+    "length": 6,
+    "end": 7479,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 7479,
+    "length": 44,
+    "end": 7523,
+    "text": "...então eu só preciso cortar esse laço!!"
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 7523,
+    "length": 14,
+    "end": 7537,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2128,
+    "mode": "B-implicit",
+    "start": 7537,
+    "length": 2,
+    "end": 7539,
+    "text": "36"
+  },
+  {
+    "table_pos": 2128,
+    "mode": "B-explicit",
+    "start": 7539,
+    "length": 3,
+    "end": 7542,
+    "text": "043"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 7542,
+    "length": 6,
+    "end": 7548,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 7548,
+    "length": 11,
+    "end": 7559,
+    "text": "Sasuke...!?"
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 7559,
+    "length": 14,
+    "end": 7573,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2176,
+    "mode": "B-implicit",
+    "start": 7573,
+    "length": 2,
+    "end": 7575,
+    "text": "37"
+  },
+  {
+    "table_pos": 2176,
+    "mode": "B-explicit",
+    "start": 7575,
+    "length": 3,
+    "end": 7578,
+    "text": "044"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 7578,
+    "length": 6,
+    "end": 7584,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 7584,
+    "length": 15,
+    "end": 7599,
+    "text": "Vem... Naruto!!"
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 7599,
+    "length": 14,
+    "end": 7613,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2224,
+    "mode": "B-implicit",
+    "start": 7613,
+    "length": 2,
+    "end": 7615,
+    "text": "38"
+  },
+  {
+    "table_pos": 2224,
+    "mode": "B-explicit",
+    "start": 7615,
+    "length": 3,
+    "end": 7618,
+    "text": "045"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 7618,
+    "length": 6,
+    "end": 7624,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 7624,
+    "length": 53,
+    "end": 7677,
+    "text": "É hora de nós dois resolvermos isso...\ncomo iguais."
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 7677,
+    "length": 14,
+    "end": 7691,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2272,
+    "mode": "B-implicit",
+    "start": 7691,
+    "length": 2,
+    "end": 7693,
+    "text": "39"
+  },
+  {
+    "table_pos": 2272,
+    "mode": "B-explicit",
+    "start": 7693,
+    "length": 3,
+    "end": 7696,
+    "text": "046"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 7696,
+    "length": 6,
+    "end": 7702,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 7702,
+    "length": 13,
+    "end": 7715,
+    "text": "Huff, huff..."
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 7715,
+    "length": 14,
+    "end": 7729,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2320,
+    "mode": "B-implicit",
+    "start": 7729,
+    "length": 2,
+    "end": 7731,
+    "text": "40"
+  },
+  {
+    "table_pos": 2320,
+    "mode": "B-explicit",
+    "start": 7731,
+    "length": 3,
+    "end": 7734,
+    "text": "047"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-implicit",
+    "start": 7734,
+    "length": 6,
+    "end": 7740,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-explicit",
+    "start": 7740,
+    "length": 13,
+    "end": 7753,
+    "text": "Huff, huff..."
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 7753,
+    "length": 14,
+    "end": 7767,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2368,
+    "mode": "B-implicit",
+    "start": 7767,
+    "length": 2,
+    "end": 7769,
+    "text": "41"
+  },
+  {
+    "table_pos": 2368,
+    "mode": "B-explicit",
+    "start": 7769,
+    "length": 3,
+    "end": 7772,
+    "text": "048"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-implicit",
+    "start": 7772,
+    "length": 6,
+    "end": 7778,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-explicit",
+    "start": 7778,
+    "length": 28,
+    "end": 7806,
+    "text": "Vamos só acabar com isso..."
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 7806,
+    "length": 14,
+    "end": 7820,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2416,
+    "mode": "B-implicit",
+    "start": 7820,
+    "length": 2,
+    "end": 7822,
+    "text": "42"
+  },
+  {
+    "table_pos": 2416,
+    "mode": "B-explicit",
+    "start": 7822,
+    "length": 3,
+    "end": 7825,
+    "text": "049"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-implicit",
+    "start": 7825,
+    "length": 6,
+    "end": 7831,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-explicit",
+    "start": 7831,
+    "length": 15,
+    "end": 7846,
+    "text": "Esta batalha..."
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 7846,
+    "length": 14,
+    "end": 7860,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2464,
+    "mode": "B-implicit",
+    "start": 7860,
+    "length": 2,
+    "end": 7862,
+    "text": "43"
+  },
+  {
+    "table_pos": 2464,
+    "mode": "B-explicit",
+    "start": 7862,
+    "length": 3,
+    "end": 7865,
+    "text": "050"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-implicit",
+    "start": 7865,
+    "length": 6,
+    "end": 7871,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-explicit",
+    "start": 7871,
+    "length": 35,
+    "end": 7906,
+    "text": "...e todas as batalhas até agora!!"
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 7906,
+    "length": 14,
+    "end": 7920,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2512,
+    "mode": "B-implicit",
+    "start": 7920,
+    "length": 2,
+    "end": 7922,
+    "text": "44"
+  },
+  {
+    "table_pos": 2512,
+    "mode": "B-explicit",
+    "start": 7922,
+    "length": 3,
+    "end": 7925,
+    "text": "051"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-implicit",
+    "start": 7925,
+    "length": 6,
+    "end": 7931,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-explicit",
+    "start": 7931,
+    "length": 11,
+    "end": 7942,
+    "text": "Narutoooo!!"
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 7942,
+    "length": 14,
+    "end": 7956,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2560,
+    "mode": "B-implicit",
+    "start": 7956,
+    "length": 2,
+    "end": 7958,
+    "text": "45"
+  },
+  {
+    "table_pos": 2560,
+    "mode": "B-explicit",
+    "start": 7958,
+    "length": 3,
+    "end": 7961,
+    "text": "052"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-implicit",
+    "start": 7961,
+    "length": 6,
+    "end": 7967,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-explicit",
+    "start": 7967,
+    "length": 11,
+    "end": 7978,
+    "text": "Sasukeeee!!"
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 7978,
+    "length": 14,
+    "end": 7992,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2608,
+    "mode": "B-implicit",
+    "start": 7992,
+    "length": 2,
+    "end": 7994,
+    "text": "46"
+  },
+  {
+    "table_pos": 2608,
+    "mode": "B-explicit",
+    "start": 7994,
+    "length": 3,
+    "end": 7997,
+    "text": "053"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-implicit",
+    "start": 7997,
+    "length": 15,
+    "end": 8012,
+    "text": "Naruto & Sasuke"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-explicit",
+    "start": 8012,
+    "length": 12,
+    "end": 8024,
+    "text": "Whoaaaahhh!!"
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 8024,
+    "length": 14,
+    "end": 8038,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2656,
+    "mode": "B-implicit",
+    "start": 8038,
+    "length": 2,
+    "end": 8040,
+    "text": "47"
+  },
+  {
+    "table_pos": 2656,
+    "mode": "B-explicit",
+    "start": 8040,
+    "length": 3,
+    "end": 8043,
+    "text": "054"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-implicit",
+    "start": 8043,
+    "length": 6,
+    "end": 8049,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-explicit",
+    "start": 8049,
+    "length": 3,
+    "end": 8052,
+    "text": "..."
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 8052,
+    "length": 6,
+    "end": 8058,
+    "text": "無音"
+  },
+  {
+    "table_pos": 2704,
+    "mode": "A",
+    "start": 8058,
+    "length": 3,
+    "end": 8061,
+    "text": "055"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-implicit",
+    "start": 8061,
+    "length": 6,
+    "end": 8067,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-explicit",
+    "start": 8067,
+    "length": 9,
+    "end": 8076,
+    "text": "Naruto..."
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 8076,
+    "length": 14,
+    "end": 8090,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2752,
+    "mode": "B-implicit",
+    "start": 8090,
+    "length": 2,
+    "end": 8092,
+    "text": "49"
+  },
+  {
+    "table_pos": 2752,
+    "mode": "B-explicit",
+    "start": 8092,
+    "length": 3,
+    "end": 8095,
+    "text": "056"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-implicit",
+    "start": 8095,
+    "length": 6,
+    "end": 8101,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-explicit",
+    "start": 8101,
+    "length": 5,
+    "end": 8106,
+    "text": "Eu..."
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 8106,
+    "length": 14,
+    "end": 8120,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2800,
+    "mode": "B-implicit",
+    "start": 8120,
+    "length": 2,
+    "end": 8122,
+    "text": "50"
+  },
+  {
+    "table_pos": 2800,
+    "mode": "B-explicit",
+    "start": 8122,
+    "length": 3,
+    "end": 8125,
+    "text": "057"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-implicit",
+    "start": 8125,
+    "length": 6,
+    "end": 8131,
+    "text": "Sasuke"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-explicit",
+    "start": 8131,
+    "length": 3,
+    "end": 8134,
+    "text": "..."
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 8134,
+    "length": 6,
+    "end": 8140,
+    "text": "無音"
+  },
+  {
+    "table_pos": 2848,
+    "mode": "A",
+    "start": 8140,
+    "length": 3,
+    "end": 8143,
+    "text": "058"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "B-implicit",
+    "start": 8143,
+    "length": 7,
+    "end": 8150,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "B-explicit",
+    "start": 8150,
+    "length": 23,
+    "end": 8173,
+    "text": "Cheguei tarde demais..."
+  },
+  {
+    "table_pos": 2880,
+    "mode": "A",
+    "start": 8173,
+    "length": 14,
+    "end": 8187,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2896,
+    "mode": "B-implicit",
+    "start": 8187,
+    "length": 2,
+    "end": 8189,
+    "text": "51"
+  },
+  {
+    "table_pos": 2896,
+    "mode": "B-explicit",
+    "start": 8189,
+    "length": 3,
+    "end": 8192,
+    "text": "059"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "B-implicit",
+    "start": 8192,
+    "length": 7,
+    "end": 8199,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "B-explicit",
+    "start": 8199,
+    "length": 46,
+    "end": 8245,
+    "text": "Desculpa não ter chegado a tempo...\nNaruto..."
+  },
+  {
+    "table_pos": 2928,
+    "mode": "A",
+    "start": 8245,
+    "length": 14,
+    "end": 8259,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2944,
+    "mode": "B-implicit",
+    "start": 8259,
+    "length": 2,
+    "end": 8261,
+    "text": "52"
+  },
+  {
+    "table_pos": 2944,
+    "mode": "B-explicit",
+    "start": 8261,
+    "length": 3,
+    "end": 8264,
+    "text": "060"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "B-implicit",
+    "start": 8264,
+    "length": 7,
+    "end": 8271,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "B-explicit",
+    "start": 8271,
+    "length": 53,
+    "end": 8324,
+    "text": "Conhecendo você...\nVocê deve ter lutado bastante..."
+  },
+  {
+    "table_pos": 2976,
+    "mode": "A",
+    "start": 8324,
+    "length": 14,
+    "end": 8338,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 2992,
+    "mode": "B-implicit",
+    "start": 8338,
+    "length": 2,
+    "end": 8340,
+    "text": "53"
+  },
+  {
+    "table_pos": 2992,
+    "mode": "B-explicit",
+    "start": 8340,
+    "length": 3,
+    "end": 8343,
+    "text": "061"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "B-implicit",
+    "start": 8343,
+    "length": 7,
+    "end": 8350,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "B-explicit",
+    "start": 8350,
+    "length": 11,
+    "end": 8361,
+    "text": "(Sasuke...)"
+  },
+  {
+    "table_pos": 3024,
+    "mode": "A",
+    "start": 8361,
+    "length": 14,
+    "end": 8375,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3040,
+    "mode": "B-implicit",
+    "start": 8375,
+    "length": 2,
+    "end": 8377,
+    "text": "54"
+  },
+  {
+    "table_pos": 3040,
+    "mode": "B-explicit",
+    "start": 8377,
+    "length": 3,
+    "end": 8380,
+    "text": "062"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "B-implicit",
+    "start": 8380,
+    "length": 7,
+    "end": 8387,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "B-explicit",
+    "start": 8387,
+    "length": 43,
+    "end": 8430,
+    "text": "Você já se recuperou dos seus ferimentos?"
+  },
+  {
+    "table_pos": 3072,
+    "mode": "A",
+    "start": 8430,
+    "length": 14,
+    "end": 8444,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3088,
+    "mode": "B-implicit",
+    "start": 8444,
+    "length": 2,
+    "end": 8446,
+    "text": "55"
+  },
+  {
+    "table_pos": 3088,
+    "mode": "B-explicit",
+    "start": 8446,
+    "length": 3,
+    "end": 8449,
+    "text": "063"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "B-implicit",
+    "start": 8449,
+    "length": 6,
+    "end": 8455,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "B-explicit",
+    "start": 8455,
+    "length": 19,
+    "end": 8474,
+    "text": "Velho Pervertido..."
+  },
+  {
+    "table_pos": 3120,
+    "mode": "A",
+    "start": 8474,
+    "length": 14,
+    "end": 8488,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3136,
+    "mode": "B-implicit",
+    "start": 8488,
+    "length": 2,
+    "end": 8490,
+    "text": "56"
+  },
+  {
+    "table_pos": 3136,
+    "mode": "B-explicit",
+    "start": 8490,
+    "length": 3,
+    "end": 8493,
+    "text": "064"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "B-implicit",
+    "start": 8493,
+    "length": 7,
+    "end": 8500,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "B-explicit",
+    "start": 8500,
+    "length": 51,
+    "end": 8551,
+    "text": "Vim aqui porque tenho algo\nimportante pra te dizer."
+  },
+  {
+    "table_pos": 3168,
+    "mode": "A",
+    "start": 8551,
+    "length": 14,
+    "end": 8565,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3184,
+    "mode": "B-implicit",
+    "start": 8565,
+    "length": 2,
+    "end": 8567,
+    "text": "57"
+  },
+  {
+    "table_pos": 3184,
+    "mode": "B-explicit",
+    "start": 8567,
+    "length": 3,
+    "end": 8570,
+    "text": "065"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "B-implicit",
+    "start": 8570,
+    "length": 6,
+    "end": 8576,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "B-explicit",
+    "start": 8576,
+    "length": 14,
+    "end": 8590,
+    "text": "Importante...?"
+  },
+  {
+    "table_pos": 3216,
+    "mode": "A",
+    "start": 8590,
+    "length": 14,
+    "end": 8604,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3232,
+    "mode": "B-implicit",
+    "start": 8604,
+    "length": 2,
+    "end": 8606,
+    "text": "58"
+  },
+  {
+    "table_pos": 3232,
+    "mode": "B-explicit",
+    "start": 8606,
+    "length": 3,
+    "end": 8609,
+    "text": "066"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "B-implicit",
+    "start": 8609,
+    "length": 7,
+    "end": 8616,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "B-explicit",
+    "start": 8616,
+    "length": 106,
+    "end": 8722,
+    "text": "De agora em diante, você é meu único\naluno. Preciso fazer de você um Shinobi\nde verdade em três anos."
+  },
+  {
+    "table_pos": 3264,
+    "mode": "A",
+    "start": 8722,
+    "length": 14,
+    "end": 8736,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3280,
+    "mode": "B-implicit",
+    "start": 8736,
+    "length": 2,
+    "end": 8738,
+    "text": "59"
+  },
+  {
+    "table_pos": 3280,
+    "mode": "B-explicit",
+    "start": 8738,
+    "length": 3,
+    "end": 8741,
+    "text": "067"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "B-implicit",
+    "start": 8741,
+    "length": 6,
+    "end": 8747,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "B-explicit",
+    "start": 8747,
+    "length": 5,
+    "end": 8752,
+    "text": "Ar..."
+  },
+  {
+    "table_pos": 3312,
+    "mode": "A",
+    "start": 8752,
+    "length": 14,
+    "end": 8766,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3328,
+    "mode": "B-implicit",
+    "start": 8766,
+    "length": 2,
+    "end": 8768,
+    "text": "60"
+  },
+  {
+    "table_pos": 3328,
+    "mode": "B-explicit",
+    "start": 8768,
+    "length": 3,
+    "end": 8771,
+    "text": "068"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "B-implicit",
+    "start": 8771,
+    "length": 6,
+    "end": 8777,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "B-explicit",
+    "start": 8777,
+    "length": 42,
+    "end": 8819,
+    "text": "Tem certeza!?\nVocê vai mesmo me treinar!?"
+  },
+  {
+    "table_pos": 3360,
+    "mode": "A",
+    "start": 8819,
+    "length": 14,
+    "end": 8833,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3376,
+    "mode": "B-implicit",
+    "start": 8833,
+    "length": 2,
+    "end": 8835,
+    "text": "61"
+  },
+  {
+    "table_pos": 3376,
+    "mode": "B-explicit",
+    "start": 8835,
+    "length": 3,
+    "end": 8838,
+    "text": "069"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "B-implicit",
+    "start": 8838,
+    "length": 7,
+    "end": 8845,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "B-explicit",
+    "start": 8845,
+    "length": 6,
+    "end": 8851,
+    "text": "Sim..."
+  },
+  {
+    "table_pos": 3408,
+    "mode": "A",
+    "start": 8851,
+    "length": 14,
+    "end": 8865,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3424,
+    "mode": "B-implicit",
+    "start": 8865,
+    "length": 2,
+    "end": 8867,
+    "text": "62"
+  },
+  {
+    "table_pos": 3424,
+    "mode": "B-explicit",
+    "start": 8867,
+    "length": 3,
+    "end": 8870,
+    "text": "070"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "B-implicit",
+    "start": 8870,
+    "length": 6,
+    "end": 8876,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "B-explicit",
+    "start": 8876,
+    "length": 10,
+    "end": 8886,
+    "text": "Isso aí!!"
+  },
+  {
+    "table_pos": 3456,
+    "mode": "A",
+    "start": 8886,
+    "length": 14,
+    "end": 8900,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3472,
+    "mode": "B-implicit",
+    "start": 8900,
+    "length": 2,
+    "end": 8902,
+    "text": "63"
+  },
+  {
+    "table_pos": 3472,
+    "mode": "B-explicit",
+    "start": 8902,
+    "length": 3,
+    "end": 8905,
+    "text": "071"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "B-implicit",
+    "start": 8905,
+    "length": 6,
+    "end": 8911,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "B-explicit",
+    "start": 8911,
+    "length": 69,
+    "end": 8980,
+    "text": "Certo. Vou treinar pra caramba,\npra poder trazer o Sasuke de volta..."
+  },
+  {
+    "table_pos": 3504,
+    "mode": "A",
+    "start": 8980,
+    "length": 14,
+    "end": 8994,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3520,
+    "mode": "B-implicit",
+    "start": 8994,
+    "length": 2,
+    "end": 8996,
+    "text": "64"
+  },
+  {
+    "table_pos": 3520,
+    "mode": "B-explicit",
+    "start": 8996,
+    "length": 3,
+    "end": 8999,
+    "text": "072"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "B-implicit",
+    "start": 8999,
+    "length": 7,
+    "end": 9006,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "B-explicit",
+    "start": 9006,
+    "length": 7,
+    "end": 9013,
+    "text": "Olha..."
+  },
+  {
+    "table_pos": 3552,
+    "mode": "A",
+    "start": 9013,
+    "length": 14,
+    "end": 9027,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3568,
+    "mode": "B-implicit",
+    "start": 9027,
+    "length": 2,
+    "end": 9029,
+    "text": "65"
+  },
+  {
+    "table_pos": 3568,
+    "mode": "B-explicit",
+    "start": 9029,
+    "length": 3,
+    "end": 9032,
+    "text": "073"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "B-implicit",
+    "start": 9032,
+    "length": 6,
+    "end": 9038,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "B-explicit",
+    "start": 9038,
+    "length": 4,
+    "end": 9042,
+    "text": "Hã?"
+  },
+  {
+    "table_pos": 3600,
+    "mode": "A",
+    "start": 9042,
+    "length": 14,
+    "end": 9056,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3616,
+    "mode": "B-implicit",
+    "start": 9056,
+    "length": 2,
+    "end": 9058,
+    "text": "66"
+  },
+  {
+    "table_pos": 3616,
+    "mode": "B-explicit",
+    "start": 9058,
+    "length": 3,
+    "end": 9061,
+    "text": "074"
+  },
+  {
+    "table_pos": 3632,
+    "mode": "B-implicit",
+    "start": 9061,
+    "length": 7,
+    "end": 9068,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3632,
+    "mode": "B-explicit",
+    "start": 9068,
+    "length": 19,
+    "end": 9087,
+    "text": "Esquece o Sasuke..."
+  },
+  {
+    "table_pos": 3648,
+    "mode": "A",
+    "start": 9087,
+    "length": 14,
+    "end": 9101,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3664,
+    "mode": "B-implicit",
+    "start": 9101,
+    "length": 2,
+    "end": 9103,
+    "text": "67"
+  },
+  {
+    "table_pos": 3664,
+    "mode": "B-explicit",
+    "start": 9103,
+    "length": 3,
+    "end": 9106,
+    "text": "075"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "B-implicit",
+    "start": 9106,
+    "length": 6,
+    "end": 9112,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "B-explicit",
+    "start": 9112,
+    "length": 11,
+    "end": 9123,
+    "text": "O quê...!?"
+  },
+  {
+    "table_pos": 3696,
+    "mode": "A",
+    "start": 9123,
+    "length": 14,
+    "end": 9137,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3712,
+    "mode": "B-implicit",
+    "start": 9137,
+    "length": 2,
+    "end": 9139,
+    "text": "68"
+  },
+  {
+    "table_pos": 3712,
+    "mode": "B-explicit",
+    "start": 9139,
+    "length": 3,
+    "end": 9142,
+    "text": "076"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "B-implicit",
+    "start": 9142,
+    "length": 7,
+    "end": 9149,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "B-explicit",
+    "start": 9149,
+    "length": 101,
+    "end": 9250,
+    "text": "O Sasuke foi pro Orochimaru por\nvontade própria. Não importa o que\nvocê faça, ele não vai mudar."
+  },
+  {
+    "table_pos": 3744,
+    "mode": "A",
+    "start": 9250,
+    "length": 14,
+    "end": 9264,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3760,
+    "mode": "B-implicit",
+    "start": 9264,
+    "length": 2,
+    "end": 9266,
+    "text": "69"
+  },
+  {
+    "table_pos": 3760,
+    "mode": "B-explicit",
+    "start": 9266,
+    "length": 3,
+    "end": 9269,
+    "text": "077"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "B-implicit",
+    "start": 9269,
+    "length": 6,
+    "end": 9275,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "B-explicit",
+    "start": 9275,
+    "length": 7,
+    "end": 9282,
+    "text": "Ungh..."
+  },
+  {
+    "table_pos": 3792,
+    "mode": "A",
+    "start": 9282,
+    "length": 14,
+    "end": 9296,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3808,
+    "mode": "B-implicit",
+    "start": 9296,
+    "length": 2,
+    "end": 9298,
+    "text": "70"
+  },
+  {
+    "table_pos": 3808,
+    "mode": "B-explicit",
+    "start": 9298,
+    "length": 3,
+    "end": 9301,
+    "text": "078"
+  },
+  {
+    "table_pos": 3824,
+    "mode": "B-implicit",
+    "start": 9301,
+    "length": 7,
+    "end": 9308,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3824,
+    "mode": "B-explicit",
+    "start": 9308,
+    "length": 96,
+    "end": 9404,
+    "text": "Não se iluda pensando que consegue\ntrazê-lo de volta. Não tem jeito.\nUma missão impossível."
+  },
+  {
+    "table_pos": 3840,
+    "mode": "A",
+    "start": 9404,
+    "length": 14,
+    "end": 9418,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3856,
+    "mode": "B-implicit",
+    "start": 9418,
+    "length": 2,
+    "end": 9420,
+    "text": "71"
+  },
+  {
+    "table_pos": 3856,
+    "mode": "B-explicit",
+    "start": 9420,
+    "length": 3,
+    "end": 9423,
+    "text": "079"
+  },
+  {
+    "table_pos": 3872,
+    "mode": "B-implicit",
+    "start": 9423,
+    "length": 6,
+    "end": 9429,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3872,
+    "mode": "B-explicit",
+    "start": 9429,
+    "length": 83,
+    "end": 9512,
+    "text": "Ele pode não significar nada pra você,\nVelho Pervertido... Mas ele é meu amigo!!"
+  },
+  {
+    "table_pos": 3888,
+    "mode": "A",
+    "start": 9512,
+    "length": 14,
+    "end": 9526,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3904,
+    "mode": "B-implicit",
+    "start": 9526,
+    "length": 2,
+    "end": 9528,
+    "text": "72"
+  },
+  {
+    "table_pos": 3904,
+    "mode": "B-explicit",
+    "start": 9528,
+    "length": 3,
+    "end": 9531,
+    "text": "080"
+  },
+  {
+    "table_pos": 3920,
+    "mode": "B-implicit",
+    "start": 9531,
+    "length": 7,
+    "end": 9538,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 3920,
+    "mode": "B-explicit",
+    "start": 9538,
+    "length": 34,
+    "end": 9572,
+    "text": "Um amigo machuca os companheiros!?"
+  },
+  {
+    "table_pos": 3936,
+    "mode": "A",
+    "start": 9572,
+    "length": 14,
+    "end": 9586,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 3952,
+    "mode": "B-implicit",
+    "start": 9586,
+    "length": 2,
+    "end": 9588,
+    "text": "73"
+  },
+  {
+    "table_pos": 3952,
+    "mode": "B-explicit",
+    "start": 9588,
+    "length": 3,
+    "end": 9591,
+    "text": "081"
+  },
+  {
+    "table_pos": 3968,
+    "mode": "B-implicit",
+    "start": 9591,
+    "length": 6,
+    "end": 9597,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3968,
+    "mode": "B-explicit",
+    "start": 9597,
+    "length": 6,
+    "end": 9603,
+    "text": "Ugh..."
+  },
+  {
+    "table_pos": 3984,
+    "mode": "A",
+    "start": 9603,
+    "length": 14,
+    "end": 9617,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4000,
+    "mode": "B-implicit",
+    "start": 9617,
+    "length": 2,
+    "end": 9619,
+    "text": "74"
+  },
+  {
+    "table_pos": 4000,
+    "mode": "B-explicit",
+    "start": 9619,
+    "length": 3,
+    "end": 9622,
+    "text": "082"
+  },
+  {
+    "table_pos": 4016,
+    "mode": "B-implicit",
+    "start": 9622,
+    "length": 7,
+    "end": 9629,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4016,
+    "mode": "B-explicit",
+    "start": 9629,
+    "length": 3,
+    "end": 9632,
+    "text": "..."
+  },
+  {
+    "table_pos": 4032,
+    "mode": "A",
+    "start": 9632,
+    "length": 6,
+    "end": 9638,
+    "text": "無音"
+  },
+  {
+    "table_pos": 4048,
+    "mode": "A",
+    "start": 9638,
+    "length": 3,
+    "end": 9641,
+    "text": "083"
+  },
+  {
+    "table_pos": 4064,
+    "mode": "B-implicit",
+    "start": 9641,
+    "length": 7,
+    "end": 9648,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4064,
+    "mode": "B-explicit",
+    "start": 9648,
+    "length": 79,
+    "end": 9727,
+    "text": "O que aconteceu era pra acontecer...\nTira ele da sua cabeça, e siga em frente."
+  },
+  {
+    "table_pos": 4080,
+    "mode": "A",
+    "start": 9727,
+    "length": 14,
+    "end": 9741,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4096,
+    "mode": "B-implicit",
+    "start": 9741,
+    "length": 2,
+    "end": 9743,
+    "text": "75"
+  },
+  {
+    "table_pos": 4096,
+    "mode": "B-explicit",
+    "start": 9743,
+    "length": 3,
+    "end": 9746,
+    "text": "084"
+  },
+  {
+    "table_pos": 4112,
+    "mode": "B-implicit",
+    "start": 9746,
+    "length": 7,
+    "end": 9753,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4112,
+    "mode": "B-explicit",
+    "start": 9753,
+    "length": 61,
+    "end": 9814,
+    "text": "Pra ser um shinobi, você precisa de\nmais que força e jutsu."
+  },
+  {
+    "table_pos": 4128,
+    "mode": "A",
+    "start": 9814,
+    "length": 14,
+    "end": 9828,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4144,
+    "mode": "B-implicit",
+    "start": 9828,
+    "length": 2,
+    "end": 9830,
+    "text": "76"
+  },
+  {
+    "table_pos": 4144,
+    "mode": "B-explicit",
+    "start": 9830,
+    "length": 3,
+    "end": 9833,
+    "text": "085"
+  },
+  {
+    "table_pos": 4160,
+    "mode": "B-implicit",
+    "start": 9833,
+    "length": 7,
+    "end": 9840,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4160,
+    "mode": "B-explicit",
+    "start": 9840,
+    "length": 91,
+    "end": 9931,
+    "text": "Você precisa de discernimento pra\ntomar as decisões certas... Precisa\nficar mais esperto."
+  },
+  {
+    "table_pos": 4176,
+    "mode": "A",
+    "start": 9931,
+    "length": 14,
+    "end": 9945,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4192,
+    "mode": "B-implicit",
+    "start": 9945,
+    "length": 2,
+    "end": 9947,
+    "text": "77"
+  },
+  {
+    "table_pos": 4192,
+    "mode": "B-explicit",
+    "start": 9947,
+    "length": 3,
+    "end": 9950,
+    "text": "086"
+  },
+  {
+    "table_pos": 4208,
+    "mode": "B-implicit",
+    "start": 9950,
+    "length": 7,
+    "end": 9957,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4208,
+    "mode": "B-explicit",
+    "start": 9957,
+    "length": 73,
+    "end": 10030,
+    "text": "Quanto mais tempo você continuar\ntolo, mais difícil vai ser sobreviver."
+  },
+  {
+    "table_pos": 4224,
+    "mode": "A",
+    "start": 10030,
+    "length": 14,
+    "end": 10044,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4240,
+    "mode": "B-implicit",
+    "start": 10044,
+    "length": 2,
+    "end": 10046,
+    "text": "78"
+  },
+  {
+    "table_pos": 4240,
+    "mode": "B-explicit",
+    "start": 10046,
+    "length": 3,
+    "end": 10049,
+    "text": "087"
+  },
+  {
+    "table_pos": 4256,
+    "mode": "B-implicit",
+    "start": 10049,
+    "length": 6,
+    "end": 10055,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 4256,
+    "mode": "B-explicit",
+    "start": 10055,
+    "length": 3,
+    "end": 10058,
+    "text": "..."
+  },
+  {
+    "table_pos": 4272,
+    "mode": "A",
+    "start": 10058,
+    "length": 6,
+    "end": 10064,
+    "text": "無音"
+  },
+  {
+    "table_pos": 4288,
+    "mode": "A",
+    "start": 10064,
+    "length": 3,
+    "end": 10067,
+    "text": "088"
+  },
+  {
+    "table_pos": 4304,
+    "mode": "B-implicit",
+    "start": 10067,
+    "length": 6,
+    "end": 10073,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 4304,
+    "mode": "B-explicit",
+    "start": 10073,
+    "length": 3,
+    "end": 10076,
+    "text": "..."
+  },
+  {
+    "table_pos": 4320,
+    "mode": "A",
+    "start": 10076,
+    "length": 6,
+    "end": 10082,
+    "text": "無音"
+  },
+  {
+    "table_pos": 4336,
+    "mode": "A",
+    "start": 10082,
+    "length": 3,
+    "end": 10085,
+    "text": "089"
+  },
+  {
+    "table_pos": 4352,
+    "mode": "B-implicit",
+    "start": 10085,
+    "length": 6,
+    "end": 10091,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 4352,
+    "mode": "B-explicit",
+    "start": 10091,
+    "length": 10,
+    "end": 10101,
+    "text": "Tá bom..."
+  },
+  {
+    "table_pos": 4368,
+    "mode": "A",
+    "start": 10101,
+    "length": 14,
+    "end": 10115,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4384,
+    "mode": "B-implicit",
+    "start": 10115,
+    "length": 2,
+    "end": 10117,
+    "text": "79"
+  },
+  {
+    "table_pos": 4384,
+    "mode": "B-explicit",
+    "start": 10117,
+    "length": 3,
+    "end": 10120,
+    "text": "090"
+  },
+  {
+    "table_pos": 4400,
+    "mode": "B-implicit",
+    "start": 10120,
+    "length": 7,
+    "end": 10127,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4400,
+    "mode": "B-explicit",
+    "start": 10127,
+    "length": 14,
+    "end": 10141,
+    "text": "Certo, então."
+  },
+  {
+    "table_pos": 4416,
+    "mode": "A",
+    "start": 10141,
+    "length": 14,
+    "end": 10155,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4432,
+    "mode": "B-implicit",
+    "start": 10155,
+    "length": 2,
+    "end": 10157,
+    "text": "80"
+  },
+  {
+    "table_pos": 4432,
+    "mode": "B-explicit",
+    "start": 10157,
+    "length": 3,
+    "end": 10160,
+    "text": "091"
+  },
+  {
+    "table_pos": 4448,
+    "mode": "B-implicit",
+    "start": 10160,
+    "length": 6,
+    "end": 10166,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 4448,
+    "mode": "B-explicit",
+    "start": 10166,
+    "length": 83,
+    "end": 10249,
+    "text": "Se é isso que significa ficar mais\nesperto, eu vou continuar tolo\na vida inteira!!"
+  },
+  {
+    "table_pos": 4464,
+    "mode": "A",
+    "start": 10249,
+    "length": 14,
+    "end": 10263,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4480,
+    "mode": "B-implicit",
+    "start": 10263,
+    "length": 2,
+    "end": 10265,
+    "text": "81"
+  },
+  {
+    "table_pos": 4480,
+    "mode": "B-explicit",
+    "start": 10265,
+    "length": 3,
+    "end": 10268,
+    "text": "092"
+  },
+  {
+    "table_pos": 4496,
+    "mode": "B-implicit",
+    "start": 10268,
+    "length": 7,
+    "end": 10275,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4496,
+    "mode": "B-explicit",
+    "start": 10275,
+    "length": 8,
+    "end": 10283,
+    "text": "......!!"
+  },
+  {
+    "table_pos": 4512,
+    "mode": "A",
+    "start": 10283,
+    "length": 14,
+    "end": 10297,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4528,
+    "mode": "B-implicit",
+    "start": 10297,
+    "length": 2,
+    "end": 10299,
+    "text": "82"
+  },
+  {
+    "table_pos": 4528,
+    "mode": "B-explicit",
+    "start": 10299,
+    "length": 3,
+    "end": 10302,
+    "text": "093"
+  },
+  {
+    "table_pos": 4544,
+    "mode": "B-implicit",
+    "start": 10302,
+    "length": 6,
+    "end": 10308,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 4544,
+    "mode": "B-explicit",
+    "start": 10308,
+    "length": 93,
+    "end": 10401,
+    "text": "Não me importa. Vou criar jutsus ainda\nmais incríveis, pra poder trazer o\nSasuke de volta!!"
+  },
+  {
+    "table_pos": 4560,
+    "mode": "A",
+    "start": 10401,
+    "length": 14,
+    "end": 10415,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4576,
+    "mode": "B-implicit",
+    "start": 10415,
+    "length": 2,
+    "end": 10417,
+    "text": "83"
+  },
+  {
+    "table_pos": 4576,
+    "mode": "B-explicit",
+    "start": 10417,
+    "length": 3,
+    "end": 10420,
+    "text": "094"
+  },
+  {
+    "table_pos": 4592,
+    "mode": "B-implicit",
+    "start": 10420,
+    "length": 7,
+    "end": 10427,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4592,
+    "mode": "B-explicit",
+    "start": 10427,
+    "length": 3,
+    "end": 10430,
+    "text": "..."
+  },
+  {
+    "table_pos": 4608,
+    "mode": "A",
+    "start": 10430,
+    "length": 6,
+    "end": 10436,
+    "text": "無音"
+  },
+  {
+    "table_pos": 4624,
+    "mode": "A",
+    "start": 10436,
+    "length": 3,
+    "end": 10439,
+    "text": "095"
+  },
+  {
+    "table_pos": 4640,
+    "mode": "B-implicit",
+    "start": 10439,
+    "length": 7,
+    "end": 10446,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4640,
+    "mode": "B-explicit",
+    "start": 10446,
+    "length": 3,
+    "end": 10449,
+    "text": "..."
+  },
+  {
+    "table_pos": 4656,
+    "mode": "A",
+    "start": 10449,
+    "length": 6,
+    "end": 10455,
+    "text": "無音"
+  },
+  {
+    "table_pos": 4672,
+    "mode": "A",
+    "start": 10455,
+    "length": 3,
+    "end": 10458,
+    "text": "096"
+  },
+  {
+    "table_pos": 4688,
+    "mode": "B-implicit",
+    "start": 10458,
+    "length": 7,
+    "end": 10465,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4688,
+    "mode": "B-explicit",
+    "start": 10465,
+    "length": 66,
+    "end": 10531,
+    "text": "A ideia de te deixar sozinho\npra bolar jutsu por conta própria..."
+  },
+  {
+    "table_pos": 4704,
+    "mode": "A",
+    "start": 10531,
+    "length": 14,
+    "end": 10545,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4720,
+    "mode": "B-implicit",
+    "start": 10545,
+    "length": 2,
+    "end": 10547,
+    "text": "84"
+  },
+  {
+    "table_pos": 4720,
+    "mode": "B-explicit",
+    "start": 10547,
+    "length": 3,
+    "end": 10550,
+    "text": "097"
+  },
+  {
+    "table_pos": 4736,
+    "mode": "B-implicit",
+    "start": 10550,
+    "length": 7,
+    "end": 10557,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4736,
+    "mode": "B-explicit",
+    "start": 10557,
+    "length": 84,
+    "end": 10641,
+    "text": "O melhor que você conseguiria\nseria mais um daqueles seus\njutsus sexy sem graça..."
+  },
+  {
+    "table_pos": 4752,
+    "mode": "A",
+    "start": 10641,
+    "length": 14,
+    "end": 10655,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4768,
+    "mode": "B-implicit",
+    "start": 10655,
+    "length": 2,
+    "end": 10657,
+    "text": "85"
+  },
+  {
+    "table_pos": 4768,
+    "mode": "B-explicit",
+    "start": 10657,
+    "length": 3,
+    "end": 10660,
+    "text": "098"
+  },
+  {
+    "table_pos": 4784,
+    "mode": "B-implicit",
+    "start": 10660,
+    "length": 6,
+    "end": 10666,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 4784,
+    "mode": "B-explicit",
+    "start": 10666,
+    "length": 8,
+    "end": 10674,
+    "text": "Quê...?"
+  },
+  {
+    "table_pos": 4800,
+    "mode": "A",
+    "start": 10674,
+    "length": 14,
+    "end": 10688,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4816,
+    "mode": "B-implicit",
+    "start": 10688,
+    "length": 2,
+    "end": 10690,
+    "text": "86"
+  },
+  {
+    "table_pos": 4816,
+    "mode": "B-explicit",
+    "start": 10690,
+    "length": 3,
+    "end": 10693,
+    "text": "099"
+  },
+  {
+    "table_pos": 4832,
+    "mode": "B-implicit",
+    "start": 10693,
+    "length": 7,
+    "end": 10700,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4832,
+    "mode": "B-explicit",
+    "start": 10700,
+    "length": 6,
+    "end": 10706,
+    "text": "Mas..."
+  },
+  {
+    "table_pos": 4848,
+    "mode": "A",
+    "start": 10706,
+    "length": 14,
+    "end": 10720,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4864,
+    "mode": "B-implicit",
+    "start": 10720,
+    "length": 2,
+    "end": 10722,
+    "text": "87"
+  },
+  {
+    "table_pos": 4864,
+    "mode": "B-explicit",
+    "start": 10722,
+    "length": 3,
+    "end": 10725,
+    "text": "100"
+  },
+  {
+    "table_pos": 4880,
+    "mode": "B-implicit",
+    "start": 10725,
+    "length": 7,
+    "end": 10732,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4880,
+    "mode": "B-explicit",
+    "start": 10732,
+    "length": 77,
+    "end": 10809,
+    "text": "Isso é mais que tolice.\nÉ uma tolice tão colossal que pode\naté funcionar."
+  },
+  {
+    "table_pos": 4896,
+    "mode": "A",
+    "start": 10809,
+    "length": 14,
+    "end": 10823,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4912,
+    "mode": "B-implicit",
+    "start": 10823,
+    "length": 2,
+    "end": 10825,
+    "text": "88"
+  },
+  {
+    "table_pos": 4912,
+    "mode": "B-explicit",
+    "start": 10825,
+    "length": 3,
+    "end": 10828,
+    "text": "101"
+  },
+  {
+    "table_pos": 4928,
+    "mode": "B-implicit",
+    "start": 10828,
+    "length": 7,
+    "end": 10835,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4928,
+    "mode": "B-explicit",
+    "start": 10835,
+    "length": 52,
+    "end": 10887,
+    "text": "Espero que você esteja pronto pra um\ntreino sério."
+  },
+  {
+    "table_pos": 4944,
+    "mode": "A",
+    "start": 10887,
+    "length": 14,
+    "end": 10901,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 4960,
+    "mode": "B-implicit",
+    "start": 10901,
+    "length": 2,
+    "end": 10903,
+    "text": "89"
+  },
+  {
+    "table_pos": 4960,
+    "mode": "B-explicit",
+    "start": 10903,
+    "length": 3,
+    "end": 10906,
+    "text": "102"
+  },
+  {
+    "table_pos": 4976,
+    "mode": "B-implicit",
+    "start": 10906,
+    "length": 7,
+    "end": 10913,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 4976,
+    "mode": "B-explicit",
+    "start": 10913,
+    "length": 16,
+    "end": 10929,
+    "text": "Então... vamos?"
+  },
+  {
+    "table_pos": 4992,
+    "mode": "A",
+    "start": 10929,
+    "length": 14,
+    "end": 10943,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 5008,
+    "mode": "B-implicit",
+    "start": 10943,
+    "length": 2,
+    "end": 10945,
+    "text": "90"
+  },
+  {
+    "table_pos": 5008,
+    "mode": "B-explicit",
+    "start": 10945,
+    "length": 3,
+    "end": 10948,
+    "text": "103"
+  },
+  {
+    "table_pos": 5024,
+    "mode": "B-implicit",
+    "start": 10948,
+    "length": 6,
+    "end": 10954,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 5024,
+    "mode": "B-explicit",
+    "start": 10954,
+    "length": 7,
+    "end": 10961,
+    "text": "Beleza!"
+  },
+  {
+    "table_pos": 5040,
+    "mode": "A",
+    "start": 10961,
+    "length": 14,
+    "end": 10975,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 5056,
+    "mode": "B-implicit",
+    "start": 10975,
+    "length": 2,
+    "end": 10977,
+    "text": "91"
+  },
+  {
+    "table_pos": 5056,
+    "mode": "B-explicit",
+    "start": 10977,
+    "length": 3,
+    "end": 10980,
+    "text": "104"
+  },
+  {
+    "table_pos": 5072,
+    "mode": "B-implicit",
+    "start": 10980,
+    "length": 6,
+    "end": 10986,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 5072,
+    "mode": "B-explicit",
+    "start": 10986,
+    "length": 46,
+    "end": 11032,
+    "text": "Se é isso que significa ficar mais esperto..."
+  },
+  {
+    "table_pos": 5088,
+    "mode": "A",
+    "start": 11032,
+    "length": 14,
+    "end": 11046,
+    "text": "VOICE_EV_UMM48"
+  },
+  {
+    "table_pos": 5104,
+    "mode": "B-implicit",
+    "start": 11046,
+    "length": 2,
+    "end": 11048,
+    "text": "92"
+  },
+  {
+    "table_pos": 5104,
+    "mode": "B-explicit",
+    "start": 11048,
+    "length": 3,
+    "end": 11051,
+    "text": "105"
+  },
+  {
+    "table_pos": 5120,
+    "mode": "B-implicit",
+    "start": 11051,
+    "length": 6,
+    "end": 11057,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 5120,
+    "mode": "B-explicit",
+    "start": 11057,
+    "length": 38,
+    "end": 11095,
+    "text": "Eu vou continuar tolo a vida inteira!!"
+  },
+  {
+    "table_pos": 5136,
+    "mode": "A",
+    "start": 11095,
+    "length": 14,
+    "end": 11109,
+    "text": "VOICE_EV_UMM48"
+  }
+]

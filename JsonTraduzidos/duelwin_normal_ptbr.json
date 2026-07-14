@@ -1,0 +1,4730 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 7222,
+    "length": 1,
+    "end": 7223,
+    "text": "0"
+  },
+  {
+    "table_pos": 80,
+    "mode": "A",
+    "start": 7223,
+    "length": 32,
+    "end": 7255,
+    "text": "Ri ri ri!!\nQuem é o número um?"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 7255,
+    "length": 15,
+    "end": 7270,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 112,
+    "mode": "B-implicit",
+    "start": 7270,
+    "length": 1,
+    "end": 7271,
+    "text": "0"
+  },
+  {
+    "table_pos": 112,
+    "mode": "B-explicit",
+    "start": 7271,
+    "length": 1,
+    "end": 7272,
+    "text": "1"
+  },
+  {
+    "table_pos": 128,
+    "mode": "A",
+    "start": 7272,
+    "length": 30,
+    "end": 7302,
+    "text": "Vou ficar cada vez mais forte!"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 7302,
+    "length": 15,
+    "end": 7317,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 160,
+    "mode": "B-implicit",
+    "start": 7317,
+    "length": 1,
+    "end": 7318,
+    "text": "1"
+  },
+  {
+    "table_pos": 160,
+    "mode": "B-explicit",
+    "start": 7318,
+    "length": 1,
+    "end": 7319,
+    "text": "2"
+  },
+  {
+    "table_pos": 176,
+    "mode": "A",
+    "start": 7319,
+    "length": 27,
+    "end": 7346,
+    "text": "Esse é o poder do Time 7!!"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 7346,
+    "length": 15,
+    "end": 7361,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 208,
+    "mode": "B-implicit",
+    "start": 7361,
+    "length": 1,
+    "end": 7362,
+    "text": "2"
+  },
+  {
+    "table_pos": 208,
+    "mode": "B-explicit",
+    "start": 7362,
+    "length": 1,
+    "end": 7363,
+    "text": "3"
+  },
+  {
+    "table_pos": 224,
+    "mode": "A",
+    "start": 7363,
+    "length": 30,
+    "end": 7393,
+    "text": "Eu fui incrível, né, Sakura?"
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 7393,
+    "length": 15,
+    "end": 7408,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 256,
+    "mode": "B-implicit",
+    "start": 7408,
+    "length": 1,
+    "end": 7409,
+    "text": "3"
+  },
+  {
+    "table_pos": 256,
+    "mode": "B-explicit",
+    "start": 7409,
+    "length": 1,
+    "end": 7410,
+    "text": "4"
+  },
+  {
+    "table_pos": 272,
+    "mode": "A",
+    "start": 7410,
+    "length": 59,
+    "end": 7469,
+    "text": "Que tal um lámen pra\ncomemorar a vitória, Kakashi sensei?"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 7469,
+    "length": 15,
+    "end": 7484,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 304,
+    "mode": "B-implicit",
+    "start": 7484,
+    "length": 1,
+    "end": 7485,
+    "text": "4"
+  },
+  {
+    "table_pos": 304,
+    "mode": "B-explicit",
+    "start": 7485,
+    "length": 1,
+    "end": 7486,
+    "text": "5"
+  },
+  {
+    "table_pos": 320,
+    "mode": "A",
+    "start": 7486,
+    "length": 26,
+    "end": 7512,
+    "text": "Eu fiquei mais forte, né?"
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 7512,
+    "length": 15,
+    "end": 7527,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 352,
+    "mode": "B-implicit",
+    "start": 7527,
+    "length": 1,
+    "end": 7528,
+    "text": "5"
+  },
+  {
+    "table_pos": 352,
+    "mode": "B-explicit",
+    "start": 7528,
+    "length": 1,
+    "end": 7529,
+    "text": "6"
+  },
+  {
+    "table_pos": 368,
+    "mode": "A",
+    "start": 7529,
+    "length": 50,
+    "end": 7579,
+    "text": "Ha-ha-ha-ha!\nNinguém se compara a Naruto Uzumaki!"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 7579,
+    "length": 15,
+    "end": 7594,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 400,
+    "mode": "B-implicit",
+    "start": 7594,
+    "length": 1,
+    "end": 7595,
+    "text": "6"
+  },
+  {
+    "table_pos": 400,
+    "mode": "B-explicit",
+    "start": 7595,
+    "length": 1,
+    "end": 7596,
+    "text": "7"
+  },
+  {
+    "table_pos": 416,
+    "mode": "A",
+    "start": 7596,
+    "length": 56,
+    "end": 7652,
+    "text": "Rá-rá! Eu venci, eu venci!\nValeu por me cobrir, Gaara!"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 7652,
+    "length": 15,
+    "end": 7667,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 448,
+    "mode": "B-implicit",
+    "start": 7667,
+    "length": 1,
+    "end": 7668,
+    "text": "7"
+  },
+  {
+    "table_pos": 448,
+    "mode": "B-explicit",
+    "start": 7668,
+    "length": 1,
+    "end": 7669,
+    "text": "8"
+  },
+  {
+    "table_pos": 464,
+    "mode": "A",
+    "start": 7669,
+    "length": 27,
+    "end": 7696,
+    "text": "Hmph... Sem surpresas aqui."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 7696,
+    "length": 15,
+    "end": 7711,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 496,
+    "mode": "B-implicit",
+    "start": 7711,
+    "length": 1,
+    "end": 7712,
+    "text": "8"
+  },
+  {
+    "table_pos": 496,
+    "mode": "B-explicit",
+    "start": 7712,
+    "length": 1,
+    "end": 7713,
+    "text": "9"
+  },
+  {
+    "table_pos": 512,
+    "mode": "A",
+    "start": 7713,
+    "length": 29,
+    "end": 7742,
+    "text": "A hora de brincar já acabou?"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 7742,
+    "length": 15,
+    "end": 7757,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 544,
+    "mode": "B-implicit",
+    "start": 7757,
+    "length": 1,
+    "end": 7758,
+    "text": "9"
+  },
+  {
+    "table_pos": 544,
+    "mode": "B-explicit",
+    "start": 7758,
+    "length": 2,
+    "end": 7760,
+    "text": "10"
+  },
+  {
+    "table_pos": 560,
+    "mode": "A",
+    "start": 7760,
+    "length": 47,
+    "end": 7807,
+    "text": "Você achou mesmo que\nconseguiria nos derrotar?"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 7807,
+    "length": 15,
+    "end": 7822,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 592,
+    "mode": "B-implicit",
+    "start": 7822,
+    "length": 2,
+    "end": 7824,
+    "text": "10"
+  },
+  {
+    "table_pos": 592,
+    "mode": "B-explicit",
+    "start": 7824,
+    "length": 2,
+    "end": 7826,
+    "text": "11"
+  },
+  {
+    "table_pos": 608,
+    "mode": "A",
+    "start": 7826,
+    "length": 24,
+    "end": 7850,
+    "text": "Aquilo foi pura bobagem."
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 7850,
+    "length": 15,
+    "end": 7865,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 640,
+    "mode": "B-implicit",
+    "start": 7865,
+    "length": 2,
+    "end": 7867,
+    "text": "11"
+  },
+  {
+    "table_pos": 640,
+    "mode": "B-explicit",
+    "start": 7867,
+    "length": 2,
+    "end": 7869,
+    "text": "12"
+  },
+  {
+    "table_pos": 656,
+    "mode": "A",
+    "start": 7869,
+    "length": 23,
+    "end": 7892,
+    "text": "Rá... Isso funciona..."
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 7892,
+    "length": 15,
+    "end": 7907,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 688,
+    "mode": "B-implicit",
+    "start": 7907,
+    "length": 2,
+    "end": 7909,
+    "text": "12"
+  },
+  {
+    "table_pos": 688,
+    "mode": "B-explicit",
+    "start": 7909,
+    "length": 2,
+    "end": 7911,
+    "text": "13"
+  },
+  {
+    "table_pos": 704,
+    "mode": "A",
+    "start": 7911,
+    "length": 46,
+    "end": 7957,
+    "text": "Você é o próximo a cair...\nItachi Uchiha..."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 7957,
+    "length": 15,
+    "end": 7972,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 736,
+    "mode": "B-implicit",
+    "start": 7972,
+    "length": 2,
+    "end": 7974,
+    "text": "13"
+  },
+  {
+    "table_pos": 736,
+    "mode": "B-explicit",
+    "start": 7974,
+    "length": 2,
+    "end": 7976,
+    "text": "14"
+  },
+  {
+    "table_pos": 752,
+    "mode": "A",
+    "start": 7976,
+    "length": 64,
+    "end": 8040,
+    "text": "Entendo, esse é o poder...\nque eu preciso... pra derrotá-lo..."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 8040,
+    "length": 15,
+    "end": 8055,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 784,
+    "mode": "B-implicit",
+    "start": 8055,
+    "length": 2,
+    "end": 8057,
+    "text": "14"
+  },
+  {
+    "table_pos": 784,
+    "mode": "B-explicit",
+    "start": 8057,
+    "length": 2,
+    "end": 8059,
+    "text": "15"
+  },
+  {
+    "table_pos": 800,
+    "mode": "A",
+    "start": 8059,
+    "length": 17,
+    "end": 8076,
+    "text": "Cha!\nMandou bem!!"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 8076,
+    "length": 15,
+    "end": 8091,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 832,
+    "mode": "B-implicit",
+    "start": 8091,
+    "length": 2,
+    "end": 8093,
+    "text": "15"
+  },
+  {
+    "table_pos": 832,
+    "mode": "B-explicit",
+    "start": 8093,
+    "length": 2,
+    "end": 8095,
+    "text": "16"
+  },
+  {
+    "table_pos": 848,
+    "mode": "A",
+    "start": 8095,
+    "length": 44,
+    "end": 8139,
+    "text": "Parece que... eu fiquei\num pouco mais forte!"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 8139,
+    "length": 15,
+    "end": 8154,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 880,
+    "mode": "B-implicit",
+    "start": 8154,
+    "length": 2,
+    "end": 8156,
+    "text": "16"
+  },
+  {
+    "table_pos": 880,
+    "mode": "B-explicit",
+    "start": 8156,
+    "length": 2,
+    "end": 8158,
+    "text": "17"
+  },
+  {
+    "table_pos": 896,
+    "mode": "A",
+    "start": 8158,
+    "length": 37,
+    "end": 8195,
+    "text": "Nosso trabalho em\nequipe é o melhor!"
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 8195,
+    "length": 15,
+    "end": 8210,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 928,
+    "mode": "B-implicit",
+    "start": 8210,
+    "length": 2,
+    "end": 8212,
+    "text": "17"
+  },
+  {
+    "table_pos": 928,
+    "mode": "B-explicit",
+    "start": 8212,
+    "length": 2,
+    "end": 8214,
+    "text": "18"
+  },
+  {
+    "table_pos": 944,
+    "mode": "A",
+    "start": 8214,
+    "length": 33,
+    "end": 8247,
+    "text": "Sasuke, Naruto!\nVocês me viram!?"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 8247,
+    "length": 15,
+    "end": 8262,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 976,
+    "mode": "B-implicit",
+    "start": 8262,
+    "length": 2,
+    "end": 8264,
+    "text": "18"
+  },
+  {
+    "table_pos": 976,
+    "mode": "B-explicit",
+    "start": 8264,
+    "length": 2,
+    "end": 8266,
+    "text": "19"
+  },
+  {
+    "table_pos": 992,
+    "mode": "A",
+    "start": 8266,
+    "length": 63,
+    "end": 8329,
+    "text": "Não teria sido mais rápido se\no Kakashi sensei tivesse feito?"
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 8329,
+    "length": 15,
+    "end": 8344,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1024,
+    "mode": "B-implicit",
+    "start": 8344,
+    "length": 2,
+    "end": 8346,
+    "text": "19"
+  },
+  {
+    "table_pos": 1024,
+    "mode": "B-explicit",
+    "start": 8346,
+    "length": 2,
+    "end": 8348,
+    "text": "20"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "A",
+    "start": 8348,
+    "length": 50,
+    "end": 8398,
+    "text": "Garotas apaixonadas são bem\npoderosas, não acha?"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 8398,
+    "length": 15,
+    "end": 8413,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1072,
+    "mode": "B-implicit",
+    "start": 8413,
+    "length": 2,
+    "end": 8415,
+    "text": "20"
+  },
+  {
+    "table_pos": 1072,
+    "mode": "B-explicit",
+    "start": 8415,
+    "length": 2,
+    "end": 8417,
+    "text": "21"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "A",
+    "start": 8417,
+    "length": 27,
+    "end": 8444,
+    "text": "Conseguimos!\nNós vencemos!"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 8444,
+    "length": 15,
+    "end": 8459,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1120,
+    "mode": "B-implicit",
+    "start": 8459,
+    "length": 2,
+    "end": 8461,
+    "text": "21"
+  },
+  {
+    "table_pos": 1120,
+    "mode": "B-explicit",
+    "start": 8461,
+    "length": 2,
+    "end": 8463,
+    "text": "22"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "A",
+    "start": 8463,
+    "length": 35,
+    "end": 8498,
+    "text": "Vamos fazer isso de novo algum dia!"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 8498,
+    "length": 15,
+    "end": 8513,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1168,
+    "mode": "B-implicit",
+    "start": 8513,
+    "length": 2,
+    "end": 8515,
+    "text": "22"
+  },
+  {
+    "table_pos": 1168,
+    "mode": "B-explicit",
+    "start": 8515,
+    "length": 2,
+    "end": 8517,
+    "text": "23"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "A",
+    "start": 8517,
+    "length": 41,
+    "end": 8558,
+    "text": "Foi uma boa luta!\nEstou muito satisfeito!"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 8558,
+    "length": 15,
+    "end": 8573,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1216,
+    "mode": "B-implicit",
+    "start": 8573,
+    "length": 2,
+    "end": 8575,
+    "text": "23"
+  },
+  {
+    "table_pos": 1216,
+    "mode": "B-explicit",
+    "start": 8575,
+    "length": 2,
+    "end": 8577,
+    "text": "24"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "A",
+    "start": 8577,
+    "length": 48,
+    "end": 8625,
+    "text": "Devo continuar humilde e\nbuscando a perfeição!"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 8625,
+    "length": 15,
+    "end": 8640,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1264,
+    "mode": "B-implicit",
+    "start": 8640,
+    "length": 2,
+    "end": 8642,
+    "text": "24"
+  },
+  {
+    "table_pos": 1264,
+    "mode": "B-explicit",
+    "start": 8642,
+    "length": 2,
+    "end": 8644,
+    "text": "25"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "A",
+    "start": 8644,
+    "length": 34,
+    "end": 8678,
+    "text": "Guy sensei! Que vitória gloriosa!"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 8678,
+    "length": 15,
+    "end": 8693,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1312,
+    "mode": "B-implicit",
+    "start": 8693,
+    "length": 2,
+    "end": 8695,
+    "text": "25"
+  },
+  {
+    "table_pos": 1312,
+    "mode": "B-explicit",
+    "start": 8695,
+    "length": 2,
+    "end": 8697,
+    "text": "26"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "A",
+    "start": 8697,
+    "length": 52,
+    "end": 8749,
+    "text": "Eu gostaria de lutar com você...\nGaara da Areia...!"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 8749,
+    "length": 15,
+    "end": 8764,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1360,
+    "mode": "B-implicit",
+    "start": 8764,
+    "length": 2,
+    "end": 8766,
+    "text": "26"
+  },
+  {
+    "table_pos": 1360,
+    "mode": "B-explicit",
+    "start": 8766,
+    "length": 2,
+    "end": 8768,
+    "text": "27"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "A",
+    "start": 8768,
+    "length": 14,
+    "end": 8782,
+    "text": "O jogo acabou."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 8782,
+    "length": 15,
+    "end": 8797,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1408,
+    "mode": "B-implicit",
+    "start": 8797,
+    "length": 2,
+    "end": 8799,
+    "text": "27"
+  },
+  {
+    "table_pos": 1408,
+    "mode": "B-explicit",
+    "start": 8799,
+    "length": 2,
+    "end": 8801,
+    "text": "28"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "A",
+    "start": 8801,
+    "length": 34,
+    "end": 8835,
+    "text": "Eu fiquei sério demais.\nDesculpa."
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 8835,
+    "length": 15,
+    "end": 8850,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1456,
+    "mode": "B-implicit",
+    "start": 8850,
+    "length": 2,
+    "end": 8852,
+    "text": "28"
+  },
+  {
+    "table_pos": 1456,
+    "mode": "B-explicit",
+    "start": 8852,
+    "length": 2,
+    "end": 8854,
+    "text": "29"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "A",
+    "start": 8854,
+    "length": 24,
+    "end": 8878,
+    "text": "Perder não é pra nós."
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 8878,
+    "length": 15,
+    "end": 8893,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1504,
+    "mode": "B-implicit",
+    "start": 8893,
+    "length": 2,
+    "end": 8895,
+    "text": "29"
+  },
+  {
+    "table_pos": 1504,
+    "mode": "B-explicit",
+    "start": 8895,
+    "length": 2,
+    "end": 8897,
+    "text": "30"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "A",
+    "start": 8897,
+    "length": 30,
+    "end": 8927,
+    "text": "Rá... Esse foi o nosso poder."
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 8927,
+    "length": 15,
+    "end": 8942,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1552,
+    "mode": "B-implicit",
+    "start": 8942,
+    "length": 2,
+    "end": 8944,
+    "text": "30"
+  },
+  {
+    "table_pos": 1552,
+    "mode": "B-explicit",
+    "start": 8944,
+    "length": 2,
+    "end": 8946,
+    "text": "31"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "A",
+    "start": 8946,
+    "length": 38,
+    "end": 8984,
+    "text": "Essa luta foi bem divertida.\nObrigado."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 8984,
+    "length": 15,
+    "end": 8999,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1600,
+    "mode": "B-implicit",
+    "start": 8999,
+    "length": 2,
+    "end": 9001,
+    "text": "31"
+  },
+  {
+    "table_pos": 1600,
+    "mode": "B-explicit",
+    "start": 9001,
+    "length": 2,
+    "end": 9003,
+    "text": "32"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "A",
+    "start": 9003,
+    "length": 58,
+    "end": 9061,
+    "text": "Devíamos lutar um contra o\noutro da próxima vez, Naruto."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 9061,
+    "length": 15,
+    "end": 9076,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1648,
+    "mode": "B-implicit",
+    "start": 9076,
+    "length": 2,
+    "end": 9078,
+    "text": "32"
+  },
+  {
+    "table_pos": 1648,
+    "mode": "B-explicit",
+    "start": 9078,
+    "length": 2,
+    "end": 9080,
+    "text": "33"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "A",
+    "start": 9080,
+    "length": 54,
+    "end": 9134,
+    "text": "Nós, os Hyuga, somos os mais\nfortes da Vila da Folha!"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 9134,
+    "length": 15,
+    "end": 9149,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1696,
+    "mode": "B-implicit",
+    "start": 9149,
+    "length": 2,
+    "end": 9151,
+    "text": "33"
+  },
+  {
+    "table_pos": 1696,
+    "mode": "B-explicit",
+    "start": 9151,
+    "length": 2,
+    "end": 9153,
+    "text": "34"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "A",
+    "start": 9153,
+    "length": 29,
+    "end": 9182,
+    "text": "Nós vencemos, nós vencemos!"
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 9182,
+    "length": 15,
+    "end": 9197,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1744,
+    "mode": "B-implicit",
+    "start": 9197,
+    "length": 2,
+    "end": 9199,
+    "text": "34"
+  },
+  {
+    "table_pos": 1744,
+    "mode": "B-explicit",
+    "start": 9199,
+    "length": 2,
+    "end": 9201,
+    "text": "35"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "A",
+    "start": 9201,
+    "length": 27,
+    "end": 9228,
+    "text": "Ufa... Agora estou cansado."
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 9228,
+    "length": 15,
+    "end": 9243,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1792,
+    "mode": "B-implicit",
+    "start": 9243,
+    "length": 2,
+    "end": 9245,
+    "text": "35"
+  },
+  {
+    "table_pos": 1792,
+    "mode": "B-explicit",
+    "start": 9245,
+    "length": 2,
+    "end": 9247,
+    "text": "36"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "A",
+    "start": 9247,
+    "length": 40,
+    "end": 9287,
+    "text": "Agora podemos deixar o\nGuy sensei feliz."
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 9287,
+    "length": 15,
+    "end": 9302,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1840,
+    "mode": "B-implicit",
+    "start": 9302,
+    "length": 2,
+    "end": 9304,
+    "text": "36"
+  },
+  {
+    "table_pos": 1840,
+    "mode": "B-explicit",
+    "start": 9304,
+    "length": 2,
+    "end": 9306,
+    "text": "37"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "A",
+    "start": 9306,
+    "length": 45,
+    "end": 9351,
+    "text": "Nossa, somos tão fortes\nquanto eu imaginava!"
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 9351,
+    "length": 15,
+    "end": 9366,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1888,
+    "mode": "B-implicit",
+    "start": 9366,
+    "length": 2,
+    "end": 9368,
+    "text": "37"
+  },
+  {
+    "table_pos": 1888,
+    "mode": "B-explicit",
+    "start": 9368,
+    "length": 2,
+    "end": 9370,
+    "text": "38"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "A",
+    "start": 9370,
+    "length": 42,
+    "end": 9412,
+    "text": "Que tal, Guy sensei?\nEu sou bem bom, né!?"
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 9412,
+    "length": 15,
+    "end": 9427,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1936,
+    "mode": "B-implicit",
+    "start": 9427,
+    "length": 2,
+    "end": 9429,
+    "text": "38"
+  },
+  {
+    "table_pos": 1936,
+    "mode": "B-explicit",
+    "start": 9429,
+    "length": 2,
+    "end": 9431,
+    "text": "39"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "A",
+    "start": 9431,
+    "length": 44,
+    "end": 9475,
+    "text": "Você é bem bom.\nEsse aí eu tive que suar."
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 9475,
+    "length": 15,
+    "end": 9490,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 1984,
+    "mode": "B-implicit",
+    "start": 9490,
+    "length": 2,
+    "end": 9492,
+    "text": "39"
+  },
+  {
+    "table_pos": 1984,
+    "mode": "B-explicit",
+    "start": 9492,
+    "length": 2,
+    "end": 9494,
+    "text": "40"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "A",
+    "start": 9494,
+    "length": 32,
+    "end": 9526,
+    "text": "Bem... Tudo saiu como\nplanejado."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 9526,
+    "length": 15,
+    "end": 9541,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2032,
+    "mode": "B-implicit",
+    "start": 9541,
+    "length": 2,
+    "end": 9543,
+    "text": "40"
+  },
+  {
+    "table_pos": 2032,
+    "mode": "B-explicit",
+    "start": 9543,
+    "length": 2,
+    "end": 9545,
+    "text": "41"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "A",
+    "start": 9545,
+    "length": 34,
+    "end": 9579,
+    "text": "Choji, Ino... Bom trabalho. Valeu."
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 9579,
+    "length": 15,
+    "end": 9594,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2080,
+    "mode": "B-implicit",
+    "start": 9594,
+    "length": 2,
+    "end": 9596,
+    "text": "41"
+  },
+  {
+    "table_pos": 2080,
+    "mode": "B-explicit",
+    "start": 9596,
+    "length": 2,
+    "end": 9598,
+    "text": "42"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "A",
+    "start": 9598,
+    "length": 59,
+    "end": 9657,
+    "text": "Quando o assunto é trabalho\nem equipe, ninguém nos vence."
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 9657,
+    "length": 15,
+    "end": 9672,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2128,
+    "mode": "B-implicit",
+    "start": 9672,
+    "length": 2,
+    "end": 9674,
+    "text": "42"
+  },
+  {
+    "table_pos": 2128,
+    "mode": "B-explicit",
+    "start": 9674,
+    "length": 2,
+    "end": 9676,
+    "text": "43"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "A",
+    "start": 9676,
+    "length": 44,
+    "end": 9720,
+    "text": "Ah, cara... Estou mais\ncansado que o normal."
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 9720,
+    "length": 15,
+    "end": 9735,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2176,
+    "mode": "B-implicit",
+    "start": 9735,
+    "length": 2,
+    "end": 9737,
+    "text": "43"
+  },
+  {
+    "table_pos": 2176,
+    "mode": "B-explicit",
+    "start": 9737,
+    "length": 2,
+    "end": 9739,
+    "text": "44"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "A",
+    "start": 9739,
+    "length": 46,
+    "end": 9785,
+    "text": "Que tal isso? Agora você\nconhece o meu poder!"
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 9785,
+    "length": 15,
+    "end": 9800,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2224,
+    "mode": "B-implicit",
+    "start": 9800,
+    "length": 2,
+    "end": 9802,
+    "text": "44"
+  },
+  {
+    "table_pos": 2224,
+    "mode": "B-explicit",
+    "start": 9802,
+    "length": 2,
+    "end": 9804,
+    "text": "45"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "A",
+    "start": 9804,
+    "length": 26,
+    "end": 9830,
+    "text": "É isso aí! Conseguimos!!"
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 9830,
+    "length": 15,
+    "end": 9845,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2272,
+    "mode": "B-implicit",
+    "start": 9845,
+    "length": 2,
+    "end": 9847,
+    "text": "45"
+  },
+  {
+    "table_pos": 2272,
+    "mode": "B-explicit",
+    "start": 9847,
+    "length": 2,
+    "end": 9849,
+    "text": "46"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "A",
+    "start": 9849,
+    "length": 28,
+    "end": 9877,
+    "text": "Isso! Bom trabalho, pessoal!"
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 9877,
+    "length": 15,
+    "end": 9892,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2320,
+    "mode": "B-implicit",
+    "start": 9892,
+    "length": 2,
+    "end": 9894,
+    "text": "46"
+  },
+  {
+    "table_pos": 2320,
+    "mode": "B-explicit",
+    "start": 9894,
+    "length": 2,
+    "end": 9896,
+    "text": "47"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "A",
+    "start": 9896,
+    "length": 49,
+    "end": 9945,
+    "text": "Parece que eu também fiquei\num pouco mais forte!"
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 9945,
+    "length": 15,
+    "end": 9960,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2368,
+    "mode": "B-implicit",
+    "start": 9960,
+    "length": 2,
+    "end": 9962,
+    "text": "47"
+  },
+  {
+    "table_pos": 2368,
+    "mode": "B-explicit",
+    "start": 9962,
+    "length": 2,
+    "end": 9964,
+    "text": "48"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "A",
+    "start": 9964,
+    "length": 25,
+    "end": 9989,
+    "text": "Essa vitória foi fácil!"
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 9989,
+    "length": 15,
+    "end": 10004,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2416,
+    "mode": "B-implicit",
+    "start": 10004,
+    "length": 2,
+    "end": 10006,
+    "text": "48"
+  },
+  {
+    "table_pos": 2416,
+    "mode": "B-explicit",
+    "start": 10006,
+    "length": 2,
+    "end": 10008,
+    "text": "49"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "A",
+    "start": 10008,
+    "length": 17,
+    "end": 10025,
+    "text": "O quê? Só isso?"
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 10025,
+    "length": 15,
+    "end": 10040,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2464,
+    "mode": "B-implicit",
+    "start": 10040,
+    "length": 2,
+    "end": 10042,
+    "text": "49"
+  },
+  {
+    "table_pos": 2464,
+    "mode": "B-explicit",
+    "start": 10042,
+    "length": 2,
+    "end": 10044,
+    "text": "50"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "A",
+    "start": 10044,
+    "length": 47,
+    "end": 10091,
+    "text": "Certo, vamos voltar e\nreportar ao Asuma sensei."
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 10091,
+    "length": 15,
+    "end": 10106,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2512,
+    "mode": "B-implicit",
+    "start": 10106,
+    "length": 2,
+    "end": 10108,
+    "text": "50"
+  },
+  {
+    "table_pos": 2512,
+    "mode": "B-explicit",
+    "start": 10108,
+    "length": 2,
+    "end": 10110,
+    "text": "51"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "A",
+    "start": 10110,
+    "length": 38,
+    "end": 10148,
+    "text": "Como eu imaginava, somos\nos melhores!!"
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 10148,
+    "length": 15,
+    "end": 10163,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2560,
+    "mode": "B-implicit",
+    "start": 10163,
+    "length": 2,
+    "end": 10165,
+    "text": "51"
+  },
+  {
+    "table_pos": 2560,
+    "mode": "B-explicit",
+    "start": 10165,
+    "length": 2,
+    "end": 10167,
+    "text": "52"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "A",
+    "start": 10167,
+    "length": 29,
+    "end": 10196,
+    "text": "Sakura...\nValeu, por uma vez."
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 10196,
+    "length": 15,
+    "end": 10211,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2608,
+    "mode": "B-implicit",
+    "start": 10211,
+    "length": 2,
+    "end": 10213,
+    "text": "52"
+  },
+  {
+    "table_pos": 2608,
+    "mode": "B-explicit",
+    "start": 10213,
+    "length": 2,
+    "end": 10215,
+    "text": "53"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "A",
+    "start": 10215,
+    "length": 42,
+    "end": 10257,
+    "text": "Moleza total!!\nVocê é uma piada pra mim!"
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 10257,
+    "length": 15,
+    "end": 10272,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2656,
+    "mode": "B-implicit",
+    "start": 10272,
+    "length": 2,
+    "end": 10274,
+    "text": "53"
+  },
+  {
+    "table_pos": 2656,
+    "mode": "B-explicit",
+    "start": 10274,
+    "length": 2,
+    "end": 10276,
+    "text": "54"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "A",
+    "start": 10276,
+    "length": 30,
+    "end": 10306,
+    "text": "Essa foi uma vitória e tanto!"
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 10306,
+    "length": 15,
+    "end": 10321,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2704,
+    "mode": "B-implicit",
+    "start": 10321,
+    "length": 2,
+    "end": 10323,
+    "text": "54"
+  },
+  {
+    "table_pos": 2704,
+    "mode": "B-explicit",
+    "start": 10323,
+    "length": 2,
+    "end": 10325,
+    "text": "55"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "A",
+    "start": 10325,
+    "length": 35,
+    "end": 10360,
+    "text": "Aquilo foi incrível!\nNé, pessoal?"
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 10360,
+    "length": 15,
+    "end": 10375,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2752,
+    "mode": "B-implicit",
+    "start": 10375,
+    "length": 2,
+    "end": 10377,
+    "text": "55"
+  },
+  {
+    "table_pos": 2752,
+    "mode": "B-explicit",
+    "start": 10377,
+    "length": 2,
+    "end": 10379,
+    "text": "56"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "A",
+    "start": 10379,
+    "length": 32,
+    "end": 10411,
+    "text": "Eu realmente nasci pra liderar!!"
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 10411,
+    "length": 15,
+    "end": 10426,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2800,
+    "mode": "B-implicit",
+    "start": 10426,
+    "length": 2,
+    "end": 10428,
+    "text": "56"
+  },
+  {
+    "table_pos": 2800,
+    "mode": "B-explicit",
+    "start": 10428,
+    "length": 2,
+    "end": 10430,
+    "text": "57"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "A",
+    "start": 10430,
+    "length": 21,
+    "end": 10451,
+    "text": "Você se saiu bem...!"
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 10451,
+    "length": 15,
+    "end": 10466,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2848,
+    "mode": "B-implicit",
+    "start": 10466,
+    "length": 2,
+    "end": 10468,
+    "text": "57"
+  },
+  {
+    "table_pos": 2848,
+    "mode": "B-explicit",
+    "start": 10468,
+    "length": 2,
+    "end": 10470,
+    "text": "58"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "A",
+    "start": 10470,
+    "length": 49,
+    "end": 10519,
+    "text": "Só isso...? Acabou mais\ncedo do que eu esperava."
+  },
+  {
+    "table_pos": 2880,
+    "mode": "A",
+    "start": 10519,
+    "length": 15,
+    "end": 10534,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2896,
+    "mode": "B-implicit",
+    "start": 10534,
+    "length": 2,
+    "end": 10536,
+    "text": "58"
+  },
+  {
+    "table_pos": 2896,
+    "mode": "B-explicit",
+    "start": 10536,
+    "length": 2,
+    "end": 10538,
+    "text": "59"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "A",
+    "start": 10538,
+    "length": 34,
+    "end": 10572,
+    "text": "Você perdeu porque\nme subestimou."
+  },
+  {
+    "table_pos": 2928,
+    "mode": "A",
+    "start": 10572,
+    "length": 15,
+    "end": 10587,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2944,
+    "mode": "B-implicit",
+    "start": 10587,
+    "length": 2,
+    "end": 10589,
+    "text": "59"
+  },
+  {
+    "table_pos": 2944,
+    "mode": "B-explicit",
+    "start": 10589,
+    "length": 2,
+    "end": 10591,
+    "text": "60"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "A",
+    "start": 10591,
+    "length": 31,
+    "end": 10622,
+    "text": "Bem... Nós somos invencíveis."
+  },
+  {
+    "table_pos": 2976,
+    "mode": "A",
+    "start": 10622,
+    "length": 15,
+    "end": 10637,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 2992,
+    "mode": "B-implicit",
+    "start": 10637,
+    "length": 2,
+    "end": 10639,
+    "text": "60"
+  },
+  {
+    "table_pos": 2992,
+    "mode": "B-explicit",
+    "start": 10639,
+    "length": 2,
+    "end": 10641,
+    "text": "61"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "A",
+    "start": 10641,
+    "length": 38,
+    "end": 10679,
+    "text": "Vocês dois me apoiaram bem.\nObrigado."
+  },
+  {
+    "table_pos": 3024,
+    "mode": "A",
+    "start": 10679,
+    "length": 15,
+    "end": 10694,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3040,
+    "mode": "B-implicit",
+    "start": 10694,
+    "length": 2,
+    "end": 10696,
+    "text": "61"
+  },
+  {
+    "table_pos": 3040,
+    "mode": "B-explicit",
+    "start": 10696,
+    "length": 2,
+    "end": 10698,
+    "text": "62"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "A",
+    "start": 10698,
+    "length": 17,
+    "end": 10715,
+    "text": "Eu... Eu venci..."
+  },
+  {
+    "table_pos": 3072,
+    "mode": "A",
+    "start": 10715,
+    "length": 15,
+    "end": 10730,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3088,
+    "mode": "B-implicit",
+    "start": 10730,
+    "length": 2,
+    "end": 10732,
+    "text": "62"
+  },
+  {
+    "table_pos": 3088,
+    "mode": "B-explicit",
+    "start": 10732,
+    "length": 2,
+    "end": 10734,
+    "text": "63"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "A",
+    "start": 10734,
+    "length": 35,
+    "end": 10769,
+    "text": "Se eu me esforçar... eu consigo..."
+  },
+  {
+    "table_pos": 3120,
+    "mode": "A",
+    "start": 10769,
+    "length": 15,
+    "end": 10784,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3136,
+    "mode": "B-implicit",
+    "start": 10784,
+    "length": 2,
+    "end": 10786,
+    "text": "63"
+  },
+  {
+    "table_pos": 3136,
+    "mode": "B-explicit",
+    "start": 10786,
+    "length": 2,
+    "end": 10788,
+    "text": "64"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "A",
+    "start": 10788,
+    "length": 41,
+    "end": 10829,
+    "text": "Vencemos por causa de vocês...\nObrigado."
+  },
+  {
+    "table_pos": 3168,
+    "mode": "A",
+    "start": 10829,
+    "length": 15,
+    "end": 10844,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3184,
+    "mode": "B-implicit",
+    "start": 10844,
+    "length": 2,
+    "end": 10846,
+    "text": "64"
+  },
+  {
+    "table_pos": 3184,
+    "mode": "B-explicit",
+    "start": 10846,
+    "length": 2,
+    "end": 10848,
+    "text": "65"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "A",
+    "start": 10848,
+    "length": 23,
+    "end": 10871,
+    "text": "Alguém se machucou...?"
+  },
+  {
+    "table_pos": 3216,
+    "mode": "A",
+    "start": 10871,
+    "length": 15,
+    "end": 10886,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3232,
+    "mode": "B-implicit",
+    "start": 10886,
+    "length": 2,
+    "end": 10888,
+    "text": "65"
+  },
+  {
+    "table_pos": 3232,
+    "mode": "B-explicit",
+    "start": 10888,
+    "length": 2,
+    "end": 10890,
+    "text": "66"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "A",
+    "start": 10890,
+    "length": 47,
+    "end": 10937,
+    "text": "Espero que possamos trabalhar\njuntos de novo..."
+  },
+  {
+    "table_pos": 3264,
+    "mode": "A",
+    "start": 10937,
+    "length": 15,
+    "end": 10952,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3280,
+    "mode": "B-implicit",
+    "start": 10952,
+    "length": 2,
+    "end": 10954,
+    "text": "66"
+  },
+  {
+    "table_pos": 3280,
+    "mode": "B-explicit",
+    "start": 10954,
+    "length": 2,
+    "end": 10956,
+    "text": "67"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "A",
+    "start": 10956,
+    "length": 42,
+    "end": 10998,
+    "text": "Eu... Eu consegui vencer...\nQue alívio..."
+  },
+  {
+    "table_pos": 3312,
+    "mode": "A",
+    "start": 10998,
+    "length": 15,
+    "end": 11013,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3328,
+    "mode": "B-implicit",
+    "start": 11013,
+    "length": 2,
+    "end": 11015,
+    "text": "67"
+  },
+  {
+    "table_pos": 3328,
+    "mode": "B-explicit",
+    "start": 11015,
+    "length": 2,
+    "end": 11017,
+    "text": "68"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "A",
+    "start": 11017,
+    "length": 49,
+    "end": 11066,
+    "text": "Nada mal...\nMas você escolheu o oponente errado."
+  },
+  {
+    "table_pos": 3360,
+    "mode": "A",
+    "start": 11066,
+    "length": 15,
+    "end": 11081,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3376,
+    "mode": "B-implicit",
+    "start": 11081,
+    "length": 2,
+    "end": 11083,
+    "text": "68"
+  },
+  {
+    "table_pos": 3376,
+    "mode": "B-explicit",
+    "start": 11083,
+    "length": 2,
+    "end": 11085,
+    "text": "69"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "A",
+    "start": 11085,
+    "length": 36,
+    "end": 11121,
+    "text": "Você é fraco demais... Que tédio."
+  },
+  {
+    "table_pos": 3408,
+    "mode": "A",
+    "start": 11121,
+    "length": 15,
+    "end": 11136,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3424,
+    "mode": "B-implicit",
+    "start": 11136,
+    "length": 2,
+    "end": 11138,
+    "text": "69"
+  },
+  {
+    "table_pos": 3424,
+    "mode": "B-explicit",
+    "start": 11138,
+    "length": 2,
+    "end": 11140,
+    "text": "70"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "A",
+    "start": 11140,
+    "length": 46,
+    "end": 11186,
+    "text": "Isso devia ser uma\ncompetição...? Ridículo."
+  },
+  {
+    "table_pos": 3456,
+    "mode": "A",
+    "start": 11186,
+    "length": 15,
+    "end": 11201,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3472,
+    "mode": "B-implicit",
+    "start": 11201,
+    "length": 2,
+    "end": 11203,
+    "text": "70"
+  },
+  {
+    "table_pos": 3472,
+    "mode": "B-explicit",
+    "start": 11203,
+    "length": 2,
+    "end": 11205,
+    "text": "71"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "A",
+    "start": 11205,
+    "length": 51,
+    "end": 11256,
+    "text": "Não faz sentido...\nNão precisamos continuar mais."
+  },
+  {
+    "table_pos": 3504,
+    "mode": "A",
+    "start": 11256,
+    "length": 15,
+    "end": 11271,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3520,
+    "mode": "B-implicit",
+    "start": 11271,
+    "length": 2,
+    "end": 11273,
+    "text": "71"
+  },
+  {
+    "table_pos": 3520,
+    "mode": "B-explicit",
+    "start": 11273,
+    "length": 2,
+    "end": 11275,
+    "text": "72"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "A",
+    "start": 11275,
+    "length": 58,
+    "end": 11333,
+    "text": "Eu e o Naruto Uzumaki... Somos\nduas muralhas invencíveis."
+  },
+  {
+    "table_pos": 3552,
+    "mode": "A",
+    "start": 11333,
+    "length": 15,
+    "end": 11348,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3568,
+    "mode": "B-implicit",
+    "start": 11348,
+    "length": 2,
+    "end": 11350,
+    "text": "72"
+  },
+  {
+    "table_pos": 3568,
+    "mode": "B-explicit",
+    "start": 11350,
+    "length": 2,
+    "end": 11352,
+    "text": "73"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "A",
+    "start": 11352,
+    "length": 30,
+    "end": 11382,
+    "text": "Hã... Não teve nada de mais."
+  },
+  {
+    "table_pos": 3600,
+    "mode": "A",
+    "start": 11382,
+    "length": 15,
+    "end": 11397,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3616,
+    "mode": "B-implicit",
+    "start": 11397,
+    "length": 2,
+    "end": 11399,
+    "text": "73"
+  },
+  {
+    "table_pos": 3616,
+    "mode": "B-explicit",
+    "start": 11399,
+    "length": 2,
+    "end": 11401,
+    "text": "74"
+  },
+  {
+    "table_pos": 3632,
+    "mode": "A",
+    "start": 11401,
+    "length": 20,
+    "end": 11421,
+    "text": "Foi fácil demais..."
+  },
+  {
+    "table_pos": 3648,
+    "mode": "A",
+    "start": 11421,
+    "length": 15,
+    "end": 11436,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3664,
+    "mode": "B-implicit",
+    "start": 11436,
+    "length": 2,
+    "end": 11438,
+    "text": "74"
+  },
+  {
+    "table_pos": 3664,
+    "mode": "B-explicit",
+    "start": 11438,
+    "length": 2,
+    "end": 11440,
+    "text": "75"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "A",
+    "start": 11440,
+    "length": 17,
+    "end": 11457,
+    "text": "O quê? Só isso?"
+  },
+  {
+    "table_pos": 3696,
+    "mode": "A",
+    "start": 11457,
+    "length": 15,
+    "end": 11472,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3712,
+    "mode": "B-implicit",
+    "start": 11472,
+    "length": 2,
+    "end": 11474,
+    "text": "75"
+  },
+  {
+    "table_pos": 3712,
+    "mode": "B-explicit",
+    "start": 11474,
+    "length": 2,
+    "end": 11476,
+    "text": "76"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "A",
+    "start": 11476,
+    "length": 27,
+    "end": 11503,
+    "text": "Ah! Você era fraco demais!"
+  },
+  {
+    "table_pos": 3744,
+    "mode": "A",
+    "start": 11503,
+    "length": 15,
+    "end": 11518,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3760,
+    "mode": "B-implicit",
+    "start": 11518,
+    "length": 2,
+    "end": 11520,
+    "text": "76"
+  },
+  {
+    "table_pos": 3760,
+    "mode": "B-explicit",
+    "start": 11520,
+    "length": 2,
+    "end": 11522,
+    "text": "77"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "A",
+    "start": 11522,
+    "length": 29,
+    "end": 11551,
+    "text": "Eu sabia que ia acabar assim."
+  },
+  {
+    "table_pos": 3792,
+    "mode": "A",
+    "start": 11551,
+    "length": 15,
+    "end": 11566,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3808,
+    "mode": "B-implicit",
+    "start": 11566,
+    "length": 2,
+    "end": 11568,
+    "text": "77"
+  },
+  {
+    "table_pos": 3808,
+    "mode": "B-explicit",
+    "start": 11568,
+    "length": 2,
+    "end": 11570,
+    "text": "78"
+  },
+  {
+    "table_pos": 3824,
+    "mode": "A",
+    "start": 11570,
+    "length": 24,
+    "end": 11594,
+    "text": "Esse é o fim do show..."
+  },
+  {
+    "table_pos": 3840,
+    "mode": "A",
+    "start": 11594,
+    "length": 15,
+    "end": 11609,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3856,
+    "mode": "B-implicit",
+    "start": 11609,
+    "length": 2,
+    "end": 11611,
+    "text": "78"
+  },
+  {
+    "table_pos": 3856,
+    "mode": "B-explicit",
+    "start": 11611,
+    "length": 2,
+    "end": 11613,
+    "text": "79"
+  },
+  {
+    "table_pos": 3872,
+    "mode": "A",
+    "start": 11613,
+    "length": 29,
+    "end": 11642,
+    "text": "Você não presta pra nada..."
+  },
+  {
+    "table_pos": 3888,
+    "mode": "A",
+    "start": 11642,
+    "length": 15,
+    "end": 11657,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3904,
+    "mode": "B-implicit",
+    "start": 11657,
+    "length": 2,
+    "end": 11659,
+    "text": "79"
+  },
+  {
+    "table_pos": 3904,
+    "mode": "B-explicit",
+    "start": 11659,
+    "length": 2,
+    "end": 11661,
+    "text": "80"
+  },
+  {
+    "table_pos": 3920,
+    "mode": "A",
+    "start": 11661,
+    "length": 47,
+    "end": 11708,
+    "text": "Rá... Você se saiu melhor\ndo que eu esperava."
+  },
+  {
+    "table_pos": 3936,
+    "mode": "A",
+    "start": 11708,
+    "length": 15,
+    "end": 11723,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 3952,
+    "mode": "B-implicit",
+    "start": 11723,
+    "length": 2,
+    "end": 11725,
+    "text": "80"
+  },
+  {
+    "table_pos": 3952,
+    "mode": "B-explicit",
+    "start": 11725,
+    "length": 2,
+    "end": 11727,
+    "text": "81"
+  },
+  {
+    "table_pos": 3968,
+    "mode": "A",
+    "start": 11727,
+    "length": 33,
+    "end": 11760,
+    "text": "Só coragem não é o suficiente."
+  },
+  {
+    "table_pos": 3984,
+    "mode": "A",
+    "start": 11760,
+    "length": 15,
+    "end": 11775,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4000,
+    "mode": "B-implicit",
+    "start": 11775,
+    "length": 2,
+    "end": 11777,
+    "text": "81"
+  },
+  {
+    "table_pos": 4000,
+    "mode": "B-explicit",
+    "start": 11777,
+    "length": 2,
+    "end": 11779,
+    "text": "82"
+  },
+  {
+    "table_pos": 4016,
+    "mode": "A",
+    "start": 11779,
+    "length": 56,
+    "end": 11835,
+    "text": "Ninguém é mais forte que\nnós três. Lembre-se disso!!"
+  },
+  {
+    "table_pos": 4032,
+    "mode": "A",
+    "start": 11835,
+    "length": 15,
+    "end": 11850,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4048,
+    "mode": "B-implicit",
+    "start": 11850,
+    "length": 2,
+    "end": 11852,
+    "text": "82"
+  },
+  {
+    "table_pos": 4048,
+    "mode": "B-explicit",
+    "start": 11852,
+    "length": 2,
+    "end": 11854,
+    "text": "83"
+  },
+  {
+    "table_pos": 4064,
+    "mode": "A",
+    "start": 11854,
+    "length": 65,
+    "end": 11919,
+    "text": "Finalmente acabou... Não preciso\nmais carregar seu peso morto..."
+  },
+  {
+    "table_pos": 4080,
+    "mode": "A",
+    "start": 11919,
+    "length": 15,
+    "end": 11934,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4096,
+    "mode": "B-implicit",
+    "start": 11934,
+    "length": 2,
+    "end": 11936,
+    "text": "83"
+  },
+  {
+    "table_pos": 4096,
+    "mode": "B-explicit",
+    "start": 11936,
+    "length": 2,
+    "end": 11938,
+    "text": "84"
+  },
+  {
+    "table_pos": 4112,
+    "mode": "A",
+    "start": 11938,
+    "length": 41,
+    "end": 11979,
+    "text": "Ufa... Você é melhor do que eu pensava."
+  },
+  {
+    "table_pos": 4128,
+    "mode": "A",
+    "start": 11979,
+    "length": 15,
+    "end": 11994,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4144,
+    "mode": "B-implicit",
+    "start": 11994,
+    "length": 2,
+    "end": 11996,
+    "text": "84"
+  },
+  {
+    "table_pos": 4144,
+    "mode": "B-explicit",
+    "start": 11996,
+    "length": 2,
+    "end": 11998,
+    "text": "85"
+  },
+  {
+    "table_pos": 4160,
+    "mode": "A",
+    "start": 11998,
+    "length": 40,
+    "end": 12038,
+    "text": "Você não pode me derrotar tão fácil."
+  },
+  {
+    "table_pos": 4176,
+    "mode": "A",
+    "start": 12038,
+    "length": 15,
+    "end": 12053,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4192,
+    "mode": "B-implicit",
+    "start": 12053,
+    "length": 2,
+    "end": 12055,
+    "text": "85"
+  },
+  {
+    "table_pos": 4192,
+    "mode": "B-explicit",
+    "start": 12055,
+    "length": 2,
+    "end": 12057,
+    "text": "86"
+  },
+  {
+    "table_pos": 4208,
+    "mode": "A",
+    "start": 12057,
+    "length": 25,
+    "end": 12082,
+    "text": "Valeu por conseguir, Guy."
+  },
+  {
+    "table_pos": 4224,
+    "mode": "A",
+    "start": 12082,
+    "length": 15,
+    "end": 12097,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4240,
+    "mode": "B-implicit",
+    "start": 12097,
+    "length": 2,
+    "end": 12099,
+    "text": "86"
+  },
+  {
+    "table_pos": 4240,
+    "mode": "B-explicit",
+    "start": 12099,
+    "length": 2,
+    "end": 12101,
+    "text": "87"
+  },
+  {
+    "table_pos": 4256,
+    "mode": "A",
+    "start": 12101,
+    "length": 53,
+    "end": 12154,
+    "text": "Deu tudo certo, né...?\nDeixo o resto com você, Guy."
+  },
+  {
+    "table_pos": 4272,
+    "mode": "A",
+    "start": 12154,
+    "length": 15,
+    "end": 12169,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4288,
+    "mode": "B-implicit",
+    "start": 12169,
+    "length": 2,
+    "end": 12171,
+    "text": "87"
+  },
+  {
+    "table_pos": 4288,
+    "mode": "B-explicit",
+    "start": 12171,
+    "length": 2,
+    "end": 12173,
+    "text": "88"
+  },
+  {
+    "table_pos": 4304,
+    "mode": "A",
+    "start": 12173,
+    "length": 26,
+    "end": 12199,
+    "text": "Hm, bom trabalho, pessoal."
+  },
+  {
+    "table_pos": 4320,
+    "mode": "A",
+    "start": 12199,
+    "length": 15,
+    "end": 12214,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4336,
+    "mode": "B-implicit",
+    "start": 12214,
+    "length": 2,
+    "end": 12216,
+    "text": "88"
+  },
+  {
+    "table_pos": 4336,
+    "mode": "B-explicit",
+    "start": 12216,
+    "length": 2,
+    "end": 12218,
+    "text": "89"
+  },
+  {
+    "table_pos": 4352,
+    "mode": "A",
+    "start": 12218,
+    "length": 46,
+    "end": 12264,
+    "text": "Você não treinou nem de\nlonge o suficiente!!"
+  },
+  {
+    "table_pos": 4368,
+    "mode": "A",
+    "start": 12264,
+    "length": 15,
+    "end": 12279,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4384,
+    "mode": "B-implicit",
+    "start": 12279,
+    "length": 2,
+    "end": 12281,
+    "text": "89"
+  },
+  {
+    "table_pos": 4384,
+    "mode": "B-explicit",
+    "start": 12281,
+    "length": 2,
+    "end": 12283,
+    "text": "90"
+  },
+  {
+    "table_pos": 4400,
+    "mode": "A",
+    "start": 12283,
+    "length": 21,
+    "end": 12304,
+    "text": "Ha-ha-ha!!\nBoa luta!!"
+  },
+  {
+    "table_pos": 4416,
+    "mode": "A",
+    "start": 12304,
+    "length": 15,
+    "end": 12319,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4432,
+    "mode": "B-implicit",
+    "start": 12319,
+    "length": 2,
+    "end": 12321,
+    "text": "90"
+  },
+  {
+    "table_pos": 4432,
+    "mode": "B-explicit",
+    "start": 12321,
+    "length": 2,
+    "end": 12323,
+    "text": "91"
+  },
+  {
+    "table_pos": 4448,
+    "mode": "A",
+    "start": 12323,
+    "length": 42,
+    "end": 12365,
+    "text": "Hmph! Admiro sua coragem\npor nos desafiar."
+  },
+  {
+    "table_pos": 4464,
+    "mode": "A",
+    "start": 12365,
+    "length": 15,
+    "end": 12380,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4480,
+    "mode": "B-implicit",
+    "start": 12380,
+    "length": 2,
+    "end": 12382,
+    "text": "91"
+  },
+  {
+    "table_pos": 4480,
+    "mode": "B-explicit",
+    "start": 12382,
+    "length": 2,
+    "end": 12384,
+    "text": "92"
+  },
+  {
+    "table_pos": 4496,
+    "mode": "A",
+    "start": 12384,
+    "length": 64,
+    "end": 12448,
+    "text": "Olha, Kakashi! Nossos oponentes\nestão fugindo com medo de nós!"
+  },
+  {
+    "table_pos": 4512,
+    "mode": "A",
+    "start": 12448,
+    "length": 15,
+    "end": 12463,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4528,
+    "mode": "B-implicit",
+    "start": 12463,
+    "length": 2,
+    "end": 12465,
+    "text": "92"
+  },
+  {
+    "table_pos": 4528,
+    "mode": "B-explicit",
+    "start": 12465,
+    "length": 2,
+    "end": 12467,
+    "text": "93"
+  },
+  {
+    "table_pos": 4544,
+    "mode": "A",
+    "start": 12467,
+    "length": 43,
+    "end": 12510,
+    "text": "Lee! Nosso nindo vai\ncontinuar pra sempre!!"
+  },
+  {
+    "table_pos": 4560,
+    "mode": "A",
+    "start": 12510,
+    "length": 15,
+    "end": 12525,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4576,
+    "mode": "B-implicit",
+    "start": 12525,
+    "length": 2,
+    "end": 12527,
+    "text": "93"
+  },
+  {
+    "table_pos": 4576,
+    "mode": "B-explicit",
+    "start": 12527,
+    "length": 2,
+    "end": 12529,
+    "text": "94"
+  },
+  {
+    "table_pos": 4592,
+    "mode": "A",
+    "start": 12529,
+    "length": 57,
+    "end": 12586,
+    "text": "Muito bem, meus alunos!\nO apoio de vocês foi incrível!!"
+  },
+  {
+    "table_pos": 4608,
+    "mode": "A",
+    "start": 12586,
+    "length": 15,
+    "end": 12601,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4624,
+    "mode": "B-implicit",
+    "start": 12601,
+    "length": 2,
+    "end": 12603,
+    "text": "94"
+  },
+  {
+    "table_pos": 4624,
+    "mode": "B-explicit",
+    "start": 12603,
+    "length": 2,
+    "end": 12605,
+    "text": "95"
+  },
+  {
+    "table_pos": 4640,
+    "mode": "A",
+    "start": 12605,
+    "length": 27,
+    "end": 12632,
+    "text": "Não volte aqui nunca mais!"
+  },
+  {
+    "table_pos": 4656,
+    "mode": "A",
+    "start": 12632,
+    "length": 15,
+    "end": 12647,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4672,
+    "mode": "B-implicit",
+    "start": 12647,
+    "length": 2,
+    "end": 12649,
+    "text": "95"
+  },
+  {
+    "table_pos": 4672,
+    "mode": "B-explicit",
+    "start": 12649,
+    "length": 2,
+    "end": 12651,
+    "text": "96"
+  },
+  {
+    "table_pos": 4688,
+    "mode": "A",
+    "start": 12651,
+    "length": 42,
+    "end": 12693,
+    "text": "Já aprendeu o poder do\nSábio dos Sapos!?"
+  },
+  {
+    "table_pos": 4704,
+    "mode": "A",
+    "start": 12693,
+    "length": 15,
+    "end": 12708,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4720,
+    "mode": "B-implicit",
+    "start": 12708,
+    "length": 2,
+    "end": 12710,
+    "text": "96"
+  },
+  {
+    "table_pos": 4720,
+    "mode": "B-explicit",
+    "start": 12710,
+    "length": 2,
+    "end": 12712,
+    "text": "97"
+  },
+  {
+    "table_pos": 4736,
+    "mode": "A",
+    "start": 12712,
+    "length": 60,
+    "end": 12772,
+    "text": "Esse é o invencível Time Sarutobi!\nJá aprendeu a lição?"
+  },
+  {
+    "table_pos": 4752,
+    "mode": "A",
+    "start": 12772,
+    "length": 15,
+    "end": 12787,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4768,
+    "mode": "B-implicit",
+    "start": 12787,
+    "length": 2,
+    "end": 12789,
+    "text": "97"
+  },
+  {
+    "table_pos": 4768,
+    "mode": "B-explicit",
+    "start": 12789,
+    "length": 2,
+    "end": 12791,
+    "text": "98"
+  },
+  {
+    "table_pos": 4784,
+    "mode": "A",
+    "start": 12791,
+    "length": 29,
+    "end": 12820,
+    "text": "Rá... Aprendeu seus limites?"
+  },
+  {
+    "table_pos": 4800,
+    "mode": "A",
+    "start": 12820,
+    "length": 15,
+    "end": 12835,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4816,
+    "mode": "B-implicit",
+    "start": 12835,
+    "length": 2,
+    "end": 12837,
+    "text": "98"
+  },
+  {
+    "table_pos": 4816,
+    "mode": "B-explicit",
+    "start": 12837,
+    "length": 2,
+    "end": 12839,
+    "text": "99"
+  },
+  {
+    "table_pos": 4832,
+    "mode": "A",
+    "start": 12839,
+    "length": 38,
+    "end": 12877,
+    "text": "É assim que um ninja de\nverdade luta."
+  },
+  {
+    "table_pos": 4848,
+    "mode": "A",
+    "start": 12877,
+    "length": 15,
+    "end": 12892,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4864,
+    "mode": "B-implicit",
+    "start": 12892,
+    "length": 2,
+    "end": 12894,
+    "text": "99"
+  },
+  {
+    "table_pos": 4864,
+    "mode": "B-explicit",
+    "start": 12894,
+    "length": 3,
+    "end": 12897,
+    "text": "100"
+  },
+  {
+    "table_pos": 4880,
+    "mode": "A",
+    "start": 12897,
+    "length": 60,
+    "end": 12957,
+    "text": "Esse é aquele poder lendário.\nGuarde bem isso na memória!"
+  },
+  {
+    "table_pos": 4896,
+    "mode": "A",
+    "start": 12957,
+    "length": 15,
+    "end": 12972,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4912,
+    "mode": "B-implicit",
+    "start": 12972,
+    "length": 3,
+    "end": 12975,
+    "text": "100"
+  },
+  {
+    "table_pos": 4912,
+    "mode": "B-explicit",
+    "start": 12975,
+    "length": 3,
+    "end": 12978,
+    "text": "101"
+  },
+  {
+    "table_pos": 4928,
+    "mode": "A",
+    "start": 12978,
+    "length": 32,
+    "end": 13010,
+    "text": "Essa luta... é minha vitória!!"
+  },
+  {
+    "table_pos": 4944,
+    "mode": "A",
+    "start": 13010,
+    "length": 15,
+    "end": 13025,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 4960,
+    "mode": "B-implicit",
+    "start": 13025,
+    "length": 3,
+    "end": 13028,
+    "text": "101"
+  },
+  {
+    "table_pos": 4960,
+    "mode": "B-explicit",
+    "start": 13028,
+    "length": 3,
+    "end": 13031,
+    "text": "102"
+  },
+  {
+    "table_pos": 4976,
+    "mode": "A",
+    "start": 13031,
+    "length": 40,
+    "end": 13071,
+    "text": "Eu tenho coisas que\npreciso proteger...!"
+  },
+  {
+    "table_pos": 4992,
+    "mode": "A",
+    "start": 13071,
+    "length": 15,
+    "end": 13086,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5008,
+    "mode": "B-implicit",
+    "start": 13086,
+    "length": 3,
+    "end": 13089,
+    "text": "102"
+  },
+  {
+    "table_pos": 5008,
+    "mode": "B-explicit",
+    "start": 13089,
+    "length": 3,
+    "end": 13092,
+    "text": "103"
+  },
+  {
+    "table_pos": 5024,
+    "mode": "A",
+    "start": 13092,
+    "length": 25,
+    "end": 13117,
+    "text": "Será que eu exagerei...?"
+  },
+  {
+    "table_pos": 5040,
+    "mode": "A",
+    "start": 13117,
+    "length": 15,
+    "end": 13132,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5056,
+    "mode": "B-implicit",
+    "start": 13132,
+    "length": 3,
+    "end": 13135,
+    "text": "103"
+  },
+  {
+    "table_pos": 5056,
+    "mode": "B-explicit",
+    "start": 13135,
+    "length": 3,
+    "end": 13138,
+    "text": "104"
+  },
+  {
+    "table_pos": 5072,
+    "mode": "A",
+    "start": 13138,
+    "length": 42,
+    "end": 13180,
+    "text": "Rá-rá! Esse é o poder do\nTime Sarutobi!"
+  },
+  {
+    "table_pos": 5088,
+    "mode": "A",
+    "start": 13180,
+    "length": 15,
+    "end": 13195,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5104,
+    "mode": "B-implicit",
+    "start": 13195,
+    "length": 3,
+    "end": 13198,
+    "text": "104"
+  },
+  {
+    "table_pos": 5104,
+    "mode": "B-explicit",
+    "start": 13198,
+    "length": 3,
+    "end": 13201,
+    "text": "105"
+  },
+  {
+    "table_pos": 5120,
+    "mode": "A",
+    "start": 13201,
+    "length": 58,
+    "end": 13259,
+    "text": "Deve ter sido uma boa\nexperiência pra você, né, Naruto?"
+  },
+  {
+    "table_pos": 5136,
+    "mode": "A",
+    "start": 13259,
+    "length": 15,
+    "end": 13274,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5152,
+    "mode": "B-implicit",
+    "start": 13274,
+    "length": 3,
+    "end": 13277,
+    "text": "105"
+  },
+  {
+    "table_pos": 5152,
+    "mode": "B-explicit",
+    "start": 13277,
+    "length": 3,
+    "end": 13280,
+    "text": "106"
+  },
+  {
+    "table_pos": 5168,
+    "mode": "A",
+    "start": 13280,
+    "length": 25,
+    "end": 13305,
+    "text": "Nem precisei ir com tudo."
+  },
+  {
+    "table_pos": 5184,
+    "mode": "A",
+    "start": 13305,
+    "length": 15,
+    "end": 13320,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5200,
+    "mode": "B-implicit",
+    "start": 13320,
+    "length": 3,
+    "end": 13323,
+    "text": "106"
+  },
+  {
+    "table_pos": 5200,
+    "mode": "B-explicit",
+    "start": 13323,
+    "length": 3,
+    "end": 13326,
+    "text": "107"
+  },
+  {
+    "table_pos": 5216,
+    "mode": "A",
+    "start": 13326,
+    "length": 39,
+    "end": 13365,
+    "text": "Esse é o poder dos\nlendários Sannin!!"
+  },
+  {
+    "table_pos": 5232,
+    "mode": "A",
+    "start": 13365,
+    "length": 15,
+    "end": 13380,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5248,
+    "mode": "B-implicit",
+    "start": 13380,
+    "length": 3,
+    "end": 13383,
+    "text": "107"
+  },
+  {
+    "table_pos": 5248,
+    "mode": "B-explicit",
+    "start": 13383,
+    "length": 3,
+    "end": 13386,
+    "text": "108"
+  },
+  {
+    "table_pos": 5264,
+    "mode": "A",
+    "start": 13386,
+    "length": 28,
+    "end": 13414,
+    "text": "Parece que tudo deu certo..."
+  },
+  {
+    "table_pos": 5280,
+    "mode": "A",
+    "start": 13414,
+    "length": 15,
+    "end": 13429,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5296,
+    "mode": "B-implicit",
+    "start": 13429,
+    "length": 3,
+    "end": 13432,
+    "text": "108"
+  },
+  {
+    "table_pos": 5296,
+    "mode": "B-explicit",
+    "start": 13432,
+    "length": 3,
+    "end": 13435,
+    "text": "109"
+  },
+  {
+    "table_pos": 5312,
+    "mode": "A",
+    "start": 13435,
+    "length": 61,
+    "end": 13496,
+    "text": "As pessoas importantes pra mim...\nEu vou proteger todas elas."
+  },
+  {
+    "table_pos": 5328,
+    "mode": "A",
+    "start": 13496,
+    "length": 15,
+    "end": 13511,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5344,
+    "mode": "B-implicit",
+    "start": 13511,
+    "length": 3,
+    "end": 13514,
+    "text": "109"
+  },
+  {
+    "table_pos": 5344,
+    "mode": "B-explicit",
+    "start": 13514,
+    "length": 3,
+    "end": 13517,
+    "text": "110"
+  },
+  {
+    "table_pos": 5360,
+    "mode": "A",
+    "start": 13517,
+    "length": 66,
+    "end": 13583,
+    "text": "Podemos estar mais velhos, mas\nainda temos nossa força, não é?!"
+  },
+  {
+    "table_pos": 5376,
+    "mode": "A",
+    "start": 13583,
+    "length": 15,
+    "end": 13598,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5392,
+    "mode": "B-implicit",
+    "start": 13598,
+    "length": 3,
+    "end": 13601,
+    "text": "110"
+  },
+  {
+    "table_pos": 5392,
+    "mode": "B-explicit",
+    "start": 13601,
+    "length": 3,
+    "end": 13604,
+    "text": "111"
+  },
+  {
+    "table_pos": 5408,
+    "mode": "A",
+    "start": 13604,
+    "length": 34,
+    "end": 13638,
+    "text": "Jiraiya... Tsunade! Como esperado."
+  },
+  {
+    "table_pos": 5424,
+    "mode": "A",
+    "start": 13638,
+    "length": 15,
+    "end": 13653,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5440,
+    "mode": "B-implicit",
+    "start": 13653,
+    "length": 3,
+    "end": 13656,
+    "text": "111"
+  },
+  {
+    "table_pos": 5440,
+    "mode": "B-explicit",
+    "start": 13656,
+    "length": 3,
+    "end": 13659,
+    "text": "112"
+  },
+  {
+    "table_pos": 5456,
+    "mode": "A",
+    "start": 13659,
+    "length": 49,
+    "end": 13708,
+    "text": "Essa vitória não foi surpresa,\nfoi, Orochimaru?"
+  },
+  {
+    "table_pos": 5472,
+    "mode": "A",
+    "start": 13708,
+    "length": 15,
+    "end": 13723,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5488,
+    "mode": "B-implicit",
+    "start": 13723,
+    "length": 3,
+    "end": 13726,
+    "text": "112"
+  },
+  {
+    "table_pos": 5488,
+    "mode": "B-explicit",
+    "start": 13726,
+    "length": 3,
+    "end": 13729,
+    "text": "113"
+  },
+  {
+    "table_pos": 5504,
+    "mode": "A",
+    "start": 13729,
+    "length": 47,
+    "end": 13776,
+    "text": "Devo muito a vocês dois,\ncom toda essa força."
+  },
+  {
+    "table_pos": 5520,
+    "mode": "A",
+    "start": 13776,
+    "length": 15,
+    "end": 13791,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5536,
+    "mode": "B-implicit",
+    "start": 13791,
+    "length": 3,
+    "end": 13794,
+    "text": "113"
+  },
+  {
+    "table_pos": 5536,
+    "mode": "B-explicit",
+    "start": 13794,
+    "length": 3,
+    "end": 13797,
+    "text": "114"
+  },
+  {
+    "table_pos": 5552,
+    "mode": "A",
+    "start": 13797,
+    "length": 32,
+    "end": 13829,
+    "text": "Rá-rá-rá... Que engraçado..."
+  },
+  {
+    "table_pos": 5568,
+    "mode": "A",
+    "start": 13829,
+    "length": 15,
+    "end": 13844,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5584,
+    "mode": "B-implicit",
+    "start": 13844,
+    "length": 3,
+    "end": 13847,
+    "text": "114"
+  },
+  {
+    "table_pos": 5584,
+    "mode": "B-explicit",
+    "start": 13847,
+    "length": 3,
+    "end": 13850,
+    "text": "115"
+  },
+  {
+    "table_pos": 5600,
+    "mode": "A",
+    "start": 13850,
+    "length": 34,
+    "end": 13884,
+    "text": "Pelo menos consegui matar o tempo."
+  },
+  {
+    "table_pos": 5616,
+    "mode": "A",
+    "start": 13884,
+    "length": 15,
+    "end": 13899,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5632,
+    "mode": "B-implicit",
+    "start": 13899,
+    "length": 3,
+    "end": 13902,
+    "text": "115"
+  },
+  {
+    "table_pos": 5632,
+    "mode": "B-explicit",
+    "start": 13902,
+    "length": 3,
+    "end": 13905,
+    "text": "116"
+  },
+  {
+    "table_pos": 5648,
+    "mode": "A",
+    "start": 13905,
+    "length": 45,
+    "end": 13950,
+    "text": "Ho ho... Essa foi uma batalha\nbem intrigante."
+  },
+  {
+    "table_pos": 5664,
+    "mode": "A",
+    "start": 13950,
+    "length": 15,
+    "end": 13965,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5680,
+    "mode": "B-implicit",
+    "start": 13965,
+    "length": 3,
+    "end": 13968,
+    "text": "116"
+  },
+  {
+    "table_pos": 5680,
+    "mode": "B-explicit",
+    "start": 13968,
+    "length": 3,
+    "end": 13971,
+    "text": "117"
+  },
+  {
+    "table_pos": 5696,
+    "mode": "A",
+    "start": 13971,
+    "length": 49,
+    "end": 14020,
+    "text": "Acabou agora.\nKabuto... Kimimaro, vamos pra casa."
+  },
+  {
+    "table_pos": 5712,
+    "mode": "A",
+    "start": 14020,
+    "length": 15,
+    "end": 14035,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5728,
+    "mode": "B-implicit",
+    "start": 14035,
+    "length": 3,
+    "end": 14038,
+    "text": "117"
+  },
+  {
+    "table_pos": 5728,
+    "mode": "B-explicit",
+    "start": 14038,
+    "length": 3,
+    "end": 14041,
+    "text": "118"
+  },
+  {
+    "table_pos": 5744,
+    "mode": "A",
+    "start": 14041,
+    "length": 33,
+    "end": 14074,
+    "text": "Não tinha como a gente perder..."
+  },
+  {
+    "table_pos": 5760,
+    "mode": "A",
+    "start": 14074,
+    "length": 15,
+    "end": 14089,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5776,
+    "mode": "B-implicit",
+    "start": 14089,
+    "length": 3,
+    "end": 14092,
+    "text": "118"
+  },
+  {
+    "table_pos": 5776,
+    "mode": "B-explicit",
+    "start": 14092,
+    "length": 3,
+    "end": 14095,
+    "text": "119"
+  },
+  {
+    "table_pos": 5792,
+    "mode": "A",
+    "start": 14095,
+    "length": 64,
+    "end": 14159,
+    "text": "Quem não tem talento perde...\nSerá qual tipo você é, Sasuke?"
+  },
+  {
+    "table_pos": 5808,
+    "mode": "A",
+    "start": 14159,
+    "length": 15,
+    "end": 14174,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5824,
+    "mode": "B-implicit",
+    "start": 14174,
+    "length": 3,
+    "end": 14177,
+    "text": "119"
+  },
+  {
+    "table_pos": 5824,
+    "mode": "B-explicit",
+    "start": 14177,
+    "length": 3,
+    "end": 14180,
+    "text": "120"
+  },
+  {
+    "table_pos": 5840,
+    "mode": "A",
+    "start": 14180,
+    "length": 50,
+    "end": 14230,
+    "text": "Essa deve ser a última vez\nque desafia os Sannin."
+  },
+  {
+    "table_pos": 5856,
+    "mode": "A",
+    "start": 14230,
+    "length": 15,
+    "end": 14245,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5872,
+    "mode": "B-implicit",
+    "start": 14245,
+    "length": 3,
+    "end": 14248,
+    "text": "120"
+  },
+  {
+    "table_pos": 5872,
+    "mode": "B-explicit",
+    "start": 14248,
+    "length": 3,
+    "end": 14251,
+    "text": "121"
+  },
+  {
+    "table_pos": 5888,
+    "mode": "A",
+    "start": 14251,
+    "length": 34,
+    "end": 14285,
+    "text": "Opa, opa...\nSerá que eu exagerei?"
+  },
+  {
+    "table_pos": 5904,
+    "mode": "A",
+    "start": 14285,
+    "length": 15,
+    "end": 14300,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5920,
+    "mode": "B-implicit",
+    "start": 14300,
+    "length": 3,
+    "end": 14303,
+    "text": "121"
+  },
+  {
+    "table_pos": 5920,
+    "mode": "B-explicit",
+    "start": 14303,
+    "length": 3,
+    "end": 14306,
+    "text": "122"
+  },
+  {
+    "table_pos": 5936,
+    "mode": "A",
+    "start": 14306,
+    "length": 32,
+    "end": 14338,
+    "text": "Bem, acho que você se saiu bem."
+  },
+  {
+    "table_pos": 5952,
+    "mode": "A",
+    "start": 14338,
+    "length": 15,
+    "end": 14353,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 5968,
+    "mode": "B-implicit",
+    "start": 14353,
+    "length": 3,
+    "end": 14356,
+    "text": "122"
+  },
+  {
+    "table_pos": 5968,
+    "mode": "B-explicit",
+    "start": 14356,
+    "length": 3,
+    "end": 14359,
+    "text": "123"
+  },
+  {
+    "table_pos": 5984,
+    "mode": "A",
+    "start": 14359,
+    "length": 35,
+    "end": 14394,
+    "text": "Rá-rá... Nossa, você é fraco..."
+  },
+  {
+    "table_pos": 6000,
+    "mode": "A",
+    "start": 14394,
+    "length": 15,
+    "end": 14409,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6016,
+    "mode": "B-implicit",
+    "start": 14409,
+    "length": 3,
+    "end": 14412,
+    "text": "123"
+  },
+  {
+    "table_pos": 6016,
+    "mode": "B-explicit",
+    "start": 14412,
+    "length": 3,
+    "end": 14415,
+    "text": "124"
+  },
+  {
+    "table_pos": 6032,
+    "mode": "A",
+    "start": 14415,
+    "length": 32,
+    "end": 14447,
+    "text": "Tudo é pelo Lorde Orochimaru..."
+  },
+  {
+    "table_pos": 6048,
+    "mode": "A",
+    "start": 14447,
+    "length": 15,
+    "end": 14462,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6064,
+    "mode": "B-implicit",
+    "start": 14462,
+    "length": 3,
+    "end": 14465,
+    "text": "124"
+  },
+  {
+    "table_pos": 6064,
+    "mode": "B-explicit",
+    "start": 14465,
+    "length": 3,
+    "end": 14468,
+    "text": "125"
+  },
+  {
+    "table_pos": 6080,
+    "mode": "A",
+    "start": 14468,
+    "length": 35,
+    "end": 14503,
+    "text": "Você não tinha chance contra mim."
+  },
+  {
+    "table_pos": 6096,
+    "mode": "A",
+    "start": 14503,
+    "length": 15,
+    "end": 14518,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6112,
+    "mode": "B-implicit",
+    "start": 14518,
+    "length": 3,
+    "end": 14521,
+    "text": "125"
+  },
+  {
+    "table_pos": 6112,
+    "mode": "B-explicit",
+    "start": 14521,
+    "length": 3,
+    "end": 14524,
+    "text": "126"
+  },
+  {
+    "table_pos": 6128,
+    "mode": "A",
+    "start": 14524,
+    "length": 43,
+    "end": 14567,
+    "text": "Você é fraco demais... Que sem sentido..."
+  },
+  {
+    "table_pos": 6144,
+    "mode": "A",
+    "start": 14567,
+    "length": 15,
+    "end": 14582,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6160,
+    "mode": "B-implicit",
+    "start": 14582,
+    "length": 3,
+    "end": 14585,
+    "text": "126"
+  },
+  {
+    "table_pos": 6160,
+    "mode": "B-explicit",
+    "start": 14585,
+    "length": 3,
+    "end": 14588,
+    "text": "127"
+  },
+  {
+    "table_pos": 6176,
+    "mode": "A",
+    "start": 14588,
+    "length": 45,
+    "end": 14633,
+    "text": "Foi imprudente desafiar\no Lorde Orochimaru..."
+  },
+  {
+    "table_pos": 6192,
+    "mode": "A",
+    "start": 14633,
+    "length": 15,
+    "end": 14648,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6208,
+    "mode": "B-implicit",
+    "start": 14648,
+    "length": 3,
+    "end": 14651,
+    "text": "127"
+  },
+  {
+    "table_pos": 6208,
+    "mode": "B-explicit",
+    "start": 14651,
+    "length": 3,
+    "end": 14654,
+    "text": "128"
+  },
+  {
+    "table_pos": 6224,
+    "mode": "A",
+    "start": 14654,
+    "length": 53,
+    "end": 14707,
+    "text": "Os ninjas do Som são\ndiferentes... Menos patéticos."
+  },
+  {
+    "table_pos": 6240,
+    "mode": "A",
+    "start": 14707,
+    "length": 15,
+    "end": 14722,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6256,
+    "mode": "B-implicit",
+    "start": 14722,
+    "length": 3,
+    "end": 14725,
+    "text": "128"
+  },
+  {
+    "table_pos": 6256,
+    "mode": "B-explicit",
+    "start": 14725,
+    "length": 3,
+    "end": 14728,
+    "text": "129"
+  },
+  {
+    "table_pos": 6272,
+    "mode": "A",
+    "start": 14728,
+    "length": 17,
+    "end": 14745,
+    "text": "Você é fraco..."
+  },
+  {
+    "table_pos": 6288,
+    "mode": "A",
+    "start": 14745,
+    "length": 15,
+    "end": 14760,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6304,
+    "mode": "B-implicit",
+    "start": 14760,
+    "length": 3,
+    "end": 14763,
+    "text": "129"
+  },
+  {
+    "table_pos": 6304,
+    "mode": "B-explicit",
+    "start": 14763,
+    "length": 3,
+    "end": 14766,
+    "text": "130"
+  },
+  {
+    "table_pos": 6320,
+    "mode": "A",
+    "start": 14766,
+    "length": 25,
+    "end": 14791,
+    "text": "Ninguém pode me deter..."
+  },
+  {
+    "table_pos": 6336,
+    "mode": "A",
+    "start": 14791,
+    "length": 15,
+    "end": 14806,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6352,
+    "mode": "B-implicit",
+    "start": 14806,
+    "length": 3,
+    "end": 14809,
+    "text": "130"
+  },
+  {
+    "table_pos": 6352,
+    "mode": "B-explicit",
+    "start": 14809,
+    "length": 3,
+    "end": 14812,
+    "text": "131"
+  },
+  {
+    "table_pos": 6368,
+    "mode": "A",
+    "start": 14812,
+    "length": 32,
+    "end": 14844,
+    "text": "Esse foi o resultado esperado..."
+  },
+  {
+    "table_pos": 6384,
+    "mode": "A",
+    "start": 14844,
+    "length": 15,
+    "end": 14859,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6400,
+    "mode": "B-implicit",
+    "start": 14859,
+    "length": 3,
+    "end": 14862,
+    "text": "131"
+  },
+  {
+    "table_pos": 6400,
+    "mode": "B-explicit",
+    "start": 14862,
+    "length": 3,
+    "end": 14865,
+    "text": "132"
+  },
+  {
+    "table_pos": 6416,
+    "mode": "A",
+    "start": 14865,
+    "length": 41,
+    "end": 14906,
+    "text": "Nosso trabalho acabou...\nVamos, Kisame..."
+  },
+  {
+    "table_pos": 6432,
+    "mode": "A",
+    "start": 14906,
+    "length": 15,
+    "end": 14921,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6448,
+    "mode": "B-implicit",
+    "start": 14921,
+    "length": 3,
+    "end": 14924,
+    "text": "132"
+  },
+  {
+    "table_pos": 6448,
+    "mode": "B-explicit",
+    "start": 14924,
+    "length": 3,
+    "end": 14927,
+    "text": "133"
+  },
+  {
+    "table_pos": 6464,
+    "mode": "A",
+    "start": 14927,
+    "length": 39,
+    "end": 14966,
+    "text": "Agora você vê a\n\"diferença\", Sasuke?"
+  },
+  {
+    "table_pos": 6480,
+    "mode": "A",
+    "start": 14966,
+    "length": 15,
+    "end": 14981,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6496,
+    "mode": "B-implicit",
+    "start": 14981,
+    "length": 3,
+    "end": 14984,
+    "text": "133"
+  },
+  {
+    "table_pos": 6496,
+    "mode": "B-explicit",
+    "start": 14984,
+    "length": 3,
+    "end": 14987,
+    "text": "134"
+  },
+  {
+    "table_pos": 6512,
+    "mode": "A",
+    "start": 14987,
+    "length": 23,
+    "end": 15010,
+    "text": "Nem vale a pena moer..."
+  },
+  {
+    "table_pos": 6528,
+    "mode": "A",
+    "start": 15010,
+    "length": 15,
+    "end": 15025,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6544,
+    "mode": "B-implicit",
+    "start": 15025,
+    "length": 3,
+    "end": 15028,
+    "text": "134"
+  },
+  {
+    "table_pos": 6544,
+    "mode": "B-explicit",
+    "start": 15028,
+    "length": 3,
+    "end": 15031,
+    "text": "135"
+  },
+  {
+    "table_pos": 6560,
+    "mode": "A",
+    "start": 15031,
+    "length": 42,
+    "end": 15073,
+    "text": "Rá-rá...\nNão esperava curtir essa luta."
+  },
+  {
+    "table_pos": 6576,
+    "mode": "A",
+    "start": 15073,
+    "length": 15,
+    "end": 15088,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6592,
+    "mode": "B-implicit",
+    "start": 15088,
+    "length": 3,
+    "end": 15091,
+    "text": "135"
+  },
+  {
+    "table_pos": 6592,
+    "mode": "B-explicit",
+    "start": 15091,
+    "length": 3,
+    "end": 15094,
+    "text": "136"
+  },
+  {
+    "table_pos": 6608,
+    "mode": "A",
+    "start": 15094,
+    "length": 35,
+    "end": 15129,
+    "text": "Rá-rá... Nós somos invencíveis."
+  },
+  {
+    "table_pos": 6624,
+    "mode": "A",
+    "start": 15129,
+    "length": 15,
+    "end": 15144,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6640,
+    "mode": "B-implicit",
+    "start": 15144,
+    "length": 3,
+    "end": 15147,
+    "text": "136"
+  },
+  {
+    "table_pos": 6640,
+    "mode": "B-explicit",
+    "start": 15147,
+    "length": 3,
+    "end": 15150,
+    "text": "137"
+  },
+  {
+    "table_pos": 6656,
+    "mode": "A",
+    "start": 15150,
+    "length": 45,
+    "end": 15195,
+    "text": "Esse é o poder da Akatsuki...\nRá-rá-rá..."
+  },
+  {
+    "table_pos": 6672,
+    "mode": "A",
+    "start": 15195,
+    "length": 15,
+    "end": 15210,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6688,
+    "mode": "B-implicit",
+    "start": 15210,
+    "length": 3,
+    "end": 15213,
+    "text": "137"
+  },
+  {
+    "table_pos": 6688,
+    "mode": "B-explicit",
+    "start": 15213,
+    "length": 3,
+    "end": 15216,
+    "text": "138"
+  },
+  {
+    "table_pos": 6704,
+    "mode": "A",
+    "start": 15216,
+    "length": 13,
+    "end": 15229,
+    "text": "Groaaaaghhh!!"
+  },
+  {
+    "table_pos": 6720,
+    "mode": "A",
+    "start": 15229,
+    "length": 15,
+    "end": 15244,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6736,
+    "mode": "B-implicit",
+    "start": 15244,
+    "length": 3,
+    "end": 15247,
+    "text": "138"
+  },
+  {
+    "table_pos": 6736,
+    "mode": "B-explicit",
+    "start": 15247,
+    "length": 3,
+    "end": 15250,
+    "text": "139"
+  },
+  {
+    "table_pos": 6752,
+    "mode": "A",
+    "start": 15250,
+    "length": 15,
+    "end": 15265,
+    "text": "Sim!! Eu venci!"
+  },
+  {
+    "table_pos": 6768,
+    "mode": "A",
+    "start": 15265,
+    "length": 15,
+    "end": 15280,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6784,
+    "mode": "B-implicit",
+    "start": 15280,
+    "length": 3,
+    "end": 15283,
+    "text": "139"
+  },
+  {
+    "table_pos": 6784,
+    "mode": "B-explicit",
+    "start": 15283,
+    "length": 3,
+    "end": 15286,
+    "text": "140"
+  },
+  {
+    "table_pos": 6800,
+    "mode": "A",
+    "start": 15286,
+    "length": 26,
+    "end": 15312,
+    "text": "Rá-rá-rá... Excelente!!"
+  },
+  {
+    "table_pos": 6816,
+    "mode": "A",
+    "start": 15312,
+    "length": 15,
+    "end": 15327,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6832,
+    "mode": "B-implicit",
+    "start": 15327,
+    "length": 3,
+    "end": 15330,
+    "text": "140"
+  },
+  {
+    "table_pos": 6832,
+    "mode": "B-explicit",
+    "start": 15330,
+    "length": 3,
+    "end": 15333,
+    "text": "141"
+  },
+  {
+    "table_pos": 6848,
+    "mode": "A",
+    "start": 15333,
+    "length": 51,
+    "end": 15384,
+    "text": "Esse poder é tudo que preciso...\nRá-rá-rá-rá!!"
+  },
+  {
+    "table_pos": 6864,
+    "mode": "A",
+    "start": 15384,
+    "length": 15,
+    "end": 15399,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6880,
+    "mode": "B-implicit",
+    "start": 15399,
+    "length": 3,
+    "end": 15402,
+    "text": "141"
+  },
+  {
+    "table_pos": 6880,
+    "mode": "B-explicit",
+    "start": 15402,
+    "length": 3,
+    "end": 15405,
+    "text": "142"
+  },
+  {
+    "table_pos": 6896,
+    "mode": "A",
+    "start": 15405,
+    "length": 20,
+    "end": 15425,
+    "text": "Esse é o resultado!"
+  },
+  {
+    "table_pos": 6912,
+    "mode": "A",
+    "start": 15425,
+    "length": 15,
+    "end": 15440,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6928,
+    "mode": "B-implicit",
+    "start": 15440,
+    "length": 3,
+    "end": 15443,
+    "text": "142"
+  },
+  {
+    "table_pos": 6928,
+    "mode": "B-explicit",
+    "start": 15443,
+    "length": 3,
+    "end": 15446,
+    "text": "143"
+  },
+  {
+    "table_pos": 6944,
+    "mode": "A",
+    "start": 15446,
+    "length": 30,
+    "end": 15476,
+    "text": "Vou ficar cada vez mais forte!"
+  },
+  {
+    "table_pos": 6960,
+    "mode": "A",
+    "start": 15476,
+    "length": 15,
+    "end": 15491,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 6976,
+    "mode": "B-implicit",
+    "start": 15491,
+    "length": 3,
+    "end": 15494,
+    "text": "143"
+  },
+  {
+    "table_pos": 6976,
+    "mode": "B-explicit",
+    "start": 15494,
+    "length": 3,
+    "end": 15497,
+    "text": "144"
+  },
+  {
+    "table_pos": 6992,
+    "mode": "A",
+    "start": 15497,
+    "length": 35,
+    "end": 15532,
+    "text": "Desculpa!\nAinda não posso perder!!"
+  },
+  {
+    "table_pos": 7008,
+    "mode": "A",
+    "start": 15532,
+    "length": 15,
+    "end": 15547,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 7024,
+    "mode": "B-implicit",
+    "start": 15547,
+    "length": 3,
+    "end": 15550,
+    "text": "144"
+  },
+  {
+    "table_pos": 7024,
+    "mode": "B-explicit",
+    "start": 15550,
+    "length": 3,
+    "end": 15553,
+    "text": "145"
+  },
+  {
+    "table_pos": 7040,
+    "mode": "A",
+    "start": 15553,
+    "length": 67,
+    "end": 15620,
+    "text": "Que tal isso! Contemplem a\nbesta mais feroz da batalha,\nMight Guy!!"
+  },
+  {
+    "table_pos": 7056,
+    "mode": "A",
+    "start": 15620,
+    "length": 15,
+    "end": 15635,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 7072,
+    "mode": "B-implicit",
+    "start": 15635,
+    "length": 3,
+    "end": 15638,
+    "text": "145"
+  },
+  {
+    "table_pos": 7072,
+    "mode": "B-explicit",
+    "start": 15638,
+    "length": 3,
+    "end": 15641,
+    "text": "146"
+  },
+  {
+    "table_pos": 7088,
+    "mode": "A",
+    "start": 15641,
+    "length": 32,
+    "end": 15673,
+    "text": "Hmph... Você é fraco demais..."
+  },
+  {
+    "table_pos": 7104,
+    "mode": "A",
+    "start": 15673,
+    "length": 15,
+    "end": 15688,
+    "text": "VOICE_BATTLE_ST"
+  },
+  {
+    "table_pos": 7120,
+    "mode": "B-implicit",
+    "start": 15688,
+    "length": 3,
+    "end": 15691,
+    "text": "146"
+  },
+  {
+    "table_pos": 7120,
+    "mode": "B-explicit",
+    "start": 15691,
+    "length": 3,
+    "end": 15694,
+    "text": "147"
+  },
+  {
+    "table_pos": 7136,
+    "mode": "A",
+    "start": 15694,
+    "length": 30,
+    "end": 15724,
+    "text": "Que derrota mais miserável..."
+  },
+  {
+    "table_pos": 7152,
+    "mode": "A",
+    "start": 15724,
+    "length": 15,
+    "end": 15739,
+    "text": "VOICE_BATTLE_ST"
+  }
+]

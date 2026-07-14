@@ -1,0 +1,898 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 1507,
+    "length": 3,
+    "end": 1510,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 1510,
+    "length": 7,
+    "end": 1517,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 1517,
+    "length": 61,
+    "end": 1578,
+    "text": "Naruto. Parece que você achou\numa boa forma de se locomover."
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 1578,
+    "length": 0,
+    "end": 1578,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 1578,
+    "length": 3,
+    "end": 1581,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 1581,
+    "length": 6,
+    "end": 1587,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 1587,
+    "length": 40,
+    "end": 1627,
+    "text": "Quer dizer usando os clones\ndas sombras?"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 1627,
+    "length": 0,
+    "end": 1627,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 1627,
+    "length": 3,
+    "end": 1630,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 1630,
+    "length": 6,
+    "end": 1636,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 1636,
+    "length": 36,
+    "end": 1672,
+    "text": "É, é demais! E funciona muito\nbem!"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 1672,
+    "length": 0,
+    "end": 1672,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 1672,
+    "length": 3,
+    "end": 1675,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 1675,
+    "length": 7,
+    "end": 1682,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 1682,
+    "length": 73,
+    "end": 1755,
+    "text": "Acho que se você aperfeiçoar essa\ntécnica, vai funcionar ainda melhor."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 1755,
+    "length": 0,
+    "end": 1755,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 1755,
+    "length": 3,
+    "end": 1758,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 1758,
+    "length": 6,
+    "end": 1764,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 1764,
+    "length": 16,
+    "end": 1780,
+    "text": "Hmm, é, talvez."
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 1780,
+    "length": 0,
+    "end": 1780,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 1780,
+    "length": 3,
+    "end": 1783,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 1783,
+    "length": 7,
+    "end": 1790,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 1790,
+    "length": 68,
+    "end": 1858,
+    "text": "Eu sabia que concordaria, então\ncriei um novo exercício de treino."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 1858,
+    "length": 0,
+    "end": 1858,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 1858,
+    "length": 3,
+    "end": 1861,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 1861,
+    "length": 6,
+    "end": 1867,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 1867,
+    "length": 26,
+    "end": 1893,
+    "text": "Sério mesmo, só pra mim?"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 1893,
+    "length": 0,
+    "end": 1893,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 1893,
+    "length": 3,
+    "end": 1896,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 1896,
+    "length": 7,
+    "end": 1903,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 1903,
+    "length": 64,
+    "end": 1967,
+    "text": "Quero ver com que rapidez e\nprecisão você consegue se mover..."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 1967,
+    "length": 0,
+    "end": 1967,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 1967,
+    "length": 3,
+    "end": 1970,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 1970,
+    "length": 7,
+    "end": 1977,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 1977,
+    "length": 10,
+    "end": 1987,
+    "text": "Me mostre."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 1987,
+    "length": 0,
+    "end": 1987,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 1987,
+    "length": 3,
+    "end": 1990,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 1990,
+    "length": 6,
+    "end": 1996,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 1996,
+    "length": 9,
+    "end": 2005,
+    "text": "Tá bom!!"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2005,
+    "length": 0,
+    "end": 2005,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2005,
+    "length": 3,
+    "end": 2008,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 2008,
+    "length": 6,
+    "end": 2014,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 2014,
+    "length": 24,
+    "end": 2038,
+    "text": "Argh... Não consegui..."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 2038,
+    "length": 0,
+    "end": 2038,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 2038,
+    "length": 3,
+    "end": 2041,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 2041,
+    "length": 7,
+    "end": 2048,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 2048,
+    "length": 85,
+    "end": 2133,
+    "text": "Bem, eu não achava que você faria\nde primeira. Seus resultados foram\ncomo esperado."
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 2133,
+    "length": 0,
+    "end": 2133,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 2133,
+    "length": 3,
+    "end": 2136,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 2136,
+    "length": 6,
+    "end": 2142,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 2142,
+    "length": 27,
+    "end": 2169,
+    "text": "Mas... eu queria acertar..."
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 2169,
+    "length": 0,
+    "end": 2169,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 2169,
+    "length": 3,
+    "end": 2172,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 2172,
+    "length": 7,
+    "end": 2179,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 2179,
+    "length": 29,
+    "end": 2208,
+    "text": "Você não vai desistir, vai?"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 2208,
+    "length": 0,
+    "end": 2208,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 2208,
+    "length": 3,
+    "end": 2211,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 2211,
+    "length": 6,
+    "end": 2217,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 2217,
+    "length": 15,
+    "end": 2232,
+    "text": "Claro que não!"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 2232,
+    "length": 0,
+    "end": 2232,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 2232,
+    "length": 3,
+    "end": 2235,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 2235,
+    "length": 7,
+    "end": 2242,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 2242,
+    "length": 4,
+    "end": 2246,
+    "text": "Hã."
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 2246,
+    "length": 0,
+    "end": 2246,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 2246,
+    "length": 3,
+    "end": 2249,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 2249,
+    "length": 7,
+    "end": 2256,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 2256,
+    "length": 8,
+    "end": 2264,
+    "text": "Que bom."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 2264,
+    "length": 0,
+    "end": 2264,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 2264,
+    "length": 3,
+    "end": 2267,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 2267,
+    "length": 7,
+    "end": 2274,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 2274,
+    "length": 66,
+    "end": 2340,
+    "text": "Porque ainda não acabou. Acho\nque você pode ir muito mais longe."
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 2340,
+    "length": 0,
+    "end": 2340,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 2340,
+    "length": 3,
+    "end": 2343,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 2343,
+    "length": 6,
+    "end": 2349,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 2349,
+    "length": 17,
+    "end": 2366,
+    "text": "É!! Eu consegui!"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 2366,
+    "length": 0,
+    "end": 2366,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 2366,
+    "length": 3,
+    "end": 2369,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 2369,
+    "length": 7,
+    "end": 2376,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 2376,
+    "length": 3,
+    "end": 2379,
+    "text": "..."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 2379,
+    "length": 0,
+    "end": 2379,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 2379,
+    "length": 3,
+    "end": 2382,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 2382,
+    "length": 7,
+    "end": 2389,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 2389,
+    "length": 63,
+    "end": 2452,
+    "text": "(Quem diria? Não esperava que ele\nconseguisse tão rápido...)"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 2452,
+    "length": 0,
+    "end": 2452,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 2452,
+    "length": 3,
+    "end": 2455,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 2455,
+    "length": 7,
+    "end": 2462,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 2462,
+    "length": 48,
+    "end": 2510,
+    "text": "Você não deixa um único dia\npassar em branco."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 2510,
+    "length": 0,
+    "end": 2510,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 2510,
+    "length": 3,
+    "end": 2513,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 2513,
+    "length": 6,
+    "end": 2519,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 2519,
+    "length": 1,
+    "end": 2520,
+    "text": "?"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 2520,
+    "length": 0,
+    "end": 2520,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 2520,
+    "length": 3,
+    "end": 2523,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 2523,
+    "length": 7,
+    "end": 2530,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 2530,
+    "length": 64,
+    "end": 2594,
+    "text": "Você está sempre melhorando. Num\nritmo que até me surpreende."
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 2594,
+    "length": 0,
+    "end": 2594,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 2594,
+    "length": 3,
+    "end": 2597,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 2597,
+    "length": 6,
+    "end": 2603,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 2603,
+    "length": 5,
+    "end": 2608,
+    "text": "Haha!"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 2608,
+    "length": 0,
+    "end": 2608,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 2608,
+    "length": 3,
+    "end": 2611,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 2611,
+    "length": 6,
+    "end": 2617,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 2617,
+    "length": 34,
+    "end": 2651,
+    "text": "Isso! O sensei Kakashi me\nelogiou!"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 2651,
+    "length": 0,
+    "end": 2651,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 2651,
+    "length": 3,
+    "end": 2654,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 2654,
+    "length": 7,
+    "end": 2661,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 2661,
+    "length": 42,
+    "end": 2703,
+    "text": "(Hã... Ele mostra um talento\nde verdade.)"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 2703,
+    "length": 0,
+    "end": 2703,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 2703,
+    "length": 3,
+    "end": 2706,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 2706,
+    "length": 7,
+    "end": 2713,
+    "text": "Kakashi"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 2713,
+    "length": 103,
+    "end": 2816,
+    "text": "Esse é um treino que nem a\nSakura e o Sasuke conseguem fazer.\nÉ um exercício especial só pra você."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 2816,
+    "length": 0,
+    "end": 2816,
+    "text": ""
+  }
+]

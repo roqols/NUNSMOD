@@ -1,0 +1,1378 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2227,
+    "length": 3,
+    "end": 2230,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 2230,
+    "length": 9,
+    "end": 2239,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 2239,
+    "length": 5,
+    "end": 2244,
+    "text": "Aqui!"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2244,
+    "length": 0,
+    "end": 2244,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2244,
+    "length": 3,
+    "end": 2247,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 2247,
+    "length": 6,
+    "end": 2253,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 2253,
+    "length": 22,
+    "end": 2275,
+    "text": "Você precisa de algo?"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2275,
+    "length": 0,
+    "end": 2275,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2275,
+    "length": 3,
+    "end": 2278,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 2278,
+    "length": 9,
+    "end": 2287,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 2287,
+    "length": 61,
+    "end": 2348,
+    "text": "Sim, preciso de ajuda com minha\nbagagem. Me ajuda a carregar?"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2348,
+    "length": 0,
+    "end": 2348,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2348,
+    "length": 3,
+    "end": 2351,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2351,
+    "length": 6,
+    "end": 2357,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2357,
+    "length": 73,
+    "end": 2430,
+    "text": "Bem... acho que você não deve ter\ntanta bagagem assim. Certo, eu ajudo."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2430,
+    "length": 0,
+    "end": 2430,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2430,
+    "length": 3,
+    "end": 2433,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2433,
+    "length": 6,
+    "end": 2439,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2439,
+    "length": 29,
+    "end": 2468,
+    "text": "Então, onde está a bagagem?"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2468,
+    "length": 0,
+    "end": 2468,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2468,
+    "length": 3,
+    "end": 2471,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 2471,
+    "length": 9,
+    "end": 2480,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 2480,
+    "length": 8,
+    "end": 2488,
+    "text": "É aqui."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2488,
+    "length": 0,
+    "end": 2488,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2488,
+    "length": 3,
+    "end": 2491,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2491,
+    "length": 6,
+    "end": 2497,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2497,
+    "length": 12,
+    "end": 2509,
+    "text": "............"
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2509,
+    "length": 0,
+    "end": 2509,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2509,
+    "length": 3,
+    "end": 2512,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2512,
+    "length": 9,
+    "end": 2521,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2521,
+    "length": 47,
+    "end": 2568,
+    "text": "O que foi, Naruto? Você não\nparece muito bem."
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2568,
+    "length": 0,
+    "end": 2568,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2568,
+    "length": 3,
+    "end": 2571,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2571,
+    "length": 6,
+    "end": 2577,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 2577,
+    "length": 39,
+    "end": 2616,
+    "text": "Eu sabia que algo assim ia acontecer..."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 2616,
+    "length": 0,
+    "end": 2616,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 2616,
+    "length": 3,
+    "end": 2619,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 2619,
+    "length": 6,
+    "end": 2625,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 2625,
+    "length": 70,
+    "end": 2695,
+    "text": "Que diabos está acontecendo!? Por que\nvocê tem tanta bagagem assim!?"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2695,
+    "length": 0,
+    "end": 2695,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2695,
+    "length": 3,
+    "end": 2698,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 2698,
+    "length": 9,
+    "end": 2707,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 2707,
+    "length": 36,
+    "end": 2743,
+    "text": "Meu pai mandou eu comprar tudo isso."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 2743,
+    "length": 0,
+    "end": 2743,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 2743,
+    "length": 3,
+    "end": 2746,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 2746,
+    "length": 6,
+    "end": 2752,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 2752,
+    "length": 13,
+    "end": 2765,
+    "text": "O Chefe Sapo?"
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 2765,
+    "length": 0,
+    "end": 2765,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 2765,
+    "length": 3,
+    "end": 2768,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 2768,
+    "length": 9,
+    "end": 2777,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 2777,
+    "length": 70,
+    "end": 2847,
+    "text": "Sim. E quando vi que era demais,\nme disseram pra te chamar pra ajudar."
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 2847,
+    "length": 0,
+    "end": 2847,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 2847,
+    "length": 3,
+    "end": 2850,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 2850,
+    "length": 6,
+    "end": 2856,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 2856,
+    "length": 50,
+    "end": 2906,
+    "text": "Hmph...não posso desobedecer as\nordens do Sapo..."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 2906,
+    "length": 0,
+    "end": 2906,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 2906,
+    "length": 3,
+    "end": 2909,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 2909,
+    "length": 9,
+    "end": 2918,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 2918,
+    "length": 30,
+    "end": 2948,
+    "text": "*Coaxa, coaxa!* Valeu, Naruto."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 2948,
+    "length": 0,
+    "end": 2948,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 2948,
+    "length": 3,
+    "end": 2951,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 2951,
+    "length": 6,
+    "end": 2957,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 2957,
+    "length": 32,
+    "end": 2989,
+    "text": "Às vezes odeio seguir ordens..."
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 2989,
+    "length": 0,
+    "end": 2989,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 2989,
+    "length": 3,
+    "end": 2992,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 2992,
+    "length": 6,
+    "end": 2998,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 2998,
+    "length": 26,
+    "end": 3024,
+    "text": "Argh! Agora fiz besteira!!"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 3024,
+    "length": 0,
+    "end": 3024,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 3024,
+    "length": 3,
+    "end": 3027,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 3027,
+    "length": 6,
+    "end": 3033,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 3033,
+    "length": 45,
+    "end": 3078,
+    "text": "............\nVou me ferrar por causa disso..."
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 3078,
+    "length": 0,
+    "end": 3078,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 3078,
+    "length": 3,
+    "end": 3081,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 3081,
+    "length": 9,
+    "end": 3090,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 3090,
+    "length": 22,
+    "end": 3112,
+    "text": "Como estão as coisas?"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 3112,
+    "length": 0,
+    "end": 3112,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 3112,
+    "length": 3,
+    "end": 3115,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 3115,
+    "length": 6,
+    "end": 3121,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 3121,
+    "length": 29,
+    "end": 3150,
+    "text": "Hmm... Não muito bem. Ahaha."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3150,
+    "length": 0,
+    "end": 3150,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3150,
+    "length": 3,
+    "end": 3153,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 3153,
+    "length": 9,
+    "end": 3162,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 3162,
+    "length": 42,
+    "end": 3204,
+    "text": "Você tá rindo? Esqueceu como\nmeu pai é?"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3204,
+    "length": 0,
+    "end": 3204,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3204,
+    "length": 3,
+    "end": 3207,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 3207,
+    "length": 6,
+    "end": 3213,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 3213,
+    "length": 6,
+    "end": 3219,
+    "text": "...!!!"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 3219,
+    "length": 0,
+    "end": 3219,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 3219,
+    "length": 3,
+    "end": 3222,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 3222,
+    "length": 9,
+    "end": 3231,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 3231,
+    "length": 81,
+    "end": 3312,
+    "text": "Não dá pra saber o que vai acontecer.\nPode levar um castigo terrível\npor isso."
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 3312,
+    "length": 0,
+    "end": 3312,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 3312,
+    "length": 3,
+    "end": 3315,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 3315,
+    "length": 6,
+    "end": 3321,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 3321,
+    "length": 12,
+    "end": 3333,
+    "text": "............"
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3333,
+    "length": 0,
+    "end": 3333,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3333,
+    "length": 3,
+    "end": 3336,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 3336,
+    "length": 9,
+    "end": 3345,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 3345,
+    "length": 56,
+    "end": 3401,
+    "text": "*Coaxa, coaxa!*\nMal posso esperar pra ver o que ele faz!"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3401,
+    "length": 0,
+    "end": 3401,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3401,
+    "length": 3,
+    "end": 3404,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 3404,
+    "length": 6,
+    "end": 3410,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 3410,
+    "length": 47,
+    "end": 3457,
+    "text": "O... opa... Ah, não!\nAquilo era do Chefe Sapo!"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 3457,
+    "length": 0,
+    "end": 3457,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 3457,
+    "length": 3,
+    "end": 3460,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 3460,
+    "length": 6,
+    "end": 3466,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 3466,
+    "length": 7,
+    "end": 3473,
+    "text": "Argh..."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 3473,
+    "length": 0,
+    "end": 3473,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 3473,
+    "length": 3,
+    "end": 3476,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 3476,
+    "length": 6,
+    "end": 3482,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 3482,
+    "length": 71,
+    "end": 3553,
+    "text": "Acho que vou evitar invocá-lo\npor um tempo... Não quero morrer ainda."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 3553,
+    "length": 0,
+    "end": 3553,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 3553,
+    "length": 3,
+    "end": 3556,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 3556,
+    "length": 6,
+    "end": 3562,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 3562,
+    "length": 24,
+    "end": 3586,
+    "text": "Argh!... Acabou o tempo!"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 3586,
+    "length": 0,
+    "end": 3586,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 3586,
+    "length": 3,
+    "end": 3589,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 3589,
+    "length": 7,
+    "end": 3596,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 3596,
+    "length": 25,
+    "end": 3621,
+    "text": "Ah, você conseguiu tudo?"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 3621,
+    "length": 0,
+    "end": 3621,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 3621,
+    "length": 3,
+    "end": 3624,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 3624,
+    "length": 6,
+    "end": 3630,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 3630,
+    "length": 48,
+    "end": 3678,
+    "text": "Sábio Tarado!? O que você tá\nfazendo aqui...?"
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 3678,
+    "length": 0,
+    "end": 3678,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 3678,
+    "length": 3,
+    "end": 3681,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 3681,
+    "length": 7,
+    "end": 3688,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 3688,
+    "length": 44,
+    "end": 3732,
+    "text": "É meu trabalho entregar isso\npro Gamabunta."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 3732,
+    "length": 0,
+    "end": 3732,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 3732,
+    "length": 3,
+    "end": 3735,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 3735,
+    "length": 6,
+    "end": 3741,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 3741,
+    "length": 73,
+    "end": 3814,
+    "text": "Ei, se você tá aqui, por que eu tive\nque carregar essa bagagem sozinho?"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 3814,
+    "length": 0,
+    "end": 3814,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 3814,
+    "length": 3,
+    "end": 3817,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 3817,
+    "length": 7,
+    "end": 3824,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 3824,
+    "length": 70,
+    "end": 3894,
+    "text": "Hmph, o Gamabunta que decidiu\nisso. Só estou seguindo as ordens dele."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 3894,
+    "length": 0,
+    "end": 3894,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 3894,
+    "length": 3,
+    "end": 3897,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 3897,
+    "length": 9,
+    "end": 3906,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 3906,
+    "length": 78,
+    "end": 3984,
+    "text": "Meu pai disse que você precisava de\nexercício, porque você é meio fracote."
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 3984,
+    "length": 0,
+    "end": 3984,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 3984,
+    "length": 3,
+    "end": 3987,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 3987,
+    "length": 6,
+    "end": 3993,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 3993,
+    "length": 16,
+    "end": 4009,
+    "text": "Como é que é?!"
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 4009,
+    "length": 0,
+    "end": 4009,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 4009,
+    "length": 3,
+    "end": 4012,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 4012,
+    "length": 9,
+    "end": 4021,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 4021,
+    "length": 35,
+    "end": 4056,
+    "text": "Foi só pra te dar um treino extra."
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 4056,
+    "length": 0,
+    "end": 4056,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 4056,
+    "length": 3,
+    "end": 4059,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 4059,
+    "length": 6,
+    "end": 4065,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 4065,
+    "length": 26,
+    "end": 4091,
+    "text": "Urghh…Que cara de pau--!"
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 4091,
+    "length": 0,
+    "end": 4091,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 4091,
+    "length": 3,
+    "end": 4094,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 4094,
+    "length": 6,
+    "end": 4100,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 4100,
+    "length": 40,
+    "end": 4140,
+    "text": "Mas... acho que FOI um bom\nexercício..."
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 4140,
+    "length": 0,
+    "end": 4140,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 4140,
+    "length": 3,
+    "end": 4143,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 4143,
+    "length": 7,
+    "end": 4150,
+    "text": "Jiraiya"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 4150,
+    "length": 71,
+    "end": 4221,
+    "text": "Bem... tudo bem quando termina bem.\nVou levar essa bagagem pra ele já."
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 4221,
+    "length": 0,
+    "end": 4221,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 4221,
+    "length": 3,
+    "end": 4224,
+    "text": "041"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 4224,
+    "length": 6,
+    "end": 4230,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 4230,
+    "length": 51,
+    "end": 4281,
+    "text": "Claro que sou um fracote comparado\nao Chefe Sapo..."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 4281,
+    "length": 0,
+    "end": 4281,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 4281,
+    "length": 3,
+    "end": 4284,
+    "text": "042"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 4284,
+    "length": 9,
+    "end": 4293,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 4293,
+    "length": 63,
+    "end": 4356,
+    "text": "*Coaxa* Não leva tão a sério.\nEle só tá pensando em você."
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 4356,
+    "length": 0,
+    "end": 4356,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 4356,
+    "length": 3,
+    "end": 4359,
+    "text": "043"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 4359,
+    "length": 9,
+    "end": 4368,
+    "text": "Gamakichi"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 4368,
+    "length": 44,
+    "end": 4412,
+    "text": "Isso significa que ele se importa\ncom você."
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 4412,
+    "length": 0,
+    "end": 4412,
+    "text": ""
+  }
+]

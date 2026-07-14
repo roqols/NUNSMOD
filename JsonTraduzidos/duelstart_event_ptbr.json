@@ -1,0 +1,2946 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 4883,
+    "length": 5,
+    "end": 4888,
+    "text": "001_1"
+  },
+  {
+    "table_pos": 80,
+    "mode": "A",
+    "start": 4888,
+    "length": 0,
+    "end": 4888,
+    "text": ""
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 4888,
+    "length": 17,
+    "end": 4905,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 4905,
+    "length": 5,
+    "end": 4910,
+    "text": "001_2"
+  },
+  {
+    "table_pos": 128,
+    "mode": "A",
+    "start": 4910,
+    "length": 0,
+    "end": 4910,
+    "text": ""
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 4910,
+    "length": 17,
+    "end": 4927,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 4927,
+    "length": 5,
+    "end": 4932,
+    "text": "002_1"
+  },
+  {
+    "table_pos": 176,
+    "mode": "A",
+    "start": 4932,
+    "length": 23,
+    "end": 4955,
+    "text": "Certo, vamos começar!!"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 4955,
+    "length": 17,
+    "end": 4972,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 208,
+    "mode": "B-implicit",
+    "start": 4972,
+    "length": 1,
+    "end": 4973,
+    "text": "0"
+  },
+  {
+    "table_pos": 208,
+    "mode": "B-explicit",
+    "start": 4973,
+    "length": 5,
+    "end": 4978,
+    "text": "002_2"
+  },
+  {
+    "table_pos": 224,
+    "mode": "A",
+    "start": 4978,
+    "length": 21,
+    "end": 4999,
+    "text": "Calma aí, tigrão..."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 4999,
+    "length": 17,
+    "end": 5016,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 256,
+    "mode": "B-implicit",
+    "start": 5016,
+    "length": 1,
+    "end": 5017,
+    "text": "1"
+  },
+  {
+    "table_pos": 256,
+    "mode": "B-explicit",
+    "start": 5017,
+    "length": 5,
+    "end": 5022,
+    "text": "003_1"
+  },
+  {
+    "table_pos": 272,
+    "mode": "A",
+    "start": 5022,
+    "length": 44,
+    "end": 5066,
+    "text": "Trabalho em equipe é\ntão importante assim?"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 5066,
+    "length": 17,
+    "end": 5083,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 304,
+    "mode": "B-implicit",
+    "start": 5083,
+    "length": 1,
+    "end": 5084,
+    "text": "2"
+  },
+  {
+    "table_pos": 304,
+    "mode": "B-explicit",
+    "start": 5084,
+    "length": 5,
+    "end": 5089,
+    "text": "003_2"
+  },
+  {
+    "table_pos": 320,
+    "mode": "A",
+    "start": 5089,
+    "length": 32,
+    "end": 5121,
+    "text": "Muito bem, que comece a lição."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 5121,
+    "length": 17,
+    "end": 5138,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 352,
+    "mode": "B-implicit",
+    "start": 5138,
+    "length": 1,
+    "end": 5139,
+    "text": "3"
+  },
+  {
+    "table_pos": 352,
+    "mode": "B-explicit",
+    "start": 5139,
+    "length": 5,
+    "end": 5144,
+    "text": "004_1"
+  },
+  {
+    "table_pos": 368,
+    "mode": "A",
+    "start": 5144,
+    "length": 0,
+    "end": 5144,
+    "text": ""
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 5144,
+    "length": 17,
+    "end": 5161,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 5161,
+    "length": 5,
+    "end": 5166,
+    "text": "004_2"
+  },
+  {
+    "table_pos": 416,
+    "mode": "A",
+    "start": 5166,
+    "length": 0,
+    "end": 5166,
+    "text": ""
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 5166,
+    "length": 17,
+    "end": 5183,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 5183,
+    "length": 5,
+    "end": 5188,
+    "text": "005_1"
+  },
+  {
+    "table_pos": 464,
+    "mode": "A",
+    "start": 5188,
+    "length": 0,
+    "end": 5188,
+    "text": ""
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 5188,
+    "length": 17,
+    "end": 5205,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 5205,
+    "length": 5,
+    "end": 5210,
+    "text": "005_2"
+  },
+  {
+    "table_pos": 512,
+    "mode": "A",
+    "start": 5210,
+    "length": 0,
+    "end": 5210,
+    "text": ""
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 5210,
+    "length": 17,
+    "end": 5227,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 5227,
+    "length": 5,
+    "end": 5232,
+    "text": "006_1"
+  },
+  {
+    "table_pos": 560,
+    "mode": "A",
+    "start": 5232,
+    "length": 0,
+    "end": 5232,
+    "text": ""
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 5232,
+    "length": 17,
+    "end": 5249,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 5249,
+    "length": 5,
+    "end": 5254,
+    "text": "006_2"
+  },
+  {
+    "table_pos": 608,
+    "mode": "A",
+    "start": 5254,
+    "length": 0,
+    "end": 5254,
+    "text": ""
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 5254,
+    "length": 17,
+    "end": 5271,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 5271,
+    "length": 5,
+    "end": 5276,
+    "text": "007_1"
+  },
+  {
+    "table_pos": 656,
+    "mode": "A",
+    "start": 5276,
+    "length": 27,
+    "end": 5303,
+    "text": "Vamos mostrar nosso poder!!"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 5303,
+    "length": 17,
+    "end": 5320,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 688,
+    "mode": "B-implicit",
+    "start": 5320,
+    "length": 1,
+    "end": 5321,
+    "text": "4"
+  },
+  {
+    "table_pos": 688,
+    "mode": "B-explicit",
+    "start": 5321,
+    "length": 5,
+    "end": 5326,
+    "text": "007_2"
+  },
+  {
+    "table_pos": 704,
+    "mode": "A",
+    "start": 5326,
+    "length": 44,
+    "end": 5370,
+    "text": "Acho melhor eu dar um\npasso além, então..."
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 5370,
+    "length": 17,
+    "end": 5387,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 736,
+    "mode": "B-implicit",
+    "start": 5387,
+    "length": 1,
+    "end": 5388,
+    "text": "5"
+  },
+  {
+    "table_pos": 736,
+    "mode": "B-explicit",
+    "start": 5388,
+    "length": 5,
+    "end": 5393,
+    "text": "008_1"
+  },
+  {
+    "table_pos": 752,
+    "mode": "A",
+    "start": 5393,
+    "length": 0,
+    "end": 5393,
+    "text": ""
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 5393,
+    "length": 17,
+    "end": 5410,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 5410,
+    "length": 5,
+    "end": 5415,
+    "text": "008_2"
+  },
+  {
+    "table_pos": 800,
+    "mode": "A",
+    "start": 5415,
+    "length": 0,
+    "end": 5415,
+    "text": ""
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 5415,
+    "length": 17,
+    "end": 5432,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 5432,
+    "length": 5,
+    "end": 5437,
+    "text": "009_1"
+  },
+  {
+    "table_pos": 848,
+    "mode": "A",
+    "start": 5437,
+    "length": 23,
+    "end": 5460,
+    "text": "Nunca vamos nos render!"
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 5460,
+    "length": 17,
+    "end": 5477,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 880,
+    "mode": "B-implicit",
+    "start": 5477,
+    "length": 1,
+    "end": 5478,
+    "text": "6"
+  },
+  {
+    "table_pos": 880,
+    "mode": "B-explicit",
+    "start": 5478,
+    "length": 5,
+    "end": 5483,
+    "text": "009_2"
+  },
+  {
+    "table_pos": 896,
+    "mode": "A",
+    "start": 5483,
+    "length": 69,
+    "end": 5552,
+    "text": "Eu não terei piedade do\nfilhote mais fraco, se ele for\nmeu oponente."
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 5552,
+    "length": 17,
+    "end": 5569,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 928,
+    "mode": "B-implicit",
+    "start": 5569,
+    "length": 1,
+    "end": 5570,
+    "text": "7"
+  },
+  {
+    "table_pos": 928,
+    "mode": "B-explicit",
+    "start": 5570,
+    "length": 5,
+    "end": 5575,
+    "text": "010_1"
+  },
+  {
+    "table_pos": 944,
+    "mode": "A",
+    "start": 5575,
+    "length": 0,
+    "end": 5575,
+    "text": ""
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 5575,
+    "length": 17,
+    "end": 5592,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 5592,
+    "length": 5,
+    "end": 5597,
+    "text": "010_2"
+  },
+  {
+    "table_pos": 992,
+    "mode": "A",
+    "start": 5597,
+    "length": 0,
+    "end": 5597,
+    "text": ""
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 5597,
+    "length": 17,
+    "end": 5614,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 5614,
+    "length": 5,
+    "end": 5619,
+    "text": "011_1"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "A",
+    "start": 5619,
+    "length": 12,
+    "end": 5631,
+    "text": "Sem chance!!"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 5631,
+    "length": 17,
+    "end": 5648,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1072,
+    "mode": "B-implicit",
+    "start": 5648,
+    "length": 1,
+    "end": 5649,
+    "text": "8"
+  },
+  {
+    "table_pos": 1072,
+    "mode": "B-explicit",
+    "start": 5649,
+    "length": 5,
+    "end": 5654,
+    "text": "011_2"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "A",
+    "start": 5654,
+    "length": 44,
+    "end": 5698,
+    "text": "Não fique convencida!\nSua chorona, Sakura!!"
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 5698,
+    "length": 17,
+    "end": 5715,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1120,
+    "mode": "B-implicit",
+    "start": 5715,
+    "length": 1,
+    "end": 5716,
+    "text": "9"
+  },
+  {
+    "table_pos": 1120,
+    "mode": "B-explicit",
+    "start": 5716,
+    "length": 5,
+    "end": 5721,
+    "text": "012_1"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "A",
+    "start": 5721,
+    "length": 37,
+    "end": 5758,
+    "text": "Vou acabar com essa luta\nbem rápido!"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 5758,
+    "length": 17,
+    "end": 5775,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1168,
+    "mode": "B-implicit",
+    "start": 5775,
+    "length": 2,
+    "end": 5777,
+    "text": "10"
+  },
+  {
+    "table_pos": 1168,
+    "mode": "B-explicit",
+    "start": 5777,
+    "length": 5,
+    "end": 5782,
+    "text": "012_2"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "A",
+    "start": 5782,
+    "length": 44,
+    "end": 5826,
+    "text": "Vou brincar com você só pra\nmatar o tempo."
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 5826,
+    "length": 17,
+    "end": 5843,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1216,
+    "mode": "B-implicit",
+    "start": 5843,
+    "length": 2,
+    "end": 5845,
+    "text": "11"
+  },
+  {
+    "table_pos": 1216,
+    "mode": "B-explicit",
+    "start": 5845,
+    "length": 5,
+    "end": 5850,
+    "text": "013_1"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "A",
+    "start": 5850,
+    "length": 29,
+    "end": 5879,
+    "text": "Eu não vou perder pra você!"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 5879,
+    "length": 17,
+    "end": 5896,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1264,
+    "mode": "B-implicit",
+    "start": 5896,
+    "length": 2,
+    "end": 5898,
+    "text": "12"
+  },
+  {
+    "table_pos": 1264,
+    "mode": "B-explicit",
+    "start": 5898,
+    "length": 5,
+    "end": 5903,
+    "text": "013_2"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "A",
+    "start": 5903,
+    "length": 42,
+    "end": 5945,
+    "text": "Um único golpe já basta\npra te derrubar!"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 5945,
+    "length": 17,
+    "end": 5962,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1312,
+    "mode": "B-implicit",
+    "start": 5962,
+    "length": 2,
+    "end": 5964,
+    "text": "13"
+  },
+  {
+    "table_pos": 1312,
+    "mode": "B-explicit",
+    "start": 5964,
+    "length": 5,
+    "end": 5969,
+    "text": "014_1"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "A",
+    "start": 5969,
+    "length": 29,
+    "end": 5998,
+    "text": "Neji... Vamos nos enfrentar!!"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 5998,
+    "length": 17,
+    "end": 6015,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1360,
+    "mode": "B-implicit",
+    "start": 6015,
+    "length": 2,
+    "end": 6017,
+    "text": "14"
+  },
+  {
+    "table_pos": 1360,
+    "mode": "B-explicit",
+    "start": 6017,
+    "length": 5,
+    "end": 6022,
+    "text": "014_2"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "A",
+    "start": 6022,
+    "length": 41,
+    "end": 6063,
+    "text": "Tudo bem...\nVou te ensinar a realidade..."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 6063,
+    "length": 17,
+    "end": 6080,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1408,
+    "mode": "B-implicit",
+    "start": 6080,
+    "length": 2,
+    "end": 6082,
+    "text": "15"
+  },
+  {
+    "table_pos": 1408,
+    "mode": "B-explicit",
+    "start": 6082,
+    "length": 5,
+    "end": 6087,
+    "text": "015_1"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "A",
+    "start": 6087,
+    "length": 46,
+    "end": 6133,
+    "text": "Fico feliz em poder lutar com\nvocê tão cedo."
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 6133,
+    "length": 17,
+    "end": 6150,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1456,
+    "mode": "B-implicit",
+    "start": 6150,
+    "length": 2,
+    "end": 6152,
+    "text": "16"
+  },
+  {
+    "table_pos": 1456,
+    "mode": "B-explicit",
+    "start": 6152,
+    "length": 5,
+    "end": 6157,
+    "text": "015_2"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "A",
+    "start": 6157,
+    "length": 7,
+    "end": 6164,
+    "text": "Hmph..."
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 6164,
+    "length": 17,
+    "end": 6181,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1504,
+    "mode": "B-implicit",
+    "start": 6181,
+    "length": 2,
+    "end": 6183,
+    "text": "17"
+  },
+  {
+    "table_pos": 1504,
+    "mode": "B-explicit",
+    "start": 6183,
+    "length": 5,
+    "end": 6188,
+    "text": "016_1"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "A",
+    "start": 6188,
+    "length": 0,
+    "end": 6188,
+    "text": ""
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 6188,
+    "length": 17,
+    "end": 6205,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 6205,
+    "length": 5,
+    "end": 6210,
+    "text": "016_2"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "A",
+    "start": 6210,
+    "length": 0,
+    "end": 6210,
+    "text": ""
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 6210,
+    "length": 17,
+    "end": 6227,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 6227,
+    "length": 5,
+    "end": 6232,
+    "text": "017_1"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "A",
+    "start": 6232,
+    "length": 40,
+    "end": 6272,
+    "text": "Certo! Vou mostrar o que eu\nposso fazer!"
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 6272,
+    "length": 17,
+    "end": 6289,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1648,
+    "mode": "B-implicit",
+    "start": 6289,
+    "length": 2,
+    "end": 6291,
+    "text": "18"
+  },
+  {
+    "table_pos": 1648,
+    "mode": "B-explicit",
+    "start": 6291,
+    "length": 5,
+    "end": 6296,
+    "text": "017_2"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "A",
+    "start": 6296,
+    "length": 42,
+    "end": 6338,
+    "text": "Bem, bem,\nvamos ver do que você é capaz."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 6338,
+    "length": 17,
+    "end": 6355,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1696,
+    "mode": "B-implicit",
+    "start": 6355,
+    "length": 2,
+    "end": 6357,
+    "text": "19"
+  },
+  {
+    "table_pos": 1696,
+    "mode": "B-explicit",
+    "start": 6357,
+    "length": 5,
+    "end": 6362,
+    "text": "018_1"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "A",
+    "start": 6362,
+    "length": 0,
+    "end": 6362,
+    "text": ""
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 6362,
+    "length": 17,
+    "end": 6379,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 6379,
+    "length": 5,
+    "end": 6384,
+    "text": "018_2"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "A",
+    "start": 6384,
+    "length": 0,
+    "end": 6384,
+    "text": ""
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 6384,
+    "length": 17,
+    "end": 6401,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 6401,
+    "length": 5,
+    "end": 6406,
+    "text": "019_1"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "A",
+    "start": 6406,
+    "length": 52,
+    "end": 6458,
+    "text": "Eu nunca vou perder pra você...\ncuste o que custar!"
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 6458,
+    "length": 17,
+    "end": 6475,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1840,
+    "mode": "B-implicit",
+    "start": 6475,
+    "length": 2,
+    "end": 6477,
+    "text": "20"
+  },
+  {
+    "table_pos": 1840,
+    "mode": "B-explicit",
+    "start": 6477,
+    "length": 5,
+    "end": 6482,
+    "text": "019_2"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "A",
+    "start": 6482,
+    "length": 60,
+    "end": 6542,
+    "text": "Receio que você não tenha escolha\nnisso. É o seu destino."
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 6542,
+    "length": 17,
+    "end": 6559,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1888,
+    "mode": "B-implicit",
+    "start": 6559,
+    "length": 2,
+    "end": 6561,
+    "text": "21"
+  },
+  {
+    "table_pos": 1888,
+    "mode": "B-explicit",
+    "start": 6561,
+    "length": 5,
+    "end": 6566,
+    "text": "020_1"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "A",
+    "start": 6566,
+    "length": 36,
+    "end": 6602,
+    "text": "Bem, deixe-me ver o que posso fazer."
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 6602,
+    "length": 17,
+    "end": 6619,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1936,
+    "mode": "B-implicit",
+    "start": 6619,
+    "length": 2,
+    "end": 6621,
+    "text": "22"
+  },
+  {
+    "table_pos": 1936,
+    "mode": "B-explicit",
+    "start": 6621,
+    "length": 5,
+    "end": 6626,
+    "text": "020_2"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "A",
+    "start": 6626,
+    "length": 34,
+    "end": 6660,
+    "text": "Desista antes que seja tarde, tá?"
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 6660,
+    "length": 17,
+    "end": 6677,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 1984,
+    "mode": "B-implicit",
+    "start": 6677,
+    "length": 2,
+    "end": 6679,
+    "text": "23"
+  },
+  {
+    "table_pos": 1984,
+    "mode": "B-explicit",
+    "start": 6679,
+    "length": 5,
+    "end": 6684,
+    "text": "021_1"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "A",
+    "start": 6684,
+    "length": 12,
+    "end": 6696,
+    "text": "Vamos lá..."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 6696,
+    "length": 17,
+    "end": 6713,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2032,
+    "mode": "B-implicit",
+    "start": 6713,
+    "length": 2,
+    "end": 6715,
+    "text": "24"
+  },
+  {
+    "table_pos": 2032,
+    "mode": "B-explicit",
+    "start": 6715,
+    "length": 5,
+    "end": 6720,
+    "text": "021_2"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "A",
+    "start": 6720,
+    "length": 26,
+    "end": 6746,
+    "text": "Eu vou aproveitar isso...!"
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 6746,
+    "length": 17,
+    "end": 6763,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2080,
+    "mode": "B-implicit",
+    "start": 6763,
+    "length": 2,
+    "end": 6765,
+    "text": "25"
+  },
+  {
+    "table_pos": 2080,
+    "mode": "B-explicit",
+    "start": 6765,
+    "length": 5,
+    "end": 6770,
+    "text": "022_1"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "A",
+    "start": 6770,
+    "length": 0,
+    "end": 6770,
+    "text": ""
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 6770,
+    "length": 17,
+    "end": 6787,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 6787,
+    "length": 5,
+    "end": 6792,
+    "text": "022_2"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "A",
+    "start": 6792,
+    "length": 0,
+    "end": 6792,
+    "text": ""
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 6792,
+    "length": 17,
+    "end": 6809,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 6809,
+    "length": 5,
+    "end": 6814,
+    "text": "023_1"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "A",
+    "start": 6814,
+    "length": 58,
+    "end": 6872,
+    "text": "Eu nunca subestimo meu oponente,\nnão importa quem seja..."
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 6872,
+    "length": 17,
+    "end": 6889,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2224,
+    "mode": "B-implicit",
+    "start": 6889,
+    "length": 2,
+    "end": 6891,
+    "text": "26"
+  },
+  {
+    "table_pos": 2224,
+    "mode": "B-explicit",
+    "start": 6891,
+    "length": 5,
+    "end": 6896,
+    "text": "023_2"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "A",
+    "start": 6896,
+    "length": 16,
+    "end": 6912,
+    "text": "Hã... Pode vir!"
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 6912,
+    "length": 17,
+    "end": 6929,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2272,
+    "mode": "B-implicit",
+    "start": 6929,
+    "length": 2,
+    "end": 6931,
+    "text": "27"
+  },
+  {
+    "table_pos": 2272,
+    "mode": "B-explicit",
+    "start": 6931,
+    "length": 5,
+    "end": 6936,
+    "text": "024_1"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "A",
+    "start": 6936,
+    "length": 36,
+    "end": 6972,
+    "text": "Vamos ver quem você\nrealmente é..!"
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 6972,
+    "length": 17,
+    "end": 6989,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2320,
+    "mode": "B-implicit",
+    "start": 6989,
+    "length": 2,
+    "end": 6991,
+    "text": "28"
+  },
+  {
+    "table_pos": 2320,
+    "mode": "B-explicit",
+    "start": 6991,
+    "length": 5,
+    "end": 6996,
+    "text": "024_2"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "A",
+    "start": 6996,
+    "length": 41,
+    "end": 7037,
+    "text": "Vamos continuar de onde paramos...\nVenha."
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 7037,
+    "length": 17,
+    "end": 7054,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2368,
+    "mode": "B-implicit",
+    "start": 7054,
+    "length": 2,
+    "end": 7056,
+    "text": "29"
+  },
+  {
+    "table_pos": 2368,
+    "mode": "B-explicit",
+    "start": 7056,
+    "length": 5,
+    "end": 7061,
+    "text": "025_1"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "A",
+    "start": 7061,
+    "length": 29,
+    "end": 7090,
+    "text": "Argh... Eu vou fazer isso...!"
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 7090,
+    "length": 17,
+    "end": 7107,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2416,
+    "mode": "B-implicit",
+    "start": 7107,
+    "length": 2,
+    "end": 7109,
+    "text": "30"
+  },
+  {
+    "table_pos": 2416,
+    "mode": "B-explicit",
+    "start": 7109,
+    "length": 5,
+    "end": 7114,
+    "text": "025_2"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "A",
+    "start": 7114,
+    "length": 29,
+    "end": 7143,
+    "text": "Venha... Vou te despedaçar!!"
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 7143,
+    "length": 17,
+    "end": 7160,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2464,
+    "mode": "B-implicit",
+    "start": 7160,
+    "length": 2,
+    "end": 7162,
+    "text": "31"
+  },
+  {
+    "table_pos": 2464,
+    "mode": "B-explicit",
+    "start": 7162,
+    "length": 5,
+    "end": 7167,
+    "text": "026_1"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "A",
+    "start": 7167,
+    "length": 41,
+    "end": 7208,
+    "text": "Vou te fazer prisioneiro\ne te interrogar."
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 7208,
+    "length": 17,
+    "end": 7225,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2512,
+    "mode": "B-implicit",
+    "start": 7225,
+    "length": 2,
+    "end": 7227,
+    "text": "32"
+  },
+  {
+    "table_pos": 2512,
+    "mode": "B-explicit",
+    "start": 7227,
+    "length": 5,
+    "end": 7232,
+    "text": "026_2"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "A",
+    "start": 7232,
+    "length": 49,
+    "end": 7281,
+    "text": "Acha que consegue? Eu não\ntenho tanta certeza..."
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 7281,
+    "length": 17,
+    "end": 7298,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2560,
+    "mode": "B-implicit",
+    "start": 7298,
+    "length": 2,
+    "end": 7300,
+    "text": "33"
+  },
+  {
+    "table_pos": 2560,
+    "mode": "B-explicit",
+    "start": 7300,
+    "length": 5,
+    "end": 7305,
+    "text": "027_1"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "A",
+    "start": 7305,
+    "length": 32,
+    "end": 7337,
+    "text": "Eu vou proteger a Vila da Folha!"
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 7337,
+    "length": 17,
+    "end": 7354,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2608,
+    "mode": "B-implicit",
+    "start": 7354,
+    "length": 2,
+    "end": 7356,
+    "text": "34"
+  },
+  {
+    "table_pos": 2608,
+    "mode": "B-explicit",
+    "start": 7356,
+    "length": 5,
+    "end": 7361,
+    "text": "027_2"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "A",
+    "start": 7361,
+    "length": 62,
+    "end": 7423,
+    "text": "Rá-rá-rá...\nNunca imaginei que lutaria\ncom você de novo..."
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 7423,
+    "length": 17,
+    "end": 7440,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2656,
+    "mode": "B-implicit",
+    "start": 7440,
+    "length": 2,
+    "end": 7442,
+    "text": "35"
+  },
+  {
+    "table_pos": 2656,
+    "mode": "B-explicit",
+    "start": 7442,
+    "length": 5,
+    "end": 7447,
+    "text": "028_1"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "A",
+    "start": 7447,
+    "length": 0,
+    "end": 7447,
+    "text": ""
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 7447,
+    "length": 17,
+    "end": 7464,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2704,
+    "mode": "A",
+    "start": 7464,
+    "length": 5,
+    "end": 7469,
+    "text": "028_2"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "A",
+    "start": 7469,
+    "length": 0,
+    "end": 7469,
+    "text": ""
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 7469,
+    "length": 17,
+    "end": 7486,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2752,
+    "mode": "A",
+    "start": 7486,
+    "length": 5,
+    "end": 7491,
+    "text": "029_1"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "A",
+    "start": 7491,
+    "length": 30,
+    "end": 7521,
+    "text": "Acho melhor eu ficar sério..."
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 7521,
+    "length": 17,
+    "end": 7538,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2800,
+    "mode": "B-implicit",
+    "start": 7538,
+    "length": 2,
+    "end": 7540,
+    "text": "36"
+  },
+  {
+    "table_pos": 2800,
+    "mode": "B-explicit",
+    "start": 7540,
+    "length": 5,
+    "end": 7545,
+    "text": "029_2"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "A",
+    "start": 7545,
+    "length": 33,
+    "end": 7578,
+    "text": "Kakashi...\nPreciso te eliminar..."
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 7578,
+    "length": 17,
+    "end": 7595,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2848,
+    "mode": "B-implicit",
+    "start": 7595,
+    "length": 2,
+    "end": 7597,
+    "text": "37"
+  },
+  {
+    "table_pos": 2848,
+    "mode": "B-explicit",
+    "start": 7597,
+    "length": 5,
+    "end": 7602,
+    "text": "030_1"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "A",
+    "start": 7602,
+    "length": 46,
+    "end": 7648,
+    "text": "Vou te mostrar a força da\nbesta mais feroz!!!"
+  },
+  {
+    "table_pos": 2880,
+    "mode": "A",
+    "start": 7648,
+    "length": 17,
+    "end": 7665,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2896,
+    "mode": "B-implicit",
+    "start": 7665,
+    "length": 2,
+    "end": 7667,
+    "text": "38"
+  },
+  {
+    "table_pos": 2896,
+    "mode": "B-explicit",
+    "start": 7667,
+    "length": 5,
+    "end": 7672,
+    "text": "030_2"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "A",
+    "start": 7672,
+    "length": 27,
+    "end": 7699,
+    "text": "Vou te desgastar rapidinho."
+  },
+  {
+    "table_pos": 2928,
+    "mode": "A",
+    "start": 7699,
+    "length": 17,
+    "end": 7716,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2944,
+    "mode": "B-implicit",
+    "start": 7716,
+    "length": 2,
+    "end": 7718,
+    "text": "39"
+  },
+  {
+    "table_pos": 2944,
+    "mode": "B-explicit",
+    "start": 7718,
+    "length": 5,
+    "end": 7723,
+    "text": "031_1"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "A",
+    "start": 7723,
+    "length": 21,
+    "end": 7744,
+    "text": "Vou dar o meu melhor!"
+  },
+  {
+    "table_pos": 2976,
+    "mode": "A",
+    "start": 7744,
+    "length": 17,
+    "end": 7761,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 2992,
+    "mode": "B-implicit",
+    "start": 7761,
+    "length": 2,
+    "end": 7763,
+    "text": "40"
+  },
+  {
+    "table_pos": 2992,
+    "mode": "B-explicit",
+    "start": 7763,
+    "length": 5,
+    "end": 7768,
+    "text": "031_2"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "A",
+    "start": 7768,
+    "length": 37,
+    "end": 7805,
+    "text": "Só a sua ansiedade já dá trabalho."
+  },
+  {
+    "table_pos": 3024,
+    "mode": "A",
+    "start": 7805,
+    "length": 17,
+    "end": 7822,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3040,
+    "mode": "B-implicit",
+    "start": 7822,
+    "length": 2,
+    "end": 7824,
+    "text": "41"
+  },
+  {
+    "table_pos": 3040,
+    "mode": "B-explicit",
+    "start": 7824,
+    "length": 5,
+    "end": 7829,
+    "text": "032_1"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "A",
+    "start": 7829,
+    "length": 45,
+    "end": 7874,
+    "text": "Eu continuei vivendo... só\npra te derrotar!!"
+  },
+  {
+    "table_pos": 3072,
+    "mode": "A",
+    "start": 7874,
+    "length": 17,
+    "end": 7891,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3088,
+    "mode": "B-implicit",
+    "start": 7891,
+    "length": 2,
+    "end": 7893,
+    "text": "42"
+  },
+  {
+    "table_pos": 3088,
+    "mode": "B-explicit",
+    "start": 7893,
+    "length": 5,
+    "end": 7898,
+    "text": "032_2"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "A",
+    "start": 7898,
+    "length": 47,
+    "end": 7945,
+    "text": "Vá embora. Você não me\ninteressa no momento."
+  },
+  {
+    "table_pos": 3120,
+    "mode": "A",
+    "start": 7945,
+    "length": 17,
+    "end": 7962,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3136,
+    "mode": "B-implicit",
+    "start": 7962,
+    "length": 2,
+    "end": 7964,
+    "text": "43"
+  },
+  {
+    "table_pos": 3136,
+    "mode": "B-explicit",
+    "start": 7964,
+    "length": 5,
+    "end": 7969,
+    "text": "033_1"
+  },
+  {
+    "table_pos": 3152,
+    "mode": "A",
+    "start": 7969,
+    "length": 22,
+    "end": 7991,
+    "text": "Vou acabar com vocês!"
+  },
+  {
+    "table_pos": 3168,
+    "mode": "A",
+    "start": 7991,
+    "length": 17,
+    "end": 8008,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3184,
+    "mode": "B-implicit",
+    "start": 8008,
+    "length": 2,
+    "end": 8010,
+    "text": "44"
+  },
+  {
+    "table_pos": 3184,
+    "mode": "B-explicit",
+    "start": 8010,
+    "length": 5,
+    "end": 8015,
+    "text": "033_2"
+  },
+  {
+    "table_pos": 3200,
+    "mode": "A",
+    "start": 8015,
+    "length": 44,
+    "end": 8059,
+    "text": "Não podia pedir por\noponentes mais dignos!!"
+  },
+  {
+    "table_pos": 3216,
+    "mode": "A",
+    "start": 8059,
+    "length": 17,
+    "end": 8076,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3232,
+    "mode": "B-implicit",
+    "start": 8076,
+    "length": 2,
+    "end": 8078,
+    "text": "45"
+  },
+  {
+    "table_pos": 3232,
+    "mode": "B-explicit",
+    "start": 8078,
+    "length": 5,
+    "end": 8083,
+    "text": "034_1"
+  },
+  {
+    "table_pos": 3248,
+    "mode": "A",
+    "start": 8083,
+    "length": 0,
+    "end": 8083,
+    "text": ""
+  },
+  {
+    "table_pos": 3264,
+    "mode": "A",
+    "start": 8083,
+    "length": 17,
+    "end": 8100,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3280,
+    "mode": "A",
+    "start": 8100,
+    "length": 5,
+    "end": 8105,
+    "text": "034_2"
+  },
+  {
+    "table_pos": 3296,
+    "mode": "A",
+    "start": 8105,
+    "length": 0,
+    "end": 8105,
+    "text": ""
+  },
+  {
+    "table_pos": 3312,
+    "mode": "A",
+    "start": 8105,
+    "length": 17,
+    "end": 8122,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3328,
+    "mode": "A",
+    "start": 8122,
+    "length": 5,
+    "end": 8127,
+    "text": "035_1"
+  },
+  {
+    "table_pos": 3344,
+    "mode": "A",
+    "start": 8127,
+    "length": 62,
+    "end": 8189,
+    "text": "Tarde demais pra desculpas, guarde-as!\nEu não vou te perdoar!"
+  },
+  {
+    "table_pos": 3360,
+    "mode": "A",
+    "start": 8189,
+    "length": 17,
+    "end": 8206,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3376,
+    "mode": "B-implicit",
+    "start": 8206,
+    "length": 2,
+    "end": 8208,
+    "text": "46"
+  },
+  {
+    "table_pos": 3376,
+    "mode": "B-explicit",
+    "start": 8208,
+    "length": 5,
+    "end": 8213,
+    "text": "035_2"
+  },
+  {
+    "table_pos": 3392,
+    "mode": "A",
+    "start": 8213,
+    "length": 32,
+    "end": 8245,
+    "text": "Hmph... Nem preciso ir com tudo."
+  },
+  {
+    "table_pos": 3408,
+    "mode": "A",
+    "start": 8245,
+    "length": 17,
+    "end": 8262,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3424,
+    "mode": "B-implicit",
+    "start": 8262,
+    "length": 2,
+    "end": 8264,
+    "text": "47"
+  },
+  {
+    "table_pos": 3424,
+    "mode": "B-explicit",
+    "start": 8264,
+    "length": 5,
+    "end": 8269,
+    "text": "036_1"
+  },
+  {
+    "table_pos": 3440,
+    "mode": "A",
+    "start": 8269,
+    "length": 0,
+    "end": 8269,
+    "text": ""
+  },
+  {
+    "table_pos": 3456,
+    "mode": "A",
+    "start": 8269,
+    "length": 17,
+    "end": 8286,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3472,
+    "mode": "A",
+    "start": 8286,
+    "length": 5,
+    "end": 8291,
+    "text": "036_2"
+  },
+  {
+    "table_pos": 3488,
+    "mode": "A",
+    "start": 8291,
+    "length": 0,
+    "end": 8291,
+    "text": ""
+  },
+  {
+    "table_pos": 3504,
+    "mode": "A",
+    "start": 8291,
+    "length": 17,
+    "end": 8308,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3520,
+    "mode": "A",
+    "start": 8308,
+    "length": 5,
+    "end": 8313,
+    "text": "037_1"
+  },
+  {
+    "table_pos": 3536,
+    "mode": "A",
+    "start": 8313,
+    "length": 60,
+    "end": 8373,
+    "text": "Vocês não valem nada!\nVou acabar com vocês aqui e agora!!"
+  },
+  {
+    "table_pos": 3552,
+    "mode": "A",
+    "start": 8373,
+    "length": 17,
+    "end": 8390,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3568,
+    "mode": "B-implicit",
+    "start": 8390,
+    "length": 2,
+    "end": 8392,
+    "text": "48"
+  },
+  {
+    "table_pos": 3568,
+    "mode": "B-explicit",
+    "start": 8392,
+    "length": 5,
+    "end": 8397,
+    "text": "037_2"
+  },
+  {
+    "table_pos": 3584,
+    "mode": "A",
+    "start": 8397,
+    "length": 45,
+    "end": 8442,
+    "text": "É uma honra ter a chance\nde lutar com você."
+  },
+  {
+    "table_pos": 3600,
+    "mode": "A",
+    "start": 8442,
+    "length": 17,
+    "end": 8459,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3616,
+    "mode": "B-implicit",
+    "start": 8459,
+    "length": 2,
+    "end": 8461,
+    "text": "49"
+  },
+  {
+    "table_pos": 3616,
+    "mode": "B-explicit",
+    "start": 8461,
+    "length": 5,
+    "end": 8466,
+    "text": "038_1"
+  },
+  {
+    "table_pos": 3632,
+    "mode": "A",
+    "start": 8466,
+    "length": 42,
+    "end": 8508,
+    "text": "Eu vou te derrotar... custe o\nque custar!!"
+  },
+  {
+    "table_pos": 3648,
+    "mode": "A",
+    "start": 8508,
+    "length": 17,
+    "end": 8525,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3664,
+    "mode": "B-implicit",
+    "start": 8525,
+    "length": 2,
+    "end": 8527,
+    "text": "50"
+  },
+  {
+    "table_pos": 3664,
+    "mode": "B-explicit",
+    "start": 8527,
+    "length": 5,
+    "end": 8532,
+    "text": "038_2"
+  },
+  {
+    "table_pos": 3680,
+    "mode": "A",
+    "start": 8532,
+    "length": 58,
+    "end": 8590,
+    "text": "Se tentar atrapalhar meu\ncaminho... não vou pegar leve..."
+  },
+  {
+    "table_pos": 3696,
+    "mode": "A",
+    "start": 8590,
+    "length": 17,
+    "end": 8607,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3712,
+    "mode": "B-implicit",
+    "start": 8607,
+    "length": 2,
+    "end": 8609,
+    "text": "51"
+  },
+  {
+    "table_pos": 3712,
+    "mode": "B-explicit",
+    "start": 8609,
+    "length": 5,
+    "end": 8614,
+    "text": "039_1"
+  },
+  {
+    "table_pos": 3728,
+    "mode": "A",
+    "start": 8614,
+    "length": 0,
+    "end": 8614,
+    "text": ""
+  },
+  {
+    "table_pos": 3744,
+    "mode": "A",
+    "start": 8614,
+    "length": 17,
+    "end": 8631,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3760,
+    "mode": "A",
+    "start": 8631,
+    "length": 5,
+    "end": 8636,
+    "text": "039_2"
+  },
+  {
+    "table_pos": 3776,
+    "mode": "A",
+    "start": 8636,
+    "length": 0,
+    "end": 8636,
+    "text": ""
+  },
+  {
+    "table_pos": 3792,
+    "mode": "A",
+    "start": 8636,
+    "length": 17,
+    "end": 8653,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3808,
+    "mode": "A",
+    "start": 8653,
+    "length": 5,
+    "end": 8658,
+    "text": "040_1"
+  },
+  {
+    "table_pos": 3824,
+    "mode": "A",
+    "start": 8658,
+    "length": 38,
+    "end": 8696,
+    "text": "Vamos descobrir quem é o\nmais forte!!"
+  },
+  {
+    "table_pos": 3840,
+    "mode": "A",
+    "start": 8696,
+    "length": 17,
+    "end": 8713,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3856,
+    "mode": "B-implicit",
+    "start": 8713,
+    "length": 2,
+    "end": 8715,
+    "text": "52"
+  },
+  {
+    "table_pos": 3856,
+    "mode": "B-explicit",
+    "start": 8715,
+    "length": 5,
+    "end": 8720,
+    "text": "040_2"
+  },
+  {
+    "table_pos": 3872,
+    "mode": "A",
+    "start": 8720,
+    "length": 36,
+    "end": 8756,
+    "text": "Seu perdedor!\nPare de falar bobagem!"
+  },
+  {
+    "table_pos": 3888,
+    "mode": "A",
+    "start": 8756,
+    "length": 17,
+    "end": 8773,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3904,
+    "mode": "B-implicit",
+    "start": 8773,
+    "length": 2,
+    "end": 8775,
+    "text": "53"
+  },
+  {
+    "table_pos": 3904,
+    "mode": "B-explicit",
+    "start": 8775,
+    "length": 5,
+    "end": 8780,
+    "text": "041_1"
+  },
+  {
+    "table_pos": 3920,
+    "mode": "A",
+    "start": 8780,
+    "length": 0,
+    "end": 8780,
+    "text": ""
+  },
+  {
+    "table_pos": 3936,
+    "mode": "A",
+    "start": 8780,
+    "length": 17,
+    "end": 8797,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 3952,
+    "mode": "A",
+    "start": 8797,
+    "length": 5,
+    "end": 8802,
+    "text": "041_2"
+  },
+  {
+    "table_pos": 3968,
+    "mode": "A",
+    "start": 8802,
+    "length": 0,
+    "end": 8802,
+    "text": ""
+  },
+  {
+    "table_pos": 3984,
+    "mode": "A",
+    "start": 8802,
+    "length": 17,
+    "end": 8819,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4000,
+    "mode": "A",
+    "start": 8819,
+    "length": 5,
+    "end": 8824,
+    "text": "042_1"
+  },
+  {
+    "table_pos": 4016,
+    "mode": "A",
+    "start": 8824,
+    "length": 38,
+    "end": 8862,
+    "text": "Esse será o fim da linha\npra você..."
+  },
+  {
+    "table_pos": 4032,
+    "mode": "A",
+    "start": 8862,
+    "length": 17,
+    "end": 8879,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4048,
+    "mode": "B-implicit",
+    "start": 8879,
+    "length": 2,
+    "end": 8881,
+    "text": "54"
+  },
+  {
+    "table_pos": 4048,
+    "mode": "B-explicit",
+    "start": 8881,
+    "length": 5,
+    "end": 8886,
+    "text": "042_2"
+  },
+  {
+    "table_pos": 4064,
+    "mode": "A",
+    "start": 8886,
+    "length": 46,
+    "end": 8932,
+    "text": "Hm... Parece que você\nconsegue me entreter..."
+  },
+  {
+    "table_pos": 4080,
+    "mode": "A",
+    "start": 8932,
+    "length": 17,
+    "end": 8949,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4096,
+    "mode": "B-implicit",
+    "start": 8949,
+    "length": 2,
+    "end": 8951,
+    "text": "55"
+  },
+  {
+    "table_pos": 4096,
+    "mode": "B-explicit",
+    "start": 8951,
+    "length": 5,
+    "end": 8956,
+    "text": "043_1"
+  },
+  {
+    "table_pos": 4112,
+    "mode": "A",
+    "start": 8956,
+    "length": 70,
+    "end": 9026,
+    "text": "Ele é um oponente irritante, mas...\nacho que eu tenho que fazer isso!"
+  },
+  {
+    "table_pos": 4128,
+    "mode": "A",
+    "start": 9026,
+    "length": 17,
+    "end": 9043,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4144,
+    "mode": "B-implicit",
+    "start": 9043,
+    "length": 2,
+    "end": 9045,
+    "text": "56"
+  },
+  {
+    "table_pos": 4144,
+    "mode": "B-explicit",
+    "start": 9045,
+    "length": 5,
+    "end": 9050,
+    "text": "043_2"
+  },
+  {
+    "table_pos": 4160,
+    "mode": "A",
+    "start": 9050,
+    "length": 40,
+    "end": 9090,
+    "text": "Vocês todos... não são meus inimigos."
+  },
+  {
+    "table_pos": 4176,
+    "mode": "A",
+    "start": 9090,
+    "length": 17,
+    "end": 9107,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4192,
+    "mode": "B-implicit",
+    "start": 9107,
+    "length": 2,
+    "end": 9109,
+    "text": "57"
+  },
+  {
+    "table_pos": 4192,
+    "mode": "B-explicit",
+    "start": 9109,
+    "length": 5,
+    "end": 9114,
+    "text": "044_1"
+  },
+  {
+    "table_pos": 4208,
+    "mode": "A",
+    "start": 9114,
+    "length": 0,
+    "end": 9114,
+    "text": ""
+  },
+  {
+    "table_pos": 4224,
+    "mode": "A",
+    "start": 9114,
+    "length": 17,
+    "end": 9131,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4240,
+    "mode": "A",
+    "start": 9131,
+    "length": 5,
+    "end": 9136,
+    "text": "044_2"
+  },
+  {
+    "table_pos": 4256,
+    "mode": "A",
+    "start": 9136,
+    "length": 0,
+    "end": 9136,
+    "text": ""
+  },
+  {
+    "table_pos": 4272,
+    "mode": "A",
+    "start": 9136,
+    "length": 17,
+    "end": 9153,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4288,
+    "mode": "A",
+    "start": 9153,
+    "length": 5,
+    "end": 9158,
+    "text": "045_1"
+  },
+  {
+    "table_pos": 4304,
+    "mode": "A",
+    "start": 9158,
+    "length": 54,
+    "end": 9212,
+    "text": "Não vou deixar levarem o Sasuke,\ncuste o que custar!!"
+  },
+  {
+    "table_pos": 4320,
+    "mode": "A",
+    "start": 9212,
+    "length": 17,
+    "end": 9229,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4336,
+    "mode": "B-implicit",
+    "start": 9229,
+    "length": 2,
+    "end": 9231,
+    "text": "58"
+  },
+  {
+    "table_pos": 4336,
+    "mode": "B-explicit",
+    "start": 9231,
+    "length": 5,
+    "end": 9236,
+    "text": "045_2"
+  },
+  {
+    "table_pos": 4352,
+    "mode": "A",
+    "start": 9236,
+    "length": 8,
+    "end": 9244,
+    "text": "Venha..."
+  },
+  {
+    "table_pos": 4368,
+    "mode": "A",
+    "start": 9244,
+    "length": 17,
+    "end": 9261,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4384,
+    "mode": "B-implicit",
+    "start": 9261,
+    "length": 2,
+    "end": 9263,
+    "text": "59"
+  },
+  {
+    "table_pos": 4384,
+    "mode": "B-explicit",
+    "start": 9263,
+    "length": 5,
+    "end": 9268,
+    "text": "046_1"
+  },
+  {
+    "table_pos": 4400,
+    "mode": "A",
+    "start": 9268,
+    "length": 34,
+    "end": 9302,
+    "text": "Essa luta...\nEu não posso perder!"
+  },
+  {
+    "table_pos": 4416,
+    "mode": "A",
+    "start": 9302,
+    "length": 17,
+    "end": 9319,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4432,
+    "mode": "B-implicit",
+    "start": 9319,
+    "length": 2,
+    "end": 9321,
+    "text": "60"
+  },
+  {
+    "table_pos": 4432,
+    "mode": "B-explicit",
+    "start": 9321,
+    "length": 5,
+    "end": 9326,
+    "text": "046_2"
+  },
+  {
+    "table_pos": 4448,
+    "mode": "A",
+    "start": 9326,
+    "length": 43,
+    "end": 9369,
+    "text": "Não posso baixar a guarda\ncom esse aqui..."
+  },
+  {
+    "table_pos": 4464,
+    "mode": "A",
+    "start": 9369,
+    "length": 17,
+    "end": 9386,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4480,
+    "mode": "B-implicit",
+    "start": 9386,
+    "length": 2,
+    "end": 9388,
+    "text": "61"
+  },
+  {
+    "table_pos": 4480,
+    "mode": "B-explicit",
+    "start": 9388,
+    "length": 5,
+    "end": 9393,
+    "text": "047_1"
+  },
+  {
+    "table_pos": 4496,
+    "mode": "A",
+    "start": 9393,
+    "length": 22,
+    "end": 9415,
+    "text": "Vou cuidar de você..."
+  },
+  {
+    "table_pos": 4512,
+    "mode": "A",
+    "start": 9415,
+    "length": 17,
+    "end": 9432,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4528,
+    "mode": "B-implicit",
+    "start": 9432,
+    "length": 2,
+    "end": 9434,
+    "text": "62"
+  },
+  {
+    "table_pos": 4528,
+    "mode": "B-explicit",
+    "start": 9434,
+    "length": 5,
+    "end": 9439,
+    "text": "047_2"
+  },
+  {
+    "table_pos": 4544,
+    "mode": "A",
+    "start": 9439,
+    "length": 33,
+    "end": 9472,
+    "text": "Tudo é pelo Lorde Orochimaru...!"
+  },
+  {
+    "table_pos": 4560,
+    "mode": "A",
+    "start": 9472,
+    "length": 17,
+    "end": 9489,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4576,
+    "mode": "B-implicit",
+    "start": 9489,
+    "length": 2,
+    "end": 9491,
+    "text": "63"
+  },
+  {
+    "table_pos": 4576,
+    "mode": "B-explicit",
+    "start": 9491,
+    "length": 5,
+    "end": 9496,
+    "text": "048_1"
+  },
+  {
+    "table_pos": 4592,
+    "mode": "A",
+    "start": 9496,
+    "length": 41,
+    "end": 9537,
+    "text": "Não vou deixar você ir\npro Orochimaru!!"
+  },
+  {
+    "table_pos": 4608,
+    "mode": "A",
+    "start": 9537,
+    "length": 17,
+    "end": 9554,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4624,
+    "mode": "B-implicit",
+    "start": 9554,
+    "length": 2,
+    "end": 9556,
+    "text": "64"
+  },
+  {
+    "table_pos": 4624,
+    "mode": "B-explicit",
+    "start": 9556,
+    "length": 5,
+    "end": 9561,
+    "text": "048_2"
+  },
+  {
+    "table_pos": 4640,
+    "mode": "A",
+    "start": 9561,
+    "length": 55,
+    "end": 9616,
+    "text": "Se ficar no meu caminho,\nnão vou pegar leve com você."
+  },
+  {
+    "table_pos": 4656,
+    "mode": "A",
+    "start": 9616,
+    "length": 17,
+    "end": 9633,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4672,
+    "mode": "B-implicit",
+    "start": 9633,
+    "length": 2,
+    "end": 9635,
+    "text": "65"
+  },
+  {
+    "table_pos": 4672,
+    "mode": "B-explicit",
+    "start": 9635,
+    "length": 5,
+    "end": 9640,
+    "text": "049_1"
+  },
+  {
+    "table_pos": 4688,
+    "mode": "A",
+    "start": 9640,
+    "length": 34,
+    "end": 9674,
+    "text": "Eu não vou deixar isso acontecer!"
+  },
+  {
+    "table_pos": 4704,
+    "mode": "A",
+    "start": 9674,
+    "length": 17,
+    "end": 9691,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4720,
+    "mode": "B-implicit",
+    "start": 9691,
+    "length": 2,
+    "end": 9693,
+    "text": "66"
+  },
+  {
+    "table_pos": 4720,
+    "mode": "B-explicit",
+    "start": 9693,
+    "length": 5,
+    "end": 9698,
+    "text": "049_2"
+  },
+  {
+    "table_pos": 4736,
+    "mode": "A",
+    "start": 9698,
+    "length": 28,
+    "end": 9726,
+    "text": "Vamos encerrar isso, Naruto!"
+  },
+  {
+    "table_pos": 4752,
+    "mode": "A",
+    "start": 9726,
+    "length": 17,
+    "end": 9743,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4768,
+    "mode": "B-implicit",
+    "start": 9743,
+    "length": 2,
+    "end": 9745,
+    "text": "67"
+  },
+  {
+    "table_pos": 4768,
+    "mode": "B-explicit",
+    "start": 9745,
+    "length": 5,
+    "end": 9750,
+    "text": "050_1"
+  },
+  {
+    "table_pos": 4784,
+    "mode": "A",
+    "start": 9750,
+    "length": 0,
+    "end": 9750,
+    "text": ""
+  },
+  {
+    "table_pos": 4800,
+    "mode": "A",
+    "start": 9750,
+    "length": 17,
+    "end": 9767,
+    "text": "VOICE_EVBATTLE_ST"
+  },
+  {
+    "table_pos": 4816,
+    "mode": "A",
+    "start": 9767,
+    "length": 5,
+    "end": 9772,
+    "text": "050_2"
+  },
+  {
+    "table_pos": 4832,
+    "mode": "A",
+    "start": 9772,
+    "length": 0,
+    "end": 9772,
+    "text": ""
+  },
+  {
+    "table_pos": 4848,
+    "mode": "A",
+    "start": 9772,
+    "length": 17,
+    "end": 9789,
+    "text": "VOICE_EVBATTLE_ST"
+  }
+]

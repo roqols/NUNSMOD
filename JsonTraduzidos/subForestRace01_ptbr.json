@@ -1,0 +1,1442 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 2312,
+    "length": 3,
+    "end": 2315,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 2315,
+    "length": 6,
+    "end": 2321,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 2321,
+    "length": 28,
+    "end": 2349,
+    "text": "Kiba! Você achou o Akamaru?"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 2349,
+    "length": 0,
+    "end": 2349,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 2349,
+    "length": 3,
+    "end": 2352,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 2352,
+    "length": 4,
+    "end": 2356,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 2356,
+    "length": 66,
+    "end": 2422,
+    "text": "Não, não consigo achá-lo. Ele \npode ser um cão bem trabalhoso."
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 2422,
+    "length": 0,
+    "end": 2422,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 2422,
+    "length": 3,
+    "end": 2425,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 2425,
+    "length": 6,
+    "end": 2431,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 2431,
+    "length": 37,
+    "end": 2468,
+    "text": "Ei, vou te ajudar a pegar o \nAkamaru."
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 2468,
+    "length": 0,
+    "end": 2468,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 2468,
+    "length": 3,
+    "end": 2471,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 2471,
+    "length": 4,
+    "end": 2475,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 2475,
+    "length": 101,
+    "end": 2576,
+    "text": "Eu adoraria dizer que você é a \núltima pessoa cuja ajuda eu \nquero, mas vou aceitar \nqualquer uma."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 2576,
+    "length": 0,
+    "end": 2576,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 2576,
+    "length": 3,
+    "end": 2579,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 2579,
+    "length": 4,
+    "end": 2583,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 2583,
+    "length": 34,
+    "end": 2617,
+    "text": "Desculpa. Eu agradeceria, \nNaruto."
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 2617,
+    "length": 0,
+    "end": 2617,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 2617,
+    "length": 3,
+    "end": 2620,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 2620,
+    "length": 6,
+    "end": 2626,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 2626,
+    "length": 6,
+    "end": 2632,
+    "text": "Certo."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 2632,
+    "length": 0,
+    "end": 2632,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 2632,
+    "length": 3,
+    "end": 2635,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 2635,
+    "length": 4,
+    "end": 2639,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 2639,
+    "length": 48,
+    "end": 2687,
+    "text": "Vou olhar nos fundos. Deixo a \nfrente com você."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 2687,
+    "length": 0,
+    "end": 2687,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 2687,
+    "length": 3,
+    "end": 2690,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 2690,
+    "length": 6,
+    "end": 2696,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 2696,
+    "length": 11,
+    "end": 2707,
+    "text": "Entendido!!"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 2707,
+    "length": 0,
+    "end": 2707,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 2707,
+    "length": 3,
+    "end": 2710,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 2710,
+    "length": 6,
+    "end": 2716,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 2716,
+    "length": 31,
+    "end": 2747,
+    "text": "Vamos ver... Onde ele está...?"
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 2747,
+    "length": 0,
+    "end": 2747,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 2747,
+    "length": 3,
+    "end": 2750,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 2750,
+    "length": 7,
+    "end": 2757,
+    "text": "Akamaru"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 2757,
+    "length": 3,
+    "end": 2760,
+    "text": "Au!"
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 2760,
+    "length": 0,
+    "end": 2760,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 2760,
+    "length": 3,
+    "end": 2763,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 2763,
+    "length": 6,
+    "end": 2769,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 2769,
+    "length": 3,
+    "end": 2772,
+    "text": "..."
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 2772,
+    "length": 0,
+    "end": 2772,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 2772,
+    "length": 3,
+    "end": 2775,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 2775,
+    "length": 6,
+    "end": 2781,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 2781,
+    "length": 34,
+    "end": 2815,
+    "text": "Esse é... o latido do \nAkamaru..."
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 2815,
+    "length": 0,
+    "end": 2815,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 2815,
+    "length": 3,
+    "end": 2818,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 2818,
+    "length": 7,
+    "end": 2825,
+    "text": "Akamaru"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 2825,
+    "length": 3,
+    "end": 2828,
+    "text": "Au!"
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 2828,
+    "length": 0,
+    "end": 2828,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 2828,
+    "length": 3,
+    "end": 2831,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 2831,
+    "length": 6,
+    "end": 2837,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 2837,
+    "length": 10,
+    "end": 2847,
+    "text": "Hehehe...!"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 2847,
+    "length": 0,
+    "end": 2847,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 2847,
+    "length": 3,
+    "end": 2850,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 2850,
+    "length": 6,
+    "end": 2856,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 2856,
+    "length": 30,
+    "end": 2886,
+    "text": "Sorte a minha!! Já achei ele!"
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 2886,
+    "length": 0,
+    "end": 2886,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 2886,
+    "length": 3,
+    "end": 2889,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 2889,
+    "length": 6,
+    "end": 2895,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 2895,
+    "length": 68,
+    "end": 2963,
+    "text": "Ei, ei!! Akamaru!! Não fica \nbravo por eu ter sido quem te \nachou!!"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 2963,
+    "length": 0,
+    "end": 2963,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 2963,
+    "length": 3,
+    "end": 2966,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 2966,
+    "length": 6,
+    "end": 2972,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 2972,
+    "length": 11,
+    "end": 2983,
+    "text": "Ufa, ufa..."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 2983,
+    "length": 0,
+    "end": 2983,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 2983,
+    "length": 3,
+    "end": 2986,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 2986,
+    "length": 6,
+    "end": 2992,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 2992,
+    "length": 27,
+    "end": 3019,
+    "text": "Ele é tão escorregadio..."
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 3019,
+    "length": 0,
+    "end": 3019,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 3019,
+    "length": 3,
+    "end": 3022,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 3022,
+    "length": 4,
+    "end": 3026,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 3026,
+    "length": 42,
+    "end": 3068,
+    "text": "Naruto! Como foi? Você achou \no Akamaru!?"
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 3068,
+    "length": 0,
+    "end": 3068,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 3068,
+    "length": 3,
+    "end": 3071,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 3071,
+    "length": 6,
+    "end": 3077,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 3077,
+    "length": 14,
+    "end": 3091,
+    "text": "É, uh, bem..."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 3091,
+    "length": 0,
+    "end": 3091,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 3091,
+    "length": 3,
+    "end": 3094,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 3094,
+    "length": 4,
+    "end": 3098,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 3098,
+    "length": 42,
+    "end": 3140,
+    "text": "O quê!? Você achou ele e \ndeixou fugir!?"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 3140,
+    "length": 0,
+    "end": 3140,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 3140,
+    "length": 3,
+    "end": 3143,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 3143,
+    "length": 6,
+    "end": 3149,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 3149,
+    "length": 52,
+    "end": 3201,
+    "text": "Hehehe... Ele foi mais rápido \ndo que eu pensava..."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 3201,
+    "length": 0,
+    "end": 3201,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 3201,
+    "length": 3,
+    "end": 3204,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 3204,
+    "length": 4,
+    "end": 3208,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 3208,
+    "length": 80,
+    "end": 3288,
+    "text": "Idiota!! Deixou ele escapar \ndas suas mãos?? Como eu \nachava, você é inútil!"
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 3288,
+    "length": 0,
+    "end": 3288,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 3288,
+    "length": 3,
+    "end": 3291,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 3291,
+    "length": 6,
+    "end": 3297,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 3297,
+    "length": 6,
+    "end": 3303,
+    "text": "Ugh..."
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 3303,
+    "length": 0,
+    "end": 3303,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 3303,
+    "length": 3,
+    "end": 3306,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 3306,
+    "length": 4,
+    "end": 3310,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 3310,
+    "length": 42,
+    "end": 3352,
+    "text": "Gah! Foi por ali!? Ele foi por \nali, né!?"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 3352,
+    "length": 0,
+    "end": 3352,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 3352,
+    "length": 3,
+    "end": 3355,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 3355,
+    "length": 4,
+    "end": 3359,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 3359,
+    "length": 43,
+    "end": 3402,
+    "text": "Só espera. Vou te mostrar \ncomo pegar ele!"
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 3402,
+    "length": 0,
+    "end": 3402,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 3402,
+    "length": 3,
+    "end": 3405,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 3405,
+    "length": 6,
+    "end": 3411,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 3411,
+    "length": 3,
+    "end": 3414,
+    "text": "..."
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 3414,
+    "length": 0,
+    "end": 3414,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 3414,
+    "length": 3,
+    "end": 3417,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 3417,
+    "length": 6,
+    "end": 3423,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 3423,
+    "length": 65,
+    "end": 3488,
+    "text": "Cadê a sua garra, Naruto?\nDeixando ele falar assim com \nvocê..."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 3488,
+    "length": 0,
+    "end": 3488,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 3488,
+    "length": 3,
+    "end": 3491,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 3491,
+    "length": 6,
+    "end": 3497,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 3497,
+    "length": 10,
+    "end": 3507,
+    "text": "Hehehe...!"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 3507,
+    "length": 0,
+    "end": 3507,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 3507,
+    "length": 3,
+    "end": 3510,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 3510,
+    "length": 6,
+    "end": 3516,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 3516,
+    "length": 30,
+    "end": 3546,
+    "text": "Não vou deixar você escapar!"
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 3546,
+    "length": 0,
+    "end": 3546,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 3546,
+    "length": 3,
+    "end": 3549,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 3549,
+    "length": 7,
+    "end": 3556,
+    "text": "Akamaru"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 3556,
+    "length": 9,
+    "end": 3565,
+    "text": "Ganido..."
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 3565,
+    "length": 0,
+    "end": 3565,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 3565,
+    "length": 3,
+    "end": 3568,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 3568,
+    "length": 4,
+    "end": 3572,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 3572,
+    "length": 21,
+    "end": 3593,
+    "text": "Bom trabalho, Naruto."
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 3593,
+    "length": 0,
+    "end": 3593,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 3593,
+    "length": 3,
+    "end": 3596,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 3596,
+    "length": 6,
+    "end": 3602,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 3602,
+    "length": 45,
+    "end": 3647,
+    "text": "Só fico feliz por ter \nconseguido pegar ele."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 3647,
+    "length": 0,
+    "end": 3647,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 3647,
+    "length": 3,
+    "end": 3650,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 3650,
+    "length": 4,
+    "end": 3654,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 3654,
+    "length": 57,
+    "end": 3711,
+    "text": "Bom... Akamaru. Vou te levar \npra tomar as vacinas agora."
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 3711,
+    "length": 0,
+    "end": 3711,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 3711,
+    "length": 3,
+    "end": 3714,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 3714,
+    "length": 7,
+    "end": 3721,
+    "text": "Akamaru"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 3721,
+    "length": 9,
+    "end": 3730,
+    "text": "Ganido..."
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 3730,
+    "length": 0,
+    "end": 3730,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 3730,
+    "length": 3,
+    "end": 3733,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 3733,
+    "length": 4,
+    "end": 3737,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 3737,
+    "length": 53,
+    "end": 3790,
+    "text": "Não adianta implorar. Você \nnão vai escapar dessa."
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 3790,
+    "length": 0,
+    "end": 3790,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 3790,
+    "length": 3,
+    "end": 3793,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 3793,
+    "length": 7,
+    "end": 3800,
+    "text": "Akamaru"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 3800,
+    "length": 5,
+    "end": 3805,
+    "text": "Au..."
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 3805,
+    "length": 0,
+    "end": 3805,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 3805,
+    "length": 3,
+    "end": 3808,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 3808,
+    "length": 6,
+    "end": 3814,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 3814,
+    "length": 55,
+    "end": 3869,
+    "text": "Então, apesar de tudo, vocês \ndois ainda se dão bem."
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 3869,
+    "length": 0,
+    "end": 3869,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 3869,
+    "length": 3,
+    "end": 3872,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 3872,
+    "length": 4,
+    "end": 3876,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 3876,
+    "length": 19,
+    "end": 3895,
+    "text": "Heh. Claro que sim."
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 3895,
+    "length": 0,
+    "end": 3895,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 3895,
+    "length": 3,
+    "end": 3898,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 3898,
+    "length": 7,
+    "end": 3905,
+    "text": "Akamaru"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 3905,
+    "length": 7,
+    "end": 3912,
+    "text": "Au, au!"
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 3912,
+    "length": 0,
+    "end": 3912,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 3912,
+    "length": 3,
+    "end": 3915,
+    "text": "041"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 3915,
+    "length": 4,
+    "end": 3919,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 3919,
+    "length": 49,
+    "end": 3968,
+    "text": "Certo, vamos. Não tenta fugir \nde novo, Akamaru."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 3968,
+    "length": 0,
+    "end": 3968,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 3968,
+    "length": 3,
+    "end": 3971,
+    "text": "042"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 3971,
+    "length": 6,
+    "end": 3977,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 3977,
+    "length": 52,
+    "end": 4029,
+    "text": "Bom... Eles se foram. Acho \nque eu também vou indo."
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 4029,
+    "length": 0,
+    "end": 4029,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 4029,
+    "length": 3,
+    "end": 4032,
+    "text": "043"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 4032,
+    "length": 4,
+    "end": 4036,
+    "text": "Kiba"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 4036,
+    "length": 68,
+    "end": 4104,
+    "text": "Ainda não. Mas acabei de \nouvir que ele foi visto lá na \nfloresta."
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 4104,
+    "length": 0,
+    "end": 4104,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 4104,
+    "length": 3,
+    "end": 4107,
+    "text": "044"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 4107,
+    "length": 6,
+    "end": 4113,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 4113,
+    "length": 53,
+    "end": 4166,
+    "text": "Certo, deixa eu ajudar! É só \nprocurar na floresta!"
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 4166,
+    "length": 0,
+    "end": 4166,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 4166,
+    "length": 3,
+    "end": 4169,
+    "text": "045"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 4169,
+    "length": 6,
+    "end": 4175,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 4175,
+    "length": 31,
+    "end": 4206,
+    "text": "Certo! Vou pegar esse \nfilhote!"
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 4206,
+    "length": 0,
+    "end": 4206,
+    "text": ""
+  }
+]

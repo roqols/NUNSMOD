@@ -1,0 +1,2026 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 3233,
+    "length": 3,
+    "end": 3236,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 3236,
+    "length": 6,
+    "end": 3242,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 3242,
+    "length": 25,
+    "end": 3267,
+    "text": "Ei, Shino! Vim te ajudar!"
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 3267,
+    "length": 0,
+    "end": 3267,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 3267,
+    "length": 3,
+    "end": 3270,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 3270,
+    "length": 5,
+    "end": 3275,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 3275,
+    "length": 3,
+    "end": 3278,
+    "text": "..."
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 3278,
+    "length": 0,
+    "end": 3278,
+    "text": ""
+  },
+  {
+    "table_pos": 160,
+    "mode": "A",
+    "start": 3278,
+    "length": 3,
+    "end": 3281,
+    "text": "003"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-implicit",
+    "start": 3281,
+    "length": 6,
+    "end": 3287,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 176,
+    "mode": "B-explicit",
+    "start": 3287,
+    "length": 6,
+    "end": 3293,
+    "text": "Shino?"
+  },
+  {
+    "table_pos": 192,
+    "mode": "A",
+    "start": 3293,
+    "length": 0,
+    "end": 3293,
+    "text": ""
+  },
+  {
+    "table_pos": 208,
+    "mode": "A",
+    "start": 3293,
+    "length": 3,
+    "end": 3296,
+    "text": "004"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-implicit",
+    "start": 3296,
+    "length": 5,
+    "end": 3301,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 224,
+    "mode": "B-explicit",
+    "start": 3301,
+    "length": 55,
+    "end": 3356,
+    "text": "Você é tão barulhento que\nassustou todos os insetos."
+  },
+  {
+    "table_pos": 240,
+    "mode": "A",
+    "start": 3356,
+    "length": 0,
+    "end": 3356,
+    "text": ""
+  },
+  {
+    "table_pos": 256,
+    "mode": "A",
+    "start": 3356,
+    "length": 3,
+    "end": 3359,
+    "text": "005"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-implicit",
+    "start": 3359,
+    "length": 5,
+    "end": 3364,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 272,
+    "mode": "B-explicit",
+    "start": 3364,
+    "length": 36,
+    "end": 3400,
+    "text": "O que vai fazer para\nconsertar isso?"
+  },
+  {
+    "table_pos": 288,
+    "mode": "A",
+    "start": 3400,
+    "length": 0,
+    "end": 3400,
+    "text": ""
+  },
+  {
+    "table_pos": 304,
+    "mode": "A",
+    "start": 3400,
+    "length": 3,
+    "end": 3403,
+    "text": "006"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-implicit",
+    "start": 3403,
+    "length": 6,
+    "end": 3409,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 320,
+    "mode": "B-explicit",
+    "start": 3409,
+    "length": 35,
+    "end": 3444,
+    "text": "Como assim? Eu só vim\nte ajudar..."
+  },
+  {
+    "table_pos": 336,
+    "mode": "A",
+    "start": 3444,
+    "length": 0,
+    "end": 3444,
+    "text": ""
+  },
+  {
+    "table_pos": 352,
+    "mode": "A",
+    "start": 3444,
+    "length": 3,
+    "end": 3447,
+    "text": "007"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-implicit",
+    "start": 3447,
+    "length": 5,
+    "end": 3452,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 368,
+    "mode": "B-explicit",
+    "start": 3452,
+    "length": 46,
+    "end": 3498,
+    "text": "Entendo... Então pode se\nredimir me ajudando."
+  },
+  {
+    "table_pos": 384,
+    "mode": "A",
+    "start": 3498,
+    "length": 0,
+    "end": 3498,
+    "text": ""
+  },
+  {
+    "table_pos": 400,
+    "mode": "A",
+    "start": 3498,
+    "length": 3,
+    "end": 3501,
+    "text": "008"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-implicit",
+    "start": 3501,
+    "length": 6,
+    "end": 3507,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 416,
+    "mode": "B-explicit",
+    "start": 3507,
+    "length": 46,
+    "end": 3553,
+    "text": "(Se redimir...? Ele ainda está\nbravo comigo?)"
+  },
+  {
+    "table_pos": 432,
+    "mode": "A",
+    "start": 3553,
+    "length": 0,
+    "end": 3553,
+    "text": ""
+  },
+  {
+    "table_pos": 448,
+    "mode": "A",
+    "start": 3553,
+    "length": 3,
+    "end": 3556,
+    "text": "009"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-implicit",
+    "start": 3556,
+    "length": 5,
+    "end": 3561,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 464,
+    "mode": "B-explicit",
+    "start": 3561,
+    "length": 44,
+    "end": 3605,
+    "text": "O que procuro agora é um\nbesouro lendário."
+  },
+  {
+    "table_pos": 480,
+    "mode": "A",
+    "start": 3605,
+    "length": 0,
+    "end": 3605,
+    "text": ""
+  },
+  {
+    "table_pos": 496,
+    "mode": "A",
+    "start": 3605,
+    "length": 3,
+    "end": 3608,
+    "text": "010"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-implicit",
+    "start": 3608,
+    "length": 5,
+    "end": 3613,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 512,
+    "mode": "B-explicit",
+    "start": 3613,
+    "length": 48,
+    "end": 3661,
+    "text": "É um inseto muito bonito, com\num corpo dourado."
+  },
+  {
+    "table_pos": 528,
+    "mode": "A",
+    "start": 3661,
+    "length": 0,
+    "end": 3661,
+    "text": ""
+  },
+  {
+    "table_pos": 544,
+    "mode": "A",
+    "start": 3661,
+    "length": 3,
+    "end": 3664,
+    "text": "011"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-implicit",
+    "start": 3664,
+    "length": 6,
+    "end": 3670,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 560,
+    "mode": "B-explicit",
+    "start": 3670,
+    "length": 65,
+    "end": 3735,
+    "text": "Sério? Um inseto de corpo\ndourado deve ser fácil de\nachar, né?"
+  },
+  {
+    "table_pos": 576,
+    "mode": "A",
+    "start": 3735,
+    "length": 0,
+    "end": 3735,
+    "text": ""
+  },
+  {
+    "table_pos": 592,
+    "mode": "A",
+    "start": 3735,
+    "length": 3,
+    "end": 3738,
+    "text": "012"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-implicit",
+    "start": 3738,
+    "length": 5,
+    "end": 3743,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 608,
+    "mode": "B-explicit",
+    "start": 3743,
+    "length": 18,
+    "end": 3761,
+    "text": "Não tão rápido."
+  },
+  {
+    "table_pos": 624,
+    "mode": "A",
+    "start": 3761,
+    "length": 0,
+    "end": 3761,
+    "text": ""
+  },
+  {
+    "table_pos": 640,
+    "mode": "A",
+    "start": 3761,
+    "length": 3,
+    "end": 3764,
+    "text": "013"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-implicit",
+    "start": 3764,
+    "length": 5,
+    "end": 3769,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 656,
+    "mode": "B-explicit",
+    "start": 3769,
+    "length": 87,
+    "end": 3856,
+    "text": "A floresta é enorme e o\nbesouro é pequeno. Será\ndifícil achá-lo mesmo com\ncuidado."
+  },
+  {
+    "table_pos": 672,
+    "mode": "A",
+    "start": 3856,
+    "length": 0,
+    "end": 3856,
+    "text": ""
+  },
+  {
+    "table_pos": 688,
+    "mode": "A",
+    "start": 3856,
+    "length": 3,
+    "end": 3859,
+    "text": "014"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-implicit",
+    "start": 3859,
+    "length": 6,
+    "end": 3865,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 704,
+    "mode": "B-explicit",
+    "start": 3865,
+    "length": 37,
+    "end": 3902,
+    "text": "Deixa comigo, tenho olhos\nde falcão!"
+  },
+  {
+    "table_pos": 720,
+    "mode": "A",
+    "start": 3902,
+    "length": 0,
+    "end": 3902,
+    "text": ""
+  },
+  {
+    "table_pos": 736,
+    "mode": "A",
+    "start": 3902,
+    "length": 3,
+    "end": 3905,
+    "text": "015"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-implicit",
+    "start": 3905,
+    "length": 5,
+    "end": 3910,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 752,
+    "mode": "B-explicit",
+    "start": 3910,
+    "length": 83,
+    "end": 3993,
+    "text": "Hmm. Não temos muito tempo\nantes de eu voltar ao\ncliente. Conto com você,\nNaruto."
+  },
+  {
+    "table_pos": 768,
+    "mode": "A",
+    "start": 3993,
+    "length": 0,
+    "end": 3993,
+    "text": ""
+  },
+  {
+    "table_pos": 784,
+    "mode": "A",
+    "start": 3993,
+    "length": 3,
+    "end": 3996,
+    "text": "016"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-implicit",
+    "start": 3996,
+    "length": 5,
+    "end": 4001,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 800,
+    "mode": "B-explicit",
+    "start": 4001,
+    "length": 35,
+    "end": 4036,
+    "text": "O que é isso...? Você o\ncapturou?"
+  },
+  {
+    "table_pos": 816,
+    "mode": "A",
+    "start": 4036,
+    "length": 0,
+    "end": 4036,
+    "text": ""
+  },
+  {
+    "table_pos": 832,
+    "mode": "A",
+    "start": 4036,
+    "length": 3,
+    "end": 4039,
+    "text": "017"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-implicit",
+    "start": 4039,
+    "length": 5,
+    "end": 4044,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 848,
+    "mode": "B-explicit",
+    "start": 4044,
+    "length": 51,
+    "end": 4095,
+    "text": "Não esqueça, o besouro que\nprocuramos é dourado."
+  },
+  {
+    "table_pos": 864,
+    "mode": "A",
+    "start": 4095,
+    "length": 0,
+    "end": 4095,
+    "text": ""
+  },
+  {
+    "table_pos": 880,
+    "mode": "A",
+    "start": 4095,
+    "length": 3,
+    "end": 4098,
+    "text": "018"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-implicit",
+    "start": 4098,
+    "length": 5,
+    "end": 4103,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 896,
+    "mode": "B-explicit",
+    "start": 4103,
+    "length": 20,
+    "end": 4123,
+    "text": "Certo, deixe-me ver."
+  },
+  {
+    "table_pos": 912,
+    "mode": "A",
+    "start": 4123,
+    "length": 0,
+    "end": 4123,
+    "text": ""
+  },
+  {
+    "table_pos": 928,
+    "mode": "A",
+    "start": 4123,
+    "length": 3,
+    "end": 4126,
+    "text": "019"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-implicit",
+    "start": 4126,
+    "length": 6,
+    "end": 4132,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 944,
+    "mode": "B-explicit",
+    "start": 4132,
+    "length": 3,
+    "end": 4135,
+    "text": "..."
+  },
+  {
+    "table_pos": 960,
+    "mode": "A",
+    "start": 4135,
+    "length": 0,
+    "end": 4135,
+    "text": ""
+  },
+  {
+    "table_pos": 976,
+    "mode": "A",
+    "start": 4135,
+    "length": 3,
+    "end": 4138,
+    "text": "020"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-implicit",
+    "start": 4138,
+    "length": 5,
+    "end": 4143,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 992,
+    "mode": "B-explicit",
+    "start": 4143,
+    "length": 55,
+    "end": 4198,
+    "text": "O que está fazendo? Este não\né o inseto que eu pedi."
+  },
+  {
+    "table_pos": 1008,
+    "mode": "A",
+    "start": 4198,
+    "length": 0,
+    "end": 4198,
+    "text": ""
+  },
+  {
+    "table_pos": 1024,
+    "mode": "A",
+    "start": 4198,
+    "length": 3,
+    "end": 4201,
+    "text": "021"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-implicit",
+    "start": 4201,
+    "length": 6,
+    "end": 4207,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1040,
+    "mode": "B-explicit",
+    "start": 4207,
+    "length": 33,
+    "end": 4240,
+    "text": "O quêê!? Eu... peguei o\nerrado?"
+  },
+  {
+    "table_pos": 1056,
+    "mode": "A",
+    "start": 4240,
+    "length": 0,
+    "end": 4240,
+    "text": ""
+  },
+  {
+    "table_pos": 1072,
+    "mode": "A",
+    "start": 4240,
+    "length": 3,
+    "end": 4243,
+    "text": "022"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-implicit",
+    "start": 4243,
+    "length": 5,
+    "end": 4248,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1088,
+    "mode": "B-explicit",
+    "start": 4248,
+    "length": 3,
+    "end": 4251,
+    "text": "..."
+  },
+  {
+    "table_pos": 1104,
+    "mode": "A",
+    "start": 4251,
+    "length": 0,
+    "end": 4251,
+    "text": ""
+  },
+  {
+    "table_pos": 1120,
+    "mode": "A",
+    "start": 4251,
+    "length": 3,
+    "end": 4254,
+    "text": "023"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-implicit",
+    "start": 4254,
+    "length": 5,
+    "end": 4259,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1136,
+    "mode": "B-explicit",
+    "start": 4259,
+    "length": 39,
+    "end": 4298,
+    "text": "Acho que foi difícil demais\npra você."
+  },
+  {
+    "table_pos": 1152,
+    "mode": "A",
+    "start": 4298,
+    "length": 0,
+    "end": 4298,
+    "text": ""
+  },
+  {
+    "table_pos": 1168,
+    "mode": "A",
+    "start": 4298,
+    "length": 3,
+    "end": 4301,
+    "text": "024"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-implicit",
+    "start": 4301,
+    "length": 5,
+    "end": 4306,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1184,
+    "mode": "B-explicit",
+    "start": 4306,
+    "length": 61,
+    "end": 4367,
+    "text": "Não tem jeito. Eu devia ter\ndeixado meus insetos me\nguiarem."
+  },
+  {
+    "table_pos": 1200,
+    "mode": "A",
+    "start": 4367,
+    "length": 0,
+    "end": 4367,
+    "text": ""
+  },
+  {
+    "table_pos": 1216,
+    "mode": "A",
+    "start": 4367,
+    "length": 3,
+    "end": 4370,
+    "text": "025"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-implicit",
+    "start": 4370,
+    "length": 6,
+    "end": 4376,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1232,
+    "mode": "B-explicit",
+    "start": 4376,
+    "length": 55,
+    "end": 4431,
+    "text": "Eiii! Se você podia ter\nfeito isso, por que não fez!?"
+  },
+  {
+    "table_pos": 1248,
+    "mode": "A",
+    "start": 4431,
+    "length": 0,
+    "end": 4431,
+    "text": ""
+  },
+  {
+    "table_pos": 1264,
+    "mode": "A",
+    "start": 4431,
+    "length": 3,
+    "end": 4434,
+    "text": "026"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-implicit",
+    "start": 4434,
+    "length": 5,
+    "end": 4439,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1280,
+    "mode": "B-explicit",
+    "start": 4439,
+    "length": 22,
+    "end": 4461,
+    "text": "Eu estava te testando."
+  },
+  {
+    "table_pos": 1296,
+    "mode": "A",
+    "start": 4461,
+    "length": 0,
+    "end": 4461,
+    "text": ""
+  },
+  {
+    "table_pos": 1312,
+    "mode": "A",
+    "start": 4461,
+    "length": 3,
+    "end": 4464,
+    "text": "027"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-implicit",
+    "start": 4464,
+    "length": 6,
+    "end": 4470,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1328,
+    "mode": "B-explicit",
+    "start": 4470,
+    "length": 14,
+    "end": 4484,
+    "text": "C-Como assim!?"
+  },
+  {
+    "table_pos": 1344,
+    "mode": "A",
+    "start": 4484,
+    "length": 0,
+    "end": 4484,
+    "text": ""
+  },
+  {
+    "table_pos": 1360,
+    "mode": "A",
+    "start": 4484,
+    "length": 3,
+    "end": 4487,
+    "text": "028"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-implicit",
+    "start": 4487,
+    "length": 5,
+    "end": 4492,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1376,
+    "mode": "B-explicit",
+    "start": 4492,
+    "length": 19,
+    "end": 4511,
+    "text": "Heh... Brincadeira."
+  },
+  {
+    "table_pos": 1392,
+    "mode": "A",
+    "start": 4511,
+    "length": 0,
+    "end": 4511,
+    "text": ""
+  },
+  {
+    "table_pos": 1408,
+    "mode": "A",
+    "start": 4511,
+    "length": 3,
+    "end": 4514,
+    "text": "029"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-implicit",
+    "start": 4514,
+    "length": 6,
+    "end": 4520,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1424,
+    "mode": "B-explicit",
+    "start": 4520,
+    "length": 4,
+    "end": 4524,
+    "text": "Hã?"
+  },
+  {
+    "table_pos": 1440,
+    "mode": "A",
+    "start": 4524,
+    "length": 0,
+    "end": 4524,
+    "text": ""
+  },
+  {
+    "table_pos": 1456,
+    "mode": "A",
+    "start": 4524,
+    "length": 3,
+    "end": 4527,
+    "text": "030"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-implicit",
+    "start": 4527,
+    "length": 5,
+    "end": 4532,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1472,
+    "mode": "B-explicit",
+    "start": 4532,
+    "length": 32,
+    "end": 4564,
+    "text": "Até mais, Naruto. Tenho que ir."
+  },
+  {
+    "table_pos": 1488,
+    "mode": "A",
+    "start": 4564,
+    "length": 0,
+    "end": 4564,
+    "text": ""
+  },
+  {
+    "table_pos": 1504,
+    "mode": "A",
+    "start": 4564,
+    "length": 3,
+    "end": 4567,
+    "text": "031"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-implicit",
+    "start": 4567,
+    "length": 6,
+    "end": 4573,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1520,
+    "mode": "B-explicit",
+    "start": 4573,
+    "length": 3,
+    "end": 4576,
+    "text": "..."
+  },
+  {
+    "table_pos": 1536,
+    "mode": "A",
+    "start": 4576,
+    "length": 0,
+    "end": 4576,
+    "text": ""
+  },
+  {
+    "table_pos": 1552,
+    "mode": "A",
+    "start": 4576,
+    "length": 3,
+    "end": 4579,
+    "text": "032"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-implicit",
+    "start": 4579,
+    "length": 6,
+    "end": 4585,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1568,
+    "mode": "B-explicit",
+    "start": 4585,
+    "length": 71,
+    "end": 4656,
+    "text": "Será que ele estava\nbrincando ou não?...\nÉ difícil saber com ele…"
+  },
+  {
+    "table_pos": 1584,
+    "mode": "A",
+    "start": 4656,
+    "length": 0,
+    "end": 4656,
+    "text": ""
+  },
+  {
+    "table_pos": 1600,
+    "mode": "A",
+    "start": 4656,
+    "length": 3,
+    "end": 4659,
+    "text": "033"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-implicit",
+    "start": 4659,
+    "length": 5,
+    "end": 4664,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1616,
+    "mode": "B-explicit",
+    "start": 4664,
+    "length": 46,
+    "end": 4710,
+    "text": "Bom trabalho. Você achou o\nbesouro lendário."
+  },
+  {
+    "table_pos": 1632,
+    "mode": "A",
+    "start": 4710,
+    "length": 0,
+    "end": 4710,
+    "text": ""
+  },
+  {
+    "table_pos": 1648,
+    "mode": "A",
+    "start": 4710,
+    "length": 3,
+    "end": 4713,
+    "text": "034"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-implicit",
+    "start": 4713,
+    "length": 6,
+    "end": 4719,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1664,
+    "mode": "B-explicit",
+    "start": 4719,
+    "length": 17,
+    "end": 4736,
+    "text": "Sim! Eu consegui!"
+  },
+  {
+    "table_pos": 1680,
+    "mode": "A",
+    "start": 4736,
+    "length": 0,
+    "end": 4736,
+    "text": ""
+  },
+  {
+    "table_pos": 1696,
+    "mode": "A",
+    "start": 4736,
+    "length": 3,
+    "end": 4739,
+    "text": "035"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-implicit",
+    "start": 4739,
+    "length": 5,
+    "end": 4744,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1712,
+    "mode": "B-explicit",
+    "start": 4744,
+    "length": 34,
+    "end": 4778,
+    "text": "Agora vou entregá-lo ao\ncliente. "
+  },
+  {
+    "table_pos": 1728,
+    "mode": "A",
+    "start": 4778,
+    "length": 0,
+    "end": 4778,
+    "text": ""
+  },
+  {
+    "table_pos": 1744,
+    "mode": "A",
+    "start": 4778,
+    "length": 3,
+    "end": 4781,
+    "text": "036"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-implicit",
+    "start": 4781,
+    "length": 6,
+    "end": 4787,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1760,
+    "mode": "B-explicit",
+    "start": 4787,
+    "length": 25,
+    "end": 4812,
+    "text": "É! Deixo isso com você."
+  },
+  {
+    "table_pos": 1776,
+    "mode": "A",
+    "start": 4812,
+    "length": 0,
+    "end": 4812,
+    "text": ""
+  },
+  {
+    "table_pos": 1792,
+    "mode": "A",
+    "start": 4812,
+    "length": 3,
+    "end": 4815,
+    "text": "037"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-implicit",
+    "start": 4815,
+    "length": 5,
+    "end": 4820,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1808,
+    "mode": "B-explicit",
+    "start": 4820,
+    "length": 3,
+    "end": 4823,
+    "text": "..."
+  },
+  {
+    "table_pos": 1824,
+    "mode": "A",
+    "start": 4823,
+    "length": 0,
+    "end": 4823,
+    "text": ""
+  },
+  {
+    "table_pos": 1840,
+    "mode": "A",
+    "start": 4823,
+    "length": 3,
+    "end": 4826,
+    "text": "038"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-implicit",
+    "start": 4826,
+    "length": 5,
+    "end": 4831,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1856,
+    "mode": "B-explicit",
+    "start": 4831,
+    "length": 7,
+    "end": 4838,
+    "text": "Naruto."
+  },
+  {
+    "table_pos": 1872,
+    "mode": "A",
+    "start": 4838,
+    "length": 0,
+    "end": 4838,
+    "text": ""
+  },
+  {
+    "table_pos": 1888,
+    "mode": "A",
+    "start": 4838,
+    "length": 3,
+    "end": 4841,
+    "text": "039"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-implicit",
+    "start": 4841,
+    "length": 6,
+    "end": 4847,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 1904,
+    "mode": "B-explicit",
+    "start": 4847,
+    "length": 4,
+    "end": 4851,
+    "text": "Hã?"
+  },
+  {
+    "table_pos": 1920,
+    "mode": "A",
+    "start": 4851,
+    "length": 0,
+    "end": 4851,
+    "text": ""
+  },
+  {
+    "table_pos": 1936,
+    "mode": "A",
+    "start": 4851,
+    "length": 3,
+    "end": 4854,
+    "text": "040"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-implicit",
+    "start": 4854,
+    "length": 5,
+    "end": 4859,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 1952,
+    "mode": "B-explicit",
+    "start": 4859,
+    "length": 19,
+    "end": 4878,
+    "text": "O cliente me disse."
+  },
+  {
+    "table_pos": 1968,
+    "mode": "A",
+    "start": 4878,
+    "length": 0,
+    "end": 4878,
+    "text": ""
+  },
+  {
+    "table_pos": 1984,
+    "mode": "A",
+    "start": 4878,
+    "length": 3,
+    "end": 4881,
+    "text": "041"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-implicit",
+    "start": 4881,
+    "length": 5,
+    "end": 4886,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 2000,
+    "mode": "B-explicit",
+    "start": 4886,
+    "length": 65,
+    "end": 4951,
+    "text": "Se pegar outros insetos raros,\ntraga-os à loja dele. Ele\ncompra."
+  },
+  {
+    "table_pos": 2016,
+    "mode": "A",
+    "start": 4951,
+    "length": 0,
+    "end": 4951,
+    "text": ""
+  },
+  {
+    "table_pos": 2032,
+    "mode": "A",
+    "start": 4951,
+    "length": 3,
+    "end": 4954,
+    "text": "042"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-implicit",
+    "start": 4954,
+    "length": 6,
+    "end": 4960,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2048,
+    "mode": "B-explicit",
+    "start": 4960,
+    "length": 61,
+    "end": 5021,
+    "text": "É? Então vou começar a\ncolecionar insetos nas horas\nvagas."
+  },
+  {
+    "table_pos": 2064,
+    "mode": "A",
+    "start": 5021,
+    "length": 0,
+    "end": 5021,
+    "text": ""
+  },
+  {
+    "table_pos": 2080,
+    "mode": "A",
+    "start": 5021,
+    "length": 3,
+    "end": 5024,
+    "text": "043"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-implicit",
+    "start": 5024,
+    "length": 5,
+    "end": 5029,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 2096,
+    "mode": "B-explicit",
+    "start": 5029,
+    "length": 5,
+    "end": 5034,
+    "text": "Hmm. "
+  },
+  {
+    "table_pos": 2112,
+    "mode": "A",
+    "start": 5034,
+    "length": 0,
+    "end": 5034,
+    "text": ""
+  },
+  {
+    "table_pos": 2128,
+    "mode": "A",
+    "start": 5034,
+    "length": 3,
+    "end": 5037,
+    "text": "044"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-implicit",
+    "start": 5037,
+    "length": 5,
+    "end": 5042,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 2144,
+    "mode": "B-explicit",
+    "start": 5042,
+    "length": 52,
+    "end": 5094,
+    "text": "Certo, então. Você me ajudou\nmuito hoje. Obrigado."
+  },
+  {
+    "table_pos": 2160,
+    "mode": "A",
+    "start": 5094,
+    "length": 0,
+    "end": 5094,
+    "text": ""
+  },
+  {
+    "table_pos": 2176,
+    "mode": "A",
+    "start": 5094,
+    "length": 3,
+    "end": 5097,
+    "text": "045"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-implicit",
+    "start": 5097,
+    "length": 6,
+    "end": 5103,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2192,
+    "mode": "B-explicit",
+    "start": 5103,
+    "length": 64,
+    "end": 5167,
+    "text": "Deve ser a primeira vez que\nele agradece alguém. É\nestranho…"
+  },
+  {
+    "table_pos": 2208,
+    "mode": "A",
+    "start": 5167,
+    "length": 0,
+    "end": 5167,
+    "text": ""
+  },
+  {
+    "table_pos": 2224,
+    "mode": "A",
+    "start": 5167,
+    "length": 3,
+    "end": 5170,
+    "text": "046"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-implicit",
+    "start": 5170,
+    "length": 6,
+    "end": 5176,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2240,
+    "mode": "B-explicit",
+    "start": 5176,
+    "length": 23,
+    "end": 5199,
+    "text": "Uh... O tempo acabou..."
+  },
+  {
+    "table_pos": 2256,
+    "mode": "A",
+    "start": 5199,
+    "length": 0,
+    "end": 5199,
+    "text": ""
+  },
+  {
+    "table_pos": 2272,
+    "mode": "A",
+    "start": 5199,
+    "length": 3,
+    "end": 5202,
+    "text": "047"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-implicit",
+    "start": 5202,
+    "length": 5,
+    "end": 5207,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 2288,
+    "mode": "B-explicit",
+    "start": 5207,
+    "length": 28,
+    "end": 5235,
+    "text": "Você foi bem lento, Naruto."
+  },
+  {
+    "table_pos": 2304,
+    "mode": "A",
+    "start": 5235,
+    "length": 0,
+    "end": 5235,
+    "text": ""
+  },
+  {
+    "table_pos": 2320,
+    "mode": "A",
+    "start": 5235,
+    "length": 3,
+    "end": 5238,
+    "text": "048"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-implicit",
+    "start": 5238,
+    "length": 6,
+    "end": 5244,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2336,
+    "mode": "B-explicit",
+    "start": 5244,
+    "length": 50,
+    "end": 5294,
+    "text": "Tive uma pequena\ndificuldade. Bem...\nna verdade..."
+  },
+  {
+    "table_pos": 2352,
+    "mode": "A",
+    "start": 5294,
+    "length": 0,
+    "end": 5294,
+    "text": ""
+  },
+  {
+    "table_pos": 2368,
+    "mode": "A",
+    "start": 5294,
+    "length": 3,
+    "end": 5297,
+    "text": "049"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-implicit",
+    "start": 5297,
+    "length": 5,
+    "end": 5302,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 2384,
+    "mode": "B-explicit",
+    "start": 5302,
+    "length": 23,
+    "end": 5325,
+    "text": "Nem se dê ao trabalho."
+  },
+  {
+    "table_pos": 2400,
+    "mode": "A",
+    "start": 5325,
+    "length": 0,
+    "end": 5325,
+    "text": ""
+  },
+  {
+    "table_pos": 2416,
+    "mode": "A",
+    "start": 5325,
+    "length": 3,
+    "end": 5328,
+    "text": "050"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-implicit",
+    "start": 5328,
+    "length": 6,
+    "end": 5334,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2432,
+    "mode": "B-explicit",
+    "start": 5334,
+    "length": 4,
+    "end": 5338,
+    "text": "Hã?"
+  },
+  {
+    "table_pos": 2448,
+    "mode": "A",
+    "start": 5338,
+    "length": 0,
+    "end": 5338,
+    "text": ""
+  },
+  {
+    "table_pos": 2464,
+    "mode": "A",
+    "start": 5338,
+    "length": 3,
+    "end": 5341,
+    "text": "051"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-implicit",
+    "start": 5341,
+    "length": 5,
+    "end": 5346,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 2480,
+    "mode": "B-explicit",
+    "start": 5346,
+    "length": 66,
+    "end": 5412,
+    "text": "Você demorou tanto que fui\ne peguei o besouro lendário\neu mesmo."
+  },
+  {
+    "table_pos": 2496,
+    "mode": "A",
+    "start": 5412,
+    "length": 0,
+    "end": 5412,
+    "text": ""
+  },
+  {
+    "table_pos": 2512,
+    "mode": "A",
+    "start": 5412,
+    "length": 3,
+    "end": 5415,
+    "text": "052"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-implicit",
+    "start": 5415,
+    "length": 6,
+    "end": 5421,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2528,
+    "mode": "B-explicit",
+    "start": 5421,
+    "length": 21,
+    "end": 5442,
+    "text": "....................."
+  },
+  {
+    "table_pos": 2544,
+    "mode": "A",
+    "start": 5442,
+    "length": 0,
+    "end": 5442,
+    "text": ""
+  },
+  {
+    "table_pos": 2560,
+    "mode": "A",
+    "start": 5442,
+    "length": 3,
+    "end": 5445,
+    "text": "053"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-implicit",
+    "start": 5445,
+    "length": 6,
+    "end": 5451,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2576,
+    "mode": "B-explicit",
+    "start": 5451,
+    "length": 12,
+    "end": 5463,
+    "text": "O quêêê!?"
+  },
+  {
+    "table_pos": 2592,
+    "mode": "A",
+    "start": 5463,
+    "length": 0,
+    "end": 5463,
+    "text": ""
+  },
+  {
+    "table_pos": 2608,
+    "mode": "A",
+    "start": 5463,
+    "length": 3,
+    "end": 5466,
+    "text": "054"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-implicit",
+    "start": 5466,
+    "length": 5,
+    "end": 5471,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 2624,
+    "mode": "B-explicit",
+    "start": 5471,
+    "length": 51,
+    "end": 5522,
+    "text": "Ufa... Foi bem fácil pra\nmim... nenhum problema..."
+  },
+  {
+    "table_pos": 2640,
+    "mode": "A",
+    "start": 5522,
+    "length": 0,
+    "end": 5522,
+    "text": ""
+  },
+  {
+    "table_pos": 2656,
+    "mode": "A",
+    "start": 5522,
+    "length": 3,
+    "end": 5525,
+    "text": "055"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-implicit",
+    "start": 5525,
+    "length": 6,
+    "end": 5531,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2672,
+    "mode": "B-explicit",
+    "start": 5531,
+    "length": 44,
+    "end": 5575,
+    "text": "Então... Passei por tudo\naquilo por nada..."
+  },
+  {
+    "table_pos": 2688,
+    "mode": "A",
+    "start": 5575,
+    "length": 0,
+    "end": 5575,
+    "text": ""
+  },
+  {
+    "table_pos": 2704,
+    "mode": "A",
+    "start": 5575,
+    "length": 3,
+    "end": 5578,
+    "text": "056"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-implicit",
+    "start": 5578,
+    "length": 5,
+    "end": 5583,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 2720,
+    "mode": "B-explicit",
+    "start": 5583,
+    "length": 21,
+    "end": 5604,
+    "text": "Por nada, exatamente."
+  },
+  {
+    "table_pos": 2736,
+    "mode": "A",
+    "start": 5604,
+    "length": 0,
+    "end": 5604,
+    "text": ""
+  },
+  {
+    "table_pos": 2752,
+    "mode": "A",
+    "start": 5604,
+    "length": 3,
+    "end": 5607,
+    "text": "057"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-implicit",
+    "start": 5607,
+    "length": 6,
+    "end": 5613,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 2768,
+    "mode": "B-explicit",
+    "start": 5613,
+    "length": 28,
+    "end": 5641,
+    "text": "............Não pode ser..."
+  },
+  {
+    "table_pos": 2784,
+    "mode": "A",
+    "start": 5641,
+    "length": 0,
+    "end": 5641,
+    "text": ""
+  },
+  {
+    "table_pos": 2800,
+    "mode": "A",
+    "start": 5641,
+    "length": 3,
+    "end": 5644,
+    "text": "058"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-implicit",
+    "start": 5644,
+    "length": 5,
+    "end": 5649,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 2816,
+    "mode": "B-explicit",
+    "start": 5649,
+    "length": 20,
+    "end": 5669,
+    "text": "É uma pena, Naruto."
+  },
+  {
+    "table_pos": 2832,
+    "mode": "A",
+    "start": 5669,
+    "length": 0,
+    "end": 5669,
+    "text": ""
+  },
+  {
+    "table_pos": 2848,
+    "mode": "A",
+    "start": 5669,
+    "length": 3,
+    "end": 5672,
+    "text": "059"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "B-implicit",
+    "start": 5672,
+    "length": 5,
+    "end": 5677,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 2864,
+    "mode": "B-explicit",
+    "start": 5677,
+    "length": 56,
+    "end": 5733,
+    "text": "Mas não posso dizer que\nestou surpreso com o\nresultado."
+  },
+  {
+    "table_pos": 2880,
+    "mode": "A",
+    "start": 5733,
+    "length": 0,
+    "end": 5733,
+    "text": ""
+  },
+  {
+    "table_pos": 2896,
+    "mode": "A",
+    "start": 5733,
+    "length": 3,
+    "end": 5736,
+    "text": "060"
+  },
+  {
+    "table_pos": 2912,
+    "mode": "A",
+    "start": 5736,
+    "length": 51,
+    "end": 5787,
+    "text": "Pegou emprestada a Rede de\nCaçar Insetos do Shino."
+  },
+  {
+    "table_pos": 2928,
+    "mode": "A",
+    "start": 5787,
+    "length": 0,
+    "end": 5787,
+    "text": ""
+  },
+  {
+    "table_pos": 2944,
+    "mode": "A",
+    "start": 5787,
+    "length": 3,
+    "end": 5790,
+    "text": "061"
+  },
+  {
+    "table_pos": 2960,
+    "mode": "A",
+    "start": 5790,
+    "length": 59,
+    "end": 5849,
+    "text": "Shino pegou de volta a Rede\nde Caçar Insetos e foi\nembora."
+  },
+  {
+    "table_pos": 2976,
+    "mode": "A",
+    "start": 5849,
+    "length": 0,
+    "end": 5849,
+    "text": ""
+  },
+  {
+    "table_pos": 2992,
+    "mode": "A",
+    "start": 5849,
+    "length": 3,
+    "end": 5852,
+    "text": "062"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "B-implicit",
+    "start": 5852,
+    "length": 5,
+    "end": 5857,
+    "text": "Shino"
+  },
+  {
+    "table_pos": 3008,
+    "mode": "B-explicit",
+    "start": 5857,
+    "length": 95,
+    "end": 5952,
+    "text": "Então por que não fica com a\nRede de Caçar Insetos? Acho\nque colecionar seria bom\npra você."
+  },
+  {
+    "table_pos": 3024,
+    "mode": "A",
+    "start": 5952,
+    "length": 0,
+    "end": 5952,
+    "text": ""
+  },
+  {
+    "table_pos": 3040,
+    "mode": "A",
+    "start": 5952,
+    "length": 3,
+    "end": 5955,
+    "text": "063"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "B-implicit",
+    "start": 5955,
+    "length": 6,
+    "end": 5961,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 3056,
+    "mode": "B-explicit",
+    "start": 5961,
+    "length": 36,
+    "end": 5997,
+    "text": "Haha! Valeu, Shino!\nVou usá-la bem!"
+  },
+  {
+    "table_pos": 3072,
+    "mode": "A",
+    "start": 5997,
+    "length": 0,
+    "end": 5997,
+    "text": ""
+  },
+  {
+    "table_pos": 3088,
+    "mode": "A",
+    "start": 5997,
+    "length": 3,
+    "end": 6000,
+    "text": "064"
+  },
+  {
+    "table_pos": 3104,
+    "mode": "A",
+    "start": 6000,
+    "length": 75,
+    "end": 6075,
+    "text": "Com os ombros caídos, Naruto\ndevolveu a Rede de Caçar\nInsetos ao Shino..."
+  },
+  {
+    "table_pos": 3120,
+    "mode": "A",
+    "start": 6075,
+    "length": 0,
+    "end": 6075,
+    "text": ""
+  }
+]

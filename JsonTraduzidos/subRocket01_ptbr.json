@@ -1,0 +1,66 @@
+[
+  {
+    "table_pos": 64,
+    "mode": "A",
+    "start": 271,
+    "length": 3,
+    "end": 274,
+    "text": "001"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-implicit",
+    "start": 274,
+    "length": 6,
+    "end": 280,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 80,
+    "mode": "B-explicit",
+    "start": 280,
+    "length": 33,
+    "end": 313,
+    "text": "Habilidade de salto, hein?\nHmm..."
+  },
+  {
+    "table_pos": 96,
+    "mode": "A",
+    "start": 313,
+    "length": 0,
+    "end": 313,
+    "text": ""
+  },
+  {
+    "table_pos": 112,
+    "mode": "A",
+    "start": 313,
+    "length": 3,
+    "end": 316,
+    "text": "002"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-implicit",
+    "start": 316,
+    "length": 6,
+    "end": 322,
+    "text": "Naruto"
+  },
+  {
+    "table_pos": 128,
+    "mode": "B-explicit",
+    "start": 322,
+    "length": 92,
+    "end": 414,
+    "text": "Ah, ei! Aposto que consigo competir\nse usar meus clones das sombras!\nCerto! Hora de treinar!"
+  },
+  {
+    "table_pos": 144,
+    "mode": "A",
+    "start": 414,
+    "length": 0,
+    "end": 414,
+    "text": ""
+  }
+]
