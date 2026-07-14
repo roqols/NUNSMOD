@@ -1,14 +1,6 @@
 xfbin_parser.py -- extrai/repacka arquivos .xfbin (CyberConnect2 / NUNS)
 ==========================================================================
 
-Isso e o codigo fonte da mesma ferramenta que voces ja usam (xfbin_lib,
-de SutandoTsukai181 / mosamadeeb), so que empacotado pra rodar direto com
-Python, garantindo que a opcao de REPACK funcione.
-
-REQUISITO: Python 3.9 ou mais novo instalado (python.org).
-Nao precisa instalar mais nada -- todas as dependencias ja estao dentro
-da pasta "xfbin".
-
 COMO USAR (linha de comando, dentro desta pasta):
 
   Extrair um .xfbin:
